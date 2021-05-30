@@ -28,6 +28,7 @@
 |1485|- The Wars of the Roses ended with the Battle of the **Bosworth Field**.<br> - Henry Tudor, the leader of the House of Lancaster, became King **Henry VII** after defeating King **Richard III** of the House of York at the Battle of **Bosworth Field**.<br> - End of the “middle ages”|
 |---|---|
 |1509, 21 April|Henry VIII became king of England.|
+|During the reign of Henry VIII|Wales became formally united with England by the Act for the Government of Wales.|
 |1547, 28 January|Henry VIII died. He was succeeded by his son **Edward VI**.|
 |1560|- The predominantly Protestant Scottish Parliament abolished the authority of the Pope in Scotland and Roman Catholic religious services became illegal. <br> - Mary Queen of Scots (Catholic) flees to England → imprisoned for 20 years then executed|
 |1564|Williams Shakespeare born|
@@ -176,9 +177,8 @@
 |1980 - 1989|
 |1984|- Jayne Torvill and Christopher Dean won gold medals for ice dancing at the Olympic Games|
 |- The Turner Prize, celebrating contemporary art, was established|
-|1990 - 1999|
-|1990|- Information was successfully transferred via the web for the first time|
-|- Iraqi invasion of Kuwait|
+|1990|Iraqi invasion of Kuwait|
+|1990, 25 December|Information was successfully transferred via the web for the first time|
 |1990s|Britain played a leading role in coalition forces involved in the liberation of Kuwait|
 |1996|Sir Ian Wilmot and Keith Campbell lead a team which was the first to succeed in cloning a mammal, Dolly the sheep|
 |1997|The Labour Party led by Tony Blair was elected|
@@ -197,8 +197,7 @@
 |- Gordon Brown took over as Prime Minister|
 |2008|Forced Marriage Protection Orders were introduced for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007.|
 |2009|British combat troops left Iraq|
-|2010 - present|
-|2010|For the first time in the UK since 1974, no political party won an overall majority in the General Election|
+|2010, May|For the first time in the UK since February 1974, no political party won an overall majority in the General Election. The **Conservative** and **Liberal Democrat** parties formed a coalition and the leader of the **Conservative** Party, **David Cameron**, became Prime Minister.|
 |2011|- The National Assembly for Wales has been able to pass laws in 20areas without the agreement of the UK Parliament|
 |- Protection Orders for forced marriages were introduced in **Scotland**.|
 |2012|- Bradley Wiggins became the first Briton to win the Tour de France|

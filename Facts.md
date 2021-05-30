@@ -30,9 +30,11 @@ The UK population is **ethnically diverse** and **changing rapidly**, especially
 
 ## 16
 - to participate in the National Lottery.
+- people can drink wine or beer with a meal in a hotel or restaurant (including eating areas in pubs) as long as they are with someone over 18.
+- to ride a moped, and there are other age requirements and special tests for driving large vehicles.
 
 ## 18
-- to buy alcohol in a pub or night club, but people under this age may be allowed in some pubs with an adult.
+- to buy alcohol in a pub or night club, but people under this age may be allowed in some pubs with an adult. (It is a criminal offence to sell alcohol to anyone who is under 18 or to buy alcohol for people who are under the age of 18.)
 - It is illegal and a criminal offence to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18.
 
 # The Queen
@@ -62,6 +64,11 @@ The London Eye is situated on the **southern bank** of the River Thames and is a
 The clock tower at the Houses of Parliament in London is named **‘Elizabeth Tower’** in honour of Queen Elizabeth II’s Diamond Jubilee in 2012.
 
 The Eden Project is located in Cornwall, in the south west of England. Its biomes, which are like giant greenhouses, house plants from all over the world. The Eden Project is also a charity which runs environmental and social projects internationally.
+
+**The National Trust** and **Friends of the Earth** are environmental charities.
+
+Wales Cities:
+- Swansea
 
 # Law
 
@@ -136,6 +143,29 @@ The Chancellor of the **Exchequer** is responsible for the economy.
 
 If your driving licence if from a country in the **European Union (EU), Iceland, Liechtenstein or Norway**, you can drive in the UK for as long as your licence is valid.
 
+The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a **coalition**.
+
+You can contact MPs by **letter** or **telephone** at their **constituency office**, or at their office in the **House of Commons**.
+
+The House of Lords is normally more independent of the government than the House of Commons.
+
+The second-largest party in the House of Commons is called the **opposition**.
+
+In the UK, there are several different parts of government. The main ones are: 
+- the monarchy,
+- the Parliament (the House of Commons and the House of Lords),
+- the Prime Minister, the cabinet,
+- the judiciary (courts),
+- the police,
+- the civil service
+- and the local government.
+
+Debates in the House of Commons are chaired by the **Speaker**. This person is the **chief officer** of the **House of Commons**.
+
+**Members of the House of Lords** may not stand for election to the **House of Commons** but are eligible for all other public offices.
+
+The **House of Lords** can suggest amendments or propose new laws, which are then discussed by MPs. The House of Lords checks laws that have been passed by the **House of Commons** to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the **people**.
+
 # Organisations
 
 ## EU
@@ -190,6 +220,10 @@ List of Arguably European Countries That Aren't EU Members, Candidates, or Poten
 
 NATO is a group of European and North American countries that have agreed to help each other if they come **under attack**. It also aims to **maintain peace** between all of its members.
 
+## Commonwealth
+
+The Commonwealth has no power over its members, although it can suspend membership.
+
 # History
 
 During the Middle Ages many knights took part in the Crusades, in which European Christians fought for control of the **Holy Land**.
@@ -204,6 +238,12 @@ During the **Bronze** Age people lived in **roundhouses** and buried their dead 
 
 **Catherine Howard** was a **cousin** of **Anne Boleyn**.
 
+**Stone Age**: The first people to live in Britain were **hunter-gatherers**.
+
+Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the former Republic of Yugoslavia.
+
+In the Middle Ages, **Knights**, who were usually **smaller landowners**, and **wealthy people** from towns and cities were elected to sit in the **House of Commons**.
+
 # Economy
 
 Although the UK had won the war, the country was exhausted economically after WWII.
@@ -215,6 +255,8 @@ For most people, the right amount of income tax is automatically taken from thei
 Money raised from income tax pays for government services such as roads, education, police and the armed forces.
 
 MPs, Assembly members, members of the Scottish Parliament (MSPs) and MEPs are also listed in The Phone Book, published by BT, and in Yellow Pages. The Queen is not.
+
+The currency in the UK is the pound sterling (symbol £).
 
 # Festivals
 
@@ -229,6 +271,7 @@ MPs, Assembly members, members of the Scottish Parliament (MSPs) and MEPs are al
 ||1st of Jan, 2nd of Jan|bank holidays in Scotland|
 |Ramadan||Muslims have fasted for **a month**.|
 |Eid a-Fitr||The day when Muslims thank Allah for giving them the strength to complete the fast, celebrates the end of Ramadan|
+|Remembrance Day||The **Cenotaph** in **Whitehall** is the site of the annual Remembrance Day service attended by the Queen, politicians and foreign ambassadors.|
 
 # Culture
 
@@ -267,3 +310,5 @@ Vaccinations and medical treatment for animals are available from veterinary sur
 People in the UK are living longer than ever before. This is due to improved living standards and better health care. There are now a record number of people aged 85 and over. This has an impact on the cost of **pensions** and **health care**.
 
 Some words in modern English – for example, ‘park’ and ‘beauty’ – are based on Norman French words.
+
+Pool and darts are traditional pub games.
