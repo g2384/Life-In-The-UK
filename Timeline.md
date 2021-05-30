@@ -57,16 +57,15 @@
 |1690|William defeated James II at the battle of the Boyne in Ireland|
 |1695|Newspapers allowed to operate without government license|
 |1707|The Act of Union, known as the Treaty of Union in Scotland, was agreed, creating the Kingdom of Great Britain|
-|1714|Queen Anne dies, Parliament chose German George I as king|
-|1721|Sir Robert Walpole becomes first Prime Minister in British history, until 1742|
+|1714|Queen Anne died. Parliament chose a German, **George I**, to be the next king, because he was Anne’s nearest Protestant relative.|
+|1721|**Sir Robert Walpole** became the first Prime Minister in British history, until 1742|
 |1727|Isaac Newton dies|
 |1732|Richard Arkwright born. Efficiently ran factories|
 |1742|End of Sir Robert Walpole position as a Prime Minister|
 |1745|Bonnie Prince Charlie attempts to invade & become king, supported by Scottish clans|
 |1745|There was another attempt to put a Stuart king back on the throne in place of George I’s son, George II|
 |1746|Charles Edward Stuart was defeated by George II’s army at the battle of Culloden, and escaped back to Europe. Clans lose a lot of power|
-|1759|- Robert Burns born - the Bard, wrote Auld Lang Syne|
-|- Sake Dean Mahomet born in Bengal region in India|
+|1759|Sake Dean Mahomet born in Bengal region in India|
 |By the 1760s|Substantial colonies in North America|
 |1776|13 American states declare their independence|
 |1782|Sake Dean Mahomet came to Britain|
@@ -75,70 +74,53 @@
 |1789|France (Napoleon) declares war on Britain|
 |1789|There was a revolution in France|
 |1792|Richard Arkwright dies|
-|1796|Robert Burns dies|
 |Late 1700s|The Quakers set up the first formal anti-slavery group|
-|18th century|New ideas about politics, philosophy and science were developed, called the “Enlightenment”|
-|1800 - 1899|
+|Before the 18th century|agriculture was the biggest source of employment in Britain.|
+|18th century|New ideas about politics, philosophy and science were developed, called the “Enlightenment”. <br> - Many of the great thinkers of the Enlightenment were **Scottish**. **Adam Smith** developed ideas about economics which are still referred to today.<br> - **David Hume**’s ideas about human nature continue to influence **philosophers**.|
 |1800|The Act of Union created the United Kingdom of Great Britain and Ireland|
-|1801|Ireland became unified with England, Scotland and Wales|
+|1801|Ireland became unified with England, Scotland and Wales after the **The Act of Union**|
 |1805|Britain wins Battle of Trafalgar against combined French and Spanish fleets (Nelson dies)|
 |1807|It became illegal to trade slaves in British ships or from British ports|
-|1810|- Sake Dean Mahomet opened the Hindoostane Coffee House in George Street,London, the first curry house to open in Britain|
-|- Introduced “shampooing” head massage|
-|1815|The French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo|
-|1832|The Reform Act was first enacted|
-|1833|Emancipation act outlaws slave trading throughout British Empire|
-|1837|Queen Victoria became queen of the UK at the age of 18|
+|1810|- Sake Dean Mahomet opened the Hindoostane Coffee House in George Street,London, the first curry house to open in Britain.<br> - Introduced “shampooing” head massage|
+|1815|The French Wars ended with the defeat of the Emperor **Napoleon** by the Duke of **Wellington** at the Battle of **Waterloo**. Wellington was known as the **Iron Duke** and later became Prime Minister.|
+|1832|The **Reform Act** of 1832 had greatly increased the number of people with the **right to vote**. The act also abolished the **old pocket and rotten boroughs** and more parliamentary seats were given to the towns and cities.|
+|1833|the **Emancipation Act** abolished **slavery** throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders.|
+|1837|Queen Victoria became queen of the UK at the age of **18**|
 |1846|Repealing of the Corn|
 |1847|The number of hours that women and children could work was limited bylaw to 10 hour per day|
-|1851||
-|1851|- Mahomet dies|
-|- The Great Exhibition opened in Hyde Park|
+|1851|- Mahomet dies. <br> - The Great Exhibition opened in Hyde Park|
 |1853 - 1913|As many as 13 million British citizen left the country to settle overseas|
 |1854|Florence Nightingale went to Turkey and worked in military hospitals|
 |1860|Florence Nightingale established the Nightingale Training School for nurses at St Thomas’ Hospital in London|
 |1867|Another Reform Act was enacted|
-|1870 - 1914|Around120,000 Russian and Polish Jews came to Britain to escape persecution|
-|1872|The first tennis club was founded in Leamington spa|
-|1889|Emmeline Pankhurst set up the Women’s Franchise League|
-|1895|The National Trust was founded|
-|1896|Films were first shown publicly in the UK|
+|1870 - 1914|Around 120,000 Russian and Polish Jews came to Britain to escape persecution.|
+|1872|The first tennis club was founded in **Leamington Spa**|
+|1895|The National Trust was founded by three volunteers.|
+|1896|Films were first shown publicly in the UK and film screenings very quickly became popular.|
 |1899 - 1902|Boer War|
 |18th and 19th century|The period of the Industrial Revolution in Britain, a rapid development of industry|
-|1900 - 1909|
-|1900|Winston Churchill became a conservative MP|
-|1901|End of Queen Victoria’s reign|
-|1902|Motor-car racing started in the UK|
-|1903|Emmeline Pankhurst helped found the Women’s Social and Political Union (WSPU)|
+|1901|End of Queen Victoria’s reign, almost 64 years|
+|1902|Motor-car racing started in the UK. There is a long history of motor sport in the UK, for both cars and motor cycles. The UK continues to be a world leader in the development and manufacture of motor-sport technology.|
 |1907|- Rudyard Kipling was awarded the Nobel Prize in Literature|
-|1910 - 1919|
 |1913|The British government promised “Home Rule” for Ireland|
-|1914|- Archduke Franz Ferdinand of Austria was assassinated|
-|- Start of the First World War|
-|1916|- British attack on the Somme|
-|- Uprising (the Easter Rising) against the British in Dublin|
-|1918|- Women over the age of 30 were given voting rights and the right to stand for Parliament|
-|- End of the First World War|
-|1920 - 1929|
+|1914, 28 June|- Archduke Franz Ferdinand of Austria was assassinated. This set off a chain of events leading to the First World War (1914-1918, **4 years**).|
+|1916, July|The British attack of the **Somme**, resulted in about **60,000** British casualties on the first day alone.|
+|1916|Uprising (the Easter Rising) against the British in Dublin|
+|1918, 11th November|The First World War ended at 11.00 am with victory for Britain and its allies.|
 |1920|The Cenotaph, the centre piece to the Remembrance Day service, was unveiled|
 |1920s|- Many people’s living conditions in the UK got better|
 |- The television was developed by John Logie Baird|
-|1921|A peace treaty was signed between the British government and the Irish Nationalists|
-|1922|- Ireland became two countries-The BBC started radio broadcasts|
-|- The Northern Ireland Assembly was established|
+|1921|A peace treaty was signed between the British government and the Irish Nationalists (led to Ireland's divison)|
+|1922|- A Northern Ireland Parliament was established in 1922, when Ireland was divided, but it was abolished in 1972, shortly after the Troubles broke out in 1969.<br> - The BBC started radio broadcasts|
 |1923|R A Butler became a Conservative MP|
 |1927|The BBC started organising the Proms|
-|1928|- Women were given the right to vote at the age of 21, the same as men|
-|- Alexander Fleming discovered penicillin|
 |1929|The world entered the “Great Depression”|
-|1930 - 1939|
-|1933|- Adolf Hitler came to power in Germany|
-|1935|The first successful radar test took place|
+|1933|Adolf Hitler came to power in Germany.|
+|1935|The first successful radar test took place.|
 |1936|The BBC began the world’s first regular television service|
 |1939|- Adolf Hitler invaded Poland. Britain and France declared war on Germany|
 |- Mary Peters, a talented athlete, was born|
 |- Sir Jackie Stewart, a Scottish former racing driver who won the Formula 1 world championship three times, was born|
-|1940 - 1949|
 |1940|- German forces defeated allied troops and advanced through France|
 |- Winston Churchill became Prime Minister|
 |- The British won the crucial aerial battle against the Germans,called “the Battle of Britain”|
@@ -163,7 +145,6 @@
 |1950 - 1959|
 |1950|The UK signed the European Convention on Human Rights and Fundamental Freedoms|
 |1950s|- Period of economic recovery and increasing prosperity for working people|
-|- The hovercraft was invented|
 |1951 - 1964|Britain had a Conservative government|
 |1951|Winston Churchill returned as Prime Minister|
 |1952|- Dylan Thomas wrote Do Not Go Gentle into That Good Night|
@@ -172,7 +153,7 @@
 |1953|The structure of the DNA molecule was discovered through work at British universities in London and Cambridge|
 |1954|- First performance of Dylan Thomas’s radio play Under Milk Wood|
 |- Sir Roger Bannister became the first man in the world to run a mile under four minutes|
-|1957|West Germany, France, Belgium, Italy, Luxembourg and the Netherlands formed the European Economic Community (EEC)|
+|1957, 25 March|The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, West Germany, Italy, Luxembourg and the Netherlands) who signed the **Treaty of Rome**. At first the UK did not wish to join the EEC but it eventually did so in 1973.|
 |1959|Margaret Thatcher was elected as a Conservative MP|
 |1960 - 1969|
 |1960s|James Goodfellow invented the cash-dispensing ATM|
@@ -217,12 +198,12 @@
 |2006|The Welsh Assembly building was opened|
 |2007|- The Northern Ireland Assembly was reinstated|
 |- Gordon Brown took over as Prime Minister|
-|2008|Forced Marriage Protection Orders were introduced for England, Wales and Northern Ireland|
+|2008|Forced Marriage Protection Orders were introduced for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007.|
 |2009|British combat troops left Iraq|
 |2010 - present|
 |2010|For the first time in the UK since 1974, no political party won an overall majority in the General Election|
 |2011|- The National Assembly for Wales has been able to pass laws in 20areas without the agreement of the UK Parliament|
-|- Protection Orders for forced marriages were introduced in Scotland|
+|- Protection Orders for forced marriages were introduced in **Scotland**.|
 |2012|- Bradley Wiggins became the first Briton to win the Tour de France|
 |- Mo Farah became the first Briton to win the Olympic gold medals in the 10,000 metres|
 |- Queen Elizabeth II’s Diamond Jubilee (60 years as Queen)|

@@ -1,7 +1,15 @@
 |Name|Events|
 |---|---|
-|Sir Christopher Wren|designed St Paul's Cathedral|
 |St Andrew|patron saint of Scotland|
 |St David|patron saint of Wales|
 |St George|patron saint of England|
 |St Patrick|patron to of Northern Ireland|
+|Sir Christopher Wren|designed St Paul's Cathedral|
+|Sir Robert Walpole|the first Prime Minister in British history (1721-1742)|
+|Thomas Gainsborough (1727-1788)|a portrait painter who often painted people in country or garden scenery.|
+|Robert Burns (1759-1796)| a Scottish poet, was Known in Scotland as ‘The Bard’. The best-known work is probably the song **Auld Lang Syne**, which is sung by people in the UK and other countries when they are celebrating the **New Year** (or **Hogmanay** as it is called in Scotland).|
+|Emmeline Pankhurst (1858-1928)| - In 1858, she was born in Manchester.<br> - In 1889, She set up the **women’s Franchise League**, which fought to get the **vote** in local elections for married women. <br> - In **1903** she helped found the **Women’s Social and Political Union (WSPU)**. This was the first group whose members were called ‘**suffragettes**’.<br> - In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War.<br> - In 1928, she died. Shortly before Emmeline’s death, women were given the right to vote at the age of 21, the same as men.|
+|Winston Churchill|- the son of a politician and was a soldier and journalist.<br> - In 1900, became a Conservative MP.<br> - In May 1940, became Prime Minister.|
+|Alexander Fleming| - in 1928, he was researching influenza (the ‘flu’) when he discovered penicillin.|
+|Scotsman Sir Robert Watson-Watt(1892-1973)|developed radar. He proposed that enemy aircraft could be detected by radio waves. The first successful radar test took place in **1935**.|
+|Sir Christopher Cockrell (1910-1999)|a British inventor, invented the **hovercraft** in the **1950s**|
