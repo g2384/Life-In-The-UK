@@ -138,7 +138,7 @@
 |- Alexander Fleming won the Nobel prize in Medicine|
 |- The British people elected a labour government|
 |- Clement Attlee became Prime Minister|
-|1947|Independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka)|
+|1947|Independence was granted to nine countries, including **India**, **Pakistan** and **Ceylon (now Sri Lanka)**|
 |1948|- Aneurin Bevan, the Minister for Health, led the establishment of the National Health Service (NHS)|
 |- People from the West Indies were invited to come to Britain and work|
 |1949|The Irish Free State became a republic|
@@ -158,7 +158,6 @@
 |1960s|James Goodfellow invented the cash-dispensing ATM|
 |1964|Winston Churchill stood down|
 |1966/67|Sir Francis Chichester was the first person to sail single-handed around the world|
-|1966|The English football team won the World Cup|
 |1967|The first ATM was put into use by Barclays Bank in Enfield, north London|
 |1968|The Man Booker Prize for Fiction has been awarded since 1968|
 |1969|- The Concorde, the world’s only supersonic passenger aircraft, first flew|

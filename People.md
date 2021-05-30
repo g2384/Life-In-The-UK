@@ -16,6 +16,13 @@
 |Scotsman Sir Robert Watson-Watt(1892-1973)|developed radar. He proposed that enemy aircraft could be detected by radio waves. The first successful radar test took place in **1935**.|
 |Clement Attlee|Prime Minister from 1945 to 1951 and led the Labour Party for 20 years.|
 |Sir Christopher Cockrell (1910-1999)|a British inventor, invented the **hovercraft** in the **1950s**|
+|Bobby Moore (1941-93)|captained the English football team that won the World Cup in **1966**.|
 ---
 |William Caxton|the first person in England to print books using a printing press.|
 |Admiral Nelson| He was in charge of the British fleet at **Trafalgar** and was killed in the battle. His ship was known as the HMS Victory, can be visited in **Portsmouth**|
+|Charles I|He wanted the worship of the Church of England to include more ceremony and introduced a revised Prayer Book.|
+|Charles II|He was crowned king of Scotland and led a **Scottish** army into England. **Cromwell** defeated this army in the Battles of **Dunbar** and **Worcester**.|
+|Dame Kelly Holmes|won two gold medals for running in the 2004 Olympic Games. She has held a number of British and European records.|
+|Isaac Newton|studied at Cambridge University|
+|St Augustine|the first Archbishop of Canterbury|
+|Emperor Hadrien|Areas of what is now Scotland were never conquered by the Romans, and he built a wall in the north of England to keep out the **Picts (ancestors of the Scottish people)**. Parts of Hadrien’s Wall, including the forts of **Housesteads** and **Vindolanda** is a popular area for walkers and is a UNESCO (United Nations Educational Scientific and Cultural Organization) World Heritage Site.|

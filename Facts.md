@@ -18,6 +18,7 @@ According to the 2011 Census
 - 0.8%: Sikh
 - less than 0.5%: Jewish, Buddhist
 
+The population is very **unequally distributed** over the four parts of the UK.
 - 84%: England
 - just over 8%: Scotland
 - 5%: Wales
@@ -27,8 +28,12 @@ The UK population is **ethnically diverse** and **changing rapidly**, especially
 
 # Minimum Age
 
-- 16: to participate in the National Lottery.
-- 18: to buy alcohol in a pub or night club, but people under this age may be allowed in some pubs with an adult.
+## 16
+- to participate in the National Lottery.
+
+## 18
+- to buy alcohol in a pub or night club, but people under this age may be allowed in some pubs with an adult.
+- It is illegal and a criminal offence to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18.
 
 # The Queen
 
@@ -44,9 +49,34 @@ There are **five** ski centres in **Scotland**, as well as Europe’s longest dr
 
 **Snowdon** is the highest mountain in Wales.
 
+London has **33** local authorities, with the **Greater London Authority** and the **Mayor of London** coordinating policies across the capital.
+
+There are several islands which are closely linked with the UK but are not part of it: **the Channel Islands** and **the Isle of Man**. These have their own governments and are called **‘Crown dependencies’**.
+
+There are **15** national parks in England, Wales and Scotland. They are areas of protected countryside that everyone can visit, and where people live, work and look after the landscape.
+
+The capital city of the UK is London.
+
+The London Eye is situated on the **southern bank** of the River Thames and is a Ferris wheel that is **443 feet (135 metres)** tall.
+
+The clock tower at the Houses of Parliament in London is named **‘Elizabeth Tower’** in honour of Queen Elizabeth II’s Diamond Jubilee in 2012.
+
+The Eden Project is located in Cornwall, in the south west of England. Its biomes, which are like giant greenhouses, house plants from all over the world. The Eden Project is also a charity which runs environmental and social projects internationally.
+
 # Law
 
 The Human Rights Act 1998 incorporated the European Convention of Human Rights into UK law.
+
+Some of the principles included in the European Convention on Human Rights are:
+- right to life
+- prohibition of torture
+- prohibition of slavery and forced labour
+- right to liberty and security
+- right to a fair trial
+- freedom of thought, conscience and religion
+- freedom of expression (speech).
+
+British values and principles are based on **history** and **traditions** and are protected by law, customs and expectations.
 
 The UK offers to its residents or citizens:
 - freedom of belief and religion,
@@ -60,8 +90,6 @@ The electoral register is updated every year in **September or October**.
 To drive a car in the UK you need a driving licence, a valid motor insurance, a MOT certificate (for cars over three years old) and the road tax.
 
 Decisions on government policies are made by the **Prime Minister** and **cabinet**.
-
-The **Isle of Man** and the **Channel Islands** are **‘Crown dependencies’**.
 
 In the UK, bank holidays of **no religious** significance are celebrated **at the beginning of May** in **late May** or **early June**, and in **August**.
 
@@ -81,18 +109,120 @@ A non-UK national living in the UK and looking for work, starting work or settin
 
 It is a criminal offence to carry a weapon of any kind, **even if it is for self-defence**. This includes a gun, a knife or anything that is made or adapted to cause injury.
 
+UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status.
+
+As part of the citizenship ceremony, new citizens pledge their **loyalty to the United Kingdom** and to **respect its rights and freedoms**.
+
+**Democracy** is a system of government where the whole adult population gets a say. This might be by **direct voting** or by **choosing representatives** to make decisions on their behalf.
+
+The **cabinet** is a committee which usually meets **weekly** and makes important decisions about government policy.
+
+The police force is a public service that helps and protects everyone, no matter what their background or where they live.
+
+The UK is part of the United Nations (UN), an international organization with **more than 190** countries as members.
+
+The UK is governed by the parliament sitting in **Westminster**</strong>**.
+
+The fundamental principles of British life include:
+- democracy,
+- the rule of law,
+- individual liberty,
+- tolerance of those with different faiths and beliefs and
+- participation in community life.
+
+If you are facing domestic violence you can get help from the **24-hour National Domestic Violence Freephone Helpline** at any time, or the **police** can help you find a safe place to stay.
+
+The Chancellor of the **Exchequer** is responsible for the economy.
+
+If your driving licence if from a country in the **European Union (EU), Iceland, Liechtenstein or Norway**, you can drive in the UK for as long as your licence is valid.
+
+# Organisations
+
+## EU
+
+Elections for the European Parliament are held every **five** years. Elected members are called **members of the European Parliament (MEPs)**.
+
+Elections to the European Parliament use a system of **proportional representation**, where seats are allocated to each party in proportion to the total number of votes it has won.
+
+The UK is a **full member** of the European Union but does not use the Euro currency.
+
+The Council of Europe is responsible for the **protection and promotion of human rights** in those countries. The Council of Europe has no power to make laws but **draws up conventions and charters**, the most well-known of which is the **European Convention on Human Rights and Fundamental Freedoms**.
+
+The European Council is not part of the British government.
+
+European Union:
+
+List of Former EU Member Countries:
+- United Kingdom (UK)
+
+List of Official EU Candidate Countries:
+- Albania
+- North Macedonia
+- Montenegro
+- Serbia
+- Turkey
+
+List of Potential EU Candidate Countries:
+- Bosnia and Herzegovina
+- Kosovo
+
+List of European Countries That Aren't EU Members, Candidates, or Potential Candidates:
+- Andorra
+- Belarus
+- Moldova
+- Iceland*
+- Liechtenstein
+- Monaco 
+- Norway*
+- Russia**
+- San Marino
+- Switzerland*
+- Ukraine
+- Vatican City
+
+List of Arguably European Countries That Aren't EU Members, Candidates, or Potential Candidates:
+- Armenia (physically on Asian side, but within Transcaucasia)
+- Azerbaijan (in Transcaucasia, mostly in Asia with small parts in Europe)
+- Georgia (in Transcaucasia, mostly in Asia with small parts in Europe)
+- Kazakhstan (mostly in Asia, with a small part in Europe)
+
+## NATO
+
+NATO is a group of European and North American countries that have agreed to help each other if they come **under attack**. It also aims to **maintain peace** between all of its members.
+
+# History
+
+During the Middle Ages many knights took part in the Crusades, in which European Christians fought for control of the **Holy Land**.
+
+During the First World War millions of people were killed or wounded, with more than **2 million** British casualties.
+
+The **Normans** used a system of land ownership known as **feudalism**.
+
+In the **19th** century, the medieval **’gothic’** style became popular again. As cities expanded, many great public buildings were built in this style. The **Houses of Parliament** and **St Pancras Station** were built at this time, as were the town halls in cities such as **Manchester** and **Sheffield**.
+
+During the **Bronze** Age people lived in **roundhouses** and buried their dead in tombs called **round barrows**.
+
+**Catherine Howard** was a **cousin** of **Anne Boleyn**.
+
 # Economy
 
 Although the UK had won the war, the country was exhausted economically after WWII.
 
 In the UK, there is a National Lottery for which draws are made **every week**.
 
+For most people, the right amount of income tax is automatically taken from their income from employment by their employer and paid directly to HM Revenue & Customs (HMRC), the government department that collects taxes. This system is called **“Pay As You Earn” (PAYE)**.
+
+Money raised from income tax pays for government services such as roads, education, police and the armed forces.
+
+MPs, Assembly members, members of the Scottish Parliament (MSPs) and MEPs are also listed in The Phone Book, published by BT, and in Yellow Pages. The Queen is not.
+
 # Festivals
 
 |Name|Date|Notes|
 |---|---|---|
-|Halloween|31 October|an ancient festival and has roots in the **pagan** festival to mark the beginning of winter.|
-|Diwali|in October or November|lasts for **five days**. celebrated by **Hindus and Sikhs**. also called the Festival of **Lights**. There is a famous celebration of Diwali in **Leicester**.|
+|Valentine’s Day|14th of February||
+|Halloween|31 October|an ancient festival and has roots in the **pagan** festival to mark the beginning of winter. Young people will often dress up in frightening costumes to play ‘trick or treat’.|
+|Diwali|in October or November|lasts for **five days**. celebrated by **Hindus and Sikhs**. also called the Festival of **Lights**. There is a famous celebration of Diwali in **Leicester**. the victory of good over evil and the gaining of knowledge.|
 |Hanukkah|November or December|lasts for **eight days**. It is to remember the Jews’ struggle for religious freedom.|
 |Christmas Eve|24th of December||
 |Hogmanay|31 December|In Scotland|
@@ -117,3 +247,23 @@ Two well-known pop music groups in the 1960s were **The Beatles** and The **Roll
 Words such as Grimsby and Scunthorpe come from the Viking languages.
 
 The **Laurence Olivier** Awards take place **annually** at different venues in **London**.
+
+The open championship (golf) is the only ‘Major’ tournament held outside the United States.
+
+Big Ben is the nickname for the great bell of the clock at the House of Parliament in London.
+
+The Brit Awards is an **annual** event that gives awards in a range of categories, such as best British **group** and best British **solo artist**.
+
+‘PDSA’ stands for People’s Dispensary for Sick Animals.
+
+The public can listen to debates in the Palace of Westminster from **public galleries** in both the **House of Commons** and the **House of Lords**.
+
+Proceedings in Parliament are broadcast on television and published in official reports called **Hansard**.
+
+The Man Booker Prize for Fiction is awarded **annually** for the best fiction novel written by an author from the **Commonwealth, Ireland or Zimbabwe**. It has been awarded since 1968.
+
+Vaccinations and medical treatment for animals are available from veterinary surgeons (vets).
+
+People in the UK are living longer than ever before. This is due to improved living standards and better health care. There are now a record number of people aged 85 and over. This has an impact on the cost of **pensions** and **health care**.
+
+Some words in modern English – for example, ‘park’ and ‘beauty’ – are based on Norman French words.
