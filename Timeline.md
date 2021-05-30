@@ -10,7 +10,7 @@
 |3rd and 4th centuries|The first Christian communities began to appear in Britain|
 |410|The Roman army left Britain to defend other parts of the Roman Empire and never returned.|
 |600|Anglo-Saxons establish in Britain (except much of Wales and Scotland)|
-|789|Vikings first visited Britain, raiding coastal towns to take goods & slaves|
+|789|The Vikings came from **Denmark and Norway**. They first visited Britain in to raid **coastal towns** and take away **goods** and **slaves**.|
 |---|---|
 |1066 - 1485|Middle Ages (or the medieval period). The period after the Norman Conquest up until about 1485.|
 |1066|- An invasion led by William, the Duke of Normandy, defeated Harold, the Saxon King of England, at the Battle of Hastings (last time England was successfully invaded)<br>- William became king of England<br>- Start of the Westminster Abbey as the coronation church<br>- The **Tower of London** was first built by by **William the Conqueror** after he became king<br>- Start of the “middle ages”|
@@ -28,7 +28,7 @@
 |1485|- The Wars of the Roses ended with the Battle of the **Bosworth Field**.<br> - Henry Tudor, the leader of the House of Lancaster, became King **Henry VII** after defeating King **Richard III** of the House of York at the Battle of **Bosworth Field**.<br> - End of the “middle ages”|
 |---|---|
 |1509, 21 April|Henry VIII became king of England.|
-|1547, 28 January|Henry VIII died.|
+|1547, 28 January|Henry VIII died. He was succeeded by his son **Edward VI**.|
 |1560|- The predominantly Protestant Scottish Parliament abolished the authority of the Pope in Scotland and Roman Catholic religious services became illegal. <br> - Mary Queen of Scots (Catholic) flees to England → imprisoned for 20 years then executed|
 |1564|Williams Shakespeare born|
 |1588|- English Sir **Francis Drake** defeat **Spanish Armada** (a large fleet of invading ships), which had been sent by Spain to conquer England and restore Catholicism. <br> - Elizabeth I became one of the most popular monarchs in English history after this.|
@@ -143,7 +143,7 @@
 |- People from the West Indies were invited to come to Britain and work|
 |1949|The Irish Free State became a republic|
 |1950 - 1959|
-|1950|The UK signed the European Convention on Human Rights and Fundamental Freedoms|
+|1950|The UK was one of the first countries to sign the European **Convention** on Human Rights and Fundamental Freedoms|
 |1950s|- Period of economic recovery and increasing prosperity for working people|
 |1951 - 1964|Britain had a Conservative government|
 |1951|Winston Churchill returned as Prime Minister|
@@ -155,7 +155,6 @@
 |- Sir Roger Bannister became the first man in the world to run a mile under four minutes|
 |1957, 25 March|The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, West Germany, Italy, Luxembourg and the Netherlands) who signed the **Treaty of Rome**. At first the UK did not wish to join the EEC but it eventually did so in 1973.|
 |1959|Margaret Thatcher was elected as a Conservative MP|
-|1960 - 1969|
 |1960s|James Goodfellow invented the cash-dispensing ATM|
 |1964|Winston Churchill stood down|
 |1966/67|Sir Francis Chichester was the first person to sail single-handed around the world|
@@ -165,7 +164,6 @@
 |1969|- The Concorde, the world’s only supersonic passenger aircraft, first flew|
 |- Monty Python introduced a new type of progressive comedy|
 |- The Troubles broke out in Northern Ireland|
-|1970 - 1979|
 |Early 1970s|Britain admitted 28,000 people of Indian origin who had been forced to leave Uganda|
 |1970|Margaret Thatcher became a cabinet minister as the Secretary of State for Education and Science|
 |1970s|Period of serious unrest in Northern Ireland|
