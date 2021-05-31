@@ -386,29 +386,13 @@ During the Victorian period, the British Empire grew to cover all of India, Aust
 
 Although the UK had won the war, the country was exhausted economically after WWII.
 
-In the UK, there is a National Lottery for which draws are made **every week**.
-
 For most people, the right amount of income tax is automatically taken from their income from employment by their employer and paid directly to HM Revenue & Customs (HMRC), the government department that collects taxes. This system is called **“Pay As You Earn” (PAYE)**.
 
 Money raised from income tax pays for government services such as roads, education, police and the armed forces.
 
-MPs, Assembly members, members of the Scottish Parliament (MSPs) and MEPs are also listed in The Phone Book, published by BT, and in Yellow Pages. The Queen is not.
-
-The currency in the UK is the pound sterling (symbol £).
-
 # Culture
 
-The most famous **sailing** event in the UK takes place at **Cowes** on the **Isle of Wight**.
-
-In the UK, some people rent additional land called **‘an allotment’**, where they grow fruit and vegetables.
-
-Two well-known pop music groups in the 1960s were **The Beatles** and The **Rolling Stones**.
-
 Words such as Grimsby and Scunthorpe come from the Viking languages.
-
-The **Laurence Olivier** Awards take place **annually** at different venues in **London**.
-
-Big Ben is the nickname for the great bell of the clock at the House of Parliament in London.
 
 ‘PDSA’ stands for People’s Dispensary for Sick Animals.
 
@@ -785,7 +769,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - There is also a strong tradition of musical theatre in the UK.
 - Many theatres produce a **pantomime** (british tradition) at **Christmas** time. They are based on **fairy** stories and are light-hearted plays with music and comedy, enjoyed by **family** audiences. One of the traditional characters is the **Dame**, a woman played by a man. There is often also a **pantomime horse or cow** played by two actors in the same costume.
 - The **Edinburgh Festival** takes place in Edinburgh, Scotland, **every summer**. It is a series of different arts and cultural festivals, with the biggest and most well-known being the **Edinburgh Festival Fringe** (‘the Fringe’). The Fringe is a showcase of mainly theatre and comedy performances. It often shows experimental work.
-- The **Laurence Olivier** Awards take place **annually** at different venues in London. There are a variety of categories, including best director, best actor and best actress. The awards are named after the British actor Sir Laurence Olivier, later Lord Olivier, who was best known for his roles in various **Shakespeare** plays.
+- The **Laurence Olivier** Awards take place **annually** at different venues in **London**. There are a variety of categories, including best director, best actor and best actress. The awards are named after the British actor Sir Laurence Olivier, later Lord Olivier, who was best known for his roles in various **Shakespeare** plays.
 
 ## Art
 
@@ -951,7 +935,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Night clubs with dancing and music usually open and close later than pubs.
 - The **licensee** decides the hours that the pub or night club is open.
 
-# Betting and gambling
+## Betting and gambling
 
 - In the UK, people often enjoy a gamble on sports or other events.
 - There are also casinos in many places.
