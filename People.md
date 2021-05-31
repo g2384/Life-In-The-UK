@@ -92,11 +92,11 @@
 |J K Rowling (1965–)|wrote the Harry Potter series of children’s books, which have enjoyed huge international success. She now writes fiction for adults as well.|
 |JRR Tolkien|In 2003, his work **The Lord of the Rings** was voted the country’s best-loved novel.|
 |**Poets**||
-|Robert Browning (1812–89)|*Home Thoughts from Abroad*|
-|Lord Byron (1788–1824)|*She Walks in Beauty*|
-|William Wordsworth (1770-1850)|Poet, was inspired by nature.<br>*The Daffodils*|
-|William Blake (1757–1827)|*The Tyger*|
-|Wilfred Owen (1893–1918)|*Anthem for Doomed Youth*|
+|Robert Browning (1812–89)|*Home Thoughts from Abroad*<br><blockquote>‘Oh, to be in England now that April’s there<br>And whoever wakes in England sees, some morning, unaware,<br>That the lowest boughs and the brushwood sheaf<br>Round the elm-tree bole are in tiny leaf<br>While the Chaffinch sings on the orchard bough<br>In England – Now!’</blockquote>|
+|Lord Byron (1788–1824)|*She Walks in Beauty*<br><blockquote>‘She walks in beauty, like the night<br>Of cloudless climes and starry skies,<br>All that’s best of dark and bright<br>Meet in her aspect and her eyes’</blockquote>|
+|William Wordsworth (1770-1850)|Poet, was inspired by nature.<br>*The Daffodils*<br><blockquote>‘I wander’d lonely as a cloud<br>That floats on high o’er vales and hills<br>When all at once I saw a crowd,<br>A host of golden daffodils’</blockquote>|
+|William Blake (1757–1827)|*The Tyger*<br><blockquote>‘Tyger! Tyger! Burning bright<br>In the forests of the night,<br>What immortal hand or eye<br>Could frame thy fearful symmetry?’</blockquote>|
+|Wilfred Owen (1893–1918)|*Anthem for Doomed Youth*<br><blockquote>‘What passing-bells for these who die as cattle?<br>Only the monstrous anger of the guns.<br>Only the stuttering rifles’ rapid rattle<br>Can patter out their hasty orisons.’</blockquote>|
 |**Directors**||
 |Alfred Hitchcock|*The 39 Steps* (1935)|
 |David Lean|*Brief Encounter* (1945) and *Lawrence of Arabia* (1962)|
