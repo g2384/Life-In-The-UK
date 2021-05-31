@@ -25,12 +25,20 @@
 |Isaac Newton|studied at Cambridge University|
 |St Augustine|the first Archbishop of Canterbury|
 |Emperor Hadrien|Areas of what is now Scotland were never conquered by the Romans, and he built a wall in the north of England to keep out the **Picts (ancestors of the Scottish people)**. Parts of Hadrien’s Wall, including the forts of **Housesteads** and **Vindolanda** is a popular area for walkers and is a UNESCO (United Nations Educational Scientific and Cultural Organization) World Heritage Site.|
-|Prime Ministers|---|
+|**Kings & Queens**||
+|Boudicca|- One of the tribal leaders who fought against the Romans.<br>- The queen of the **Iceni** in what is now eastern England.<br>- There is a statue of Boudicca on **Westminster Bridge** in London, near the Houses of Parliament.|
+|**Prime Ministers**||
 |Sir Robert Walpole|the first Prime Minister in British history (1721-1742)|
 |Clement Attlee|The **Labour** Party won the **1945** election. He was Prime Minister from 1945 to 1951 and led the Labour Party for 20 years.|
 |Winston Churchill|- the son of a politician and was a soldier and journalist.<br> - In 1900, became a Conservative MP.<br> - In May 1940, became Prime Minister.<br> - During the Second World War, he made many famous speeches including lines: **‘I have nothing to offer but blood, toil, tears and sweat’**. This was Churchill’s first speech to the House of Commons after he became Prime Minister, 1940.|
 |Margaret Thatcher|- the daughter of a grocer from **Grantham** in **Lincolnshire**.<br>- Britain’s first woman Prime Minister, led the **Conservative** government from 1979 to 1990.<br>- worked closely with the United States President, **Ronald Reagan**, and was one of the first Western leaders to recognise and welcome the changes in the leadership of the Soviet Union which eventually led to the end of the Cold War.<br>- made **structural changes** to the economy through the **privatisation** of nationalised industries and imposed legal controls on trade union powers.|
-|Athlets|---|
+|John Major|Prime Minister after Mrs Thatcher. Helped establish the Northern Ireland peace process.|
+|Gordon Brown|took over as Prime Minister from Tony Blair in 2007.|
+|**Scientists & Inventors**|---|
+|James Watt|His work on steam power, helped the progress of the Industrial Revolution.|
+|Scotsman John Logie Baird|In **1932**, he made the first television broadcast between London and Glasgow.|
+|Sir Christopher Cockrell (1910-99)|a British inventor, invented the **hovercraft** in the **1950s**.|
+|**Athlets**||
 |Sir Ian Botham (1955-)|captained the English cricket team and holds a number of English Test cricket records, both for batting and for bowling.|
 |Dame Kelly Holmes|won two gold medals for running in the 2004 Olympic Games. She has held a number of British and European records.|
 |Sir Steve Redgrave|won gold medals in rowing in **five** consecutive Olympic Games and is one of Britain’s greatest Olympians.
@@ -38,3 +46,13 @@
 |Sir Francis Chichester|the first person to sail **singlehanded** around the world, in 1966/67.|
 |Sir Robin Knox-Johnston|the first person to sail **singlehanded** around the world **without stopping** in 1969.|
 |Dame Ellen MacArthur (1976-)|a yachtswoman and in **2004** became the **fastest** person to sail around the world singlehanded.|
+|Sir Jackie Stewart|a Scottish former racing driver who won the Formula 1 world championship **three** times.|
+|Jenson Button|a famous Formula 1 driver.|
+|**Novelists**||
+|Jane Austen (1775-1817)|Her books include Pride and Prejudice and Sense and Sensibility.|
+|Evelyn Waugh|wrote satirical novels, including Decline and Fall and Scoop. He is perhaps best known for **Brideshead Revisited**.|
+|JRR Tolkien|In 2003, his work **The Lord of the Rings** was voted the country’s best-loved novel.|
+|**Directors**||
+|Alfred Hitchcock|The 39 Steps (1935)|
+|David Lean|Brief Encounter (1945) and Lawrence of Arabia (1962)|
+|Hugh Hudson|Chariots of Fire (1981)|

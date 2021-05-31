@@ -17,7 +17,7 @@
 |By 1200|The English ruled an area of Ireland known as the **Pale**, around **Dublin**|
 |1215|Magna Carta (which means **the Great Charter**)<br>- signed by King John<br>- the King is subject to the law. It protected the rights of the nobility and restricted the king’s power to collect taxes or to make and change laws.|
 |1284|King **Edward I** introduced the Statute of **Rhuddlan**, which annexed **Wales** to the Crown of England|
-|1314|The **Scottish**, led by **Robert the Bruce**, defeated the English at the battle of **Bannockburn**|
+|1314|The **Scottish**, led by **Robert the Bruce**, defeated the English at the battle of **Bannockburn**.|
 |1334|Start of "100 years war"|
 |1348|Black Death (a form of plague) comes to Britain.<br> - **1/3** of the population of England died and a similar proportion in Scotland and Wales.<br> - This was one of the worst disasters ever to strike Britain. <br> - Following the Black Death, the smaller population meant there was less need to grow **cereal crops**.<br> - There were **labour shortages** and peasants began to demand higher wages.|
 |By 1400|- In England, official documents were being written in **English**, and English had become the preferred language of the royal court and Parliament.<br> - **Geoffrey Chaucer** wrote Canterbury Tales. A series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the **travellers** and some of the stories they told.|
@@ -162,7 +162,8 @@
 |1966/67|Sir Francis Chichester was the first person to sail single-handed around the world|
 |1967|The first ATM was put into use by Barclays Bank in Enfield, north London|
 |1968|The Man Booker Prize for Fiction has been awarded since 1968|
-|1969|- The Concorde, the world’s only supersonic passenger aircraft, first flew<br>- Monty Python introduced a new type of progressive comedy<br>- The Troubles broke out in Northern Ireland.<br>- the voting age was reduced to 18 for men and women.
+|1969|- The Concorde, the world’s only supersonic commercial airliner, first flew. Developed by Britain and France.<br>- Monty Python introduced a new type of progressive comedy<br>- The Troubles broke out in Northern Ireland.<br>- the voting age was reduced to 18 for men and women.
+|1960s|a time of technological progress (e.g. Concorde)|
 |Early 1970s|Britain admitted 28,000 people of Indian origin who had been forced to leave Uganda|
 |1970|Margaret Thatcher became a cabinet minister as the Secretary of State for Education and Science|
 |1970s|Period of serious unrest in Northern Ireland|
@@ -188,7 +189,7 @@
 |2000|- Mary Peters was made a Dame of the British Empire in recognition of her work|
 |- Since 2000, British armed forces have been engaged in the global fight against international terrorism and against the proliferation of weapons of mass destruction|
 |2002|The Northern Ireland Assembly was suspended|
-|2003|- The Concorde, the world’s only supersonic passenger aircraft, was retired from service.<br>- The Lord of the Rings by JRR Tolkien was voted the country’s best-loved novel|
+|2003|The Concorde, the world’s only supersonic passenger aircraft, was retired from service.|
 |2006|The Welsh Assembly building was opened|
 |2007|- The Northern Ireland Assembly was reinstated|
 |- Gordon Brown took over as Prime Minister|

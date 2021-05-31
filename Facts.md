@@ -49,6 +49,8 @@ Queen Elizabeth II is the head of state in the UK.
 
 The Queen of the United Kingdom is married to Prince Philip, the Duke of **Edinburgh**.
 
+**Life peers** are appointed by the **monarch** on the advice of the **Prime Minister**.
+
 # Geography
 
 Great Britain refers only to England, Scotland and Wales, not to Northern Ireland.
@@ -93,6 +95,25 @@ England Cities:
 
 **Edinburgh Castle** is looked after by **Historic Scotland**, a Scottish government agency.
 
+Big Ben is the nickname for the great bell of the clock at the House of Parliament in London. The clock is over **150 years old** and is a popular tourist attraction.
+
+The Scottish Exhibition and Conference Centre (SECC) is located in Glasgow.
+
+British overseas territories:
+- Anguilla
+- Bermuda
+- British Antarctic Territory
+- British Indian Ocean Territory
+- British Virgin Islands
+- Cayman Islands
+- Falkland Islands
+- Gibraltar
+- Montserrat
+- Pitcairn Islands
+- Saint Helena, Ascension and Tristan da Cunha
+- South Georgia and the South Sandwich Islands
+- Turks and Caicos Islands
+
 # Religion
 
 The spiritual leader of the Church of England is the **Archbishop of Canterbury**.
@@ -124,6 +145,8 @@ The UK offers to its residents or citizens:
 The electoral register is updated every year in **September or October**.
 
 To drive a car in the UK you need a driving licence, a valid motor insurance, a MOT certificate (for cars over three years old) and the road tax.
+
+Drivers can use their driving licence until they are **70** years old. After that, the licence is valid for **three** years at a time.
 
 Decisions on government policies are made by the **Prime Minister** and **cabinet**.
 
@@ -172,6 +195,10 @@ The Chancellor of the **Exchequer** is responsible for the economy.
 
 If your driving licence if from a country in the **European Union (EU), Iceland, Liechtenstein or Norway**, you can drive in the UK for as long as your licence is valid.
 
+In Northern Ireland, a newly qualified driver must display an **‘R’** plate (for restricted driver) for **one** year after passing the test.
+
+If you are resident in the UK, your car or motor cycle must be registered at the Driver and Vehicle Licensing Agency (DVLA).
+
 The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a **coalition**.
 
 You can contact MPs by **letter** or **telephone** at their **constituency office**, or at their office in the **House of Commons**.
@@ -200,6 +227,27 @@ The **House of Lords** can suggest amendments or propose new laws, which are the
 The **official home** of the Prime Minister is **10 Downing Street**, in central London, near the Houses of Parliament. He or she also has a country house outside London called **Chequers**.
 
 The UK has a **constitutional monarchy**.
+
+The Prime Minister (PM) is the **leader of the political party** in power. He or she appoints the **members of the cabinet** and has control over many important public appointments.
+
+The Prime Minister appoints about **20 senior MPs** to become ministers in charge of departments.
+
+The monarch has **regular** meetings with the **Prime Minister** and can **advise, warn and encourage**, but the decisions on government policies are made by the **Prime Minister and cabinet**.
+
+The small claims procedure is an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer. This procedure is used for claims of less than £10,000 in England and Wales and £3,000 in Scotland and Northern Ireland. 
+<span style="color: #ff0000;">**PLEASE be aware**</span> that in some handbooks (10th impression 2016 and previous ones) it says £5,000. However according to the Official Handbook 3rd edition (11th impression 2016) it is £10,000. Due to this difference in data, it is very unlikely that this question will come up in the official exam.
+
+Forcing another person to marry is a criminal offence.
+
+Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted.
+
+Many MPs, Assembly members, MSPs and MEPs hold regular local **‘surgeries’**, where constituents can go in person to talk about issues that are of concern to them. These surgeries are often advertised in the **local newspaper**.
+
+The job of the police in the UK is to protect life and property, prevent disturbances (also known as keeping the peace) and prevent and detect crime.
+
+Many local authorities appoint a **mayor**, who is the ceremonial leader of the council. In some towns, a mayor is elected to be the effective leader of the administration.
+
+**MPs** are elected through a system called **‘first past the post’**. In each constituency, the candidate who gets the most votes is elected.
 
 # Organisations
 
@@ -266,6 +314,73 @@ The Commonwealth is based on the core values of
 - good government
 - and the rule of law.
 
+The Queen is the ceremonial head of the Commonwealth.
+
+The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development. Most member states were once part of the British Empire, although a few countries which were not have also joined.
+
+There are 54 countries in the Commonwealth
+- Africa
+  - Botswana
+  - Cameroon
+  - Gambia, The
+  - Ghana
+  - Kenya
+  - Kingdom of Eswatini
+  - Lesotho
+  - Malawi
+  - Mauritius
+  - Mozambique
+  - Namibia
+  - Nigeria
+  - Rwanda
+  - Seychelles
+  - Sierra Leone
+  - South Africa
+  - Uganda
+  - United Republic of Tanzania
+  - Zambia
+- Asia
+  - Bangladesh
+  - Brunei Darussalam
+  - India
+  - Malaysia
+  - Maldives
+  - Pakistan
+  - Singapore
+  - Sri Lanka
+- Caribbean and Americas<br>
+  - Antigua and Barbuda
+  - Bahamas, The
+  - Barbados
+  - Belize
+  - Canada
+  - Dominica
+  - Grenada
+  - Guyana
+  - Jamaica
+  - Saint Lucia
+  - St Kitts and Nevis
+  - St Vincent and The Grenadines
+  - Trinidad and Tobago
+- Europe
+  - Cyprus
+  - Malta
+  - United Kingdom
+- Pacific
+  - Australia
+  - Fiji
+  - Kiribati
+  - Nauru
+  - New Zealand
+  - Papua New Guinea
+  - Samoa
+  - Solomon Islands
+  - Tonga
+  - Tuvalu
+  - Vanuatu
+
+Zimbabwe, Costa Rica are not members of the Commonwealth.
+
 # History
 
 During the Middle Ages many knights took part in the Crusades, in which European Christians fought for control of the **Holy Land**.
@@ -321,7 +436,43 @@ In the **19th** century, **Gilbert** and **Sullivan** wrote **comic operas**, of
 
 Queen Mary was a devout **Catholic** and persecuted **Protestants** (for this reason, she became known as ‘Bloody Mary’).
 
-In the late 1970s, the post-war economic boom came to an end.
+In the **late 1970s**, the post-war economic boom came to an end.
+
+- **Allies** of World War I:
+- Principal powers:
+  - British Empire
+  - Russian Empire
+  - French Republic
+  - Japanese Empire
+  - Kingdom of Italy
+- Affiliated state combatants:
+  - Kingdom of Serbia
+  - Kingdom of Belgium
+  - Kingdom of Greece
+  - Kingdom of Montenegro
+  - Beda Sultanate
+  - Idrisid Emirate of Asir
+  - Emirate of Nejd and Hasa
+  - Kingdom of Romania
+  - Republic of the United States of Brazil
+
+- **Central Powers**:
+  - Germany
+  - Austria-Hungary
+  - Ottoman Empire
+  - Bulgaria
+
+The **Great Western Railway** was the first major railway built in Britain.
+
+English kings fought a long war with France, called the Hundred Years War (even though it actually lasted **116** years).
+
+To divorce his first wife, Henry VIII needed the approval of the **Pope**. When the Pope refused, Henry established the **Church of England**. In this new church, the **king**, not the Pope, would have the power to appoint bishops and order how people should worship.
+
+The symbol of the House of **Tudor** was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.
+
+The Battle of **Hastings** is commemorated in a great piece of embroidery, known as the **Bayeux tapestry**, which can still be seen in **France** today. The Bayeux Tapestry is nearly **70 metres (230 feet)** long and is embroidered with coloured wool.
+
+During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than **400 million** people.
 
 # Economy
 
@@ -344,10 +495,12 @@ The currency in the UK is the pound sterling (symbol £).
 |Valentine’s Day|14th of February||
 |Halloween|31 October|an ancient festival and has roots in the **pagan** festival to mark the beginning of winter. Young people will often dress up in frightening costumes to play ‘trick or treat’.|
 |Diwali|in October or November|lasts for **five days**. celebrated by **Hindus and Sikhs**. also called the Festival of **Lights**. There is a famous celebration of Diwali in **Leicester**. the victory of good over evil and the gaining of knowledge.|
-|Hanukkah|November or December|lasts for **eight days**. It is to remember the Jews’ struggle for religious freedom.|
+|Hanukkah|November or December|lasts for **eight days**. It is to remember the Jews’ struggle for religious freedom. On each day of the festival a **candle** is lit on a stand of eight candles (called a **menorah**) to remember the story of the festival, where oil that should have lasted only a day did so for eight.|
 |Christmas Eve|24th of December||
+|Christmas Day|25 December|celebrates the birth of Jesus Christ.|
+|Boxing Day|26th of December|public holiday.|
 |New Year’s Eve|31st of December||
-|Hogmanay|31st of December|In Scotland|
+|Hogmanay|31st of December|For Scotland. For some Scottish people, Hogmanay is a bigger holiday than Christmas.|
 ||1st of Jan, 2nd of Jan|bank holidays in Scotland|
 |Ramadan||Muslims have fasted for **a month**.|
 |Eid a-Fitr||The day when Muslims thank Allah for giving them the strength to complete the fast, celebrates the end of Ramadan|
@@ -357,6 +510,8 @@ The currency in the UK is the pound sterling (symbol £).
 |Pancake Day|The day before Lent starts||
 |Lent|40 days before **Easter**|The 40 days before Easter are known as Lent. It begins on **Ash Wednesday**. It is a time when Christians take time to reflect and prepare for Easter.|
 |April Fool’s Day|1st of April|people play jokes on each other **until midday**. The television and newspapers often have stories that are April Fool jokes.|
+|Vaisakhi|14th of April|(also spelled Baisakhi) a Sikh festival which celebrates the founding of the Sikh community known as the Khalsa. It is celebrated each year with parades, dancing and singing.|
+|Eid ul Adha||Many Muslims sacrifice an animal to eat during Eid ul Adha. It reminds Muslims of their own commitment to God|
 
 # Culture
 
@@ -417,3 +572,31 @@ Giving blood only takes about **an hour** to do.
 Donated blood is used by hospitals to help people with a wide range of **injuries** and **illnesses**.
 
 Living people can donate **blood** and **a kidney**.
+
+Many theatres produce a **pantomime** at **Christmas time**. They are based on **fairy** stories and are light-plays with music and comedy, enjoyed by **family** audiences.
+
+The Life in the UK test is usually taken is English, although special arrangements can be made if you wish to take it in **Welsh** or **Scottish Gaelic**.
+
+In the UK, owners are responsible for keeping their dog **under control** and for **cleaning up** after the animal in public places.
+
+All dogs in public places must wear a collar showing the **name and address** of the owner.
+
+To apply to become a permanent resident or citizen of the UK, you will need to **speak and read English** and have **a good understanding of life** in the UK.
+
+The Mercury Music Prize is awarded each **September** for the best album from the UK and Ireland.
+
+A Formula 1 **Grand Prix** event is held in the UK **each** year and a number of British Grand Prix drivers have won the Formula 1 World Championship.
+
+Social networking websites such as **Facebook and Twitter** are a popular in the UK.
+
+Britain continues to be particularly strong in **special effects** and **animation movies**.
+
+## Horse-racing
+- There is a very long history of horse racing in Britain, with evidence of events taking place as far back as **Roman** times.
+- The sport has a long association with **royalty**.
+- There are racecourses all over the UK.
+- Famous horse-racing events include:
+  - Royal Ascot, a five-day race meeting in Berkshire attended by members of the Royal Family;
+  - the Grand National at **Aintree** near **Liverpool**;
+  - and the Scottish Grand National at **Ayr**.
+- There is a National Horseracing Museum in **Newmarket**, **Suffolk**.

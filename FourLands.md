@@ -55,6 +55,6 @@ More serious civil cases – for example, when a large amount of compensation is
 
 ---
 
-The Grand National horse racing event is celebrated in **Aintree** near **Liverpool**.
+In England, Wales and Northern Ireland, serious criminal offences are tried in front of a **judge** and a **jury** in a **Crown Court**.
 
-The Scottish Grand National horse racing event is celebrated at **Ayr**.
+In Scotland, serious cases are heard in a **Sheriff Court** with either a **sheriff** or a **sheriff with a jury**. The most serious cases in Scotland, such as murder, are heard at a **High Court** with a judge and jury.
