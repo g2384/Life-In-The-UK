@@ -109,8 +109,7 @@
 |1916|Uprising (the Easter Rising) against the British in Dublin|
 |1918, 11th November|The First World War ended at 11.00 am with victory for Britain and its allies.|
 |1920|The Cenotaph, the centre piece to the Remembrance Day service, was unveiled|
-|1920s|- Many people’s living conditions in the UK got better|
-|- The television was developed by John Logie Baird|
+|1920s|- Many people’s living conditions in the UK got better.<br> - The television was developed by John Logie Baird|
 |1921|A peace treaty was signed between the British government and the Irish Nationalists (led to Ireland's divison)|
 |1922|- A Northern Ireland Parliament was established in 1922, when Ireland was divided, but it was abolished in 1972, shortly after the Troubles broke out in 1969.<br> - The BBC started radio broadcasts|
 |1923|R A Butler became a Conservative MP|
@@ -123,9 +122,7 @@
 |- Mary Peters, a talented athlete, was born|
 |- Sir Jackie Stewart, a Scottish former racing driver who won the Formula 1 world championship three times, was born|
 |1930s|British film studios flourished.|
-|1940|- German forces defeated allied troops and advanced through France|
-|- Winston Churchill became Prime Minister|
-|- The British won the crucial aerial battle against the Germans,called “the Battle of Britain”|
+|1940|- German forces defeated allied troops and advanced through France.<br> - Winston Churchill became Prime Minister.<br>- The British won the crucial aerial battle against the Germans,called “the Battle of Britain”|
 |1940s|Roald Dahl began to publish books and short stories|
 |1941|- German invasion of the Soviet Union|
 |- The United States entered the war when the Japanese bombed its naval base at Pearl Harbour|
@@ -190,14 +187,9 @@
 |2002|The Northern Ireland Assembly was suspended|
 |2003|The Concorde, the world’s only supersonic passenger aircraft, was retired from service.|
 |2006|The Welsh Assembly building was opened|
-|2007|- The Northern Ireland Assembly was reinstated|
-|- Gordon Brown took over as Prime Minister|
+|2007|- The Northern Ireland Assembly was reinstated.<br>- Gordon Brown took over as Prime Minister|
 |2008|Forced Marriage Protection Orders were introduced for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007.|
 |2009|British combat troops left Iraq|
 |2010, May|For the first time in the UK since February 1974, no political party won an overall majority in the General Election. The **Conservative** and **Liberal Democrat** parties formed a coalition and the leader of the **Conservative** Party, **David Cameron**, became Prime Minister.|
-|2011|- The National Assembly for Wales has been able to pass laws in 20areas without the agreement of the UK Parliament|
-|- Protection Orders for forced marriages were introduced in **Scotland**.|
-|2012|- Bradley Wiggins became the first Briton to win the Tour de France|
-|- Mo Farah became the first Briton to win the Olympic gold medals in the 10,000 metres|
-|- Queen Elizabeth II’s Diamond Jubilee (60 years as Queen)|
-|- The public elected Police and Crime Commissioners (PCCs) in England and Wales|
+|2011|- The National Assembly for Wales has been able to pass laws in 20areas without the agreement of the UK Parliament.<br>- Protection Orders for forced marriages were introduced in **Scotland**.|
+|2012|- Bradley Wiggins became the first Briton to win the Tour de France.<br>- Mo Farah became the first Briton to win the Olympic gold medals in the 10,000 metres.<br>- Queen Elizabeth II’s Diamond Jubilee (60 years as Queen).<br>- The public elected Police and Crime Commissioners (PCCs) in England and Wales|
