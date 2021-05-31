@@ -55,8 +55,6 @@ The Queen of the United Kingdom is married to Prince Philip, the Duke of **Edinb
 
 Great Britain refers only to England, Scotland and Wales, not to Northern Ireland.
 
-There are **five** ski centres in **Scotland**, as well as Europe’s longest dry ski slope near **Edinburgh**.
-
 **Snowdon** is the highest mountain in Wales.
 
 London has **33** local authorities, with the **Greater London Authority** and the **Mayor of London** coordinating policies across the capital.
@@ -72,6 +70,8 @@ The London Eye is situated on the **southern bank** of the River Thames and is a
 The London Eye was originally built as part of the UK’s celebration of the new **millennium** and continues to be an important part of **New Year** celebrations.
 
 The Millennium Stadium is located in **Cardiff**.
+
+Wembley Stadium is in London.
 
 The clock tower at the Houses of Parliament in London is named **‘Elizabeth Tower’** in honour of Queen Elizabeth II’s Diamond Jubilee in 2012.
 
@@ -517,12 +517,6 @@ The currency in the UK is the pound sterling (symbol £).
 
 The most famous **sailing** event in the UK takes place at **Cowes** on the **Isle of Wight**.
 
-Rugby originated in **England** in the **early 19th century** and is very popular in the UK today.
-
-There are two different types of **rugby**, which have different rules: **union** and **league**.
-
-The most famous rugby union competition is the **Six Nations Championship** between **England, Ireland, Scotland, Wales, France and Italy**.
-
 In the UK, some people rent additional land called **‘an allotment’**, where they grow fruit and vegetables.
 
 Two well-known pop music groups in the 1960s were **The Beatles** and The **Rolling Stones**.
@@ -530,10 +524,6 @@ Two well-known pop music groups in the 1960s were **The Beatles** and The **Roll
 Words such as Grimsby and Scunthorpe come from the Viking languages.
 
 The **Laurence Olivier** Awards take place **annually** at different venues in **London**.
-
-The open championship (golf) is the only ‘Major’ tournament held outside the United States.
-
-**St. Andrews** in **Scotland** is known as the home of golf.
 
 Big Ben is the nickname for the great bell of the clock at the House of Parliament in London.
 
@@ -565,8 +555,6 @@ You will receive a fine **up to £1,000** if you watch TV but do not have a TV l
 
 The money from TV licences is used to **pay for the British Broadcasting Corporation (BBC)**. This is a public service broadcaster providing television and radio programmes. The BBC is the **largest broadcaster** in the world. It is the only **wholly state-funded** media organisation that is **independent of government**.
 
-**Sailing** continues to be popular in the UK, reflecting its maritime heritage. **Rowing** is also popular, both as a leisure activity and as a competitive sport.
-
 Giving blood only takes about **an hour** to do.
 
 Donated blood is used by hospitals to help people with a wide range of **injuries** and **illnesses**.
@@ -591,7 +579,72 @@ Social networking websites such as **Facebook and Twitter** are a popular in the
 
 Britain continues to be particularly strong in **special effects** and **animation movies**.
 
+# Sport
+
+- Local governments and private companies provide sports facilities such as:
+  - swimming pools
+  - tennis courts
+  - football pitches
+  - dry ski slopes
+  - gymnasiums
+- Many famous sports began in Britain:
+  - cricket
+  - football
+  - lawn tennis
+  - golf
+  - rugby
+
+- The UK has hosted the Olympic Games on three occasions:
+  - 1908,
+  - 1948
+  - 2012
+- The main Olympic site for the 2012 Games was in **Stratford**, **East London**.
+- The British team was very successful, across a wide range of Olympic sports, finishing third in the medal table.
+- The Paralympic Games for 2012 were also hosted in London.
+
+## Cricket
+
+- Cricket originated in England and is now played in many countries.
+- Games can last up to **five days** but still result in a draw!
+- The idiosyncratic nature of the game and its complex laws are said to reflect the best of the British character and sense of fair play.
+- expressions used everyday:
+  - ‘rain stopped play’
+  - ‘batting on a sticky wicket’
+  - ‘playing a straight bat’
+  - ‘bowled a googly’
+  - ‘it’s just not cricket’
+- The most famous competition is the **Ashes**, which is a series of Test matches played between **England** and **Australia**. 
+
+## Football
+
+- Football is the UK’s most popular sport.
+- It has a long history in the UK and the first professional football clubs were formed in the late 19th century.
+- England, Scotland, Wales and Northern Ireland each have **separate leagues** in which clubs representing different towns and cities compete.
+- The English **Premier** League attracts a huge international audience.
+- Many of the best players in the world play in the Premier League.
+- Many UK teams also compete in competitions such as the **UEFA** (Union of European Football Associations) Champions League, against other teams from Europe.
+- Most towns and cities have a professional club and people take great pride in supporting their home team.
+- There can be great rivalry between different football clubs and among fans.
+- Each country in the UK also has its own national team that competes with other national teams across the world in tournaments such as the **FIFA** (Fédération Internationale de Football Association) World Cup and the **UEFA** European Football Championships.
+- England’s **only** international tournament victory was at the World Cup of **1966**, hosted in the UK.
+
+## Rugby
+
+- Rugby originated in England in the **early 19th** century and is very popular in the UK today.
+- There are two different types of rugby, which have different rules: **union** and **league**.
+- Both have separate leagues and national teams in England, Wales, Scotland and Northern Ireland (who play with the Irish Republic).
+- Teams from all countries compete in a range of competitions.
+- The most famous rugby union competition is the Six Nations Championship between:
+  - England,
+  - Ireland,
+  - Scotland,
+  - Wales,
+  - France
+  - and Italy.
+- The **Super League** is the most well-known rugby league (club) competition. 
+
 ## Horse-racing
+
 - There is a very long history of horse racing in Britain, with evidence of events taking place as far back as **Roman** times.
 - The sport has a long association with **royalty**.
 - There are racecourses all over the UK.
@@ -600,3 +653,42 @@ Britain continues to be particularly strong in **special effects** and **animati
   - the Grand National at **Aintree** near **Liverpool**;
   - and the Scottish Grand National at **Ayr**.
 - There is a National Horseracing Museum in **Newmarket**, **Suffolk**.
+
+## Golf
+
+- The modern game of golf can be traced back to **15th** century **Scotland**.
+- **St Andrews** in **Scotland** is known as the home of golf.
+- It is a popular sport played socially as well as professionally.
+- There are public and private golf courses all over the UK.
+- The **Open** Championship is the only ‘Major’ tournament held outside the United States. It is hosted by a different golf course every year.
+
+## Tennis
+
+- Modern tennis evolved in England in the **late 19th** century.
+- The first tennis club was founded in **Leamington Spa** in **1872**.
+- The most famous tournament hosted in Britain is The **Wimbledon** Championships, which takes place **each year** at the **All England Lawn Tennis and Croquet Club**. It is the **oldest** tennis tournament in the world and the only **‘Grand Slam’** event played on **grass**.
+
+## Water sports
+
+- Sailing continues to be popular in the UK, reflecting our maritime heritage.
+- Many sailing events are held throughout the UK, the most famous of which is at **Cowes** on the **Isle of Wight**.
+- Rowing is also popular, both as a leisure activity and as a competitive sport.
+- There is a popular yearly race on the **Thames** between **Oxford** and **Cambridge** Universities.
+
+## Motor sports
+
+- There is a long history of motor sport in the UK, for both cars and motor cycles.
+- Motor-car racing in the UK started in **1902**.
+- The UK continues to be a world leader in the development and manufacture of motor-sport technology.
+- A Formula 1 **Grand Prix** event is held in the UK **each year** and a number of British Grand Prix drivers have won the Formula 1 World Championship.
+- Recent British Formula 1 World Championship winners:
+  - Damon Hill,
+  - Lewis Hamilton
+  - Jensen Button.
+
+## Skiing
+
+- Skiing is increasingly popular in the UK.
+- Many people go abroad to ski and there are also dry ski slopes throughout the UK.
+- Skiing on snow may also be possible during the winter.
+- There are **five** ski centres in Scotland, as well as Europe’s longest dry ski slope near **Edinburgh**.

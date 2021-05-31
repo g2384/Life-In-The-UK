@@ -38,16 +38,27 @@
 |James Watt|His work on steam power, helped the progress of the Industrial Revolution.|
 |Scotsman John Logie Baird|In **1932**, he made the first television broadcast between London and Glasgow.|
 |Sir Christopher Cockrell (1910-99)|a British inventor, invented the **hovercraft** in the **1950s**.|
+|Dr Sir Ludwig Guttman|The Paralympics have their origin in the work of **Dr Sir Ludwig Guttman**, a **German** refugee, at the **Stoke Mandeville** hospital in **Buckinghamshire**. He developed new methods of treatment for people with spinal injuries and encouraged patients to take part in exercise and sport.|
 |**Athlets**||
-|Sir Ian Botham (1955-)|captained the English cricket team and holds a number of English Test cricket records, both for batting and for bowling.|
-|Dame Kelly Holmes|won two gold medals for running in the 2004 Olympic Games. She has held a number of British and European records.|
-|Sir Steve Redgrave|won gold medals in rowing in **five** consecutive Olympic Games and is one of Britain’s greatest Olympians.
-|Baroness Tanni Grey-Thompson (1969-)|an athlete who uses a wheelchair and won **16** Paralympic medals, including **11 gold** medals, in **races** over **five** Paralympic Games. She won the London Marathon **six** times and broke a total of **30** world records.|
 |Sir Francis Chichester|the first person to sail **singlehanded** around the world, in 1966/67.|
 |Sir Robin Knox-Johnston|the first person to sail **singlehanded** around the world **without stopping** in 1969.|
-|Dame Ellen MacArthur (1976-)|a yachtswoman and in **2004** became the **fastest** person to sail around the world singlehanded.|
-|Sir Jackie Stewart|a Scottish former racing driver who won the Formula 1 world championship **three** times.|
 |Jenson Button|a famous Formula 1 driver.|
+|Sir Roger Bannister (1929–)| was the first man in the world to run a mile in under four minutes, in 1954.|
+|Sir Jackie Stewart (1939–)|a Scottish former racing driver who won the Formula 1 world championship **three** times.|
+|Bobby Moore (1941–93)| captained the English football team that won the World Cup in 1966.|
+|Sir Ian Botham (1955–)|captained the English cricket team and holds a number of English Test cricket records, both for batting and for bowling.|
+|Jayne Torvill (1957–)| and Christopher Dean (1958–) won gold medals for ice dancing at the Olympic Games in 1984 and in four consecutive world championships.|
+|Sir Steve Redgrave (1962–)| won gold medals in rowing in **five** consecutive Olympic Games and is one of Britain’s greatest Olympians.|
+|Baroness Tanni-Grey Thompson (1969–)|an athlete who uses a wheelchair and won **16** Paralympic medals, including **11** gold medals, in **races** over **five** Paralympic Games. She won the London Marathon **six** times and broke a total of **30** world records.|
+|Dame Kelly Holmes (1970–)|won two gold medals for running in the 2004 Olympic Games. She has held a number of British and European records.|
+|Dame Ellen MacArthur (1976–)|a yachtswoman and in **2004** became the **fastest** person to sail around the world singlehanded.|
+|Sir Chris Hoy (1976–)| is a Scottish cyclist who has won six gold and one silver Olympic medals. He has also won 11 world championship titles.
+|David Weir (1979–)| is a Paralympian who uses a wheelchair and has won six gold medals over two Paralympic Games. He has also won the London Marathon six times.|
+|Bradley Wiggins (1980–)| is a cyclist. In 2012, he became the first Briton to win the Tour de France. He has won seven Olympic medals, including gold medals in the 2004, 2008 and 2012 Olympic Games.|
+|Mo Farah (1983–)| is a British distance runner, born in Somalia. He won gold medals in the 2012 Olympics for the 5,000 and 10,000 metres and is the first Briton to win the Olympic gold medal in the 10,000 metres.|
+|Jessica Ennis (1986–)| is an athlete. She won the 2012 Olympic gold medal in the heptathlon, which includes seven different track and field events. She also holds a number of British athletics records.|
+|Andy Murray (1987–)| is a Scottish tennis player who in 2012 won the men’s singles in the US Open. He is the first British man to win a singles title in a Grand Slam tournament since 1936. In the same year, he won Olympic gold and silver medals and was runner-up in the men’s singles at Wimbledon.
+|Ellie Simmonds (1994–)| is a Paralympian who won gold medals for swimming at the 2008 and 2012 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games.|
 |**Novelists**||
 |Jane Austen (1775-1817)|Her books include Pride and Prejudice and Sense and Sensibility.|
 |Evelyn Waugh|wrote satirical novels, including Decline and Fall and Scoop. He is perhaps best known for **Brideshead Revisited**.|
