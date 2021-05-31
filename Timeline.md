@@ -122,6 +122,7 @@
 |1939|- Adolf Hitler invaded Poland. Britain and France declared war on Germany|
 |- Mary Peters, a talented athlete, was born|
 |- Sir Jackie Stewart, a Scottish former racing driver who won the Formula 1 world championship three times, was born|
+|1930s|British film studios flourished.|
 |1940|- German forces defeated allied troops and advanced through France|
 |- Winston Churchill became Prime Minister|
 |- The British won the crucial aerial battle against the Germans,called “the Battle of Britain”|
@@ -161,9 +162,7 @@
 |1966/67|Sir Francis Chichester was the first person to sail single-handed around the world|
 |1967|The first ATM was put into use by Barclays Bank in Enfield, north London|
 |1968|The Man Booker Prize for Fiction has been awarded since 1968|
-|1969|- The Concorde, the world’s only supersonic passenger aircraft, first flew|
-|- Monty Python introduced a new type of progressive comedy|
-|- The Troubles broke out in Northern Ireland|
+|1969|- The Concorde, the world’s only supersonic passenger aircraft, first flew<br>- Monty Python introduced a new type of progressive comedy<br>- The Troubles broke out in Northern Ireland.<br>- the voting age was reduced to 18 for men and women.
 |Early 1970s|Britain admitted 28,000 people of Indian origin who had been forced to leave Uganda|
 |1970|Margaret Thatcher became a cabinet minister as the Secretary of State for Education and Science|
 |1970s|Period of serious unrest in Northern Ireland|
@@ -189,9 +188,7 @@
 |2000|- Mary Peters was made a Dame of the British Empire in recognition of her work|
 |- Since 2000, British armed forces have been engaged in the global fight against international terrorism and against the proliferation of weapons of mass destruction|
 |2002|The Northern Ireland Assembly was suspended|
-|2003|- The Concorde, the world’s only supersonic passenger aircraft, was retired from service|
-|- The Lord of the Rings by JRR Tolkien was voted the country’s best-loved novel|
-|2004|Dame Ellen MacArthur became the fastest person to sail around the world single-handed|
+|2003|- The Concorde, the world’s only supersonic passenger aircraft, was retired from service.<br>- The Lord of the Rings by JRR Tolkien was voted the country’s best-loved novel|
 |2006|The Welsh Assembly building was opened|
 |2007|- The Northern Ireland Assembly was reinstated|
 |- Gordon Brown took over as Prime Minister|

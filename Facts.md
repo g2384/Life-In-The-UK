@@ -36,18 +36,24 @@ The UK population is **ethnically diverse** and **changing rapidly**, especially
 ## 18
 - to buy alcohol in a pub or night club, but people under this age may be allowed in some pubs with an adult. (It is a criminal offence to sell alcohol to anyone who is under 18 or to buy alcohol for people who are under the age of 18.)
 - It is illegal and a criminal offence to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18.
+- Most citizens of the UK, the Irish republic or the Commonwealth aged 18 or over **can stand for** public office. There are some **exceptions**, including:
+  - members of the armed forces,
+  - civil servants,
+  - people found guilty of certain criminal offences.
 
-# The Queen
+# Monarchy
 
 The Queen represents the UK to the rest of the world.
 
 Queen Elizabeth II is the head of state in the UK.
 
+The Queen of the United Kingdom is married to Prince Philip, the Duke of **Edinburgh**.
+
 # Geography
 
 Great Britain refers only to England, Scotland and Wales, not to Northern Ireland.
 
-There are **five** ski centres in **Scotland**, as well as Europe’s longest dry ski slope **near Edinburgh**.
+There are **five** ski centres in **Scotland**, as well as Europe’s longest dry ski slope near **Edinburgh**.
 
 **Snowdon** is the highest mountain in Wales.
 
@@ -59,7 +65,11 @@ There are **15** national parks in England, Wales and Scotland. They are areas o
 
 The capital city of the UK is London.
 
-The London Eye is situated on the **southern bank** of the River Thames and is a Ferris wheel that is **443 feet (135 metres)** tall.
+The London Eye is situated on the **southern bank** of the River Thames and is a Ferris wheel that is **443 feet (135 metres)** tall. (not a World Heritage Site).
+
+The London Eye was originally built as part of the UK’s celebration of the new **millennium** and continues to be an important part of **New Year** celebrations.
+
+The Millennium Stadium is located in **Cardiff**.
 
 The clock tower at the Houses of Parliament in London is named **‘Elizabeth Tower’** in honour of Queen Elizabeth II’s Diamond Jubilee in 2012.
 
@@ -69,6 +79,25 @@ The Eden Project is located in Cornwall, in the south west of England. Its biome
 
 Wales Cities:
 - Swansea
+
+England Cities:
+- Bradford
+
+**Skara Brae on Orkney**, off the **north coast of Scotland**, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the **Stone Age**.
+
+**Loch Lomond** and the **Trossachs** National Park covers 720 square miles (1,865 square kilometres) in the west of **Scotland**.
+
+**The Lake District** is England’s largest national park.
+
+**Snowdonia** is a national park in North Wales.
+
+**Edinburgh Castle** is looked after by **Historic Scotland**, a Scottish government agency.
+
+# Religion
+
+The spiritual leader of the Church of England is the **Archbishop of Canterbury**.
+
+The official Church of the state is the **Church of England** (called the **Anglican Church** in other countries and the **Episcopal Church** in Scotland and the United States).
 
 # Law
 
@@ -147,6 +176,8 @@ The government is usually formed by the party that wins the majority of constitu
 
 You can contact MPs by **letter** or **telephone** at their **constituency office**, or at their office in the **House of Commons**.
 
+Each MP represents a **parliamentary constituency**, which is a **small area of the country**.
+
 The House of Lords is normally more independent of the government than the House of Commons.
 
 The second-largest party in the House of Commons is called the **opposition**.
@@ -165,6 +196,10 @@ Debates in the House of Commons are chaired by the **Speaker**. This person is t
 **Members of the House of Lords** may not stand for election to the **House of Commons** but are eligible for all other public offices.
 
 The **House of Lords** can suggest amendments or propose new laws, which are then discussed by MPs. The House of Lords checks laws that have been passed by the **House of Commons** to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the **people**.
+
+The **official home** of the Prime Minister is **10 Downing Street**, in central London, near the Houses of Parliament. He or she also has a country house outside London called **Chequers**.
+
+The UK has a **constitutional monarchy**.
 
 # Organisations
 
@@ -224,6 +259,13 @@ NATO is a group of European and North American countries that have agreed to hel
 
 The Commonwealth has no power over its members, although it can suspend membership.
 
+Membership to the Commonwealth is **voluntary**.
+
+The Commonwealth is based on the core values of
+- democracy,
+- good government
+- and the rule of law.
+
 # History
 
 During the Middle Ages many knights took part in the Crusades, in which European Christians fought for control of the **Holy Land**.
@@ -243,6 +285,43 @@ During the **Bronze** Age people lived in **roundhouses** and buried their dead 
 Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the former Republic of Yugoslavia.
 
 In the Middle Ages, **Knights**, who were usually **smaller landowners**, and **wealthy people** from towns and cities were elected to sit in the **House of Commons**.
+
+During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Many had special skills:
+- weavers from France,
+- engineers from Germany,
+- glass manufacturers from Italy
+- and canal builders from Holland.
+
+The Parliament developed in Scotland in the Middle Ages had three Houses, called **Estates**:
+- the lords,
+- the commons
+- and the clergy.
+
+The Middle Ages (or the medieval period) was a time of almost **constant war**.
+
+Poems which survive from the Middle Ages include **Chaucer’s Canterbury Tales** and a poem called **Sir Gawain and the Green Knight**, about one of the knights at the court of King Arthur.
+
+In the Middle Ages, the numbers attending Parliament increased and two separate parts, known as **Houses** were established. These were the House of the **Commons** and the House of the **Lords**.
+
+During the Middle Ages, **great landowners** and **bishops** sat in the House of **Lords**.
+
+**Lincoln Cathedral** was built in the middle ages.
+
+At the beginning of the Middle Ages, Ireland was an independent country.
+
+During the middle ages, several cathedrals had windows of stained glass, telling stories about the **Bible** and **Christian saints**. The glass in **York Minster** is a famous example.
+
+Anne Boleyn was executed at the tower of London.
+
+Catherine of Aragon was a Spanish princess.
+
+Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were **labour shortages** and peasants began to demand **higher wages**. New social classes appeared, including **owners of large areas of land** (later called the **gentry**), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a **strong middle class**.
+
+In the **19th** century, **Gilbert** and **Sullivan** wrote **comic operas**, often making fun of popular culture and politics. These operas include **HMS Pinafore**, The **Pirates of Penzance** and **The Mikado**.
+
+Queen Mary was a devout **Catholic** and persecuted **Protestants** (for this reason, she became known as ‘Bloody Mary’).
+
+In the late 1970s, the post-war economic boom came to an end.
 
 # Economy
 
@@ -267,11 +346,17 @@ The currency in the UK is the pound sterling (symbol £).
 |Diwali|in October or November|lasts for **five days**. celebrated by **Hindus and Sikhs**. also called the Festival of **Lights**. There is a famous celebration of Diwali in **Leicester**. the victory of good over evil and the gaining of knowledge.|
 |Hanukkah|November or December|lasts for **eight days**. It is to remember the Jews’ struggle for religious freedom.|
 |Christmas Eve|24th of December||
-|Hogmanay|31 December|In Scotland|
+|New Year’s Eve|31st of December||
+|Hogmanay|31st of December|In Scotland|
 ||1st of Jan, 2nd of Jan|bank holidays in Scotland|
 |Ramadan||Muslims have fasted for **a month**.|
 |Eid a-Fitr||The day when Muslims thank Allah for giving them the strength to complete the fast, celebrates the end of Ramadan|
 |Remembrance Day||The **Cenotaph** in **Whitehall** is the site of the annual Remembrance Day service attended by the Queen, politicians and foreign ambassadors.|
+|The Edinburgh Festival|every summer|takes place in Edinburgh, Scotland. <br>The **Fringe** is a showcase of mainly theatre and comedy performances. It often shows experimental work.The biggest and most well-known being the **Edinburgh Festival Fringe**.|
+|Shrove Tuesday|The day before Lent starts||
+|Pancake Day|The day before Lent starts||
+|Lent|40 days before **Easter**|The 40 days before Easter are known as Lent. It begins on **Ash Wednesday**. It is a time when Christians take time to reflect and prepare for Easter.|
+|April Fool’s Day|1st of April|people play jokes on each other **until midday**. The television and newspapers often have stories that are April Fool jokes.|
 
 # Culture
 
@@ -293,6 +378,8 @@ The **Laurence Olivier** Awards take place **annually** at different venues in *
 
 The open championship (golf) is the only ‘Major’ tournament held outside the United States.
 
+**St. Andrews** in **Scotland** is known as the home of golf.
+
 Big Ben is the nickname for the great bell of the clock at the House of Parliament in London.
 
 The Brit Awards is an **annual** event that gives awards in a range of categories, such as best British **group** and best British **solo artist**.
@@ -303,7 +390,7 @@ The public can listen to debates in the Palace of Westminster from **public gall
 
 Proceedings in Parliament are broadcast on television and published in official reports called **Hansard**.
 
-The Man Booker Prize for Fiction is awarded **annually** for the best fiction novel written by an author from the **Commonwealth, Ireland or Zimbabwe**. It has been awarded since 1968.
+The Man Booker Prize for Fiction is awarded **annually** for the best fiction novel written by an author from the **Commonwealth, Ireland or Zimbabwe**. It has been awarded since 1968. Past winners include **Ian McEwan**, **Hilary Mantel** and **Julian Barnes**.
 
 Vaccinations and medical treatment for animals are available from veterinary surgeons (vets).
 
@@ -312,3 +399,21 @@ People in the UK are living longer than ever before. This is due to improved liv
 Some words in modern English – for example, ‘park’ and ‘beauty’ – are based on Norman French words.
 
 Pool and darts are traditional pub games.
+
+Pubs are usually open during the day from **11.00 am** (**12 noon** on **Sundays**).
+
+People **over 75** can apply for a free TV licence and **blind people** can get a **50%** discount.
+
+Everyone in the UK with a TV, computer or **other medium** which can be used for watching TV must have a television licence.
+
+You will receive a fine **up to £1,000** if you watch TV but do not have a TV licence.
+
+The money from TV licences is used to **pay for the British Broadcasting Corporation (BBC)**. This is a public service broadcaster providing television and radio programmes. The BBC is the **largest broadcaster** in the world. It is the only **wholly state-funded** media organisation that is **independent of government**.
+
+**Sailing** continues to be popular in the UK, reflecting its maritime heritage. **Rowing** is also popular, both as a leisure activity and as a competitive sport.
+
+Giving blood only takes about **an hour** to do.
+
+Donated blood is used by hospitals to help people with a wide range of **injuries** and **illnesses**.
+
+Living people can donate **blood** and **a kidney**.

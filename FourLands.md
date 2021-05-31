@@ -4,10 +4,12 @@
 |Cross of patron saint|Red cross on a white ground|Diagonal white cross on a blue ground|Yellow cross on a black field|(Ireland) Diagonal red cross on a white ground.|
 |St __'s Day|23rd of April|30th of November|1st of March|17th of March|
 |Language| - |Gaelic is spoken in some parts of the Highlands and Islands|many people speak Welsh – a completely different language from English – and it is taught in schools and universities.|some people speak Irish Gaelic.|
+|Capital| - |Edinburgh|Cardiff|Belfast|
 |channel|||one Welsh-language channel|
 |Gardens|Kew Gardens, Sissinghurst and Hidcote|Crathes Castle and Inveraray Castle|Bodnant Garden|Mount Stewart|
 |Galleries|The National Gallery, Tate Britain and Tate Modern in London|the National Gallery of Scotland in Edinburgh| the National Museum in Cardiff||
-|Traditional Food||||Ulster fry – a fried meal with bacon, eggs, sausage, black pudding, tomatoes, mushrooms, soda bread and potato bread|
+|Traditional Food|||Welsh cakes - a traditional Welsh snack made from flour, dried fruits and spices, and served either hot or cold.|Ulster fry – a fried meal with bacon, eggs, sausage, black pudding, tomatoes, mushrooms, soda bread and potato bread|
+|Flower|rose|||
 
 ---
 
@@ -43,7 +45,13 @@ In England, Wales and Northern Ireland, most minor criminal cases are dealt with
 
 ---
 
-**County Courts** deal with a wide range of civil disputes. These include people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce. In **Scotland**, most of these matters are dealt with in the **Sheriff Court**.
+**County Courts** deal with a wide range of **civil disputes**. These include people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce. In **Scotland**, most of these matters are dealt with in the **Sheriff Court**.
+
+You can get details about the small claims procedure from **your local County Court or Sheriff Court**.
+
+---
+
+More serious civil cases – for example, when a large amount of compensation is being claimed – are dealt with in the **High Court** of England, Wales and Northern Ireland. In Scotland, they are dealt with in the **Court of Session in Edinburgh**.
 
 ---
 
