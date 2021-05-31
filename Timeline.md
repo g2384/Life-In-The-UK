@@ -175,8 +175,7 @@
 |1978|The world’s first “test-tube baby” was born in Oldham, Lancashire|
 |1979|Margaret Thatcher became the first woman Prime Minister of the UK|
 |1980 - 1989|
-|1984|- Jayne Torvill and Christopher Dean won gold medals for ice dancing at the Olympic Games|
-|- The Turner Prize, celebrating contemporary art, was established|
+|1984|- Jayne Torvill and Christopher Dean won gold medals for ice dancing at the Olympic Games.<br> - The Turner Prize, celebrating contemporary art, was established|
 |1990|Iraqi invasion of Kuwait|
 |1990, 25 December|Information was successfully transferred via the web for the first time|
 |1990s|Britain played a leading role in coalition forces involved in the liberation of Kuwait|

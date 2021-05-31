@@ -389,8 +389,6 @@ During the First World War millions of people were killed or wounded, with more 
 
 The **Normans** used a system of land ownership known as **feudalism**.
 
-In the **19th** century, the medieval **’gothic’** style became popular again. As cities expanded, many great public buildings were built in this style. The **Houses of Parliament** and **St Pancras Station** were built at this time, as were the town halls in cities such as **Manchester** and **Sheffield**.
-
 During the **Bronze** Age people lived in **roundhouses** and buried their dead in tombs called **round barrows**.
 
 **Catherine Howard** was a **cousin** of **Anne Boleyn**.
@@ -414,8 +412,6 @@ The Parliament developed in Scotland in the Middle Ages had three Houses, called
 
 The Middle Ages (or the medieval period) was a time of almost **constant war**.
 
-Poems which survive from the Middle Ages include **Chaucer’s Canterbury Tales** and a poem called **Sir Gawain and the Green Knight**, about one of the knights at the court of King Arthur.
-
 In the Middle Ages, the numbers attending Parliament increased and two separate parts, known as **Houses** were established. These were the House of the **Commons** and the House of the **Lords**.
 
 During the Middle Ages, **great landowners** and **bishops** sat in the House of **Lords**.
@@ -431,8 +427,6 @@ Anne Boleyn was executed at the tower of London.
 Catherine of Aragon was a Spanish princess.
 
 Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were **labour shortages** and peasants began to demand **higher wages**. New social classes appeared, including **owners of large areas of land** (later called the **gentry**), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a **strong middle class**.
-
-In the **19th** century, **Gilbert** and **Sullivan** wrote **comic operas**, often making fun of popular culture and politics. These operas include **HMS Pinafore**, The **Pirates of Penzance** and **The Mikado**.
 
 Queen Mary was a devout **Catholic** and persecuted **Protestants** (for this reason, she became known as ‘Bloody Mary’).
 
@@ -505,7 +499,6 @@ The currency in the UK is the pound sterling (symbol £).
 |Ramadan||Muslims have fasted for **a month**.|
 |Eid a-Fitr||The day when Muslims thank Allah for giving them the strength to complete the fast, celebrates the end of Ramadan|
 |Remembrance Day||The **Cenotaph** in **Whitehall** is the site of the annual Remembrance Day service attended by the Queen, politicians and foreign ambassadors.|
-|The Edinburgh Festival|every summer|takes place in Edinburgh, Scotland. <br>The **Fringe** is a showcase of mainly theatre and comedy performances. It often shows experimental work.The biggest and most well-known being the **Edinburgh Festival Fringe**.|
 |Shrove Tuesday|The day before Lent starts||
 |Pancake Day|The day before Lent starts||
 |Lent|40 days before **Easter**|The 40 days before Easter are known as Lent. It begins on **Ash Wednesday**. It is a time when Christians take time to reflect and prepare for Easter.|
@@ -527,15 +520,11 @@ The **Laurence Olivier** Awards take place **annually** at different venues in *
 
 Big Ben is the nickname for the great bell of the clock at the House of Parliament in London.
 
-The Brit Awards is an **annual** event that gives awards in a range of categories, such as best British **group** and best British **solo artist**.
-
 ‘PDSA’ stands for People’s Dispensary for Sick Animals.
 
 The public can listen to debates in the Palace of Westminster from **public galleries** in both the **House of Commons** and the **House of Lords**.
 
 Proceedings in Parliament are broadcast on television and published in official reports called **Hansard**.
-
-The Man Booker Prize for Fiction is awarded **annually** for the best fiction novel written by an author from the **Commonwealth, Ireland or Zimbabwe**. It has been awarded since 1968. Past winners include **Ian McEwan**, **Hilary Mantel** and **Julian Barnes**.
 
 Vaccinations and medical treatment for animals are available from veterinary surgeons (vets).
 
@@ -561,8 +550,6 @@ Donated blood is used by hospitals to help people with a wide range of **injurie
 
 Living people can donate **blood** and **a kidney**.
 
-Many theatres produce a **pantomime** at **Christmas time**. They are based on **fairy** stories and are light-plays with music and comedy, enjoyed by **family** audiences.
-
 The Life in the UK test is usually taken is English, although special arrangements can be made if you wish to take it in **Welsh** or **Scottish Gaelic**.
 
 In the UK, owners are responsible for keeping their dog **under control** and for **cleaning up** after the animal in public places.
@@ -570,8 +557,6 @@ In the UK, owners are responsible for keeping their dog **under control** and fo
 All dogs in public places must wear a collar showing the **name and address** of the owner.
 
 To apply to become a permanent resident or citizen of the UK, you will need to **speak and read English** and have **a good understanding of life** in the UK.
-
-The Mercury Music Prize is awarded each **September** for the best album from the UK and Ireland.
 
 A Formula 1 **Grand Prix** event is held in the UK **each** year and a number of British Grand Prix drivers have won the Formula 1 World Championship.
 
@@ -692,3 +677,103 @@ Britain continues to be particularly strong in **special effects** and **animati
 - Many people go abroad to ski and there are also dry ski slopes throughout the UK.
 - Skiing on snow may also be possible during the winter.
 - There are **five** ski centres in Scotland, as well as Europe’s longest dry ski slope near **Edinburgh**.
+
+# Arts and culture
+
+## Music
+
+- Music is an important part of British culture, with a rich and varied heritage.
+- It ranges from classical music to modern pop.
+- There are many different venues and musical events that take place across the UK.
+- The **Proms** is an **eight**-week summer season of **orchestral** classical music that takes place in various venues, including the **Royal Albert Hall** in London. It has been organised by the British Broadcasting Corporation (BBC) since **1927**. **The Last Night of the Proms** is the most well-known concert and (along with others in the series) is broadcast **on television**.
+- Classical music has been popular in the UK for many centuries.
+- Other types of popular music, including folk music, jazz, pop and music, have flourished in Britain since the **20th** century.
+- Britain has had an impact on popular music around the world, due to:
+  - the **wide use of the English language**,
+  - the UK’s **cultural links** with many countries,
+  - and **British capacity for invention and innovation**.
+- Since the **1960s**, British pop music has made one of the most important cultural contributions to life in the UK. Bands including **The Beatles** and **The Rolling Stones** continue to have an influence on music both here and abroad.
+- British pop music has continued to innovate – for example, the **Punk** movement of the late 1970s, and the trend towards boy and girl bands in the 1990s.
+- There are many large venues that host music events throughout the year, such as:
+  - Wembley Stadium;
+  - The O2 in Greenwich, south-east London;
+  - and the Scottish Exhibition and Conference Centre (SECC) in Glasgow.
+- Festival season takes place across the UK every summer, with major events in various locations. Many bands and solo artists, both well-known and up-and-coming, perform at these events. Famous festivals include
+  - Glastonbury
+  - the Isle of Wight Festival
+  - the V Festival.
+- The **National Eisteddfod of Wales** is an annual cultural festival which includes music, dance, art and original performances largely in **Welsh**. It includes a number of important competitions for Welsh poetry.
+- The **Mercury Music Prize** is awarded each **September** for the best album from the UK and Ireland.
+- The **Brit Awards** is an annual event that gives awards in a range of categories, such as best British **group** and best British **solo** artist.
+
+## Theatre
+
+- There are theatres in most towns and cities throughout the UK, ranging from the large to the small.
+- They are an important part of local communities and often show both **professional** and **amateur** productions.
+- London’s **West End**, also known as **‘Theatreland’**, is particularly well known.
+- There is also a strong tradition of musical theatre in the UK.
+- Many theatres produce a **pantomime** (british tradition) at **Christmas** time. They are based on **fairy** stories and are light-hearted plays with music and comedy, enjoyed by **family** audiences. One of the traditional characters is the **Dame**, a woman played by a man. There is often also a **pantomime horse or cow** played by two actors in the same costume.
+- The **Edinburgh Festival** takes place in Edinburgh, Scotland, **every summer**. It is a series of different arts and cultural festivals, with the biggest and most well-known being the **Edinburgh Festival Fringe** (‘the Fringe’). The Fringe is a showcase of mainly theatre and comedy performances. It often shows experimental work.
+- The **Laurence Olivier** Awards take place **annually** at different venues in London. There are a variety of categories, including best director, best actor and best actress. The awards are named after the British actor Sir Laurence Olivier, later Lord Olivier, who was best known for his roles in various **Shakespeare** plays.
+
+## Art
+
+- During the Middle Ages, most art had a religious theme, particularly wall paintings in churches and illustrations in religious books. Much of this was lost after the **Protestant Reformation** but wealthy families began to collect other paintings and sculptures.
+- Many of the painters working in Britain in the 16th and 17th centuries were from **abroad** – for example, **Hans Holbein** and **Sir Anthony Van Dyck**. 
+- British artists, particularly those painting portraits and landscapes, became well known from the 18th century onwards.
+- Works by British and international artists are displayed in galleries across the UK.
+- The **Turner** Prize was established in 1984 and celebrates **contemporary** art. It was named after **Joseph Turner**. Four works are shortlisted every year and shown at **Tate Britain** before the winner is announced. The Turner Prize is recognised as one of the most prestigious visual art awards in Europe. Previous winners include **Damien Hirst** and **Richard Wright**.
+
+## Architecture
+
+- The architectural heritage of the UK is rich and varied.
+- In the Middle Ages, great cathedrals and churches were built, many of which still stand today. Examples are
+  - the cathedrals in Durham,
+  - Lincoln,
+  - Canterbury
+  - Salisbury
+- The **White Tower** in the Tower of London is an example of a **Norman** castle keep, built on the orders of **William the Conqueror**.
+- Gradually, as the countryside became more peaceful and landowners became richer, the houses of the wealthy became more elaborate and great country houses such as **Hardwick Hall** in **Derbyshire** were built. British styles of architecture began to evolve.
+- In the 19th century, the medieval **‘gothic’** style became popular again. As cities expanded, many great public buildings were built in this style. **The Houses of Parliament** and **St Pancras Station** were built at this time, as were the town halls in cities such as **Manchester** and **Sheffield**.
+- Modern British architects including **Sir Norman Foster**, **Lord (Richard) Rogers** and **Dame Zaha Hadid** continue to work on major projects throughout the world as well as within the UK.
+- Alongside the development of architecture, garden design and landscaping have played an important role in the UK.
+- In the 18th century, **Lancelot ‘Capability’ Brown** designed the grounds around country houses so that the landscape appeared to be natural, with grass, trees and lakes. He often said that a place had ‘capabilities’. 
+- Later, **Gertrude Jekyll** often worked with **Edwin Lutyens** to design colourful gardens around the houses he designed.
+- The annual **Chelsea Flower Show** showcases garden design from Britain and around the world.
+- Britain has produced many great designers, from **Thomas Chippendale** (who designed furniture in the 18th century) to **Clarice Cliff** (who designed Art Deco ceramics) to **Sir Terence Conran** (a 20th-century interior designer). Leading fashion designers of recent years include **Mary Quant**, **Alexander McQueen** and **Vivienne Westwood**.
+
+## Literature
+
+- The UK has a prestigious literary history and tradition.
+- Several British writers have won the Nobel Prize in Literature, for example:
+  - novelist Sir William Golding
+  - the poet Seamus Heaney
+  - the playwright Harold Pinter
+- **Agatha Christie**’s detective stories are read all over the world.
+- **Ian Fleming**’s books introduced James Bond.
+- In 2003, The Lord of the Rings by JRR Tolkien was voted the country’s best-loved novel.
+- The **Man Booker** Prize for Fiction is awarded **annually** for the best fiction novel written by an author from the **Commonwealth, Ireland or Zimbabwe**. It has been awarded since **1968**. Past winners include **Ian McEwan**, **Hilary Mantel** and **Julian Barnes**.
+
+## British poets
+
+- British poetry is among the richest in the world.
+- The Anglo-Saxon poem **Beowulf** tells of its hero’s battles against monsters and is still translated into modern English.
+- Poems which survive from the Middle Ages include **Chaucer’s Canterbury Tales** and a poem called **Sir Gawain** and the **Green Knight**, about one of the knights at the court of King Arthur.
+- As well as plays, Shakespeare wrote many **sonnets** (poems which must be 14 lines long) and some longer poems.
+- As Protestant ideas spread, a number of poets wrote poems inspired by their religious views. One of these was **John Milton**, who wrote **Paradise Lost**.
+- Other poets, including **William Wordsworth**, were inspired by nature. 
+- **Sir Walter Scott** wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England. He also wrote novels, many of which were set in Scotland.
+- Poetry was very popular in the 19th century, with poets such as:
+  - William Blake
+  - John Keats
+  - Lord Byron
+  - Percy Shelley
+  - Alfred Lord Tennyson
+  - Robert and Elizabeth Browning.
+- Later, many poets – for example, Wilfred Owen and Siegfried Sassoon – were inspired to write about their experiences in the First World War.
+- More recently, popular poets have included:
+  - Sir Walter de la Mare
+  - John Masefield
+  - Sir John Betjeman
+  - Ted Hughes
+- Some of the best-known poets are buried or commemorated in Poet’s Corner in Westminster Abbey.
