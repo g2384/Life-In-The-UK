@@ -52,10 +52,6 @@
 |Jessica Ennis (1986–)| is an athlete. She won the 2012 Olympic gold medal in the heptathlon, which includes seven different track and field events. She also holds a number of British athletics records.|
 |Andy Murray (1987–)| is a Scottish tennis player who in 2012 won the men’s singles in the US Open. He is the first British man to win a singles title in a Grand Slam tournament since 1936. In the same year, he won Olympic gold and silver medals and was runner-up in the men’s singles at Wimbledon.
 |Ellie Simmonds (1994–)| is a Paralympian who won gold medals for swimming at the 2008 and 2012 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games.|
-|**Directors**||
-|Alfred Hitchcock|The 39 Steps (1935)|
-|David Lean|Brief Encounter (1945) and Lawrence of Arabia (1962)|
-|Hugh Hudson|Chariots of Fire (1981)|
 |**Composers**||
 |Henry Purcell (1659–1695)|an organist at Westminster Abbey. He wrote church music, operas and other pieces, and developed a British style distinct from that elsewhere in Europe. He continues to be influential on British composers.|
 |George Frederick Handel (1695–1759)|The German-born composer. Spent many years in the UK and became a British citizen in 1727. He wrote the **Water Music** for King George I and Music for the **Royal Fireworks** for his son, George II. Both these pieces continue to be very popular. Handel also wrote an oratorio, **Messiah**, which is sung regularly by choirs, often at Easter time.|
@@ -101,3 +97,14 @@
 |William Wordsworth (1770-1850)|Poet, was inspired by nature.<br>*The Daffodils*|
 |William Blake (1757–1827)|*The Tyger*|
 |Wilfred Owen (1893–1918)|*Anthem for Doomed Youth*|
+|**Directors**||
+|Alfred Hitchcock|*The 39 Steps* (1935)|
+|David Lean|*Brief Encounter* (1945) and *Lawrence of Arabia* (1962)|
+|Carol Reed|*The Third Man* (1949)|
+|Frank Launder|*The Belles of St Trinian’s* (1954)|
+|Ken Russell|*Women in Love* (1969)|
+|Nicolas Roeg|*Don’t Look Now* (1973)|
+|Hugh Hudson|*Chariots of Fire* (1981)|
+|Roland Joffé|*The Killing Fields* (1984)|
+|Mike Newell|*Four Weddings and a Funeral* (1994)|
+|Kevin MacDonald|*Touching the Void* (2003)|
