@@ -18,6 +18,15 @@ According to the 2011 Census
 - 0.8%: Sikh
 - less than 0.5%: Jewish, Buddhist
 
+In the 2009 Citizenship Survey:
+- 70%: Christian
+- 21%: no religion
+- 4%: Muslim
+- 2%: Hindu
+- 1%: Sikh
+- less than 0.5%: Jewish, Buddhist
+- 2%: follow another religion
+
 The population is very **unequally distributed** over the four parts of the UK.
 - 84%: England
 - just over 8%: Scotland
@@ -516,6 +525,36 @@ The Life in the UK test is usually taken is English, although special arrangemen
 To apply to become a permanent resident or citizen of the UK, you will need to **speak and read English** and have **a good understanding of life** in the UK.
 
 A Formula 1 **Grand Prix** event is held in the UK **each** year and a number of British Grand Prix drivers have won the Formula 1 World Championship.
+
+# Religion
+
+- The UK is historically a **Christian** country.
+- There are religious buildings for other religions all over the UK. This includes:
+  - Islamic mosques,
+  - Hindu temples,
+  - Jewish synagogues,
+  - Sikh gurdwaras
+  - Buddhist temples
+- Everyone has the legal right to choose their religion, or to choose not to practise a religion.
+
+## Christian Churches
+
+- In England, there is a **constitutional link** between Church and state.
+- The official Church of the state is the **Church of England** (called the **Anglican Church** in other countries and the **Episcopal Church** in Scotland and the United States). It is a **Protestant** Church and has existed since the **Reformation** in the **1530s**.
+- The **monarch** is the head of the Church of England.
+- The spiritual leader of the Church of England is the **Archbishop of Canterbury**.
+- The monarch has the right to select the Archbishop and other senior church officials, but usually the choice is made by the **Prime Minister** and a **committee** appointed by the Church. 
+- Several Church of England bishops sit in the **House of Lords**.
+- In Scotland, the national Church is the **Church of Scotland**, which is a **Presbyterian** Church. It is governed by **ministers and elders**. The chairperson of the General Assembly of the Church of Scotland is the **Moderator**, who is appointed for **one year** only and often speaks on behalf of that Church.
+- There is **no established Church** in Wales or Northern Ireland.
+- Other Protestant Christian groups in the UK are:
+  - Baptists
+  - Methodists
+  - Presbyterians
+  - Quakers
+- There are also other denominations of Christianity, the biggest of which is **Roman Catholic**.
+- Only Scotland and Northern Ireland have their patron saint’s day as an official holiday (although in Scotland not all businesses and Offices will close). Events are held across Scotland, Northern Ireland and the rest of the country, especially where there are a lot of people of Scottish, Northern Irish and Irish heritage.
+- While the patron saints’ days are no longer public holidays in England and Wales, they are still celebrated. Parades and small festivals are held all over the two countries. 
 
 # Customs and traditions
 
