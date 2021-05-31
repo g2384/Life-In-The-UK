@@ -3,8 +3,8 @@
 |Patron saint|St George|St Andrew|St David|St Patrick|
 |Cross of patron saint|Red cross on a white ground|Diagonal white cross on a blue ground|Yellow cross on a black field|(Ireland) Diagonal red cross on a white ground.|
 |Patron Saints' Days|23rd of April|30th of November|1st of March|17th of March|
-|Language| - |Gaelic is spoken in some parts of the Highlands and Islands|many people speak Welsh – a completely different language from English – and it is taught in schools and universities.|some people speak Irish Gaelic.|
-|Capital| - |Edinburgh|Cardiff|Belfast|
+|Language| - |Gaelic (a different language from English) is spoken in some parts of the Highlands and Islands|many people speak Welsh – a completely different language from English – and it is taught in schools and universities.|some people speak Irish Gaelic.|
+|Capital|London (capital city of the UK)|Edinburgh|Cardiff|Belfast|
 |TV Channel|-|one Gaelic-language channel;<br>some Scotland-specific programmes|one Welsh-language channel|some programmes broadcast in Irish Gaelic;<br>some programmes specific to Northern Ireland|
 |Gardens|Kew Gardens, Sissinghurst and Hidcote|Crathes Castle and Inveraray Castle|Bodnant Garden|Mount Stewart|
 |Galleries|The National Gallery, Tate Britain and Tate Modern in London|the National Gallery of Scotland in Edinburgh| the National Museum in Cardiff||

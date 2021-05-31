@@ -1,40 +1,3 @@
-# Demographic Data
-
-- 1600: just over 4 million
-- 1700: 5 million
-- 1801: 8 million
-- 1851: 20 million
-- 1901: 40 million
-- 1951: 50 million
-- 1998: 57 million
-- 2005: just under 60 million
-- 2010: just over 62 million
-
-According to the 2011 Census
-- 59%: Christians
-- 25%: no religion
-- 4.8%: Muslim
-- 1.5%: Hindu
-- 0.8%: Sikh
-- less than 0.5%: Jewish, Buddhist
-
-In the 2009 Citizenship Survey:
-- 70%: Christian
-- 21%: no religion
-- 4%: Muslim
-- 2%: Hindu
-- 1%: Sikh
-- less than 0.5%: Jewish, Buddhist
-- 2%: follow another religion
-
-The population is very **unequally distributed** over the four parts of the UK.
-- 84%: England
-- just over 8%: Scotland
-- 5%: Wales
-- less than 3%: Northern Ireland
-
-The UK population is **ethnically diverse** and **changing rapidly**, especially in large cities such as London.
-
 # Minimum Age
 
 ## 16
@@ -65,13 +28,9 @@ The Queen of the United Kingdom is married to Prince Philip, the Duke of **Edinb
 
 Great Britain refers only to England, Scotland and Wales, not to Northern Ireland.
 
-**Snowdon** is the highest mountain in Wales.
-
 London has **33** local authorities, with the **Greater London Authority** and the **Mayor of London** coordinating policies across the capital.
 
 There are several islands which are closely linked with the UK but are not part of it: **the Channel Islands** and **the Isle of Man**. These have their own governments and are called **‘Crown dependencies’**.
-
-There are **15** national parks in England, Wales and Scotland. They are areas of protected countryside that everyone can visit, and where people live, work and look after the landscape.
 
 The capital city of the UK is London.
 
@@ -79,31 +38,9 @@ The London Eye is situated on the **southern bank** of the River Thames and is a
 
 The Millennium Stadium is located in **Cardiff**.
 
-Wembley Stadium is in London.
-
-The clock tower at the Houses of Parliament in London is named **‘Elizabeth Tower’** in honour of Queen Elizabeth II’s Diamond Jubilee in 2012.
-
-The Eden Project is located in Cornwall, in the south west of England. Its biomes, which are like giant greenhouses, house plants from all over the world. The Eden Project is also a charity which runs environmental and social projects internationally.
-
 **The National Trust** and **Friends of the Earth** are environmental charities.
 
-Wales Cities:
-- Swansea
-
-England Cities:
-- Bradford
-
 **Skara Brae on Orkney**, off the **north coast of Scotland**, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the **Stone Age**.
-
-**Loch Lomond** and the **Trossachs** National Park covers 720 square miles (1,865 square kilometres) in the west of **Scotland**.
-
-**The Lake District** is England’s largest national park.
-
-**Snowdonia** is a national park in North Wales.
-
-Big Ben is the nickname for the great bell of the clock at the House of Parliament in London. The clock is over **150 years old** and is a popular tourist attraction.
-
-The Scottish Exhibition and Conference Centre (SECC) is located in Glasgow.
 
 British overseas territories:
 - Anguilla
@@ -119,12 +56,6 @@ British overseas territories:
 - Saint Helena, Ascension and Tristan da Cunha
 - South Georgia and the South Sandwich Islands
 - Turks and Caicos Islands
-
-# Religion
-
-The spiritual leader of the Church of England is the **Archbishop of Canterbury**.
-
-The official Church of the state is the **Church of England** (called the **Anglican Church** in other countries and the **Episcopal Church** in Scotland and the United States).
 
 # Law
 
@@ -526,6 +457,118 @@ To apply to become a permanent resident or citizen of the UK, you will need to *
 
 A Formula 1 **Grand Prix** event is held in the UK **each** year and a number of British Grand Prix drivers have won the Formula 1 World Championship.
 
+# The UK today
+
+## The nations of the UK
+
+- The UK is located in the north west of Europe.
+- The longest distance on the mainland is from **John O’Groats** on the north coast of Scotland to **Land’s End** in the south-west corner of England. It is about **870 miles (approximately 1,400 kilometres)**.
+- Most people live in towns and cities but much of Britain is still **countryside**.
+- Many people continue to visit the countryside for holidays and for leisure activities such as walking, camping and fishing.
+
+## Cities of the UK
+
+- ENGLAND
+  - London
+  - Birmingham
+  - Liverpool
+  - Leeds
+  - Sheffield
+  - Bristol
+  - Manchester
+  - Bradford
+  - Newcastle Upon Tyne
+  - Plymouth
+  - Southampton
+  - Norwich 
+- WALES
+  - Cardiff
+  - Swansea
+  - Newport 
+- SCOTLAND
+  - Edinburgh
+  - Glasgow
+  - Dundee
+  - Aberdeen 
+- NORTHERN IRELAND
+  - Belfast
+
+## UK currency
+
+- The currency in the UK is the **pound sterling** (symbol £). There are **100 pence** in a pound. The denominations (values) of currency are:
+  - coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2
+  - notes: £5, £10, £20, £50.
+- Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses **do not have to accept** them.
+
+## Languages and dialects
+
+- There are many variations in language in the different parts of the UK. The English language has many accents and dialects.
+
+## Population
+
+- The UK today is a more diverse society than it was 100 years ago, in both ethnic and religious terms.
+- Post-war immigration means that nearly 10% of the population has a parent or grandparent born outside the UK.
+- The UK continues to be a multinational and multiracial society with a rich and varied culture.
+
+|Year|Population|
+|---|---|
+|1600|just over 4 million|
+|1700|5 million|
+|1801|8 million|
+|1851|20 million|
+|1901|40 million|
+|1951|50 million|
+|1998|57 million|
+|2005|just under 60 million|
+|2010|just over 62 million|
+
+According to the 2011 Census
+- 59%: Christians
+- 25%: no religion
+- 4.8%: Muslim
+- 1.5%: Hindu
+- 0.8%: Sikh
+- less than 0.5%: Jewish, Buddhist
+
+In the 2009 Citizenship Survey:
+- 70%: Christian
+- 21%: no religion
+- 4%: Muslim
+- 2%: Hindu
+- 1%: Sikh
+- less than 0.5%: Jewish, Buddhist
+- 2%: follow another religion
+
+The population is very **unequally distributed** over the four parts of the UK.
+- 84%: England
+- just over 8%: Scotland
+- 5%: Wales
+- less than 3%: Northern Ireland
+
+- Population growth has been faster in more recent years. **Migration** into the UK and **longer life expectancy** have played a part in population growth.
+
+## An ageing population
+
+- People in the UK are living longer than ever before. This is due to **improved living standards** and **better health care**.
+- There are now a record number of people aged 85 and over.
+- This has an impact on the cost of **pensions** and **health care**.
+
+## Ethnic diversity
+
+- The UK population is ethnically diverse and changing rapidly, especially in large cities such as London.
+- It is not always easy to get an exact picture of the ethnic origin of all the population.
+- There are people in the UK with ethnic origins from all over the world.
+- In surveys, the most common ethnic description chosen is white, which includes people of European, Australian, Canadian, New Zealand and American descent. Other significant groups are those of Asian, black and mixed descent.
+
+## An equal society
+
+- Within the UK, it is a legal requirement that men and women should not be discriminated against because of their gender or because they are, or are not, married. They have equal rights to work, own property, marry and divorce. If they are married, both parents are **equally responsible** for their children.
+- Women in Britain today make up about **half** of the workforce.
+- On average, girls leave school with **better** qualifications than boys.
+- More women than men study at university.
+- Employment opportunities for women are much greater than they were in the past. Women work in **all** sectors of the economy, and there are now more women in high-level positions than ever before, including senior managers in traditionally male-dominated occupations. Alongside this, men now work in more varied jobs than they did in the past.
+- It is no longer expected that women should stay at home and not work. Women often continue to work after having children. In many families today, both partners work and both share responsibility for childcare and household chores.
+
 # Religion
 
 - The UK is historically a **Christian** country.
@@ -746,9 +789,9 @@ A Formula 1 **Grand Prix** event is held in the UK **each** year and a number of
 - Since the **1960s**, British pop music has made one of the most important cultural contributions to life in the UK. Bands including **The Beatles** and **The Rolling Stones** continue to have an influence on music both here and abroad.
 - British pop music has continued to innovate – for example, the **Punk** movement of the late 1970s, and the trend towards boy and girl bands in the 1990s.
 - There are many large venues that host music events throughout the year, such as:
-  - Wembley Stadium;
+  - Wembley Stadium, London;
   - The O2 in Greenwich, south-east London;
-  - and the Scottish Exhibition and Conference Centre (SECC) in Glasgow.
+  - the Scottish Exhibition and Conference Centre (SECC) in Glasgow.
 - Festival season takes place across the UK every summer, with major events in various locations. Many bands and solo artists, both well-known and up-and-coming, perform at these events. Famous festivals include
   - Glastonbury
   - the Isle of Wight Festival
@@ -952,8 +995,7 @@ A Formula 1 **Grand Prix** event is held in the UK **each** year and a number of
 
 - The UK has a large network of public footpaths in the countryside.
 - There are also many opportunities for mountain biking, mountaineering and hill walking.
-- There are **15** national parks in **England, Wales and Scotland**.
-- They are areas of **protected countryside** that everyone can visit, and where people live, work and look after the landscape.
+- There are **15** national parks in **England, Wales and Scotland**. They are areas of **protected countryside** that everyone can visit, and where people live, work and look after the landscape.
 - There are many museums in the UK, which range from small community museums to large national and civic collections.
 - Famous landmarks exist in towns, cities and the countryside throughout the UK. Most of them are open to the public to view (generally for a charge).
 - Many parts of the countryside and places of interest are kept open by the **National Trust** in England, Wales and Northern Ireland and the **National Trust for Scotland**. Both are charities that work to preserve important buildings, coastline and countryside in the UK.
@@ -965,7 +1007,7 @@ A Formula 1 **Grand Prix** event is held in the UK **each** year and a number of
 - The **Eden Project** is located in **Cornwall**, in the south west of England. Its biomes, which are like giant greenhouses, house plants from all over the world. The Eden Project is also a **charity** which runs environmental and social projects internationally.
 - The **Castle** is a dominant feature of the skyline in **Edinburgh**, Scotland. It has a long history, dating back to the early **Middle Ages**. It is looked after by **Historic Scotland**, a Scottish government agency.
 - The **Giant’s Causeway**, located on the north-east coast of **Northern Ireland**, is a land formation of columns made from volcanic lava. It was formed about **50 million** years ago. There are many legends about the Causeway and how it was formed.
-- **Loch Lomond and the Trossachs National Park** covers 720 square miles (1,865 square kilometres) in the west of Scotland. Loch Lomond is the **largest expanse of fresh water** in mainland Britain and probably the best-known part of the park.
+- **Loch Lomond and the Trossachs National Park** covers 720 square miles (1,865 square kilometres) in the west of **Scotland**. Loch Lomond is the **largest expanse of fresh water** in mainland Britain and probably the best-known part of the park.
 - The **London Eye** is situated on the **southern** bank of the River Thames and is a Ferris wheel that is **443 feet (135 metres)** tall. It was originally built as part of the UK’s celebration of the new **millennium** and continues to be an important part of **New Year celebrations**.
 - **Snowdonia** is a national park in **North Wales**. It covers an area of 838 square miles (2,170 square kilometres). Its most well-known landmark is **Snowdon**, which is the **highest mountain** in Wales.
 - The **Tower of London** was first built by **William the Conqueror** after he became king in **1066**. Tours are given by the **Yeoman Warders**, also known as **Beefeaters**, who tell visitors about the building’s history. People can also see the **Crown Jewels** there.
