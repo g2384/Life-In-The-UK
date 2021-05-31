@@ -68,8 +68,6 @@ The capital city of the UK is London.
 
 The London Eye is situated on the **southern bank** of the River Thames and is a Ferris wheel that is **443 feet (135 metres)** tall. (not a World Heritage Site).
 
-The London Eye was originally built as part of the UK’s celebration of the new **millennium** and continues to be an important part of **New Year** celebrations.
-
 The Millennium Stadium is located in **Cardiff**.
 
 Wembley Stadium is in London.
@@ -93,8 +91,6 @@ England Cities:
 **The Lake District** is England’s largest national park.
 
 **Snowdonia** is a national park in North Wales.
-
-**Edinburgh Castle** is looked after by **Historic Scotland**, a Scottish government agency.
 
 Big Ben is the nickname for the great bell of the clock at the House of Parliament in London. The clock is over **150 years old** and is a popular tourist attraction.
 
@@ -877,3 +873,26 @@ A Formula 1 **Grand Prix** event is held in the UK **each** year and a number of
 - The owner is responsible for **keeping the dog under control** and for **cleaning up** after the animal in a public place.
 - Vaccinations and medical treatment for animals are available from veterinary surgeons (vets).
 - There are charities which may help people who cannot afford to pay a vet.
+
+# Places of interest
+
+- The UK has a large network of public footpaths in the countryside.
+- There are also many opportunities for mountain biking, mountaineering and hill walking.
+- There are **15** national parks in **England, Wales and Scotland**.
+- They are areas of **protected countryside** that everyone can visit, and where people live, work and look after the landscape.
+- There are many museums in the UK, which range from small community museums to large national and civic collections.
+- Famous landmarks exist in towns, cities and the countryside throughout the UK. Most of them are open to the public to view (generally for a charge).
+- Many parts of the countryside and places of interest are kept open by the **National Trust** in England, Wales and Northern Ireland and the **National Trust for Scotland**. Both are charities that work to preserve important buildings, coastline and countryside in the UK.
+- The National Trust was founded in **1895** by **three** volunteers. There are now more than **61,000** volunteers (53,000 volunteers in 2019-2020) helping to keep the organisation running.
+
+## UK landmarks
+
+- **Big Ben** is the nickname for the **great bell** of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over **150** years old and is a popular tourist attraction. The clock tower is named **‘Elizabeth Tower’** in honour of Queen Elizabeth II’s Diamond Jubilee in 2012.
+- The **Eden Project** is located in **Cornwall**, in the south west of England. Its biomes, which are like giant greenhouses, house plants from all over the world. The Eden Project is also a **charity** which runs environmental and social projects internationally.
+- The **Castle** is a dominant feature of the skyline in **Edinburgh**, Scotland. It has a long history, dating back to the early **Middle Ages**. It is looked after by **Historic Scotland**, a Scottish government agency.
+- The **Giant’s Causeway**, located on the north-east coast of **Northern Ireland**, is a land formation of columns made from volcanic lava. It was formed about **50 million** years ago. There are many legends about the Causeway and how it was formed.
+- **Loch Lomond and the Trossachs National Park** covers 720 square miles (1,865 square kilometres) in the west of Scotland. Loch Lomond is the **largest expanse of fresh water** in mainland Britain and probably the best-known part of the park.
+- The **London Eye** is situated on the **southern** bank of the River Thames and is a Ferris wheel that is **443 feet (135 metres)** tall. It was originally built as part of the UK’s celebration of the new **millennium** and continues to be an important part of **New Year celebrations**.
+- **Snowdonia** is a national park in **North Wales**. It covers an area of 838 square miles (2,170 square kilometres). Its most well-known landmark is **Snowdon**, which is the **highest mountain** in Wales.
+- The **Tower of London** was first built by **William the Conqueror** after he became king in **1066**. Tours are given by the **Yeoman Warders**, also known as **Beefeaters**, who tell visitors about the building’s history. People can also see the **Crown Jewels** there.
+- The **Lake District** is England’s **largest** national park. It covers 885 square miles (2,292 square kilometres). It is famous for its lakes and mountains and is very popular with climbers, walkers and sailors. The biggest stretch of water is **Windermere**. In **2007**, television viewers voted **Wastwater** as Britain’s favourite view.
