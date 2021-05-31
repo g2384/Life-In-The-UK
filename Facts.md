@@ -479,30 +479,6 @@ MPs, Assembly members, members of the Scottish Parliament (MSPs) and MEPs are al
 
 The currency in the UK is the pound sterling (symbol £).
 
-# Festivals
-
-|Name|Date|Notes|
-|---|---|---|
-|Valentine’s Day|14th of February||
-|Halloween|31 October|an ancient festival and has roots in the **pagan** festival to mark the beginning of winter. Young people will often dress up in frightening costumes to play ‘trick or treat’.|
-|Diwali|in October or November|lasts for **five days**. celebrated by **Hindus and Sikhs**. also called the Festival of **Lights**. There is a famous celebration of Diwali in **Leicester**. the victory of good over evil and the gaining of knowledge.|
-|Hanukkah|November or December|lasts for **eight days**. It is to remember the Jews’ struggle for religious freedom. On each day of the festival a **candle** is lit on a stand of eight candles (called a **menorah**) to remember the story of the festival, where oil that should have lasted only a day did so for eight.|
-|Christmas Eve|24th of December||
-|Christmas Day|25 December|celebrates the birth of Jesus Christ.|
-|Boxing Day|26th of December|public holiday.|
-|New Year’s Eve|31st of December||
-|Hogmanay|31st of December|For Scotland. For some Scottish people, Hogmanay is a bigger holiday than Christmas.|
-||1st of Jan, 2nd of Jan|bank holidays in Scotland|
-|Ramadan||Muslims have fasted for **a month**.|
-|Eid a-Fitr||The day when Muslims thank Allah for giving them the strength to complete the fast, celebrates the end of Ramadan|
-|Remembrance Day||The **Cenotaph** in **Whitehall** is the site of the annual Remembrance Day service attended by the Queen, politicians and foreign ambassadors.|
-|Shrove Tuesday|The day before Lent starts||
-|Pancake Day|The day before Lent starts||
-|Lent|40 days before **Easter**|The 40 days before Easter are known as Lent. It begins on **Ash Wednesday**. It is a time when Christians take time to reflect and prepare for Easter.|
-|April Fool’s Day|1st of April|people play jokes on each other **until midday**. The television and newspapers often have stories that are April Fool jokes.|
-|Vaisakhi|14th of April|(also spelled Baisakhi) a Sikh festival which celebrates the founding of the Sikh community known as the Khalsa. It is celebrated each year with parades, dancing and singing.|
-|Eid ul Adha||Many Muslims sacrifice an animal to eat during Eid ul Adha. It reminds Muslims of their own commitment to God|
-
 # Culture
 
 The most famous **sailing** event in the UK takes place at **Cowes** on the **Isle of Wight**.
@@ -540,6 +516,65 @@ The Life in the UK test is usually taken is English, although special arrangemen
 To apply to become a permanent resident or citizen of the UK, you will need to **speak and read English** and have **a good understanding of life** in the UK.
 
 A Formula 1 **Grand Prix** event is held in the UK **each** year and a number of British Grand Prix drivers have won the Formula 1 World Championship.
+
+# Customs and traditions
+
+## The main Christian festivals
+
+- Christmas is celebrated in a traditional way. People usually spend the day at home and eat a special meal, which often includes **roast turkey**, **Christmas pudding** and **mince pies**.
+- They give gifts, send cards and decorate their houses.
+- Christmas is a special time for children. Very young children believe that **Father Christmas** (also known as **Santa Claus**) brings them presents during the **night before** Christmas Day.
+- Many people decorate a tree in their home.
+- Traditionally, people would fast during **Lent** and today many people will **give something up**, like a favourite food.
+
+# Festivals
+
+|Name|Date|Notes|
+|---|---|---|
+|Christmas Eve|24th of December||
+|Christmas Day|25 December|celebrates the birth of Jesus Christ. It is a public holiday. Many Christians go to church on Christmas Eve (24 December) or on Christmas Day itself.|
+|Boxing Day|26th of December|public holiday.|
+|Shrove Tuesday|The day before Lent starts|a.k.a. Pancake Day. People eat pancakes, which were traditionally made to use up foods such as eggs, fat and milk before fasting.|
+|Lent|40 days before **Easter**|The 40 days before Easter are known as Lent. It is a time when Christians take time to reflect and prepare for Easter. It begins on **Ash Wednesday**. There are church services where Christians are marked with an **ash cross** on their forehead as a symbol of **death** and sorrow for sin.|
+|Easter day|March or April|It marks the death of Jesus Christ on Good Friday and his rising from the dead on Easter Sunday. Easter is also celebrated by people who are not religious. ‘Easter eggs’ are chocolate eggs often given as presents at Easter as a symbol of **new life**.|
+|Good Friday||public holiday.|
+|Easter Monday|The Monday after Good Friday|public holiday.|
+
+## Other religious festivals
+
+|Name|Date|Notes|
+|---|---|---|
+|Diwali|in October or November|lasts for **five days**. It is celebrated by **Hindus and Sikhs**. It is often called the Festival of **Lights**. It celebrates the victory of **good over evil** and the **gaining of knowledge**. There are different stories about how the festival came about. There is a famous celebration of Diwali in **Leicester**.|
+|Hanukkah|November or December|lasts for **eight days**. It is to remember the Jews’ struggle for religious freedom. On each day of the festival a **candle** is lit on a stand of eight candles (called a **menorah**) to remember the story of the festival, where oil that should have lasted only a day did so for eight.|
+|Eid al-Fitr|date changes every year|It celebrates the end of Ramadan. Muslims thank Allah for giving them the strength to complete the fast. Muslims attend special services and meals.|
+|Ramadan||Muslims have fasted for **a month**.|
+|Eid ul Adha||remembers that the prophet **Ibrahim** was willing to sacrifice his son when God ordered him to. It reminds Muslims of their own commitment to God. Many Muslims **sacrifice an animal** to eat during this festival. In Britain this has to be done in a **slaughterhouse**.|
+|Vaisakhi|14th of April|(also spelled Baisakhi) a Sikh festival which celebrates the founding of the Sikh community known as the **Khalsa**. It is celebrated each year with parades, dancing and singing.|
+
+## Other festivals and traditions
+
+|Name|Date|Notes|
+|---|---|---|
+|Hogmanay|31st of December|For Scotland. For some Scottish people, Hogmanay is a bigger holiday than Christmas.|
+|New Year’s Eve|31st of December|People usually celebrate on this night.|
+|New Year|1 January|public holiday|
+|2nd of Jan||public holiday in Scotland|
+|Valentine’s Day|14th of February|lovers exchange cards and gifts. Sometimes people send anonymous cards to someone they secretly admire.|
+|April Fool’s Day|1st of April|people play jokes on each other **until midday**. The television and newspapers often have stories that are April Fool jokes.|
+|Mothering Sunday|the Sunday three weeks before Easter|(or Mother’s Day). Children send cards or buy gifts for their mothers.|
+|Father’s Day|the third Sunday in June|Children send cards or buy gifts for their fathers.|
+|Halloween|31 October|an ancient festival and has roots in the **pagan** festival to mark the beginning of **winter**. Young people will often dress up in frightening costumes to play ‘trick or treat’. People give them treats to stop them playing tricks on them. A lot of people carve lanterns out of pumpkins and put a candle inside.|
+|Bonfire Night|5 November|an occasion when people in Great Britain set off fireworks at home or in special displays. The origin of this celebration was an event in **1605**, when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.|
+|Remembrance Day|11 November|commemorates those who died fighting for the UK and its allies. Originally it commemorated the dead of the First World War, which ended on 11 November 1918. People wear poppies (the red flower found on the battlefields of the First World War). At 11.00 am there is a two-minute silence and wreaths are laid at the **Cenotaph** in **Whitehall**, London.|
+
+## Bank holidays
+
+- As well as those mentioned previously, there are other public holidays each year called bank holidays, when banks and many other businesses are closed for the day.
+- These are of no religious significance. They are:
+  - at the beginning of May,
+  - in late May or early June,
+  - and in August.
+- In Northern Ireland, the anniversary of the **Battle of the Boyne** in **July** is also a public holiday.
 
 # Sport
 
