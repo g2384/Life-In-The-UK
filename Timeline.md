@@ -17,18 +17,19 @@
 |789|The Vikings came from **Denmark and Norway**. They first visited Britain in to raid **coastal towns** and take away **goods** and **slaves**. Then, they began to stay and form their own communities in the east of England and Scotland.|
 |Middle Ages|(or the medieval period) 1066 - 1485|
 |1066|- An invasion led by William, the Duke of Normandy, defeated Harold, the Saxon King of England, at the Battle of Hastings (last time England was successfully invaded). Harold was killed in the battle.<br>- William became king of England<br>- Start of the Westminster Abbey as the coronation church<br>- The **Tower of London** was first built by by **William the Conqueror** after he became king<br>- Start of the “middle ages”|
-|By 1200|The English ruled an area of Ireland known as the **Pale**, around **Dublin**|
-|1215|Magna Carta (which means **the Great Charter**)<br>- signed by King John<br>- the King is subject to the law. It protected the rights of the nobility and restricted the king’s power to collect taxes or to make and change laws.|
-|1284|King **Edward I** introduced the Statute of **Rhuddlan**, which annexed **Wales** to the Crown of England|
-|1314|The **Scottish**, led by **Robert the Bruce**, defeated the English at the battle of **Bannockburn**.|
+|By 1200|The English ruled an area of Ireland known as the **Pale**, around **Dublin**. Some of the important lords in other parts of Ireland accepted the authority of the English king.|
+|1215|Magna Carta (which means **the Great Charter**)<br>- signed by King John (forced by noblemen)<br>- the King is subject to the law. It protected the rights of the nobility and restricted the king’s power to collect taxes or to make or change laws. In future, the king would need to involve his noblemen in decisions.|
+|1284|King **Edward I** introduced the Statute of **Rhuddlan**, which annexed **Wales** to the Crown of England. Huge castles, including **Conwy** and
+**Caenarvon**, were built to maintain this power.|
+|1314|The **Scottish**, led by **Robert the Bruce**, defeated the English at the battle of **Bannockburn**. Scotland remained unconquered by the English|
 |1334|Start of "100 years war"|
-|1348|Black Death (a form of plague) comes to Britain.<br> - **1/3** of the population of England died and a similar proportion in Scotland and Wales.<br> - This was one of the worst disasters ever to strike Britain. <br> - Following the Black Death, the smaller population meant there was less need to grow **cereal crops**.<br> - There were **labour shortages** and peasants began to demand higher wages.|
+|1348|Black Death (a form of plague) comes to Britain.|
 |By 1400|- In England, official documents were being written in **English**, and English had become the preferred language of the royal court and Parliament.<br> - **Geoffrey Chaucer** wrote Canterbury Tales. A series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the **travellers** and some of the stories they told.|
-|1415|Battle of **Agincourt**: one of the most famous battles of the Hundred Years War. King Henry V’s vastly outnumbered English army defeated the French|
+|1415|Battle of **Agincourt**: one of the most famous battles of the Hundred Years War. King Henry V’s vastly outnumbered English army defeated the French.|
 |By 1450|The last Welsh rebellion had been defeated|
-|1450s|The English left France (end of "100 years war")|
-|1455|A civil war, called the **Wars of the Roses**, between the House of Lancaster (red rose) and the House of York (white rose), was begun to decide who should be king of England|
-|1485|- The Wars of the Roses ended with the Battle of the **Bosworth Field**.<br> - Henry Tudor, the leader of the House of Lancaster, became King **Henry VII** after defeating King **Richard III** of the House of York at the Battle of **Bosworth Field**.<br> - End of the “middle ages”|
+|1450s|The English largely left France (end of "100 years war")|
+|1455|A civil war, called the **Wars of the Roses**, between the supporters of House of Lancaster (red rose) and the House of York (white rose), was begun to decide who should be king of England|
+|1485|- The Wars of the Roses ended with the Battle of the **Bosworth Field**.<br> - **Henry Tudor**, the leader of the House of Lancaster, became King **Henry VII** after defeating King **Richard III** (was killed in the battle) of the House of York at the Battle of **Bosworth Field**.<br> - Henry then married King Richard’s niece, **Elizabeth** of York, and united the two families. <br> - Henry was the first king of the House of Tudor. The symbol of the House of Tudor was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.<br> - End of the “middle ages”|
 |---|---|
 |1509, 21 April|Henry VIII became king of England.|
 |During the reign of Henry VIII|Wales became formally united with England by the Act for the Government of Wales.|

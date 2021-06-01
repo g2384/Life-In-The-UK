@@ -557,6 +557,84 @@ named **Canute**.
 - The Scots and the Normans fought on the border between England and Scotland; the Normans took over some land on the border but did not invade Scotland.
 - **Domesday Book**: William sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. It still exists today and gives a picture of society in England just after the Norman Conquest.
 
+## The Middle Ages
+
+### War at home and abroad
+
+- Middle Ages (or the medieval period):
+  - end of the Roman Empire in AD 476 - 1485 (Broadly speaking).
+  - the Norman Conquest (1066) - 1485 (the focus here).
+- It was a time of almost constant war.
+- The English kings fought with the Welsh, Scottish and Irish noblemen for
+control of their lands.
+- In Wales, the English were able to establish their rule.
+  - By the middle of the 15th century the last Welsh rebellions had been defeated.
+  - English laws and the English language were introduced.
+- Scotland remained unconquered by the English.
+- At the beginning of the Middle Ages, Ireland was an independent country. The English first went to Ireland as troops to **help** the Irish king and remained to build their own settlements.
+- During the Middle Ages, the English kings also fought a number of wars abroad:
+  - Many knights took part in the Crusades, in which European Christians fought for control of the **Holy Land**.
+  - English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years).
+
+### Feudalism
+
+- The Normans used a system of land ownership known as **feudalism**. The king gave land to his lords in return for help in war. Landowners had to send certain numbers of men to serve in the army. Some **peasants** had their own land but most were **serfs**. They had a small area of their lord’s land where they could grow food. In return, they had to work for their lord and could not move away.
+- The same system developed in southern Scotland. In the north of Scotland and Ireland, land was owned by members of the **‘clans’** (prominent families).
+
+### The Black Death
+
+- In 1348, **1/3** of the population of England died and a similar proportion in Scotland and Wales.
+- This was one of the worst disasters ever to strike Britain.
+- Following the Black Death, the smaller population meant there was less need to grow **cereal crops**.
+- There were **labour shortages** and peasants began to demand higher wages.
+- New social classes appeared, including owners of large areas of land (later called the **gentry**), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong **middle class**.
+- In Ireland, the Black Death killed many in the **Pale** and, for a time, the area controlled by the English became **smaller**.
+
+### Legal and political changes
+
+- In the Middle Ages, Parliament began to develop into the institution it is today. Its origins can be traced to the king’s council of advisers, which included important **noblemen** and the **leaders of the Church**.
+- In England, parliaments were called for the king to consult his nobles, particularly when the king needed to raise money. The numbers attending Parliament increased and two separate parts, known as Houses, were established.
+- House of Lords:
+  - nobility
+  - great landowners
+  - bishops
+- House of Commons (elected)
+  - Knights, who were usually smaller landowners
+  - wealthy people from towns and cities
+- Only a small part of the population was able to join in electing the members of the Commons.
+- A similar Parliament developed in Scotland. It had three Houses, called **Estates**:
+  - the lords
+  - the commons
+  - the clergy
+- This was also a time of development in the legal system. The principle that judges are independent of the government began to be established.
+- In England, judges developed ‘common law’ by a process of **precedence** (that is, following previous decisions) and tradition.
+- In Scotland, the legal system developed slightly differently and laws were ‘codified’ (that is, written down).
+
+### A distinct identity
+
+- English: graduallly combined by Norman French (spoken by the king and his noblemen) and Anglo-Saxon (spoken by peasants) after the Norman Conquest.
+- Norman French words: ‘park’ and ‘beauty’
+- Anglo-Saxon words: ‘apple’, ‘cow’ and ‘summer’
+- In modern English there are often two words with very similar meanings, one from French and one from AngloSaxon. ‘Demand’ (French) and ‘ask’ (Anglo-Saxon) are examples.
+- Canterbury Tales was one of the first books to be printed by **William Caxton**, the first person in England to print books using a printing press. Many of the stories are still popular. Some have been made into plays and television programmes.
+- In Scotland, many people continued to speak Gaelic and the Scots language also developed. A number of poets began to write in the Scots language. One example is **John Barbour**, who wrote *The Bruce* about the Battle of **Bannockburn**.
+- Castles were built in many places in Britain and Ireland, partly for **defence**. Today many are in ruins, although some, such as **Windsor** and **Edinburgh**, are still in use.
+- Great cathedrals – for example, **Lincoln Cathedral** – were also built, and many of these are still used for worship.
+- Several of the cathedrals had windows of stained glass, telling stories about the **Bible and Christian saints.** The glass in **York Minster** is a famous example.
+- England was an important trading nation. English **wool** became a very important export.
+- People came to England from abroad to trade and also to work. Many had special skills, such as:
+  - weavers from France
+  - engineers from Germany
+  - glass manufacturers from Italy
+  - canal builders from Holland
+
+### The Wars of the Roses
+
+- 1455 - 1485.
+- House of Lancaster - House of York
+
+![The roses of The Wars of the Roses](./images/4-6.jpg)
+
 # The UK today
 
 ## The nations of the UK
