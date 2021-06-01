@@ -13,16 +13,23 @@
 
 ---
 
-# Three devolved administrations in the UK
+# Devolved administrations in the UK
 
-They are:
-- the Welsh Assembly
-- the Scottish Parliament
-- the Northern Ireland Assembly
-
-The devolved administrations each have their own **civil service**.
-
-Policy and laws governing defence, foreign affairs, immigration, taxation and social security all remain under central UK government control. However, many other public services, such as education, are controlled by the devolved administrations.
+- Since **1997**, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them.
+- central UK government controls:
+  - Policy and laws governing defence
+  - foreign affairs
+  - immigration
+  - taxation
+  - social security
+- devolved administrations controls:
+  - many other public services, such as education
+- The devolved administrations each have their own **civil service**.
+- Three administrations:
+  - the Welsh Assembly
+  - the Scottish Parliament
+  - the Northern Ireland Assembly
+- The UK government has the power to suspend all devolved assemblies. It has used this power several times in **Northern Ireland** when local political leaders found it difficult to work together. However, the Assembly has been running successfully since 2007.
 
 |Title|Wales|Scotland|Northern Ireland|
 |---|---|---|---|
@@ -30,8 +37,11 @@ Policy and laws governing defence, foreign affairs, immigration, taxation and so
 |Parliament|**National Assembly** has 60 Assembly members (AMs)|129 members of the Scottish Parliament (MSPs)|90 members of the Legislative Assembly (MLAs)|
 |Parliament Election|every 4 years, proportional representation|proportional representation|proportional representation|
 |Meet in|Welsh Assembly in the **Senedd** in **Cardiff Bay**|The Parliament building at **Holyrood** in **Edinburgh**|The Assembly building is known as **Stormont** in **Belfast**|
-|Parliament Formed||1999|
-|Visit|book guided tours or seats in the public galleries for the Welsh Assembly contacting the **Assembly Booking Service** or sending an email.|you can get information, book tickets or arrange tours through **visitor services**. You can also **write to** them, **telephone** or **email**.|contact the **Education Service** or contact an **MLA**.|
+|Parliament Formed|1999|1999|A Northern Ireland Parliament was established in 1922 (when Ireland was divided), bolished in 1972 (after the Troubles broke out in 1969). The Northern Ireland Assembly was established soon after the Belfast Agreement (or **Good Friday** Agreement) in **1998**.|
+|Language|English, Welsh. all of the Assembly’s publications are in both languages|||
+|Visit|book guided tours or seats in the public galleries for the Welsh Assembly contacting the **Assembly Booking Service**, sending an email, or using online booking form.|you can get information, book tickets or arrange tours through **visitor services**. You can also **write to** them, **telephone** or **email**.|contact the Northern Ireland Assembly **Education Service**, assembly website or contact an **MLA**.|
+|Power|has the power to make laws for Wales in 20 areas, including:<br>- education and training<br>- health and social services<br>- economic development<br>- housing.|legislate include:<br>- civil and criminal law<br>- health<br>- education<br>- planning<br>- additional tax-raising powers.|- education<br>- agriculture<br>- the environment<br>- health<br>- social services|
+|Other Facts|Since 2011, the National Assembly for Wales has been able to pass laws on these topics without the agreement of the UK Parliament. The Welsh Assembly building opened in March 2006.|The Scottish Parliament building opened in October 2004.|There is a power-sharing agreement which distributes ministerial Offices amongst the main parties.|
 
 ---
 
