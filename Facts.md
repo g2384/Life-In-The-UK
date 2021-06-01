@@ -415,6 +415,54 @@ To apply to become a permanent resident or citizen of the UK, you will need to *
 
 A Formula 1 **Grand Prix** event is held in the UK **each** year and a number of British Grand Prix drivers have won the Formula 1 World Championship.
 
+---
+
+# The values and principles of the UK
+
+- British society is founded on fundamental **values** and **principles** which all those living in the UK should respect and support. These values are reflected in the responsibilities, rights and privileges of being a British citizen or permanent resident of the UK.
+- They are based on **history** and **traditions** and are protected by **law**, **customs** and **expectations**.
+- There is no place in British society for extremism or intolerance.
+- The fundamental principles of British life include:
+  - Democracy
+  - The rule of law
+  - Individual liberty
+  - Tolerance of those with different faiths and beliefs
+  - Participation in community life.
+- As part of the citizenship ceremony, new citizens pledge to uphold these
+values. The pledge is:
+
+<blockquote>‘I will give my loyalty to the United Kingdom and respect its rights and
+freedoms. I will uphold its democratic values. I will observe its laws
+faithfully and fulfil my duties and obligations as a British citizen.’</blockquote>
+
+- Flowing from the fundamental principles are **responsibilities and freedoms** which are shared by all those living in the UK and which we expect all residents to respect.
+- If you wish to be a permanent resident or citizen of the UK, you should:
+  - Respect and obey the law
+  - Respect the rights of others, including their right to their own opinions
+  - Treat others with fairness
+  - Look after yourself and your family
+  - Look after the area in which you live and the environment.
+- In return, the UK offers:
+  - Freedom of belief and religion
+  - Freedom of speech
+  - Freedom from unfair discrimination
+  - A right to a fair trial
+  - A right to join in the election of a government.
+
+## Becoming a permanent resident
+
+- you will need to:
+  - Speak and read English (English B1 of the Common European Framework of Reference (= ESOL Entry Level 3). or by having a recognised English test qualification from an approved test centre.)
+  - Have a good understanding of life in the UK. (Pass the Life in the UK test)
+
+## Taking the Life in the UK Test
+- 24 questions.
+- not need to remember dates of birth or death.
+- test is usually taken in English, although special arrangements can be made if you wish to take it in **Welsh** or **Scottish Gaelic**.
+- If you live on the Isle of Man or in the Channel Islands, there are different arrangements for taking the Life in the UK test.
+
+---
+
 # The UK today
 
 ## The nations of the UK
@@ -1230,3 +1278,122 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - Sometimes there are long queues for the House of Commons and people have to wait for at least one to two hours. It is usually easier to get in to the House of Lords.
 - You can find further information on the UK Parliament website at www.parliament.uk.
 
+# The UK and international institutions
+
+## The Commonwealth
+
+- The Commonwealth is an association of countries that support each other and work together towards shared goals in **democracy and development**.
+- Most member states were once part of the British Empire, although a few countries which were not have also joined.
+- The Queen is the **ceremonial head** of the Commonwealth.
+- It currently has **54** member states. Membership is voluntary. The Commonwealth has no power over its members, although it can **suspend** membership.
+- The Commonwealth is based on
+  - the core values of democracy,
+  - good government
+  - and the rule of law.
+- Commonwealth members
+  - Antigua and Barbuda
+  - Australia
+  - The Bahamas
+  - Bangladesh
+  - Barbados
+  - Belize
+  - Botswana
+  - Brunei Darussalam
+  - Cameroon
+  - Canada
+  - Cyprus
+  - Dominica
+  - Fiji (currently suspended)
+  - The Gambia
+  - Ghana
+  - Grenada
+  - Guyana
+  - India
+  - Jamaica
+  - Kenya
+  - Kiribati
+  - Lesotho
+  - Malawi
+  - Malaysia
+  - Maldives
+  - Malta
+  - Mauritius
+  - Mozambique
+  - Namibia
+  - Nauru
+  - New Zealand
+  - Nigeria
+  - Pakistan
+  - Papua New Guinea
+  - Rwanda
+  - Samoa
+  - Seychelles
+  - Sierra Leone
+  - Singapore
+  - Solomon Islands
+  - South Africa
+  - Sri Lanka
+  - St Kitts and Nevis
+  - St Lucia
+  - St Vincent and the Grenadines
+  - Swaziland
+  - Tanzania
+  - Tonga
+  - Trinidad and Tobago
+  - Tuvalu
+  - Uganda
+  - UK
+  - Vanuatu
+  - Zambia
+
+## The European Union
+
+- The European Union (EU), originally called the European Economic Community (EEC), was set up by **six** western European countries who signed the Treaty of Rome on 25 March **1957**:
+  - Belgium
+  - France
+  - Germany
+  - Italy
+  - Luxembourg
+  - the Netherlands
+- The UK originally decided not to join this group but it became a member in 1973.
+- There are now **27** EU member states. Croatia will also become a member state in 2013.
+EU member states
+
+    Austria
+    Belgium
+    Bulgaria
+    Cyprus
+    Czech Republic
+    Denmark
+    Estonia
+    Finland
+    France
+    Germany
+    Greece
+    Hungary
+    Ireland
+    Italy
+    Latvia
+    Lithuania
+    Luxembourg
+    Malta
+    Netherlands
+    Poland
+    Portugal
+    Romania
+    Slovakia
+    Slovenia
+    Spain
+    Sweden
+    UK
+
+EU law is legally binding in the UK and all the other EU member states. European laws are called directives, regulations or framework decisions.
+The Council of Europe
+
+The Council of Europe is separate from the EU. It has 47 member countries, including the UK, and is responsible for the protection and promotion of human rights in those countries. It has no power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms, usually called the European Convention on Human Rights.
+The United Nations
+
+The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security. There are 15 members on the UN Security Council, which recommends action when there are international crises and threats to peace. The UK is one of five permanent members of the Security Council.
+The North Atlantic Treaty Organization (NATO)
+
+The UK is also a member of NATO. NATO is a group of European and North American countries that have agreed to help each other if they come under attack. It also aims to maintain peace between all of its members.
