@@ -1,19 +1,22 @@
 |Time|Events|
 |---|---|
 |50 million years ago|The Giant’s Causeway was formed. Located on the **north-east** coast of **Northern Ireland**, the Giant’s Causeway is a land formation of columns made from **volcanic lava**.|
+|Stone Age||
 |8,000 BC|(**10,000 years ago**): Britain became permanently separated from the continent by the Channel|
 |4,000 BC|(**6,000 years ago**): The first farmers arrived in Britain. The ancestors of these first farmers probably came from **south-east Europe**.|
+|Bronze Age||
 |2,000 BC|(**4,000 years ago**): Bronze age (people learned to make bronze)|
+|The Romans||
 |55 BC|Roman **Julius Caesar** tried (failed) to invade Britain|
-|---|---|
 |43|Roman **Emperor Claudius** successfully invaded (most of) Britain|
 |3rd and 4th centuries|The first Christian communities began to appear in Britain|
 |410|The Roman army left Britain to defend other parts of the Roman Empire and never returned.|
-|600|Anglo-Saxons establish in Britain (except much of Wales and Scotland)|
-|789|The Vikings came from **Denmark and Norway**. They first visited Britain in to raid **coastal towns** and take away **goods** and **slaves**.|
-|---|---|
-|1066 - 1485|Middle Ages (or the medieval period). The period after the Norman Conquest up until about 1485.|
-|1066|- An invasion led by William, the Duke of Normandy, defeated Harold, the Saxon King of England, at the Battle of Hastings (last time England was successfully invaded)<br>- William became king of England<br>- Start of the Westminster Abbey as the coronation church<br>- The **Tower of London** was first built by by **William the Conqueror** after he became king<br>- Start of the “middle ages”|
+|The Anglo-Saxons||
+|by 600|Anglo-Saxon kingdoms were established in Britain (mainly in what is now England)|
+|The Vikings||
+|789|The Vikings came from **Denmark and Norway**. They first visited Britain in to raid **coastal towns** and take away **goods** and **slaves**. Then, they began to stay and form their own communities in the east of England and Scotland.|
+|Middle Ages|(or the medieval period) 1066 - 1485|
+|1066|- An invasion led by William, the Duke of Normandy, defeated Harold, the Saxon King of England, at the Battle of Hastings (last time England was successfully invaded). Harold was killed in the battle.<br>- William became king of England<br>- Start of the Westminster Abbey as the coronation church<br>- The **Tower of London** was first built by by **William the Conqueror** after he became king<br>- Start of the “middle ages”|
 |By 1200|The English ruled an area of Ireland known as the **Pale**, around **Dublin**|
 |1215|Magna Carta (which means **the Great Charter**)<br>- signed by King John<br>- the King is subject to the law. It protected the rights of the nobility and restricted the king’s power to collect taxes or to make and change laws.|
 |1284|King **Edward I** introduced the Statute of **Rhuddlan**, which annexed **Wales** to the Crown of England|
