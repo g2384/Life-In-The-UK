@@ -34,12 +34,12 @@
 |1509, 21 April|Henry VIII became king of England.|
 |During the reign of Henry VIII|Wales became formally united with England by the Act for the Government of Wales.|
 |1547, 28 January|Henry VIII died. He was succeeded by his son **Edward VI**.|
-|1560|- The predominantly Protestant Scottish Parliament abolished the authority of the Pope in Scotland and Roman Catholic religious services became illegal. <br> - Mary Queen of Scots (Catholic) flees to England → imprisoned for 20 years then executed|
+|1560|- The predominantly Protestant Scottish Parliament abolished the authority of the Pope in Scotland and Roman Catholic religious services became illegal. A Protestant Church of Scotland with an elected leadership was established but, unlike in England, this was not a state Church.  <br> - Mary Queen of Scots (Catholic) flees to England → imprisoned for 20 years then executed|
 |1564|Williams Shakespeare born|
 |1588|- English Sir **Francis Drake** defeat **Spanish Armada** (a large fleet of invading ships), which had been sent by Spain to conquer England and restore Catholicism. <br> - Elizabeth I became one of the most popular monarchs in English history after this.|
-|16th century|Protestant ideas gradually gained strength in England, Wales and Scotland|
+|16th century|Protestant ideas gradually gained strength in England, Wales and Scotland. In Ireland, however, attempts by the English to impose Protestantism (alongside efforts to introduce the English system of laws about the inheritance of land) led to **rebellion** from the Irish chieftains, and much brutal fighting followed.|
 |1603|Elizabeth I dies childless, James VI of Scotland becomes James I of England, also became King of England, Wales and Ireland|
-|Elizabethan period| (Elizabeth I’s time)<br> - It is remembered for the richness of its poetry and drama, especially the plays and poems of **William Shakespeare**.<br> - English settlers first began to colonise the eastern coast of America.<br> - Queen Elizabeth I was a **Protestant**.<br> - ‘Mary, Queen of Scots’ was Elizabeth I’s **cousin**.<br> - **Henry VIII** and **Anne Boleyn** were the parents of Elizabeth I (the younger daughter).<br> - A time of growing **patriotism**: a feeling of pride in being English, English explorers sought new trade routes and tried to expand British trade into the Spanish colonies in the Americas.<br> - Elizabeth suspected Mary of wanting to take over the English throne, and kept her prisoner for **20** years.|
+|Elizabethan period| (Elizabeth I’s time)<br> - It is remembered for the richness of its poetry and drama, especially the plays and poems of **William Shakespeare**.<br> - English settlers first began to colonise the eastern coast of America. This colonisation, particularly by people who disagreed with the religious views of the next two kings, greatly increased in the next century.<br> - Queen Elizabeth I was a **Protestant**.<br> - A time of growing **patriotism**: a feeling of pride in being English, English explorers sought new trade routes and tried to expand British trade into the Spanish colonies in the Americas.|
 |1605|A group of **Catholics** led by **Guy Fawkes** failed in their plan to kill the **Protestant** king with a bomb in the Houses of Parliament. This is the origin of the Bonfire Night celebration on the **5th November**, when people in Great Britain set off fireworks at home or in special displays.|
 |1606|First union flag created. The Welsh **dragon** (the official Welsh flag) (either The cross of **St David**, patron saint of Wales) does not appear on the Union Flag because, when the first Union Flag was created in 1606 from the flags of Scotland and England, the Principality of Wales was already untied with England.|
 |1616|William Shakespeare dies|
@@ -52,8 +52,8 @@
 |1656|The first Jews to come to Britain since the Middle Ages settled in London|
 |1658|Oliver Cromwell, the leader of the new republic, died|
 |1660, May|- Parliament invited Charles II to come back from exile in the Netherlands<br>- “The Restoration”: Charles II instated as king|
-|1665|Major outbreak of plague in London|
-|1666|A great fire destroyed much of London, including many churches and St Paul’s Cathedral. London was rebuilt with a new St Paul’s, which was designed by a famous architect, **Sir Christopher Wren**|
+|1665|a major outbreak of plague in London. Thousands of people died, especially in poorer areas.|
+|1666|A great fire destroyed much of London, including many churches and St Paul’s Cathedral. London was rebuilt with a new St Paul’s, which was designed by a famous architect, **Sir Christopher Wren**. **Samuel Pepys** wrote about these events in a diary which was later published and is still read today.|
 |1679|The **Habeas Corpus** Act became law. This was a very important piece of legislation which remains relevant today. The Act guaranteed that no one could be held **prisoner** unlawfully. Every prisoner has a right to a court hearing. Habeas corpus is Latin for ‘you must present the person in court’.|
 |1680 - 1720|Many refugees called Huguenots came from France|
 |1685|Charles II dies, Catholic James II becomes King in England, Wales and Ireland and King James VII of Scotland|

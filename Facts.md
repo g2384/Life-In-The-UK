@@ -635,6 +635,120 @@ control of their lands.
 
 ![The roses of The Wars of the Roses](./images/4-6.jpg)
 
+## The Tudors and Stuarts
+
+### Henry VII
+
+- After Wars of the Roses, Henry VII wanted to make sure that England remained peaceful and that his position as king was secure. He deliberately strengthened the central administration of England and reduced the power of the nobles.
+- He was thrifty and built up the monarchy’s financial reserves.
+
+### Henry VIII (son)
+
+- Henry VIII continued the policy of centralising power.
+- Henry VIII was most famous for breaking away from the Church of Rome and marrying six times:
+
+|Name|From|Children|Notes|
+|---|---|---|---|
+|Catherine of Aragon|a Spanish princess|several children but only **Mary** survived|When Catherine was **too old** to give him another child, Henry decided to divorce her|
+|Anne Boleyn|English|**Elizabeth**|She was unpopular in the country and was accused of **taking lovers**. She was executed at the tower of London|
+|Jane Seymour||**Edward**|she died shortly after his birth|
+|Anne of Cleves|a German princess||Henry married her for political reasons but divorced her soon after|
+|Catherine Howard|a cousin of Anne Boleyn||She was also accused of **taking lovers** and executed.
+|Catherine Parr|||a widow who married Henry later in his life. She survived him and married again but died soon after.|
+
+- To divorce his first wife, Henry needed the approval of the Pope. When the Pope refused, Henry established the **Church of England**.
+- In this new church, the **king**, not the Pope, would have the power to appoint bishops and order how people should worship.
+- At the same time the **Reformation** was happening across Europe. This was a movement against the authority of the Pope and the ideas and practices of the Roman Catholic Church.
+- The **Protestants** formed their own churches.
+  - They read the Bible in their own languages instead of Latin;
+  - they did not pray to saints or at shrines;
+  - and they believed that a person’s own relationship with God was more important than submitting to the authority of the Church.
+- During the reign of Henry VIII, Wales became formally united with England by the **Act for the Government of Wales**. The Welsh sent representatives to the House of Commons and the Welsh legal system was reformed.
+
+### Edward VI (son)
+
+- Edward VI was strongly Protestant. During his reign, the **Book of Common Prayer** was written to be used in the Church of England. A version of this book is still used in some churches today.
+- Edward died at the age of 15 after ruling for just over six years.
+
+### Mary (half-sister)
+- Mary was a devout Catholic and persecuted Protestants (for this reason, she became known as ‘Bloody
+Mary’).
+- Mary also died after a short reign.
+
+### Elizabeth (half-sister)
+
+- Elizabeth I was the younger daughter of Henry VIII and Anne Boleyn.
+- Queen Elizabeth I was a Protestant. She re-established the Church of England as the official Church of England. Everyone had to attend their local church and there were laws about the type of religious services and the prayers which could be said, but Elizabeth did not ask about people’s real beliefs. She succeeded in finding a balance between the views of the Catholics and the more extreme Protestants. In this way, she avoided any serious religious conflict within England.
+- She never married.
+
+### The Reformation in Scotland and Mary, Queen of Scots
+
+- The queen of Scotland, Mary Stuart (often now called ‘Mary, Queen of Scots’) was a Catholic.
+- She was only a week old when her father died and she became queen. Much of her childhood was spent in **France**.
+- When she returned to Scotland, she was the centre of a power struggle between different groups. When her husband was murdered, Mary was suspected of involvement and fled to England. She gave her throne to her Protestant son, James VI of Scotland.
+- Mary was Elizabeth I’s cousin and hoped that Elizabeth might help her, but Elizabeth suspected Mary of wanting to take over the English throne, and kept her prisoner for **20** years. Mary was eventually executed, accused of plotting against Elizabeth I.
+
+### James I (cousin)
+
+- James VI Scotland, Elizabeth's cousin, became King James I of England, Wales and Ireland. Scotland remained a separate country.
+- The King James Bible: One achievement of King James’ reign was a new translation of the Bible into English. This translation is known as the **‘King James Version’** or the **‘Authorised Version’**. It was not the first English Bible but is a version which continues to be used in many Protestant churches today.
+
+### Ireland
+- During this period, Ireland was an almost completely Catholic country. Henry VII and Henry VIII had extended English control outside the Pale and had established English authority over the whole country.
+- Henry VIII took the title ‘King of Ireland’. English laws were introduced and local leaders were expected to follow the instructions of the Lord **Lieutenants** in Dublin.
+- During the reigns of Elizabeth I and James I, many people in Ireland opposed rule by the Protestant government in England. There were a number of rebellions. The English government encouraged Scottish and English Protestants to settle in **Ulster**, the northern province of Ireland, taking over the land from Catholic landholders. These settlements were known as **plantations**. Many of the new settlers came from south-west Scotland and other land was given to companies based in London.
+- James later organised similar plantations in several other parts of Ireland. This had serious longterm consequence for the history of England, Scotland and Ireland.
+
+### The rise of Parliament
+
+- Elizabeth I was very skilled at managing Parliament. During her reign, she was successful in balancing her wishes and views against those of the House of Lords and those of the House of Commons, which was increasingly Protestant in its views.
+- James I and his son **Charles I** were less skilled politically. Both believed in the **‘Divine Right of Kings’**: the idea that the king was directly appointed by God to rule. They thought that the king should be able to act without having to seek approval from Parliament. When Charles I inherited the thrones of England, Wales, Ireland and Scotland, he tried to rule in line with this principle. When he could not get Parliament to agree with his religious and foreign policies, he tried to rule without the Parliament at all. For 11 years, he found ways in which to raise money without Parliament’s approval but eventually trouble in Scotland meant that he had to recall Parliament.
+
+### The beginning of the English Civil War
+
+- Charles I wanted the worship of the Church of England to include more ceremony and introduced a revise **Prayer Book**. He tried to impose this Prayer Book on the Presbyterian Church in Scotland and this led to serious unrest.
+- A Scottish army was formed and Charles could not find the money he needed for his own army without the help of Parliament.
+- In 1640, he recalled Parliament to ask it for funds. Many in Parliament were **Puritans**, a group of Protestants who advocated strict and simple religious doctrine and worship. They did not agree with the king’s religious views and disliked his reforms of the Church of England. Parliament refused to give the king the money he asked for, even after the Scottish army invaded England. 
+- Another rebellion began in Ireland because the Roman Catholics in Ireland were afraid of the growing power of the Puritans. Parliament took this opportunity to demand control of the English army – a change that would have transferred substantial power from the king to Parliament. In response, Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. (No monarch has set foot in the Commons since.)
+- Civil war between the king and Parliament began in 1642. The country spilt into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads). 
+
+### Oliver Cromwell and the English republic
+
+- Oliver Cromwell was the leader of the English republic
+- The king’s army was defeated at the Battles of **Marston Moor** and **Naseby**.
+- By 1646, it was clear that the Parliament had won the war.
+- Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with the Parliament and in 1649 he was executed.
+- England declared itself a republic, called the Commonwealth. It no longer had a monarch. For a time, it was not totally clear how the country would be governed. For now, the army was in control. 
+- One of its generals, Oliver Cromwell, was sent to Ireland, where the revolt which had begun in 1641 still continued and where there was still a Royalist army. Cromwell was successful in establishing the authority of the English Parliament but did this with such violence that even today Cromwell remains a controversial figure in Ireland.
+- The Scots had not agreed to the execution of Charles I and declared his son **Charles II** to be king. He was crowned king of Scotland and led a Scottish army into England. Cromwell defeated this army in the Battles of **Dunbar** and **Worcester**. Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe.
+- Parliament now controlled Scotland as well as England and Wales.
+- After his campaign in Ireland and victory over Charles II at Worcester, Cromwell was recognised as the leader of the new republic. He was given the title of **Lord Protector** and ruled until his death in 1658.
+- When Cromwell died, his son, Richard, became Lord Protector in his place but was not able to control the army or the government. Although Britain had been a republic for **11** years, without Oliver Cromwell there was no clear leader or system of government. Many people in the country wanted stability. People began to talk about the need for a king.
+
+### Charles II
+
+- In May 1660, Parliament invited Charles II to come back from exile in The Netherlands. He was crowned King Charles II of England, Wales, Scotland and Ireland. Charles II made it clear that he had ‘no wish to go on his travels again’.
+- He understood that he could not always do as he wished but would sometimes need to reach agreement with the Parliament. Generally, Parliament supported his policies. The Church of England again became the established official Church. Both Roman Catholics and Puritans were kept out of power.
+- Charles II was interested in science. During his reign, the **Royal Society** was formed to promote ‘natural knowledge’. This is the oldest surviving scientific society in the world. Among its early members were **Sir Edmund Halley** who successfully predicted the return of the comet now called Halley’s Comet, and Sir Isaac Newton.
+- Charles II had no legitimate children. He died in 1685.
+
+### James II, A Catholic king
+
+- Charles II's brother, James, who was a Roman Catholic, became King James II in England, Wales and Ireland and King James VII of Scotland.
+- James favoured Roman Catholics and allowed them to be army officers, which an Act of Parliament had forbidden. He did not seek to reach agreements with Parliament and arrested some of the bishops of the Church of England. People in England worried that James wanted to make England a Catholic country once more.
+- However, his heirs were his two daughters, who were both firmly Protestant, and people thought that this meant there would soon be a Protestant monarch again. Then James’s wife had a son. Suddenly, it seemed likely that the next monarch would not be a Protestant after all.
+
+### William III, The Glorious Revolution
+
+- James II’s elder daughter, Mary, was married to her cousin William of Orange, the Protestant ruler of the Netherlands.
+- In 1688, important Protestants in England asked William to invade England and proclaim himself king. When William reached England, there was no resistance. James fled to France and William took over the throne, becoming William III in England, Wales and Ireland, and William II of Scotland. William ruled jointly with Mary. This event was later called the **‘Glorious Revolution’** because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of monarch ruling on his or her own as he or she wished.
+- James II wanted to regain the throne and invaded Ireland with the help of a French army. William defeated James II at the Battle of the **Boyne** in **Ireland** in 1690, an event which is still celebrated by some in Northern Ireland today.
+- William re-conquered Ireland and James fled back to France.
+- Many restrictions were placed on the Roman Catholic Church in Ireland and Irish Catholics were unable to take part in the government.
+- There was also support for James in Scotland. An attempt at an armed rebellion in support of James was quickly defeated at **Killiecrankie**. All Scottish clans were required formally to accept William as king by taking an oath.
+- The **MacDonalds of Glencoe** were late in taking an oath and were killed. The memory of this massacre meant some Scots distrusted the new government.
+- Some continued to believe that James was the rightful king, particularly in Scotland. Some joined him in exile in France; others were secret supporters. James’ supporters became known as **Jacobites**. 
+
 # The UK today
 
 ## The nations of the UK
