@@ -463,6 +463,27 @@ faithfully and fulfil my duties and obligations as a British citizen.’</blockq
 
 ---
 
+# What is the UK?
+
+![The countries of the UK](./images/3-1.jpg)
+
+- The UK is made up of England, Scotland, Wales and Northern Ireland.
+- The rest of Ireland is an independent country.
+- The official name: the United Kingdom of Great Britain and
+Northern Ireland.
+- Great Britain: England, Scotland and Wales.
+- The words ‘Britain’, ‘British Isles’ or ‘British’, however, are used here to refer to everyone in the UK.
+- Islands which are closely linked with the UK but are not part of it:
+  - the Channel Islands
+  - the Isle of Man.
+- These have their own governments and are called **‘Crown dependencies’**.
+- British overseas territories (They are linked to the UK but are not part of it):
+  - St Helena
+  - the Falkland Islands
+- The UK is governed by the parliament sitting in **Westminster**.
+- Scotland, Wales and Northern Ireland also have parliaments or assemblies of their
+own, with devolved powers in defined areas. 
+
 # The UK today
 
 ## The nations of the UK
