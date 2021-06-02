@@ -82,8 +82,7 @@
 |Late 1700s|The Quakers set up the first formal anti-slavery group|
 |Before the 18th century|agriculture was the biggest source of employment in Britain.|
 |18th century|New ideas about politics, philosophy and science were developed, called the “Enlightenment”. <br> - Many of the great thinkers of the Enlightenment were **Scottish**. **Adam Smith** developed ideas about economics which are still referred to today.<br> - **David Hume**’s ideas about human nature continue to influence **philosophers**.|
-|1800|The Act of Union created the United Kingdom of Great Britain and Ireland|
-|1801|Ireland became unified with England, Scotland and Wales after the **The Act of Union**|
+|1801|Ireland became unified with England, Scotland and Wales after the **Act of Union of 1800**. This created the United Kingdom of Great Britain and Ireland. One symbol of this union between England, Scotland, Wales and Ireland was a new version of the official flag, the Union Flag.|
 |1805|Britain wins Battle of Trafalgar against combined French and Spanish fleets (Nelson dies)|
 |1807|It became illegal to trade slaves in British ships or from British ports|
 |1810|- Sake Dean Mahomet opened the Hindoostane Coffee House in George Street,London, the first curry house to open in Britain.<br> - Introduced “shampooing” head massage|
@@ -91,7 +90,7 @@
 |1832|The **Reform Act** of 1832 had greatly increased the number of people with the **right to vote**. The act also abolished the **old pocket and rotten boroughs** and more parliamentary seats were given to the towns and cities.|
 |1833|the **Emancipation Act** abolished **slavery** throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders.|
 |1837|Queen Victoria became queen of the UK at the age of **18**|
-|1846|Repealing of the Corn|
+|1846|Repealing of the Corn Laws.|
 |1847|The number of hours that women and children could work was limited bylaw to 10 hour per day|
 |1851|- Mahomet dies. <br> - The Great Exhibition opened in Hyde Park|
 |1853 - 1913|As many as 13 million British citizen left the country to settle overseas|
