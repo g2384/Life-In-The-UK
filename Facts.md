@@ -343,30 +343,6 @@ Queen Mary was a devout **Catholic** and persecuted **Protestants** (for this re
 
 In the **late 1970s**, the post-war economic boom came to an end.
 
-- **Allies** of World War I:
-- Principal powers:
-  - British Empire
-  - Russian Empire
-  - French Republic
-  - Japanese Empire
-  - Kingdom of Italy
-- Affiliated state combatants:
-  - Kingdom of Serbia
-  - Kingdom of Belgium
-  - Kingdom of Greece
-  - Kingdom of Montenegro
-  - Beda Sultanate
-  - Idrisid Emirate of Asir
-  - Emirate of Nejd and Hasa
-  - Kingdom of Romania
-  - Republic of the United States of Brazil
-
-- **Central Powers**:
-  - Germany
-  - Austria-Hungary
-  - Ottoman Empire
-  - Bulgaria
-
 The **Great Western Railway** was the first major railway built in Britain.
 
 English kings fought a long war with France, called the Hundred Years War (even though it actually lasted **116** years).
@@ -902,6 +878,100 @@ development of the British industry, because raw materials could now be imported
 - Although the British Empire continued to grow until the 1920s, there was already discussion in the late 19th century about its future direction. Supporters of expansion believed that the Empire benefited Britain through increased trade and commerce. Others thought the Empire had become over-expanded and that the frequent conflicts in many parts of the Empire, such as India’s north-west frontier or southern Africa, were a drain on resources. Yet the great majority of British people believed in the Empire as a force for good in the world.
 - The Boer War of 1899 to 1902 made the discussions about the future of the Empire more urgent. The British went to war in **South Africa** with settlers from the **Netherlands** called the Boers. The Boers fought fiercely and the war went on for over three years. Many died in the fighting and many more from disease. There was some public sympathy for the Boers and people began to question whether the Empire could continue. As different parts of the Empire developed, they won greater freedom and autonomy from Britain.
 - Eventually, by the second half of the 20th century, there was, for the most part, an orderly transition from Empire to Commonwealth, with countries being granted their independence. 
+
+## The 20th century
+
+### The First World War
+
+- The early 20th century was a time of optimism in Britain.
+  - The nation, with its expansive Empire, well-admired navy, thriving industry and strong political institutions, was what is now known as a global ‘superpower’.
+  - Financial help for the unemployed,
+  - old-age pensions
+  - free school meals
+  - various laws were passed to improve safety in the workplace;
+  - town planning rules were tightened to prevent the further development of slums;
+  - better support was given to mothers and their children after divorce or separation.
+  - Local government became more democratic and a salary for members of Parliament (MPs) was introduced for the first time, making it easier for more people to take part in public life.
+- On 28 June 1914, Archduke Franz Ferdinand of Austria was assassinated. This set off a chain of events leading to the First World War (1914-18). But while the assassination provided the trigger for war, other factors – such as a growing sense of nationalism in many European states; increasing militarism; imperialism; and the division of the major European powers into two camps – all set the conditions for war.
+- The conflict was centred in Europe, but it was a global war involving nations from around the world. The Allies fought against the Central Powers.
+- Allied Powers:
+  - Britain
+  - France,
+  - Russia,
+  - Japan,
+  - Belgium,
+  - Serbia
+  - and later...
+  - Greece,
+  - Italy,
+  - Romania
+  - United States.
+- Central Powers:
+  - Germany
+  - Austro-Hungarian Empire
+  - Ottoman Empire
+  - (and later...) Bulgaria
+- The whole of the British Empire was involved in the conflict – for example, more than a million Indians fought on behalf of Britain in lots of different countries, and around **40, 000** were killed.
+- Men from the West Indies, Africa, Australia, New Zealand and Canada also fought with the British. 
+- Millions of people were killed or wounded, with more than 2 million British casualties.
+- One battle, the British attack of the **Somme** in July 1916, resulted in about **60,000** British casualties on the first day alone.
+- The First World War ended at 11.00 am on 11th November 1918 with victory for Britain and its allies.
+
+### The partition of Ireland
+
+|Time|Events|
+|---|---|
+|1913|the British government promised **‘Home Rule’** for Ireland. The proposal was to have a self-governing Ireland with its own parliament but still part of the UK. A Home Rule Bill was introduced in Parliament. It was opposed by the Protestants in the north of Ireland, who threatened to resist Home Rule by force.|
+|1916|there was an uprising (the **Easter Rising**) against the British in Dublin. The leaders of the uprising were executed under military law. A guerrilla war against the British army and the police in Ireland followed.|
+|1921|a peace treaty was signed|
+|1922|Ireland became two countries. The six countries in the north which were mainly Protestant remained part of the UK under the name Northern Ireland. The rest of Ireland became the Irish Free State.|
+|1949|Ireland had its own government and became a republic in 1949.|
+
+- There were people in both parts of Ireland who disagree with the split between the North and the South. They still wanted Ireland to be one independent country. Years of disagreement led to a terror campaign in Northern Ireland and elsewhere.
+- **‘the Troubles’**: The conflict between those wishing for full Irish independence and those wishing to remain loyal to the British government.
+
+### The inter-war period
+
+- In the 1920s, many people’s living conditions got better. There were improvements in public housing and new homes were built in many towns and cities.
+- In 1929, the world entered the ‘Great Depression’ and some parts of the UK suffered mass unemployment. The effects of the depression of the 1930s were felt differently in different parts of the UK. The traditional heavy industries such as shipbuilding were badly affected but new
+industries – including the automobile and aviation industries – developed.
+- As prices generally fell, those in work had more money to spend. Car ownership doubled from 1 million to 2 million between 1930 and 1939.
+- Many new houses were built.
+- Cultural blossoming:
+  - writers: Graham Greene and Evelyn Waugh.
+  - economist: John Maynard Keynes published influential new theories of economics.
+  - The BBC started radio broadcasts in 1922 and began the world’s first regular television service in 1936.
+
+### The Second World War
+
+- Adolf Hitler came to power in Germany in 1933. He believed that the conditions imposed on Germany by the Allies after the First World War were unfair; he also wanted to conquer more land for the German people. He set about renegotiating treaties, building up arms, and testing Germany’s military strength in nearby countries. The British government tried to avoid another war.
+- When Hitler invaded Poland in 1939, Britain and France declared war in order to stop his aggression.
+- The war was initially fought between the Axis powers (fascist Germany and Italy and the Empire of Japan) and the Allies.
+- Axis powers:
+  - fascist Germany
+  - Italy
+  - the Empire of Japan
+- Allies:
+  - the UK
+  - France
+  - Poland
+  - Australia
+  - New Zealand
+  - Canada
+  - the Union of South Africa
+- Having occupied Austria and invaded Czechoslovakia, Hitler followed his invasion of Poland by taking control of Belgium and the Netherlands. Then, in 1940, German forces defeated allied troops and advanced through France. At this time of national crisis, Winston Churchill became Prime Minister and Britain’s war leader. 
+- As France fell, the British decided to evacuate British and French solders from France in a huge naval operation. Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than **300,000** men from the beaches around **Dunkirk**. Although many lives and a lot of equipment were lost, the evacuation was a success and meant that Britain was better able to continue the fight against the Germans. The evacuation gave rise to the phrase **‘the Dunkirk spirit’**.
+- From the end of June 1940 until the German invasion of the Soviet Union in June 1941, Britain and the Empire stood almost alone against Nazi Germany.
+- the Battle of Britain: Hitler wanted to invade Britain, but before sending in troops, Germany needed to control the air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, in the summer of 1940. The most important planes used by the Royal Air Force in the Battle of Britain were the **Spitfire** and the **Hurricane** – which were designed and built in Britain.
+- Blitz: Despite this crucial victory, the German air force was able to continue bombing London and other British cities at night-time. **Coventry** was almost totally destroyed and a great deal of damage was done in other cities, especially in the **East End of London**.
+- the Blitz spirit: Despite the destruction, there was a strong national spirit of resistance in the UK. It is still used today to describe Britons pulling together in the face of adversity.
+- At the same time as defending Britain, the British military was fighting the Axis on many other fronts. In Singapore, the Japanese defeated the British and then occupied Burma, threatening India. - The United States entered the war when the Japanese bombed its naval base at Pearl Harbor in December **1941**.
+- That same year, Hitler attempted the largest invasion in history by attacking the Soviet Union. It was a fierce conflict, with huge losses on **both** sides. German forces were ultimately repelled by the Soviets, and the damage they sustained proved to be a pivotal point in the war.
+- The allied forces gradually gained the upper hand, winning significant victories in North Africa and Italy. German losses in the Soviet Union, combined with the support of the Americans, meant that the Allies were eventually strong enough to attack Hitler’s forces in Western Europe.
+- On 6 June 1944, allied forces landed in **Normandy** (this event is often referred to as **‘D-Day’**). Following victory on the beaches of Normandy, the allied forces pressed on through France and eventually into Germany.
+- May 1945, The Allies comprehensively defeated **Germany**.
+- August 1945, The war against **Japan** ended when the United States dropped its newly developed atom bombs on the Japanese cities of **Hiroshima** and **Nagasaki**. Scientists led by **Ernest Rutherford**, working at **Manchester** and then **Cambridge** University, were the first to ‘split the atom’ and took part in the **Manhattan Project** in the **United States**, which developed the
+atomic bomb.
 
 # The UK today
 
