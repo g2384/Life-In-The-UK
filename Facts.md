@@ -725,6 +725,12 @@ Mary’).
 - The **MacDonalds of Glencoe** were late in taking an oath and were killed. The memory of this massacre meant some Scots distrusted the new government.
 - Some continued to believe that James was the rightful king, particularly in Scotland. Some joined him in exile in France; others were secret supporters. James’ supporters became known as **Jacobites**. 
 
+|England, Wales and Ireland|Scotland
+|---|---|
+|James I|James VI|
+|James II|James VII|
+|William III|William II|
+
 ## A global power
 
 ### Constitutional monarchy – the Bill of Rights
@@ -1082,56 +1088,49 @@ increase in the role of the City of London as an international centre for invest
 ### Coalition government 2010 onwards
 
 - In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a **coalition** and the leader of the Conservative Party, David Cameron, became Prime Minister.
-- The **Conservative** Party won a majority at the general election of 7 May 2015 and David Cameron remained Prime Minister. The Conservative government caught the referendum on the UK’s membership of the European Union. This was held on 23 June 2016. The UK voted by a margin of 51.9% to 48.1% to leave the European Union. David Cameron was succeeded as Prime Minister after the referendum by Theresa May on 13 July 2016. She in turn was succeeded by Boris Johnson on 24 July 2019. The UK formally left the European Union on 31 January 2020.
+- The **Conservative** Party won a majority at the general election of 7 May 2015 and David Cameron remained Prime Minister. The Conservative government called a referendum on the UK’s membership of the European Union. This was held on 23 June 2016. The UK voted by a margin of 51.9% to 48.1% to leave the European Union. David Cameron was succeeded as Prime Minister after the referendum by Theresa May on 13 July 2016. She in turn was succeeded by Boris Johnson on 24 July 2019. The UK formally left the European Union on 31 January 2020.
 
-# The UK today
+# A modern, thriving society
 
-## The nations of the UK
+## The UK today
+
+### The nations of the UK
 
 - The UK is located in the north west of Europe.
 - The longest distance on the mainland is from **John O’Groats** on the north coast of Scotland to **Land’s End** in the south-west corner of England. It is about **870 miles (approximately 1,400 kilometres)**.
 - Most people live in towns and cities but much of Britain is still **countryside**.
 - Many people continue to visit the countryside for holidays and for leisure activities such as walking, camping and fishing.
 
-## Cities of the UK
+### Cities of the UK
 
-- ENGLAND
-  - London
-  - Birmingham
-  - Liverpool
-  - Leeds
-  - Sheffield
-  - Bristol
-  - Manchester
-  - Bradford
-  - Newcastle Upon Tyne
-  - Plymouth
-  - Southampton
-  - Norwich 
-- WALES
-  - Cardiff
-  - Swansea
-  - Newport 
-- SCOTLAND
-  - Edinburgh
-  - Glasgow
-  - Dundee
-  - Aberdeen 
-- NORTHERN IRELAND
-  - Belfast
+|England|Wales|Scotland|Northern Ireland|
+|---|---|---|---|
+|London (Capital of the UK)|Cardiff|Edinburgh|Belfast|
+|Birmingham|Swansea|Glasgow|
+|Liverpool|Newport|Dundee|
+|Leeds||Aberdeen
+|Sheffield|
+|Bristol|
+|Manchester|
+|Bradford|
+|Newcastle Upon Tyne|
+|Plymouth|
+|Southampton|
+|Norwich |
 
-## UK currency
+### UK currency
 
 - The currency in the UK is the **pound sterling** (symbol £). There are **100 pence** in a pound. The denominations (values) of currency are:
   - coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2
   - notes: £5, £10, £20, £50.
 - Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses **do not have to accept** them.
 
-## Languages and dialects
+### Languages and dialects
 
-- There are many variations in language in the different parts of the UK. The English language has many accents and dialects.
+- There are many variations in language in the different parts of the UK.
+- The English language has many accents and dialects.
 
-## Population
+### Population
 
 - The UK today is a more diverse society than it was 100 years ago, in both ethnic and religious terms.
 - Post-war immigration means that nearly 10% of the population has a parent or grandparent born outside the UK.
@@ -1148,14 +1147,19 @@ increase in the role of the City of London as an international centre for invest
 |1998|57 million|
 |2005|just under 60 million|
 |2010|just over 62 million|
+|2017|just over 66 million|
 
-According to the 2011 Census
-- 59%: Christians
-- 25%: no religion
-- 4.8%: Muslim
-- 1.5%: Hindu
-- 0.8%: Sikh
-- less than 0.5%: Jewish, Buddhist
+- Population growth has been faster in more recent years. **Migration** into the UK and **longer life expectancy** have played a part in population growth.
+
+The population is very **unequally distributed** over the four parts of the UK.
+- 84%: England
+- just over 8%: Scotland
+- 5%: Wales
+- less than 3%: Northern Ireland
+
+- People in the UK are living longer than ever before. This is due to **improved living standards** and **better health care**.
+- There are now a record number of people aged 85 and over.
+- This has an impact on the cost of **pensions** and **health care**.
 
 In the 2009 Citizenship Survey:
 - 70%: Christian
@@ -1166,28 +1170,14 @@ In the 2009 Citizenship Survey:
 - less than 0.5%: Jewish, Buddhist
 - 2%: follow another religion
 
-The population is very **unequally distributed** over the four parts of the UK.
-- 84%: England
-- just over 8%: Scotland
-- 5%: Wales
-- less than 3%: Northern Ireland
-
-- Population growth has been faster in more recent years. **Migration** into the UK and **longer life expectancy** have played a part in population growth.
-
-## An ageing population
-
-- People in the UK are living longer than ever before. This is due to **improved living standards** and **better health care**.
-- There are now a record number of people aged 85 and over.
-- This has an impact on the cost of **pensions** and **health care**.
-
-## Ethnic diversity
+### Ethnic diversity
 
 - The UK population is ethnically diverse and changing rapidly, especially in large cities such as London.
 - It is not always easy to get an exact picture of the ethnic origin of all the population.
 - There are people in the UK with ethnic origins from all over the world.
 - In surveys, the most common ethnic description chosen is white, which includes people of European, Australian, Canadian, New Zealand and American descent. Other significant groups are those of Asian, black and mixed descent.
 
-## An equal society
+### An equal society
 
 - Within the UK, it is a legal requirement that men and women should not be discriminated against because of their gender or because they are, or are not, married. They have equal rights to work, own property, marry and divorce. If they are married, both parents are **equally responsible** for their children.
 - Women in Britain today make up about **half** of the workforce.
@@ -1196,7 +1186,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Employment opportunities for women are much greater than they were in the past. Women work in **all** sectors of the economy, and there are now more women in high-level positions than ever before, including senior managers in traditionally male-dominated occupations. Alongside this, men now work in more varied jobs than they did in the past.
 - It is no longer expected that women should stay at home and not work. Women often continue to work after having children. In many families today, both partners work and both share responsibility for childcare and household chores.
 
-# Religion
+## Religion
 
 - The UK is historically a **Christian** country.
 - There are religious buildings for other religions all over the UK. This includes:
@@ -1206,17 +1196,24 @@ The population is very **unequally distributed** over the four parts of the UK.
   - Sikh gurdwaras
   - Buddhist temples
 - Everyone has the legal right to choose their religion, or to choose not to practise a religion.
+- In the 2011 Census
+  - 59%: Christians
+  - 25%: no religion
+  - 4.8%: Muslim
+  - 1.5%: Hindu
+  - 0.8%: Sikh
+  - less than 0.5%: Jewish, Buddhist
 
-## Christian Churches
+### Christian churches
 
 - In England, there is a **constitutional link** between Church and state.
 - The official Church of the state is the **Church of England** (called the **Anglican Church** in other countries and the **Episcopal Church** in Scotland and the United States). It is a **Protestant** Church and has existed since the **Reformation** in the **1530s**.
 - The **monarch** is the head of the Church of England.
-- The spiritual leader of the Church of England is the **Archbishop of Canterbury**.
+- The **Archbishop of Canterbury** is the spiritual leader of the Church of England.
 - The monarch has the right to select the Archbishop and other senior church officials, but usually the choice is made by the **Prime Minister** and a **committee** appointed by the Church. 
 - Several Church of England bishops sit in the **House of Lords**.
 - In Scotland, the national Church is the **Church of Scotland**, which is a **Presbyterian** Church. It is governed by **ministers and elders**. The chairperson of the General Assembly of the Church of Scotland is the **Moderator**, who is appointed for **one year** only and often speaks on behalf of that Church.
-- There is **no established Church** in Wales or Northern Ireland.
+- There is **no** established Church in Wales or Northern Ireland.
 - Other Protestant Christian groups in the UK are:
   - Baptists
   - Methodists
@@ -1226,9 +1223,9 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Only Scotland and Northern Ireland have their patron saint’s day as an official holiday (although in Scotland not all businesses and Offices will close). Events are held across Scotland, Northern Ireland and the rest of the country, especially where there are a lot of people of Scottish, Northern Irish and Irish heritage.
 - While the patron saints’ days are no longer public holidays in England and Wales, they are still celebrated. Parades and small festivals are held all over the two countries. 
 
-# Customs and traditions
+## Customs and traditions
 
-## The main Christian festivals
+### The main Christian festivals
 
 - Christmas is celebrated in a traditional way. People usually spend the day at home and eat a special meal, which often includes **roast turkey**, **Christmas pudding** and **mince pies**.
 - They give gifts, send cards and decorate their houses.
