@@ -3,7 +3,7 @@
 |50 million years ago|The Giant’s Causeway was formed. Located on the **north-east** coast of **Northern Ireland**, the Giant’s Causeway is a land formation of columns made from **volcanic lava**.|
 |Stone Age||
 |8,000 BC|(**10,000 years ago**): Britain became permanently separated from the continent by the Channel|
-|4,000 BC|(**6,000 years ago**): The first farmers arrived in Britain. The ancestors of these first farmers probably came from **south-east Europe**.|
+|4,000 BC|(about **6,000 years ago**): The first farmers arrived in Britain. The ancestors of these first farmers probably came from **south-east Europe**.|
 |Bronze Age||
 |2,000 BC|(**4,000 years ago**): Bronze age (people learned to make bronze)|
 |The Romans||

@@ -291,6 +291,7 @@ faithfully and fulfil my duties and obligations as a British citizen.’</blockq
   - Have a good understanding of life in the UK. (Pass the Life in the UK test)
 
 ## Taking the Life in the UK Test
+
 - 24 questions.
 - not need to remember dates of birth or death.
 - test is usually taken in English, although special arrangements can be made if you wish to take it in **Welsh** or **Scottish Gaelic**.
@@ -347,7 +348,7 @@ deer and horses which they hunted.
 - People still lived in **roundhouses** grouped together into **larger settlements**, and sometimes defended sites called **hill forts**.
 - A very impressive hill fort can still be seen today at **Maiden Castle**, in the English county of **Dorset**. 
 - Most people were **farmers, craft workers or warriors**.
-- The language they spoke was part of the **Celtic** language family. Similar languages were spoken across Europe in the Iron Age and related languages are still spoken today in some parts of Wales, Scotland and Ireland.
+- The language they spoke was part of the **Celtic** language family. Similar languages were spoken across Europe in the Iron Age, and related languages are still spoken today in some parts of Wales, Scotland and Ireland.
 - The people of the Iron Age had a sophisticated culture and economy. They made the **first coins** to be minted in Britain, some inscribed with the **names of Iron Age kings**. This marks the beginnings of British history. 
 
 ### The Romans
@@ -355,7 +356,7 @@ deer and horses which they hunted.
 - In AD 43 the Emperor Claudius led the Roman army in a new invasion. The Romans were successful in occupying almost all of Britain.
 - Boudicca (a tribal leader, the queen of the Iceni in what is now eastern England) fought against the Romans. She is still remembered today and there is a statue of her on **Westminster Bridge in London**, near the Houses of Parliament.
 - **Scotland** were never conquered by the Romans.
-- The Emperor **Hadrien** built a wall in the north of England to keep out the **Picts** (ancestors of the Scottish people). Included in the wall were a number of forts. Parts of Hadrien’s Wall, including the forts of **Housesteads** and **Vindolanda**, can still be seen. It is a popular area for walkers and is a UNESCO (United Nations Educational, Scientific and Cultural Organization) World Heritage Site.
+- The Emperor **Hadrian** built a wall in the north of England to keep out the **Picts** (ancestors of the Scottish people). Included in the wall were a number of forts. Parts of Hadrian’s Wall, including the forts of **Housesteads** and **Vindolanda**, can still be seen. It is a popular area for walkers and is a UNESCO (United Nations Educational, Scientific and Cultural Organization) World Heritage Site.
 - The Romans remained in Britain for 400 years. They built roads and public buildings, created a structure of law, and introduced new plants and animals.
 
 ### The Anglo-Saxons
@@ -376,18 +377,18 @@ deer and horses which they hunted.
 ### The Vikings
 
 - The Anglo-Saxon kingdoms in England united under **King Alfred the Great**, who defeated the Vikings.
-- Many of the Viking invaders stayed in Britain – especially in the east and north of England in an area known as the **Danelaw** (many place names there, such as Grimsby and Scunthorpe come from the Viking languages).
+- Many of the Viking invaders stayed in Britain – especially in the east and north of England, in an area known as the **Danelaw** (many place names there, such as Grimsby and Scunthorpe, come from the Viking languages).
 - The Viking settlers mixed with local communities and some converted to Christianity.
 - Anglo-Saxon kings continued to rule what is now England, except for a short
 period when there were Danish kings. The first of these was **Cnut**, also
-named **Canute**.
+called **Canute**.
 - In the north, the threat of attack by Vikings had encouraged the people to unite under one king, **Kenneth MacAlpin**. The term Scotland began to be used to describe that country.
 
 ## The Norman Conquest
 
 - The Battle of Hastings in 1066 is commemorated in a great piece of embroidery, known as the **Bayeux Tapestry** (70 metres (230 feet) long, colored wool), which can still be seen in France today. 
 - The Norman Conquest was the last successful foreign invasion of England and led to many changes in government and social structures in England.
-- Norman French, the language of the new ruling class influenced the development of the English language as we know it today.
+- Norman French, the language of the new ruling class, influenced the development of the English language as we know it today.
 - Initially the Normans also conquered Wales, but the Welsh gradually won territory back.
 - The Scots and the Normans fought on the border between England and Scotland; the Normans took over some land on the border but did not invade Scotland.
 - **Domesday Book**: William sent people all over England to draw up lists of all the towns and villages. The people who lived there, who owned the land and what animals they owned were also listed. It still exists today and gives a picture of society in England just after the Norman Conquest.
@@ -450,7 +451,7 @@ control of their lands.
 - English: graduallly combined by Norman French (spoken by the king and his noblemen) and Anglo-Saxon (spoken by peasants) after the Norman Conquest.
 - Norman French words: ‘park’ and ‘beauty’
 - Anglo-Saxon words: ‘apple’, ‘cow’ and ‘summer’
-- In modern English there are often two words with very similar meanings, one from French and one from AngloSaxon. ‘Demand’ (French) and ‘ask’ (Anglo-Saxon) are examples.
+- In modern English there are often two words with very similar meanings, one from French and one from Anglo-Saxon. ‘Demand’ (French) and ‘ask’ (Anglo-Saxon) are examples.
 - Canterbury Tales was one of the first books to be printed by **William Caxton**, the first person in England to print books using a printing press. Many of the stories are still popular. Some have been made into plays and television programmes.
 - In Scotland, many people continued to speak Gaelic and the Scots language also developed. A number of poets began to write in the Scots language. One example is **John Barbour**, who wrote *The Bruce* about the Battle of **Bannockburn**.
 - Castles were built in many places in Britain and Ireland, partly for **defence**. Today many are in ruins, although some, such as **Windsor** and **Edinburgh**, are still in use.
@@ -486,16 +487,16 @@ control of their lands.
 |---|---|---|---|
 |Catherine of Aragon|a Spanish princess|several children but only **Mary** survived|When Catherine was **too old** to give him another child, Henry decided to divorce her|
 |Anne Boleyn|English|**Elizabeth**|She was unpopular in the country and was accused of **taking lovers**. She was executed at the tower of London|
-|Jane Seymour||**Edward**|she died shortly after his birth|
+|Jane Seymour||**Edward**|she died shortly after the birth|
 |Anne of Cleves|a German princess||Henry married her for political reasons but divorced her soon after|
 |Catherine Howard|a cousin of Anne Boleyn||She was also accused of **taking lovers** and executed.
-|Catherine Parr|||a widow who married Henry later in his life. She survived him and married again but died soon after.|
+|Catherine Parr|||a widow who married Henry late in his life. She survived him and married again but died soon after.|
 
 - To divorce his first wife, Henry needed the approval of the Pope. When the Pope refused, Henry established the **Church of England**.
 - In this new church, the **king**, not the Pope, would have the power to appoint bishops and order how people should worship.
 - At the same time the **Reformation** was happening across Europe. This was a movement against the authority of the Pope and the ideas and practices of the Roman Catholic Church.
 - The **Protestants** formed their own churches.
-  - They read the Bible in their own languages instead of Latin;
+  - They read the Bible in their own languages instead of in Latin;
   - they did not pray to saints or at shrines;
   - and they believed that a person’s own relationship with God was more important than submitting to the authority of the Church.
 - During the reign of Henry VIII, Wales became formally united with England by the **Act for the Government of Wales**. The Welsh sent representatives to the House of Commons and the Welsh legal system was reformed.
@@ -513,7 +514,7 @@ Mary’).
 ### Elizabeth (half-sister)
 
 - Elizabeth I was the younger daughter of Henry VIII and Anne Boleyn.
-- Queen Elizabeth I was a Protestant. She re-established the Church of England as the official Church of England. Everyone had to attend their local church and there were laws about the type of religious services and the prayers which could be said, but Elizabeth did not ask about people’s real beliefs. She succeeded in finding a balance between the views of the Catholics and the more extreme Protestants. In this way, she avoided any serious religious conflict within England.
+- Queen Elizabeth I was a Protestant. She re-established the Church of England as the official Church in England. Everyone had to attend their local church and there were laws about the type of religious services and the prayers which could be said, but Elizabeth did not ask about people’s real beliefs. She succeeded in finding a balance between the views of the Catholics and the more extreme Protestants. In this way, she avoided any serious religious conflict within England.
 - She never married.
 
 ### The Reformation in Scotland and Mary, Queen of Scots
