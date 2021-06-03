@@ -1226,7 +1226,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Many people decorate a tree in their home.
 - Traditionally, people would fast during **Lent** and today many people will **give something up**, like a favourite food.
 
-# Festivals
+### Festivals
 
 |Name|Date|Notes|
 |---|---|---|
@@ -1239,7 +1239,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 |Good Friday||public holiday.|
 |Easter Monday|The Monday after Good Friday|public holiday.|
 
-## Other religious festivals
+### Other religious festivals
 
 |Name|Date|Notes|
 |---|---|---|
@@ -1250,7 +1250,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 |Eid ul Adha||remembers that the prophet **Ibrahim** was willing to sacrifice his son when God ordered him to. It reminds Muslims of their own commitment to God. Many Muslims **sacrifice an animal** to eat during this festival. In Britain this has to be done in a **slaughterhouse**.|
 |Vaisakhi|14th of April|(also spelled Baisakhi) a Sikh festival which celebrates the founding of the Sikh community known as the **Khalsa**. It is celebrated each year with parades, dancing and singing.|
 
-## Other festivals and traditions
+### Other festivals and traditions
 
 |Name|Date|Notes|
 |---|---|---|
@@ -1266,7 +1266,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 |Bonfire Night|5 November|an occasion when people in Great Britain set off fireworks at home or in special displays. The origin of this celebration was an event in **1605**, when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.|
 |Remembrance Day|11 November|commemorates those who died fighting for the UK and its allies. Originally it commemorated the dead of the First World War, which ended on 11 November 1918. People wear poppies (the red flower found on the battlefields of the First World War). At 11.00 am there is a two-minute silence and wreaths are laid at the **Cenotaph** in **Whitehall**, London.|
 
-## Bank holidays
+### Bank holidays
 
 - As well as those mentioned previously, there are other public holidays each year called bank holidays, when banks and many other businesses are closed for the day.
 - These are of no religious significance. They are:
@@ -1275,7 +1275,7 @@ The population is very **unequally distributed** over the four parts of the UK.
   - and in August.
 - In Northern Ireland, the anniversary of the **Battle of the Boyne** in **July** is also a public holiday.
 
-# Sport
+## Sport
 
 - Local governments and private companies provide sports facilities such as:
   - swimming pools
@@ -1298,7 +1298,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - The British team was very successful, across a wide range of Olympic sports, finishing third in the medal table.
 - The Paralympic Games for 2012 were also hosted in London.
 
-## Cricket
+### Cricket
 
 - Cricket originated in England and is now played in many countries.
 - Games can last up to **five days** but still result in a draw!
@@ -1311,7 +1311,7 @@ The population is very **unequally distributed** over the four parts of the UK.
   - ‘it’s just not cricket’
 - The most famous competition is the **Ashes**, which is a series of Test matches played between **England** and **Australia**. 
 
-## Football
+### Football
 
 - Football is the UK’s most popular sport.
 - It has a long history in the UK and the first professional football clubs were formed in the late 19th century.
@@ -1324,7 +1324,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Each country in the UK also has its own national team that competes with other national teams across the world in tournaments such as the **FIFA** (Fédération Internationale de Football Association) World Cup and the **UEFA** European Football Championships.
 - England’s **only** international tournament victory was at the World Cup of **1966**, hosted in the UK.
 
-## Rugby
+### Rugby
 
 - Rugby originated in England in the **early 19th** century and is very popular in the UK today.
 - There are two different types of rugby, which have different rules: **union** and **league**.
@@ -1339,7 +1339,7 @@ The population is very **unequally distributed** over the four parts of the UK.
   - and Italy.
 - The **Super League** is the most well-known rugby league (club) competition. 
 
-## Horse-racing
+### Horse-racing
 
 - There is a very long history of horse racing in Britain, with evidence of events taking place as far back as **Roman** times.
 - The sport has a long association with **royalty**.
@@ -1350,7 +1350,7 @@ The population is very **unequally distributed** over the four parts of the UK.
   - and the Scottish Grand National at **Ayr**.
 - There is a National Horseracing Museum in **Newmarket**, **Suffolk**.
 
-## Golf
+### Golf
 
 - The modern game of golf can be traced back to **15th** century **Scotland**.
 - **St Andrews** in **Scotland** is known as the home of golf.
@@ -1358,20 +1358,20 @@ The population is very **unequally distributed** over the four parts of the UK.
 - There are public and private golf courses all over the UK.
 - The **Open** Championship is the only ‘Major’ tournament held outside the United States. It is hosted by a different golf course every year.
 
-## Tennis
+### Tennis
 
 - Modern tennis evolved in England in the **late 19th** century.
 - The first tennis club was founded in **Leamington Spa** in **1872**.
 - The most famous tournament hosted in Britain is The **Wimbledon** Championships, which takes place **each year** at the **All England Lawn Tennis and Croquet Club**. It is the **oldest** tennis tournament in the world and the only **‘Grand Slam’** event played on **grass**.
 
-## Water sports
+### Water sports
 
 - Sailing continues to be popular in the UK, reflecting our maritime heritage.
 - Many sailing events are held throughout the UK, the most famous of which is at **Cowes** on the **Isle of Wight**.
 - Rowing is also popular, both as a leisure activity and as a competitive sport.
 - There is a popular yearly race on the **Thames** between **Oxford** and **Cambridge** Universities.
 
-## Motor sports
+### Motor sports
 
 - There is a long history of motor sport in the UK, for both cars and motor cycles.
 - Motor-car racing in the UK started in **1902**.
@@ -1382,16 +1382,16 @@ The population is very **unequally distributed** over the four parts of the UK.
   - Lewis Hamilton
   - Jensen Button.
 
-## Skiing
+### Skiing
 
 - Skiing is increasingly popular in the UK.
 - Many people go abroad to ski and there are also dry ski slopes throughout the UK.
 - Skiing on snow may also be possible during the winter.
 - There are **five** ski centres in Scotland, as well as Europe’s longest dry ski slope near **Edinburgh**.
 
-# Arts and culture
+## Arts and culture
 
-## Music
+### Music
 
 - Music is an important part of British culture, with a rich and varied heritage.
 - It ranges from classical music to modern pop.
@@ -1417,7 +1417,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - The **Mercury Music Prize** is awarded each **September** for the best album from the UK and Ireland.
 - The **Brit Awards** is an annual event that gives awards in a range of categories, such as best British **group** and best British **solo** artist.
 
-## Theatre
+### Theatre
 
 - There are theatres in most towns and cities throughout the UK, ranging from the large to the small.
 - They are an important part of local communities and often show both **professional** and **amateur** productions.
@@ -1427,7 +1427,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - The **Edinburgh Festival** takes place in Edinburgh, Scotland, **every summer**. It is a series of different arts and cultural festivals, with the biggest and most well-known being the **Edinburgh Festival Fringe** (‘the Fringe’). The Fringe is a showcase of mainly theatre and comedy performances. It often shows experimental work.
 - The **Laurence Olivier** Awards take place **annually** at different venues in **London**. There are a variety of categories, including best director, best actor and best actress. The awards are named after the British actor Sir Laurence Olivier, later Lord Olivier, who was best known for his roles in various **Shakespeare** plays.
 
-## Art
+### Art
 
 - During the Middle Ages, most art had a religious theme, particularly wall paintings in churches and illustrations in religious books. Much of this was lost after the **Protestant Reformation** but wealthy families began to collect other paintings and sculptures.
 - Many of the painters working in Britain in the 16th and 17th centuries were from **abroad** – for example, **Hans Holbein** and **Sir Anthony Van Dyck**. 
@@ -1435,7 +1435,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Works by British and international artists are displayed in galleries across the UK.
 - The **Turner** Prize was established in 1984 and celebrates **contemporary** art. It was named after **Joseph Turner**. Four works are shortlisted every year and shown at **Tate Britain** before the winner is announced. The Turner Prize is recognised as one of the most prestigious visual art awards in Europe. Previous winners include **Damien Hirst** and **Richard Wright**.
 
-## Architecture
+### Architecture
 
 - The architectural heritage of the UK is rich and varied.
 - In the Middle Ages, great cathedrals and churches were built, many of which still stand today. Examples are
@@ -1453,7 +1453,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - The annual **Chelsea Flower Show** showcases garden design from Britain and around the world.
 - Britain has produced many great designers, from **Thomas Chippendale** (who designed furniture in the 18th century) to **Clarice Cliff** (who designed Art Deco ceramics) to **Sir Terence Conran** (a 20th-century interior designer). Leading fashion designers of recent years include **Mary Quant**, **Alexander McQueen** and **Vivienne Westwood**.
 
-## Literature
+### Literature
 
 - The UK has a prestigious literary history and tradition.
 - Several British writers have won the Nobel Prize in Literature, for example:
@@ -1465,7 +1465,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - In 2003, The Lord of the Rings by JRR Tolkien was voted the country’s best-loved novel.
 - The **Man Booker** Prize for Fiction is awarded **annually** for the best fiction novel written by an author from the **Commonwealth, Ireland or Zimbabwe**. It has been awarded since **1968**. Past winners include **Ian McEwan**, **Hilary Mantel** and **Julian Barnes**.
 
-## British poets
+### British poets
 
 - British poetry is among the richest in the world.
 - The Anglo-Saxon poem **Beowulf** tells of its hero’s battles against monsters and is still translated into modern English.
@@ -1489,9 +1489,9 @@ The population is very **unequally distributed** over the four parts of the UK.
   - Ted Hughes
 - Some of the best-known poets are buried or commemorated in Poet’s Corner in Westminster Abbey.
 
-# Leisure
+## Leisure
 
-## Gardening
+### Gardening
 
 - A lot of people have gardens at home and will spend their free time looking after them.
 - Some people rent additional land called **‘an allotment’**, where they grow fruit and vegetables.
@@ -1499,19 +1499,20 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Many towns have garden centres selling plants and gardening equipment.
 - The countries that make up the UK all have flowers which are particularly associated with them and which are sometimes worn on national saints’ days.
 
-## Shopping
+### Shopping
 
 - Most towns and cities have a central shopping area, which is called the town centre.
 - Undercover shopping centres are also common – these might be in town centres or on the outskirts of a town or city.
 - Most shops in the UK are open seven days a week, although trading hours on Sundays and public holidays are generally reduced.
 - Many towns also have markets on one or more days a week, where stallholders sell a variety of goods.
 
-## Cooking and food
+### Cooking and food
 
 - Many people in the UK enjoy cooking. They often invite each other to their homes for dinner.
 - A wide variety of food is eaten in the UK because of the country’s rich cultural heritage and diverse population.
 
-## Films
+### Films
+
 - The UK has had a major influence on modern cinema.
 - Films were first shown publicly in the UK in **1896** and film screenings very quickly became popular.
 - From the beginning, film makers became famous for clever special effects and this continues to be an area of British expertise.
@@ -1541,7 +1542,7 @@ The population is very **unequally distributed** over the four parts of the UK.
   - Tilda Swinton
 - The annual **British Academy** Film Awards, hosted by the British Academy of **Film and Television Arts** (BAFTA), are the British equivalent of the Oscars.
 
-## British comedy
+### British comedy
 
 - The traditions of comedy and satire, and the ability to laugh at ourselves, are an important part of the UK character.
 - Medieval kings and rich nobles had jesters who told jokes and made fun of people in the Court.
@@ -1558,7 +1559,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - In 1969, **Monty Python’s Flying Circus** introduced a new type of progressive comedy.
 - Stand-up comedy, where a solo comedian talks to a live audience, has become popular again in recent years.
 
-## Television and radio
+### Television and radio
 
 - Many different television (TV) channels are available in the UK. Some are **free** to watch and others require a **paid subscription**. British television shows a wide variety of programmes.
 - Popular programmes include regular soap operas such as:
@@ -1576,11 +1577,11 @@ The population is very **unequally distributed** over the four parts of the UK.
 - There are radio stations that play certain types of music and some broadcast in regional languages such as Welsh or Gaelic.
 - Like television, BBC radio stations are funded by **TV licences** and other radio stations are funded through advertisements.
 
-## Social networking
+### Social networking
 - Social networking websites such as **Facebook and Twitter** are a popular way for people to stay in touch with friends, organise social events, and share photos, videos and opinions.
 - Many people use social networking on their mobile phones when out and about.
 
-## Pubs and night clubs
+### Pubs and night clubs
 
 - Public houses (pubs) are an important part of the UK social culture.
 - Many people enjoy meeting friends in the pub.
@@ -1591,14 +1592,14 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Night clubs with dancing and music usually open and close later than pubs.
 - The **licensee** decides the hours that the pub or night club is open.
 
-## Betting and gambling
+### Betting and gambling
 
 - In the UK, people often enjoy a gamble on sports or other events.
 - There are also casinos in many places.
 - There is a National Lottery for which draws are made every **week**.
 - You can enter by buying a ticket or a scratch card.
 
-## Pets
+### Pets
 
 - A lot of people in the UK have pets such as cats or dogs.
 - They might have them for company or because they enjoy looking after them.
@@ -1608,7 +1609,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Vaccinations and medical treatment for animals are available from veterinary surgeons (vets).
 - There are charities which may help people who cannot afford to pay a vet.
 
-# Places of interest
+## Places of interest
 
 - The UK has a large network of public footpaths in the countryside.
 - There are also many opportunities for mountain biking, mountaineering and hill walking.
@@ -1618,7 +1619,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Many parts of the countryside and places of interest are kept open by the **National Trust** in England, Wales and Northern Ireland and the **National Trust for Scotland**. Both are charities that work to preserve important buildings, coastline and countryside in the UK.
 - The National Trust was founded in **1895** by **three** volunteers. There are now more than **61,000** volunteers (53,000 volunteers in 2019-2020) helping to keep the organisation running.
 
-## UK landmarks
+### UK landmarks
 
 - **Big Ben** is the nickname for the **great bell** of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over **150** years old and is a popular tourist attraction. The clock tower is named **‘Elizabeth Tower’** in honour of Queen Elizabeth II’s Diamond Jubilee in 2012.
 - The **Eden Project** is located in **Cornwall**, in the south west of England. Its biomes, which are like giant greenhouses, house plants from all over the world. The Eden Project is also a **charity** which runs environmental and social projects internationally.
@@ -1630,7 +1631,9 @@ The population is very **unequally distributed** over the four parts of the UK.
 - The **Tower of London** was first built by **William the Conqueror** after he became king in **1066**. Tours are given by the **Yeoman Warders**, also known as **Beefeaters**, who tell visitors about the building’s history. People can also see the **Crown Jewels** there.
 - The **Lake District** is England’s **largest** national park. It covers 885 square miles (2,292 square kilometres). It is famous for its lakes and mountains and is very popular with climbers, walkers and sailors. The biggest stretch of water is **Windermere**. In **2007**, television viewers voted **Wastwater** as Britain’s favourite view.
 
-# The development of British democracy
+# The UK government, the law and your role
+
+## The development of British democracy
 
 - Democracy is a system of government where the whole adult population gets a say. This might be by **direct voting** or by **choosing representatives** to make decisions on their behalf.
 - At the turn of the 19th century, Britain was not a democracy as we know it today. Although there were elections to select members of Parliament (MPs), only a small group of people could vote. They were men who were over **21** years of age and who **owned a certain amount of property**.
@@ -1651,7 +1654,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - The constitution also includes **laws and conventions**.
 - The British constitution is **not written down** in any single document, and therefore it is described as **‘unwritten’**. This is mainly because the UK, unlike America or France, has never had a revolution which led permanently to a totally new system of government. Our most important institutions have developed over hundreds of years. Some people believe that there should be a single document, but others believe an unwritten constitution allows for more flexibility and better government.
 
-## Constitutional institutions
+### Constitutional institutions
 
 - In the UK, there are several different parts of government. The main ones are:
   - the monarchy
@@ -1664,7 +1667,7 @@ The population is very **unequally distributed** over the four parts of the UK.
   - local government.
 - In addition, there are devolved governments in Scotland, Wales and Northern Ireland that have the power to legislate on certain issues.
 
-## The monarchy
+### The monarchy
 
 - Queen Elizabeth II is the head of state of the UK.
 - She is also the monarch or head of state for many countries in the Commonwealth.
@@ -1678,7 +1681,7 @@ The population is very **unequally distributed** over the four parts of the UK.
   - and makes state visits overseas in support of diplomatic and economic relationships with other countries.
 - The Queen has an important role in providing stability and continuity. While governments and Prime Ministers change regularly, the Queen continues as head of state. She provides a focus for national identity and pride, which was demonstrated through the celebrations of her Jubilee.
 
-### The national anthem
+#### The national anthem
 
 - The National Anthem of the UK is ‘God Save the Queen’. It is played at important national occasions and at events attended by the Queen or the Royal Family.
 - The first verse is:
@@ -1703,7 +1706,7 @@ God save the Queen!
 
 - New citizens swear or affirm loyalty to the **Queen** as part of the citizenship ceremony.
 
-### Oath of allegiance:
+#### Oath of allegiance:
 
 <blockquote>
 
@@ -1711,7 +1714,7 @@ I (name) swear by Almighty God that on becoming a British citizen, I will be fai
 
 </blockquote>
 
-### Affirmation of allegiance:
+#### Affirmation of allegiance:
 
 <blockquote>
 
@@ -1719,7 +1722,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 </blockquote>
 
-## System of government
+### System of government
 
 - The system of government in the UK is a **parliamentary democracy**.
 - The UK is divided into parliamentary constituencies.
@@ -1728,7 +1731,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - Most MPs belong to a political party, and the party with the majority of MPs forms the government.
 - If one party does not get a majority, two parties can join together to form a **coalition**.
 
-## The House of Commons
+### The House of Commons
 
 - The House of Commons is regarded as the more important of the two chambers in Parliament because its members are democratically elected. The **Prime Minister and almost all the members of the cabinet** are members of the House of Commons (MPs). 
 - Each MP represents a parliamentary constituency, which is a **small area** of the country. 
@@ -1738,7 +1741,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
   - scrutinise and comment on what the government is doing
   - debate important national issues.
 
-## The House of Lords
+### The House of Lords
 
 - Members of the House of Lords, known as **peers**, are **not elected** by the people and do not represent a constituency. The role and membership of the House of Lords has changed over the last **50** years.
 - Until **1958**, all peers were:
@@ -1753,26 +1756,22 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - There are peers who are specialists in particular areas, and their knowledge is useful in making and checking laws.
 - The House of Commons has powers to overrule the House of Lords, but these are not used often.
 
-## The Speaker
+### The Speaker
 
 - Debates in the House of Commons are chaired by the **Speaker**. This person is the **chief Officer** of the House of Commons.
 - The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with constituents’ problems like any other MP.
 - The Speaker is chosen by other MPs in a **secret ballot**.
 - The Speaker keeps order during political debates to make sure the rules are followed. This includes making sure the opposition has a guaranteed amount of time to debate issues which it chooses. The Speaker also **represents Parliament** on ceremonial occasions.
 
-## Elections
+### Elections
 
-### UK elections
+#### UK elections
 
 - MPs are elected at a **General Election**, which is held at least every **five** years.
 - If an MP dies or resigns, there will be a fresh election, called a **byelection**, in his or her constituency.
 - MPs are elected through a system called **‘first past the post’**. In each constituency, the candidate who gets the **most votes** is elected. The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a **coalition**.
 
-### European parliamentary elections
-
-- Elections for the European Parliament are also held every **five** years. Elected members are called **members of the European Parliament (MEPs)**. Elections to the European Parliament use a system of **proportional representation**, where seats are allocated to each party in proportion to the total number of votes it has won.
-
-## Contacting elected members
+### Contacting elected members
 
 - All elected members have a duty to serve and represent their constituents.
 - You can get contact details for all your representatives and their parties from your **local library** and from **www.parliament.uk**.
@@ -1780,15 +1779,15 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - You can contact MPs by **letter** or **telephone** at their constituency Office, or at their Office in the House of Commons: The House of Commons, Westminster, London SW1A 0AA, telephone 020 7729 3000.
 - In addition, many MPs, Assembly members, MSPs and MEPs hold regular local **‘surgeries’**, where constituents can go in person to talk about issues that are of concern to them. These surgeries are often advertised in the **local newspaper**.
 
-# The government
+## The government
 
-## The Prime Minister
+### The Prime Minister
 
 - The Prime Minister (PM) is the leader of the political party in power. He or she appoints the members of the cabinet and has control over many important public appointments.
 - The **official home** of the Prime Minister is **10 Downing Street**, in central London, near the Houses of Parliament. He or she also has a country house outside London called **Chequers**.
 - The Prime Minister can be changed if the MPs in the governing party decide to do so, or if he or she wishes to resign. The Prime Minister usually resigns if his or her party loses a **General Election**.
 
-## The cabinet
+### The cabinet
 
 - The Prime Minister appoints about **20** senior MPs to become **ministers** in charge of departments. These include:
 
@@ -1802,13 +1801,13 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - These ministers form the **cabinet**, a committee which usually meets **weekly** and makes important decisions about government policy. Many of these decisions have to be **debated** or **approved** by **Parliament**.
 - Each department also has a number of other ministers, called **Ministers of State** and **Parliamentary Under-Secretaries of State**, who take charge of particular areas of the department’s work.
 
-## The opposition
+### The opposition
 
 - The second-largest party in the House of Commons is called the opposition. The leader of the opposition usually becomes Prime Minister if his or her party wins the next General Election.
 - The leader of the opposition leads his or her party in pointing out what they see as the government’s failures and weaknesses. One important opportunity to do this is at **Prime Minister’s Questions**, which takes place **every week** while Parliament is sitting.
 - The leader of the opposition also appoints senior opposition MPs to be **‘shadow ministers’**. They form the **shadow cabinet** and their role is to challenge the government and put forward alternative policies.
 
-## The party system
+### The party system
 
 - Anyone aged 18 or over can **stand for election** as an MP but they are unlikely to win unless they have been nominated to represent one of the major political parties. These are:
   - the Conservative Party,
@@ -1821,7 +1820,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
   - Some are representative organisations such as the CBI (Confederation of British Industry), which represents the views of British business.
   - Others campaign on particular topics, such as the environment (for example, Greenpeace) or human rights (for example, Liberty).
 
-## The civil service
+### The civil service
 
 - Civil servants support the government in developing and implementing its policies. They also deliver public services. Civil servants are accountable to ministers. They are chosen on merit and are **politically neutral** – they are not political appointees.
 - People can apply to join the civil service through an application process, like other jobs in the UK.
@@ -1831,7 +1830,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
   - objectivity
   - impartiality (including being politically neutral).
 
-## Local government
+### Local government
 
 - Towns, cities and rural areas in the UK are governed by democratically elected councils, often called ‘local authorities’. Some areas have both **district and county councils**, which have different functions. Most large towns and cities have a **single local authority**.
 - Local authorities provide a range of services in their areas. They are funded
@@ -1842,7 +1841,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - London has **33** local authorities, with the **Greater London Authority** and the **Mayor of London** coordinating policies across the capital.
 - For most local authorities, local elections for councillors are held in **May** **every year**. Many candidates stand for council election as members of a political party.
 
-## The media and government
+### The media and government
 
 - Proceedings in Parliament are broadcast on **television** and published in **official reports** called **Hansard**.
 - Written reports can be found in **large libraries** and at **www.parliament.uk**.
@@ -1850,14 +1849,14 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - The UK has a **free press**. This means that what is written in newspapers is free from government control. Some newspaper owners and editors hold strong political opinions and run campaigns to try to influence government policy and public opinion.
 - By law, **radio** and **television** coverage of the political parties must be **balanced** and so equal time has to be given to rival viewpoints.
 
-## Who can vote?
+### Who can vote?
 
 - The UK has had a fully democratic voting system since **1928**.
 - The present voting age of 18 was set in **1969** and (with a few exceptions) all UK-born and naturalised adult citizens have the right to vote.
 - Adult citizens of the UK, and **citizens of the Commonwealth** and the **Irish Republic** who are **resident in** the UK, can vote in **all** public elections.
 - Adult citizens of other EU states who are resident in the UK can vote in all elections **except General Elections**.
 
-## The electoral register
+### The electoral register
 
 - To be able to vote in a parliamentary, local or European election, you must have your name on the electoral register.
 - If you are eligible to vote, you can register by contacting your local council electoral registration Office. This is usually based at your local council (in Scotland it may be based elsewhere).
@@ -1866,9 +1865,9 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - In Northern Ireland a different system operates. This is called **‘individual registration’** and all those entitled to vote must complete their own registration form. Once registered, people stay on the register provided their personal details do not change. For more information see the Electoral Office for Northern Ireland website at www.eoni.org.uk
 - By law, each local authority has to make its electoral register available for anyone to look at, although this has to be supervised. The register is kept at each local electoral registration Office (or council Office in England and Wales). It is also possible to see the register at some public buildings such as libraries.
 
-## Where to vote
+### Where to vote
 
-### Polling station with a ballot box displayed
+#### Polling station with a ballot box displayed
 
 - People vote in elections at places called **polling stations**, or **polling places** in Scotland.
 - Before the election you will be sent a **poll card**. This tells you where your polling station or polling place is and when the election will take place.
@@ -1876,22 +1875,22 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - When you arrive at the polling station, the staff will ask for your name and address. In Northern Ireland you will also have to show **photographic identification**. You will then get your **ballot paper**, which you take to a **polling booth** to fill in privately. You should make up your own mind who to vote for. No one has the right to make you vote for a particular candidate. You should follow the instructions on the ballot paper. Once you have completed it, put it in the **ballot box**.
 - If it is difficult for you to get to a polling station or polling place, you can register for a **postal ballot**. Your ballot paper will be sent to your home before the election. You then fill it in and post it back. You can choose to do this when you register to vote.
 
-## Standing for office
+### Standing for office
 
 - Members of the House of Lords may not stand for election to the House of Commons but are eligible for all other public Offices.
 
-## Visiting Parliament and the devolved administrations
+### Visiting Parliament and the devolved administrations
 
-### The UK Parliament
+#### The UK Parliament
 
 - The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords.
 - You can write to your **local MP** in advance to ask for tickets or you can **queue on the day** at the public entrance. Entrance is free.
 - Sometimes there are long queues for the House of Commons and people have to wait for at least one to two hours. It is usually easier to get in to the House of Lords.
 - You can find further information on the UK Parliament website at www.parliament.uk.
 
-# The UK and international institutions
+## The UK and international institutions
 
-## The Commonwealth
+### The Commonwealth
 
 - The Commonwealth is an association of countries that support each other and work together towards shared goals in **democracy and development**.
 - Most member states were once part of the British Empire, although a few countries which were not have also joined.
@@ -1957,7 +1956,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
   - Vanuatu
   - Zambia
 
-## The European Union
+### The European Union
 
 - The European Union (EU), originally called the European Economic Community (EEC), was set up by **six** western European countries who signed the Treaty of Rome on 25 March **1957**:
   - Belgium
