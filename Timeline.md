@@ -155,7 +155,7 @@
 |1953|The structure of the DNA molecule was discovered through work at British universities in London and Cambridge|
 |1954|- First performance of Dylan Thomas’s radio play Under Milk Wood|
 |- Sir Roger Bannister became the first man in the world to run a mile under four minutes|
-|1957, 25 March|The European Union (EU), originally called the European Economic Community (EEC), was set up by six western European countries (Belgium, France, West Germany, Italy, Luxembourg and the Netherlands) who signed the **Treaty of Rome**. At first the UK did not wish to join the EEC but it eventually did so in 1973.|
+|1957|The European Economic Community (EEC) was formed by six western European countries (West Germany, France, Belgium, Italy, Luxembourg and the Netherlands).|
 |1959|Margaret Thatcher was elected as a Conservative MP|
 |1960s|James Goodfellow invented the cash-dispensing ATM|
 |1964|Winston Churchill stood down|
@@ -178,6 +178,7 @@
 |1984|- Jayne Torvill and Christopher Dean won gold medals for ice dancing at the Olympic Games.<br> - The Turner Prize, celebrating contemporary art, was established|
 |1990|Iraqi invasion of Kuwait|
 |1990, 25 December|Information was successfully transferred via the web for the first time|
+|1993|The European Union formed. The EEC became a part of the European Union.|
 |1990s|Britain played a leading role in coalition forces involved in the liberation of Kuwait|
 |1996|Sir Ian Wilmot and Keith Campbell lead a team which was the first to succeed in cloning a mammal, Dolly the sheep|
 |1997|The Labour Party led by Tony Blair was elected|
@@ -196,3 +197,4 @@
 |2010, May|For the first time in the UK since February 1974, no political party won an overall majority in the General Election. The **Conservative** and **Liberal Democrat** parties formed a coalition and the leader of the **Conservative** Party, **David Cameron**, became Prime Minister.|
 |2011|- The National Assembly for Wales has been able to pass laws in 20areas without the agreement of the UK Parliament.<br>- Protection Orders for forced marriages were introduced in **Scotland**.|
 |2012|- Bradley Wiggins became the first Briton to win the Tour de France.<br>- Mo Farah became the first Briton to win the Olympic gold medals in the 10,000 metres.<br>- Queen Elizabeth II’s Diamond Jubilee (60 years as Queen).<br>- The public elected Police and Crime Commissioners (PCCs) in England and Wales|
+|2020, 31 January|The UK formally left the European Union.|
