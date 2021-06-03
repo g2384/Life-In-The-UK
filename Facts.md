@@ -1161,15 +1161,6 @@ The population is very **unequally distributed** over the four parts of the UK.
 - There are now a record number of people aged 85 and over.
 - This has an impact on the cost of **pensions** and **health care**.
 
-In the 2009 Citizenship Survey:
-- 70%: Christian
-- 21%: no religion
-- 4%: Muslim
-- 2%: Hindu
-- 1%: Sikh
-- less than 0.5%: Jewish, Buddhist
-- 2%: follow another religion
-
 ### Ethnic diversity
 
 - The UK population is ethnically diverse and changing rapidly, especially in large cities such as London.
@@ -1220,16 +1211,18 @@ In the 2009 Citizenship Survey:
   - Presbyterians
   - Quakers
 - There are also other denominations of Christianity, the biggest of which is **Roman Catholic**.
-- Only Scotland and Northern Ireland have their patron saint’s day as an official holiday (although in Scotland not all businesses and Offices will close). Events are held across Scotland, Northern Ireland and the rest of the country, especially where there are a lot of people of Scottish, Northern Irish and Irish heritage.
+- Only Scotland and Northern Ireland have their patron saint’s day as an official holiday (although in Scotland not all businesses and offices will close). Events are held across Scotland, Northern Ireland and the rest of the country, especially where there are a lot of people of Scottish, Northern Irish and Irish heritage.
 - While the patron saints’ days are no longer public holidays in England and Wales, they are still celebrated. Parades and small festivals are held all over the two countries. 
 
 ## Customs and traditions
 
 ### The main Christian festivals
 
-- Christmas is celebrated in a traditional way. People usually spend the day at home and eat a special meal, which often includes **roast turkey**, **Christmas pudding** and **mince pies**.
+- Christmas is celebrated in a traditional way. People usually spend the day at home and eat a special meal, which often includes:
+  - roast turkey
+  - Christmas pudding
+  - mince pies
 - They give gifts, send cards and decorate their houses.
-- Christmas is a special time for children. Very young children believe that **Father Christmas** (also known as **Santa Claus**) brings them presents during the **night before** Christmas Day.
 - Many people decorate a tree in their home.
 - Traditionally, people would fast during **Lent** and today many people will **give something up**, like a favourite food.
 
@@ -1237,12 +1230,12 @@ In the 2009 Citizenship Survey:
 
 |Name|Date|Notes|
 |---|---|---|
-|Christmas Eve|24th of December||
+|Christmas Eve|24th of December|Very young children believe that **Father Christmas** (also known as **Santa Claus**) brings them presents during the **night before** Christmas Day. Christmas is a special time for children.|
 |Christmas Day|25 December|celebrates the birth of Jesus Christ. It is a public holiday. Many Christians go to church on Christmas Eve (24 December) or on Christmas Day itself.|
 |Boxing Day|26th of December|public holiday.|
 |Shrove Tuesday|The day before Lent starts|a.k.a. Pancake Day. People eat pancakes, which were traditionally made to use up foods such as eggs, fat and milk before fasting.|
 |Lent|40 days before **Easter**|The 40 days before Easter are known as Lent. It is a time when Christians take time to reflect and prepare for Easter. It begins on **Ash Wednesday**. There are church services where Christians are marked with an **ash cross** on their forehead as a symbol of **death** and sorrow for sin.|
-|Easter day|March or April|It marks the death of Jesus Christ on Good Friday and his rising from the dead on Easter Sunday. Easter is also celebrated by people who are not religious. ‘Easter eggs’ are chocolate eggs often given as presents at Easter as a symbol of **new life**.|
+|Easter|March or April|It marks the death of Jesus Christ on **Good Friday** and his rising from the dead on **Easter Sunday**. Easter is also celebrated by people who are not religious. ‘Easter eggs’ are chocolate eggs often given as presents at Easter as a symbol of **new life**.|
 |Good Friday||public holiday.|
 |Easter Monday|The Monday after Good Friday|public holiday.|
 
@@ -1250,7 +1243,7 @@ In the 2009 Citizenship Survey:
 
 |Name|Date|Notes|
 |---|---|---|
-|Diwali|in October or November|lasts for **five days**. It is celebrated by **Hindus and Sikhs**. It is often called the Festival of **Lights**. It celebrates the victory of **good over evil** and the **gaining of knowledge**. There are different stories about how the festival came about. There is a famous celebration of Diwali in **Leicester**.|
+|Diwali|October or November|lasts for **five days**. It is celebrated by **Hindus and Sikhs**. It is often called the Festival of **Lights**. It celebrates the victory of **good over evil** and the **gaining of knowledge**. There are different stories about how the festival came about. There is a famous celebration of Diwali in **Leicester**.|
 |Hanukkah|November or December|lasts for **eight days**. It is to remember the Jews’ struggle for religious freedom. On each day of the festival a **candle** is lit on a stand of eight candles (called a **menorah**) to remember the story of the festival, where oil that should have lasted only a day did so for eight.|
 |Eid al-Fitr|date changes every year|It celebrates the end of Ramadan. Muslims thank Allah for giving them the strength to complete the fast. Muslims attend special services and meals.|
 |Ramadan||Muslims have fasted for **a month**.|
@@ -1453,7 +1446,7 @@ In the 2009 Citizenship Survey:
 - The **White Tower** in the Tower of London is an example of a **Norman** castle keep, built on the orders of **William the Conqueror**.
 - Gradually, as the countryside became more peaceful and landowners became richer, the houses of the wealthy became more elaborate and great country houses such as **Hardwick Hall** in **Derbyshire** were built. British styles of architecture began to evolve.
 - In the 19th century, the medieval **‘gothic’** style became popular again. As cities expanded, many great public buildings were built in this style. **The Houses of Parliament** and **St Pancras Station** were built at this time, as were the town halls in cities such as **Manchester** and **Sheffield**.
-- Modern British architects including **Sir Norman Foster**, **Lord (Richard) Rogers** and **Dame Zaha Hadid** continue to work on major projects throughout the world as well as within the UK.
+- The firms of modern British architects continue to work on major projects throughout the world as well as within the UK. These include those of **Sir Norman Foster** (1935-), **Lord (Richard) Rogers** (1933-) and **Dame Zaha Hadid** (1950-2016). 
 - Alongside the development of architecture, garden design and landscaping have played an important role in the UK.
 - In the 18th century, **Lancelot ‘Capability’ Brown** designed the grounds around country houses so that the landscape appeared to be natural, with grass, trees and lakes. He often said that a place had ‘capabilities’. 
 - Later, **Gertrude Jekyll** often worked with **Edwin Lutyens** to design colourful gardens around the houses he designed.

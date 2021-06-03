@@ -8,7 +8,7 @@
 |TV Channel|-|one Gaelic-language channel;<br>some Scotland-specific programmes|one Welsh-language channel|some programmes broadcast in Irish Gaelic;<br>some programmes specific to Northern Ireland|
 |Gardens|Kew Gardens, Sissinghurst and Hidcote|Crathes Castle and Inveraray Castle|Bodnant Garden|Mount Stewart|
 |Galleries|The National Gallery, Tate Britain and Tate Modern in London|the National Gallery of Scotland in Edinburgh| the National Museum in Cardiff||
-|Traditional Food|Roast beef, which is served with potatoes, vegetables, Yorkshire puddings (batter that is baked in the oven) and other accompaniments. Fish and chips are also popular.|Haggis – a sheep’s stomach stuffed with offal, suet, onions and oatmeal.|Welsh cakes – a traditional Welsh snack made from flour, dried fruits and spices, and served either hot or cold.|Ulster fry – a fried meal with bacon, eggs, sausage, black pudding, tomatoes, mushrooms, soda bread and potato bread.|
+|Traditional Food|Roast beef, which is served with potatoes, vegetables, Yorkshire puddings (batter that is baked in the oven) and other accompaniments. Fish and chips are also popular.|Haggis – a sheep’s stomach stuffed with offal, suet, onions and oatmeal.|Welsh cakes – a traditional Welsh snack made from flour, dried fruits and spices, and served either hot or cold.|Ulster fry – a fried meal with bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread.|
 |Flower|rose|thistle|daffodil|shamrock|
 
 ---

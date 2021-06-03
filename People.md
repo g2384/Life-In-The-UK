@@ -49,31 +49,38 @@
 |Scotsman John Logie Baird|In **1932**, he made the first television broadcast between London and Glasgow.|
 |Sir Christopher Cockrell (1910-99)|a British inventor, invented the **hovercraft** in the **1950s**.|
 |Dr Sir Ludwig Guttman|The Paralympics have their origin in the work of **Dr Sir Ludwig Guttman**, a **German** refugee, at the **Stoke Mandeville** hospital in **Buckinghamshire**. He developed new methods of treatment for people with spinal injuries and encouraged patients to take part in exercise and sport.|
-|**Athlets**||
-|Mary Peters (1939-)|Born in Manchester, Mary Peters moved to Northern Ireland as a child. She was a talented athlete who won an Olympic gold medal in the **pentathlon** in 1972. After this, she raised money for local athletics and became the team manager for the women’s British Olympic team. She continues to promote sport and tourism in Northern Ireland and was made a **Dame of the British Empire** in 2000 in recognition of her work.|
-|Sir Francis Chichester|the first person to sail **singlehanded** around the world, in 1966/67.|
-|Sir Robin Knox-Johnston|the first person to sail **singlehanded** around the world **without stopping** in 1969.|
-|Jenson Button|a famous Formula 1 driver.|
-|Sir Roger Bannister (1929–)|the first man in the world to run a mile in under four minutes, in 1954.|
-|Sir Jackie Stewart (1939–)|a Scottish former racing driver who won the Formula 1 world championship **three** times.|
-|Bobby Moore (1941–93)| captained the English football team that won the World Cup in 1966.|
-|Sir Ian Botham (1955–)|captained the English cricket team and holds a number of English Test cricket records, both for batting and for bowling.|
-|Jayne Torvill (1957–)| and Christopher Dean (1958–) won gold medals for ice dancing at the Olympic Games in 1984 and in four consecutive world championships.|
-|Sir Steve Redgrave (1962–)| won gold medals in rowing in **five** consecutive Olympic Games and is one of Britain’s greatest Olympians.|
-|Baroness Tanni-Grey Thompson (1969–)|an athlete who uses a wheelchair and won **16** Paralympic medals, including **11** gold medals, in **races** over **five** Paralympic Games. She won the London Marathon **six** times and broke a total of **30** world records.|
-|Dame Kelly Holmes (1970–)|won two gold medals for running in the 2004 Olympic Games. She has held a number of British and European records.|
-|Dame Ellen MacArthur (1976–)|a yachtswoman and in **2004** became the **fastest** person to sail around the world singlehanded.|
-|Sir Chris Hoy (1976–)| is a Scottish cyclist who has won six gold and one silver Olympic medals. He has also won 11 world championship titles.
-|David Weir (1979–)| is a Paralympian who uses a wheelchair and has won six gold medals over two Paralympic Games. He has also won the London Marathon six times.|
-|Bradley Wiggins (1980–)| is a cyclist. In 2012, he became the first Briton to win the Tour de France. He has won seven Olympic medals, including gold medals in the 2004, 2008 and 2012 Olympic Games.|
-|Mo Farah (1983–)| is a British distance runner, born in Somalia. He won gold medals in the 2012 Olympics for the 5,000 and 10,000 metres and is the first Briton to win the Olympic gold medal in the 10,000 metres.|
-|Jessica Ennis (1986–)| is an athlete. She won the 2012 Olympic gold medal in the heptathlon, which includes seven different track and field events. She also holds a number of British athletics records.|
-|Andy Murray (1987–)| is a Scottish tennis player who in 2012 won the men’s singles in the US Open. He is the first British man to win a singles title in a Grand Slam tournament since 1936. In the same year, he won Olympic gold and silver medals and was runner-up in the men’s singles at Wimbledon.
-|Ellie Simmonds (1994–)| is a Paralympian who won gold medals for swimming at the 2008 and 2012 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games.|
+
+# Sportsmen & Sportswomen
+
+|Name|Occupation|Notes|
+|---|---|---|
+|Sir Roger Bannister (1929–2018)|athlete|the first man in the world to run a mile in under four minutes, in 1954.|
+|Sir Jackie Stewart (1939–)|racing driver|a Scottish former racing driver who won the Formula 1 world championship **three** times.|
+|Mary Peters (1939-)|athlete|Born in Manchester, Mary Peters moved to Northern Ireland as a child. She was a talented athlete who won an Olympic gold medal in the **pentathlon** in 1972. After this, she raised money for local athletics and became the team manager for the women’s British Olympic team. She continues to promote sport and tourism in Northern Ireland and was made a **Dame of the British Empire** in 2000 in recognition of her work.|
+|Sir Francis Chichester|sailor|the first person to sail **single-handed** around the world, in 1966/67.|
+|Sir Robin Knox-Johnston|sailor|the first person to sail **single-handed** around the world **without stopping** in 1969.|
+|Jenson Button|Formula 1 driver|famous|
+|Bobby Moore (1941–93)|football player|captained the English football team that won the **World Cup** in **1966**.|
+|Sir Ian Botham (1955–)|cricket player|captained the English cricket team and holds a number of English Test cricket records, both for batting and for bowling.|
+|Jayne Torvill (1957–)<br>Christopher Dean (1958–)|ice dancer|won gold medals for ice dancing at the Olympic Games in 1984 and in four consecutive world championships.|
+|Sir Steve Redgrave (1962–)|olympian|won gold medals in rowing in **five** consecutive Olympic Games and is one of Britain’s greatest Olympians.|
+|Baroness Tanni Grey-Thompson (1969–)|athlete|an athlete who uses a wheelchair and won **16** Paralympic medals, including **11** gold medals, in **races** over **five** Paralympic Games. She won the London Marathon **six** times and broke a total of **30** world records.|
+|Dame Kelly Holmes (1970–)|athlete|won two gold medals for running in the 2004 Olympic Games. She has held a number of British and European records.|
+|Dame Ellen MacArthur (1976–)|yachtswoman|in **2004** became the **fastest** person to sail around the world single-handed.|
+|Sir Chris Hoy (1976–)|Scottish cyclist|won six gold and one silver Olympic medals. He has also won 11 world championship titles.
+|David Weir (1979–)|Paralympian|uses a wheelchair and has won six gold medals over two Paralympic Games. He has also won the London Marathon six times.|
+|Sir Bradley Wiggins (1980–)|cyclist|In 2012, he became the first Briton to win the Tour de France. He has won eight Olympic medals, including gold medals in the 2004, 2008, 2012 and 2016 Olympic Games.|
+|Sir Mo Farah (1983–)|distance runner|born in Somalia. He won gold medals in the 2012 and 2016 Olympics for the 5,000 and 10,000 metres and is the first Briton to win the Olympic gold medal in the 10,000 metres.|
+|Dame Jessica Ennis-Hill (1986–)|athlete|She won the 2012 Olympic gold medal in the heptathlon and the silver medal in the 2016 Olympic Games, which includes **seven** different track and field events. She also holds a number of British athletics records.|
+|Sir Andy Murray (1987–)|Scottish tennis player|in 2012 won the men’s singles in the US Open. He is the first British man to win a singles title in a Grand Slam tournament since 1936. In the same year, he won Olympic gold and silver medals. In 2013 and 2016 he won the men's singles at Wimbledon. He also went on to win Gold at the 2016 Olympics.|
+|Ellie Simmonds (1994–)|Paralympian|won gold medals for swimming at the 2008, 2012 and 2016 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games.|
+
+|Name|Notes|
+|---|---|
 |**Composers**||
 |Henry Purcell (1659–1695)|an organist at Westminster Abbey. He wrote church music, operas and other pieces, and developed a British style distinct from that elsewhere in Europe. He continues to be influential on British composers.|
 |George Frederick Handel (1695–1759)|The German-born composer. Spent many years in the UK and became a British citizen in 1727. He wrote the **Water Music** for King George I and Music for the **Royal Fireworks** for his son, George II. Both these pieces continue to be very popular. Handel also wrote an oratorio, **Messiah**, which is sung regularly by choirs, often at Easter time.|
-|Gustav Holst (1874–1934)|His work includes **The Planets**, a suite of pieces themed around the planets of the solar system. He adapted **Jupiter**, part of the Planets suite, as the tune for I vow to thee my country, a popular hymn in British churches. |
+|Gustav Holst (1874–1934)|His work includes **The Planets**, a suite of pieces themed around the planets of the solar system. He adapted **Jupiter**, part of the Planets suite, as the tune for *I vow to thee my country*, a popular hymn in British churches. |
 |Sir Edward Elgar (1857–1934)|born in Worcester, England. His best-known work is probably the **Pomp and Circumstance Marches**. **March No 1 (Land of Hope and Glory)** is usually played at the **Last Night of the Proms** at the Royal Albert Hall.|
 |Ralph Vaughan Williams (1872–1958)|wrote music for orchestras and choirs. He was strongly influenced by traditional English folk music.|
 |Sir William Walton (1902–83)|wrote a wide range of music, from film scores to opera. He wrote marches for the coronations of King George VI and Queen Elizabeth II but his best-known works are probably **Façade**, which became a ballet, and **Balthazar’s Feast**, which is intended to be sung by a large choir.|
