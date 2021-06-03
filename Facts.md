@@ -9,7 +9,7 @@
 - to buy alcohol in a pub or night club. But people under this age may be allowed in some pubs with an adult. (It is a criminal offence to sell alcohol to anyone who is under 18 or to buy alcohol for people who are under the age of 18.)
 - It is illegal and a criminal offence to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18.
 - to go into betting shops or gambling clubs. 
-- Most citizens of the UK, the Irish republic or the Commonwealth aged 18 or over **can stand for** public office. There are some **exceptions**, including:
+- Most citizens of the UK, Ireland or the Commonwealth aged 18 or over **can stand for** public office. There are some **exceptions**, including:
   - members of the armed forces,
   - civil servants,
   - people found guilty of certain criminal offences.
@@ -49,15 +49,6 @@ British overseas territories:
 # Law
 
 The Human Rights Act 1998 incorporated the European Convention of Human Rights into UK law.
-
-Some of the principles included in the European Convention on Human Rights are:
-- right to life
-- prohibition of torture
-- prohibition of slavery and forced labour
-- right to liberty and security
-- right to a fair trial
-- freedom of thought, conscience and religion
-- freedom of expression (speech).
 
 British values and principles are based on **history** and **traditions** and are protected by law, customs and expectations.
 
@@ -106,7 +97,7 @@ The police force is a public service that helps and protects everyone, no matter
 
 The UK is part of the United Nations (UN), an international organization with **more than 190** countries as members.
 
-The UK is governed by the parliament sitting in **Westminster**</strong>**.
+The UK is governed by the parliament sitting in **Westminster**.
 
 The fundamental principles of British life include:
 - democracy,
@@ -159,138 +150,6 @@ The job of the police in the UK is to protect life and property, prevent disturb
 Many local authorities appoint a **mayor**, who is the ceremonial leader of the council. In some towns, a mayor is elected to be the effective leader of the administration.
 
 **MPs** are elected through a system called **‘first past the post’**. In each constituency, the candidate who gets the most votes is elected.
-
-# Organisations
-
-## EU
-
-Elections for the European Parliament are held every **five** years. Elected members are called **members of the European Parliament (MEPs)**.
-
-Elections to the European Parliament use a system of **proportional representation**, where seats are allocated to each party in proportion to the total number of votes it has won.
-
-The UK is a **full member** of the European Union but does not use the Euro currency.
-
-The Council of Europe is responsible for the **protection and promotion of human rights** in those countries. The Council of Europe has no power to make laws but **draws up conventions and charters**, the most well-known of which is the **European Convention on Human Rights and Fundamental Freedoms**.
-
-The European Council is not part of the British government.
-
-European Union:
-
-List of Former EU Member Countries:
-- United Kingdom (UK)
-
-List of Official EU Candidate Countries:
-- Albania
-- North Macedonia
-- Montenegro
-- Serbia
-- Turkey
-
-List of Potential EU Candidate Countries:
-- Bosnia and Herzegovina
-- Kosovo
-
-List of European Countries That Aren't EU Members, Candidates, or Potential Candidates:
-- Andorra
-- Belarus
-- Moldova
-- Iceland*
-- Liechtenstein
-- Monaco 
-- Norway*
-- Russia**
-- San Marino
-- Switzerland*
-- Ukraine
-- Vatican City
-
-List of Arguably European Countries That Aren't EU Members, Candidates, or Potential Candidates:
-- Armenia (physically on Asian side, but within Transcaucasia)
-- Azerbaijan (in Transcaucasia, mostly in Asia with small parts in Europe)
-- Georgia (in Transcaucasia, mostly in Asia with small parts in Europe)
-- Kazakhstan (mostly in Asia, with a small part in Europe)
-
-## NATO
-
-NATO is a group of European and North American countries that have agreed to help each other if they come **under attack**. It also aims to **maintain peace** between all of its members.
-
-## Commonwealth
-
-The Commonwealth has no power over its members, although it can suspend membership.
-
-Membership to the Commonwealth is **voluntary**.
-
-The Commonwealth is based on the core values of
-- democracy,
-- good government
-- and the rule of law.
-
-The Queen is the ceremonial head of the Commonwealth.
-
-The Commonwealth is an association of countries that support each other and work together towards shared goals in democracy and development. Most member states were once part of the British Empire, although a few countries which were not have also joined.
-
-There are 54 countries in the Commonwealth
-- Africa
-  - Botswana
-  - Cameroon
-  - Gambia, The
-  - Ghana
-  - Kenya
-  - Kingdom of Eswatini
-  - Lesotho
-  - Malawi
-  - Mauritius
-  - Mozambique
-  - Namibia
-  - Nigeria
-  - Rwanda
-  - Seychelles
-  - Sierra Leone
-  - South Africa
-  - Uganda
-  - United Republic of Tanzania
-  - Zambia
-- Asia
-  - Bangladesh
-  - Brunei Darussalam
-  - India
-  - Malaysia
-  - Maldives
-  - Pakistan
-  - Singapore
-  - Sri Lanka
-- Caribbean and Americas<br>
-  - Antigua and Barbuda
-  - Bahamas, The
-  - Barbados
-  - Belize
-  - Canada
-  - Dominica
-  - Grenada
-  - Guyana
-  - Jamaica
-  - Saint Lucia
-  - St Kitts and Nevis
-  - St Vincent and The Grenadines
-  - Trinidad and Tobago
-- Europe
-  - Cyprus
-  - Malta
-  - United Kingdom
-- Pacific
-  - Australia
-  - Fiji
-  - Kiribati
-  - Nauru
-  - New Zealand
-  - Papua New Guinea
-  - Samoa
-  - Solomon Islands
-  - Tonga
-  - Tuvalu
-  - Vanuatu
-
-Zimbabwe, Costa Rica are not members of the Commonwealth.
 
 # History
 
@@ -1339,7 +1198,7 @@ The population is very **unequally distributed** over the four parts of the UK.
   - and Italy.
 - The **Super League** is the most well-known rugby league (club) competition. 
 
-### Horse-racing
+### Horse racing
 
 - There is a very long history of horse racing in Britain, with evidence of events taking place as far back as **Roman** times.
 - The sport has a long association with **royalty**.
@@ -1380,7 +1239,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Recent British Formula 1 World Championship winners:
   - Damon Hill,
   - Lewis Hamilton
-  - Jensen Button.
+  - Jenson Button.
 
 ### Skiing
 
@@ -1398,7 +1257,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - There are many different venues and musical events that take place across the UK.
 - The **Proms** is an **eight**-week summer season of **orchestral** classical music that takes place in various venues, including the **Royal Albert Hall** in London. It has been organised by the British Broadcasting Corporation (BBC) since **1927**. **The Last Night of the Proms** is the most well-known concert and (along with others in the series) is broadcast **on television**.
 - Classical music has been popular in the UK for many centuries.
-- Other types of popular music, including folk music, jazz, pop and music, have flourished in Britain since the **20th** century.
+- Other types of popular music, including folk music, jazz, pop and rock music, have flourished in Britain since the **20th** century.
 - Britain has had an impact on popular music around the world, due to:
   - the **wide use of the English language**,
   - the UK’s **cultural links** with many countries,
@@ -1445,7 +1304,7 @@ The population is very **unequally distributed** over the four parts of the UK.
   - Salisbury
 - The **White Tower** in the Tower of London is an example of a **Norman** castle keep, built on the orders of **William the Conqueror**.
 - Gradually, as the countryside became more peaceful and landowners became richer, the houses of the wealthy became more elaborate and great country houses such as **Hardwick Hall** in **Derbyshire** were built. British styles of architecture began to evolve.
-- In the 19th century, the medieval **‘gothic’** style became popular again. As cities expanded, many great public buildings were built in this style. **The Houses of Parliament** and **St Pancras Station** were built at this time, as were the town halls in cities such as **Manchester** and **Sheffield**.
+- In the 19th century, the medieval **‘gothic’** style became popular again. As cities expanded, many great public buildings were built in this style. **The Houses of Parliament** (a world heritage site) and **St Pancras Station** were built at this time, as were the town halls in cities such as **Manchester** and **Sheffield**.
 - The firms of modern British architects continue to work on major projects throughout the world as well as within the UK. These include those of **Sir Norman Foster** (1935-), **Lord (Richard) Rogers** (1933-) and **Dame Zaha Hadid** (1950-2016). 
 - Alongside the development of architecture, garden design and landscaping have played an important role in the UK.
 - In the 18th century, **Lancelot ‘Capability’ Brown** designed the grounds around country houses so that the landscape appeared to be natural, with grass, trees and lakes. He often said that a place had ‘capabilities’. 
@@ -1768,14 +1627,14 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 #### UK elections
 
 - MPs are elected at a **General Election**, which is held at least every **five** years.
-- If an MP dies or resigns, there will be a fresh election, called a **byelection**, in his or her constituency.
+- If an MP dies or resigns, there will be a fresh election, called a **by-election**, in his or her constituency.
 - MPs are elected through a system called **‘first past the post’**. In each constituency, the candidate who gets the **most votes** is elected. The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a **coalition**.
 
 ### Contacting elected members
 
 - All elected members have a duty to serve and represent their constituents.
 - You can get contact details for all your representatives and their parties from your **local library** and from **www.parliament.uk**.
-- MPs, Assembly members, members of the Scottish Parliament (MSPs) and MEPs are also listed in **The Phone Book**, published by **BT**, and in **Yellow Pages**.
+- MPs, Assembly members, members of the Scottish Parliament (MSPs) and MEPs are also listed in **The Phone Book**, published by **BT**.
 - You can contact MPs by **letter** or **telephone** at their constituency Office, or at their Office in the House of Commons: The House of Commons, Westminster, London SW1A 0AA, telephone 020 7729 3000.
 - In addition, many MPs, Assembly members, MSPs and MEPs hold regular local **‘surgeries’**, where constituents can go in person to talk about issues that are of concern to them. These surgeries are often advertised in the **local newspaper**.
 
@@ -1854,11 +1713,10 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - The UK has had a fully democratic voting system since **1928**.
 - The present voting age of 18 was set in **1969** and (with a few exceptions) all UK-born and naturalised adult citizens have the right to vote.
 - Adult citizens of the UK, and **citizens of the Commonwealth** and the **Irish Republic** who are **resident in** the UK, can vote in **all** public elections.
-- Adult citizens of other EU states who are resident in the UK can vote in all elections **except General Elections**.
 
 ### The electoral register
 
-- To be able to vote in a parliamentary, local or European election, you must have your name on the electoral register.
+- To be able to vote in a parliamentary, or local election, you must have your name on the electoral register.
 - If you are eligible to vote, you can register by contacting your local council electoral registration Office. This is usually based at your local council (in Scotland it may be based elsewhere).
 - If you don’t know which local authority you come under, you can find out by visiting www.aboutmyvote.co.uk and entering your postcode. You can also download voter registration forms in English, Welsh and some other languages.
 - The electoral register is updated **every year** in **September or October**. An **electoral registration form** is sent to every household and this has to be completed and returned with the names of everyone who is resident in the household and eligible to vote.
@@ -1885,7 +1743,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 - The public can listen to debates in the Palace of Westminster from public galleries in both the House of Commons and the House of Lords.
 - You can write to your **local MP** in advance to ask for tickets or you can **queue on the day** at the public entrance. Entrance is free.
-- Sometimes there are long queues for the House of Commons and people have to wait for at least one to two hours. It is usually easier to get in to the House of Lords.
+- Sometimes there are long queues for the House of Commons and people have to wait for at least one or two hours. It is usually easier to get in to the House of Lords.
 - You can find further information on the UK Parliament website at www.parliament.uk.
 
 ## The UK and international institutions
@@ -1913,7 +1771,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
   - Canada
   - Cyprus
   - Dominica
-  - Fiji (currently suspended)
+  - Fiji
   - The Gambia
   - Ghana
   - Grenada
@@ -1955,55 +1813,301 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
   - UK
   - Vanuatu
   - Zambia
+- Zimbabwe, Costa Rica are not members of the Commonwealth.
 
-### The European Union
+### The Council of Europe
 
-- The European Union (EU), originally called the European Economic Community (EEC), was set up by **six** western European countries who signed the Treaty of Rome on 25 March **1957**:
-  - Belgium
-  - France
-  - Germany
-  - Italy
-  - Luxembourg
-  - the Netherlands
-- The UK originally decided not to join this group but it became a member in 1973.
-- There are now **27** EU member states. Croatia will also become a member state in 2013.
-EU member states
+- The Council of Europe has **47** member countries, including the UK, and is responsible for the protection and promotion of **human rights** in those countries. - It has no power to make laws but draws up conventions and charters, the most well-known of which is the **European Convention on Human Rights and Fundamental Freedoms**, usually called the **European Convention on Human Rights**.
 
-    Austria
-    Belgium
-    Bulgaria
-    Cyprus
-    Czech Republic
-    Denmark
-    Estonia
-    Finland
-    France
-    Germany
-    Greece
-    Hungary
-    Ireland
-    Italy
-    Latvia
-    Lithuania
-    Luxembourg
-    Malta
-    Netherlands
-    Poland
-    Portugal
-    Romania
-    Slovakia
-    Slovenia
-    Spain
-    Sweden
-    UK
+### The United Nations
 
-EU law is legally binding in the UK and all the other EU member states. European laws are called directives, regulations or framework decisions.
-The Council of Europe
+- The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members.
+- The UN was set up after the Second World War and aims to **prevent war** and **promote international peace and security**.
+- There are **15** members on the UN Security Council, which recommends action when there are international crises and threats to peace.
+- The UK is one of five permanent members of the Security Council.
 
-The Council of Europe is separate from the EU. It has 47 member countries, including the UK, and is responsible for the protection and promotion of human rights in those countries. It has no power to make laws but draws up conventions and charters, the most well-known of which is the European Convention on Human Rights and Fundamental Freedoms, usually called the European Convention on Human Rights.
-The United Nations
+### The North Atlantic Treaty Organization (NATO)
 
-The UK is part of the United Nations (UN), an international organisation with more than 190 countries as members. The UN was set up after the Second World War and aims to prevent war and promote international peace and security. There are 15 members on the UN Security Council, which recommends action when there are international crises and threats to peace. The UK is one of five permanent members of the Security Council.
-The North Atlantic Treaty Organization (NATO)
+- The UK is also a member of NATO. NATO is a group of European and North American countries that have agreed to help each other if they come **under attack**. It also aims to maintain peace between all of its members.
 
-The UK is also a member of NATO. NATO is a group of European and North American countries that have agreed to help each other if they come under attack. It also aims to maintain peace between all of its members.
+## Respecting the law
+
+- One of the most important responsibilities of all residents in the UK is to know and obey the law.
+
+### The law in the UK
+
+- Every person in the UK receives equal treatment under the law. This means that the law applies in the same way to everyone, no matter who they are or where they are from.
+- Laws can be divided into criminal law and civil law.
+
+#### Criminal law
+
+- Criminal law relates to crimes, which are usually investigated by the police or another authority such as a council, and which are punished by the courts.
+
+|Name|Description|
+|---|---|
+|Carrying a weapon|it is a criminal offence to carry a weapon of any kind, even if it is for self-defence. This includes a gun, a knife or anything that is made or adapted to cause injury.|
+|Drugs|selling or buying drugs such as heroin, cocaine, ecstasy and cannabis is illegal in the UK.|
+|Racial crime|it is a criminal offence to cause harassment, alarm or distress to someone because of their religion or ethnic origin.|
+|Selling tobacco: it is illegal to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18.|
+|Smoking in public places|it is against the law to smoke tobacco products in nearly every enclosed public place in the UK. There are signs displayed to tell you where you cannot smoke.|
+|Buying alcohol|it is a criminal offence to sell alcohol to anyone who is under 18 or to buy alcohol for people who are under the age of 18. (There is one exception: people aged 16 or over can drink alcohol with a meal in a hotel or restaurant.)|
+|Drinking in public|some places have alcohol-free zones where you cannot drink in public. The police can also confiscate alcohol or move young people on from public places. You can be fined or arrested.|
+
+- This list does not include all crimes. There are many that apply in most countries, such as murder, theft and assault.
+
+#### Civil law
+
+- Civil law is used to settle disputes between individuals or groups. Examples of criminal laws are:
+
+|Name|Description|
+|---|---|
+|Housing law|this includes disputes between landlords and tenants over issues such as repairs and eviction.|
+|Consumer rights|an example of this is a dispute about faulty goods or services.|
+|Employment law|these cases include disputes over wages and cases of unfair dismissal or discrimination in the workplace.|
+|Debt|people might be taken to court if they owe money to someone.|
+
+### The police and their duties
+
+- The job of the police in the UK is to:
+  - Protect life and property
+  - Prevent disturbances (also known as keeping the peace)
+  - Prevent and detect crime.
+- The police are organised into a number of separate police forces headed by
+**Chief Constables**. They are **independent** of the government.
+- In November 2012, the public elected **Police and Crime Commissioners** (PCCs) in **England and Wales**. These are directly elected individuals who are responsible for the delivery of an efficient and effective police force that reflects the needs of their local communities.
+- PCCs set local police priorities and the local policing budget. They also appoint the local Chief Constable.
+- The police force is a public service that helps and protects everyone, no matter what their background or where they live. Police officers must themselves obey the law. They must not misuse their authority, make a false statement, be rude or abusive, or commit racial discrimination. If police officers corrupt or misuse their authority they are severely punished.
+- Police officers are supported by the police community support officers (PCSOs). PCSOs have different roles according to the area but usually patrol the streets, work with the public, and support police officers at crime scenes and major events.
+- All people in the UK are expected to help the police prevent and detect crimes whenever they can. If you are arrested and taken to a police station, a police officer will tell you the reason for your arrest and you will be able to seek legal advice.
+- If something goes wrong, the police complaints system tries to put it right. Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved.
+- Complaints can also be made to an independent body in England and Wales (www.policeconduct.gov.uk).
+- In Scotland, if you are unhappy with the way your complaint has been handled, you can contact the Police Investigations and Review Commissioner at https://pirc.scot/. - In Northern Ireland, you should contact the Police Ombudsman’s Office (www.policeombudsman.org).
+
+### Terrorism and extremism
+
+- The UK faces a range of terrorist threats. The most serious of these is from Al Qa’ida, its affiliates and like-minded organisations. The UK also faces threats from other kind of terrorism, such as Northern Ireland-related terrorism.
+- All terrorist groups try to radicalise and recruit people to their cause. How, where and to what extent they try to do so will vary. Evidence shows that these groups attract very low levels of public support, but people who want to make their home in the UK should be aware of this threat.
+- It is important that all citizens feel safe. This includes feeling safe from all kinds of extremism (vocal or active opposition to fundamental British values), including religious extremism and far-right extremism.
+- If you think someone is trying to persuade you to join an extremist or terrorist cause, you should notify your local **police force**.
+
+## The role of the courts
+
+### The judiciary
+
+- Judges (who are together called ‘the judiciary’) are responsible for interpreting the law and ensuring that trials are conducted fairly. The government cannot interfere with this.
+- Sometimes the actions of the government are claimed to be illegal. If the judges agree, then the government must either change its policies or ask Parliament to change the law. If judges find that a public body is not respecting someone’s legal rights, they can order that body to change its practices and/or pay compensation.
+- Judges also make decisions in disputes between members of the public or organisations. These might be about contracts, property or employment rights or after an accident.
+
+### Criminal courts
+
+- There are some differences between the court systems in England and Wales, Scotland and Northern Ireland.
+
+#### Magistrates’ and Justice of the Peace Courts
+- In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court.
+- Magistrates and Justices of the Peace (JPs) are members of the local community. In England, Wales and Scotland they usually work unpaid and do not need legal qualifications. They receive training to do the job and are supported by a legal adviser. Magistrates decide the verdict in each case that comes before them and, if the person is found guilty, the sentence that they are given. In Northern Ireland, cases are heard by a District Judge or Deputy District Judge, who is legally qualified and paid.
+- The Old Bailey is probably the most famous criminal court in the world
+
+#### Crown Courts and Sheriff Courts
+
+- In England, Wales and Northern Ireland, serious offences are tried in front of a judge and a jury in a Crown Court. In Scotland, serious cases are heard in a Sheriff Court with either a sheriff or a sheriff with a jury. The most serious cases in Scotland, such as murder, are heard at a High Court with a judge and jury. A jury is made up of members of the public chosen at random from the local electoral register. In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members. Everyone who is summoned to do jury service must do it unless they are not eligible (for example, because they have a criminal conviction) or they provide a good reason to be excused, such as ill health.
+- The jury has to listen to the evidence presented at the trial and then decide a verdict of ‘guilty’ or ‘not guilty’ based on what they have heard. In Scotland, a third verdict of ‘not proven’ is also possible. If the jury finds a defendant guilty, the judge decides on the penalty.
+
+#### Youth Courts
+
+- In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a Youth Court in front of up to three specially trained magistrates or a District Judge. The most serious cases will go to the Crown Court. The parents or carers of the young person are expected to attend the hearing. Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.
+- In Scotland a system called the Children’s Hearings System is used to deal with children and young people who have committed an offence.
+- Northern Ireland has a system of youth conferencing to consider how a child should be dealt with when they have committed an offence.
+
+### Civil courts
+
+#### County Courts
+
+- County Courts deal with a wide range of civil disputes. These include people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce. In Scotland, most of these matters are dealt with in the Sheriff Court. More serious civil cases – for example, when a large amount of compensation is being claimed – are dealt with in the High Court in England, Wales and Northern Ireland. In Scotland, they are dealt with in the Court of Session in Edinburgh.
+
+#### The small claims procedure
+
+- The small claims procedure is an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer. This procedure is used for claims of less than £10,000 in England and Wales and £3,000 in Scotland and Northern Ireland. The hearing is held in front of a judge in an ordinary room, and people from both sides of the dispute sit around a table. Small claims can also be issued online through Money Claims Online (www.moneyclaim.gov.uk).
+- You can get details about the small claims procedure from your local County Court or Sheriff Court. Details of your local court can be found as follows:
+  - England and Wales: at www.gov.uk
+  - Scotland: at www.scotcourts.gov.uk
+  - Northern Ireland: at www.courtsni.gov.uk
+
+### Legal advice
+
+#### Solicitors
+
+- Solicitors are trained lawyers who give advice on legal matters, take action for their clients and represent their clients in court.
+- There are solicitors’ offices throughout the UK. It is important to find out which aspects of law a solicitor specialises in and to check that they have the right experience to help you with your case. Many advertise in local newspapers. Citizens Advice Bureau (www.citizensadvice.org.uk) can give you names of local solicitors and which areas of law they specialise in. You can also get this information from the Law Society (www.lawsociety.org.uk) in England and Wales, the Law Society of Scotland (www.lawscot.org.uk) or the Law Society of Northern Ireland (www.lawsoc-ni.org). Solicitors’ charges are usually based on how much time they spend on a case. It is very important to find out at the start how much a case is likely to cost.
+
+## Fundamental principles
+
+- Britain has a long history of respecting an individual’s rights and ensuring essential freedoms. These rights have their roots in Magna Carta, the Habeas Corpus Act and the Bill of Rights of 1689, and they have developed over a period of time. British diplomats and lawyers had an important role in drafting the European Convention on Human Rights and Fundamental Freedoms. The UK was one of the first countries to sign the Convention in 1950.
+- Some of the principles included in the European Convention on Human Rights are:
+  - right to life
+  - prohibition of torture
+  - prohibition of slavery and forced labour
+  - right to liberty and security
+  - right to a fair trial
+  - freedom of thought, conscience and religion
+  - freedom of expression (speech).
+- The Human Rights Act 1998 incorporated the European Convention of Human Rights into UK law. The government, public bodies and the courts must follow the principles of the Convention.
+
+### Equal opportunities
+
+- UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status. If you face problems with discrimination, you can get more information from Citizens Advice or from one of the following organisations:
+• England and Wales: Equality and Human Rights Commission (www.equalityhumanrights.com)
+• Scotland: Equality and Human Rights Commission in Scotland (www.equalityhumanrights.com/en/commission-scotland) and Scottish Human Rights Commission (www.scottishhumanrights.com)
+• Northern Ireland: Equality Commission for Northern Ireland (www.equalityni.org)
+• Northern Ireland Human Rights Commission (www.nihrc.org).
+
+### Domestic violence
+
+- In the UK, brutality and violence in the home is a serious crime. Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted. Any man who forces a woman to have sex, including a woman’s husband, can be charged with rape.
+- It is important for anyone facing domestic violence to get help as soon as possible. A solicitor or Citizens Advice can explain the available options. In some areas there are safe places to go and stay in, called refuges or shelters. The 24-hour National Domestic Violence Freephone Helpline on 0808 2000 247 at any time, and its voicemail service allows callers to leave a message to be called back. You can find out more by visiting its website on www.nationaldahelpline.org.uk. Alternatively, you can try the Women’s Aid website on https://www.womensaid.org.uk. In an emergency, you should always call the police, who can also help you to find a safe place to stay.
+
+### Female genital mutilation
+
+- Female genital mutilation (FGM), also known as cutting or female circumcision, is illegal in the UK. Practising FGM or taking a girl or woman abroad for FGM is a criminal offence.
+
+### Forced marriage
+
+- A marriage should be entered into with the full and free consent of both people involved. Arranged marriages, where both parties agree to the marriage, are acceptable in the UK.
+- Forced marriage is where one or both parties do not or cannot give their consent to enter into the partnership. Forcing another person to marry is a criminal offence.
+- Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007. Court orders can be obtained to protect a person from being forced into a marriage, or to protect a person in a forced marriage. Similar Protection Orders were introduced in Scotland in November 2011.
+- A potential victim, or someone acting for them, can apply for an order. Anyone found to have breached an order can be jailed for up to two years for contempt of court.
+
+## Taxation
+
+### Income tax
+
+- People in the UK have to pay tax on their income, which includes:
+  - Wages from paid employment
+  - Profits from self-employment
+  - Taxable benefits
+  - Pensions
+  - Income from property, savings and dividends.
+- Money raised from income tax pays for government services such as roads, education, police and the armed forces.
+- For most people, the right amount of income tax is automatically taken from their income from employment by their employer and paid directly to HM Revenue & Customs (HMRC), the government department that collects taxes. This system is called “Pay As You Earn” (PAYE). If you are self-employed, you need to pay your own tax through a system called ‘self-assessment’, which includes completing a tax return. Other people may also need to complete a tax return. If HMRC sends you a tax return, it is important to complete and return the form as soon as you have all the necessary information.
+- You can find out more about income tax at www.gov.uk/income-tax. You can get help and advice about taxes and completing tax forms from the HMRC  self-assessment helpline, on 0300 200 3310, and by visiting https://www.gov.uk/government/organisations/hm-revenue-customs.
+
+### National Insurance
+
+- Almost everybody in the UK who is in paid work, including self-employed people, must pay National Insurance Contributions. The money raised from National Insurance Contributions is used to pay for state benefits and services such as the state retirement pension and the National Health Service (NHS).
+- Employees have their National Insurance Contributions deducted from their pay by their employer. People who are self-employed need to pay National Insurance Contributions themselves.
+- Anyone who does not pay enough National Insurance Contributions will not be able to receive certain contributory benefits such as Jobseeker’s Allowance or a full state retirement pension. Some workers, such as part-time workers, may not qualify for statutory payments such as maternity pay if they do not earn enough.
+- Further guidance about National Insurance Contributions is available on https://www.gov.uk/national-insurance.
+
+#### Getting a National Insurance number
+
+- A National Insurance number is a unique personal account number. It makes sure that the National Insurance Contributions and tax you pay are properly recorded against your name. All young people in the UK are sent a National Insurance number just before their 16th birthday.
+
+- A non-UK national living in the UK and looking for work, starting work or setting up as self-employed will need a National Insurance number. However, you can start work without one. If you have permission to work in the UK, you will need to telephone the National Insurance number applications line. After you’ve applied, you’ll get a letter from the Department for Work and Pensions (DWP) asking you to come to a National Insurance number interview at Jobcentre Plus. The letter will also tell you which documents to bring to prove your identity. You can find out more information about how to apply for a National Insurance number at https://www.gov.uk/apply-national-insurancenumber. You may be required to attend an interview. The DWP will advise you of the appropriate application process and tell you which documents you will need to bring to an interview if one is necessary. You will usually need documents that prove your identity and that you have permission to work in the UK. A National Insurance number does not on its own prove to an employer that you have
+the right to work in the UK.
+- You can find out more information about how to apply for a National Insurance number at www.gov.uk.
+
+## Driving
+
+- In the UK, you must be at least 17 years old to drive a car or motor cycle and you must have a driving licence to drive on public roads. To get a UK driving licence you must pass a driving test, which tests both your knowledge and your practical skills. You need to be at least 16 years old to ride a moped, and there are other age requirements and special tests for driving large vehicles.
+- Drivers can use their driving licence until they are 70 years old. After that, the licence is valid for three years at a time.
+- In Northern Ireland, a newly qualified driver must display an ‘R’ plate (for restricted driver) for one year after passing the test.
+- If you have a licence from another country, you may use it in the UK for up to 12 months. To continue driving after that, you must get a UK full driving licence. To check that you can drive in the UK with a non-GB licence, visit www.gov.uk/driving-nongb-licence.
+- If you are resident in the UK, your car or motor cycle must be registered at the Driver and Vehicle Licensing Agency (DVLA). You must pay an annual road tax, which cannot be passed on when a vehicle changes hands. If the vehicle is parked off the road and not being used, you must tell DVLA by making a Statutory Off Road Notification (SORN). SORN cannot be transferred if the vehicle is sold or given to a new owner. You must also have valid motor insurance. It is a serious criminal offence to drive without insurance. If your vehicle is over three years old, you must take it for a Ministry of Transport (MOT) test every year. It is an offence not to have an MOT certificate if your vehicle is more than three years old. You can find out more about vehicle tax and MOT requirements from www.gov.uk.
+
+## Your role in the community
+
+- Becoming a British citizen or settling in the UK brings responsibilities but also opportunities. Everyone has the opportunity to participate in their community. This section looks at some of the responsibilities of being a citizen and gives information about how you can help to make your community a better place to live and work.
+
+### Values and responsibilities
+
+- Although Britain is one of the world’s most diverse societies, there is a set of shared values and responsibilities that everyone can agree with. These values and responsibilities include:
+  - To obey and respect the law
+  - To be aware of the rights of others and respect those rights
+  - To treat others with fairness
+  - To behave responsibly
+  - To help and protect your family
+  - To respect and preserve the environment
+  - To treat everyone equally, regardless of sex, race, religion, age, disability, class or sexual orientation
+  - To work to provide for yourself and your family
+  - To help others
+  - To vote in local and national government elections.
+- Taking on these values and responsibilities will make it easier for you to become a full and active citizen.
+
+### Being a good neighbour
+
+- When you move into a new house or apartment, introduce yourself to the people who live near you. Getting to know your neighbours can help you to become part of the community and make friends. Your neighbours are also a good source of help – for example, they may be willing to feed your pets if you are away, or offer advice on local shops and services.
+- You can help prevent any problems and conflicts with your neighbours by respecting their privacy and limiting how much noise you make. Also try to keep your garden tidy, and only put your refuse bags and bins on the street or in communal areas if they are due to be collected.
+
+### Getting involved in local activities
+
+- Volunteering and helping your community are an important part of being a good citizen. They enable you to integrate and get to know other people. It helps to make your community a better place if residents support each other. It also helps you to fulfil your duties as a citizen, such as behaving responsibly and helping others.
+
+## How you can support your community
+
+### Jury service
+
+- As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 (18-75 in England and Wales) can be asked to do this.
+
+### Helping in schools
+
+- Parents often help in classrooms, by supporting activities or listening to children read.
+- If you have children, there are many ways in which you can help at their schools. Parents can often help in classrooms, by supporting activities or listening to children read.
+- Many schools organise events to raise money for extra equipment or out-of-school  ctivities. Activities might include book sales, toy sales or bringing food to sell. You might have good ideas of your own for raising money. Sometimes events are organised by parent-teacher associations (PTAs). Volunteering to help with their events or joining the association is a way of doing something good for the school and also making new friends in your local community. You can find out about these opportunities from notices in the school or notes your children bring home.
+
+#### School governors and school boards
+
+- School governors, or members of the school board in Scotland, are people from the local community who wish to make a positive contribution to children’s education. They must be aged 18 or over at the date of their election or appointment. There is no upper age limit.
+- Governors and school boards have an important part to play in raising school standards. They have three key roles:
+  - Setting the strategic direction of the school
+  - Ensuring accountability
+  - Monitoring and evaluating school performance.
+- You can contact your local school to ask if they need a new governor or school board member. In England, you can also apply online at the Governors for Schools website at www.governorsforschools.org.uk.
+- In England, parents and other community groups can apply to open a free school in their local area. More information about this can be found at https://www.gov.uk/set-up-free-school.
+
+### Supporting political parties
+
+- Political parties welcome new members. Joining one is a way to demonstrate your support for certain views and to get involved in the democratic process.
+- Political parties are particularly busy at election times. Members work hard to persuade people to vote for their candidates – for instance, by handing out leaflets in the street or by knocking on people’s doors and asking for their support. This is called ‘canvassing’. You don’t have to tell a canvasser how you intend to vote if you don’t want to.
+- British citizens can stand for office as a local councillor or a member of Parliament (or the devolved equivalents). This is an opportunity to become even more involved in the political life of the UK. You may also be able to stand for office if you are an Irish citizen or an eligible Commonwealth citizen.
+- You can find out more about joining a political party from the individual party websites.
+
+### Helping with local services
+
+- There are opportunities to volunteer with a wide range of local service providers, including local hospitals and youth projects. Services often want to involve local people in decisions about the way in which they work. Universities, housing associations, museums and arts councils may advertise for people to serve as volunteers in their governing bodies.
+- You can volunteer with the police, and become a special constable or a lay (non-police) representative. You can also apply to become a magistrate. You will often find advertisements for vacancies in your local newspaper or on local radio. You can also find out more about these sorts of roles at www.gov.uk.
+
+### Blood and organ donation
+
+- Donated blood is used by hospitals to help people with a wide range of injuries and illnesses. Giving blood only takes about an hour to do. You can register to give blood at:
+  - England and North Wales: www.blood.co.uk
+  - Rest of Wales: www.welsh-blood.org.uk
+  - Scotland: www.scotblood.co.uk
+  - Northern Ireland: https://nibts.hscni.net.
+- Many people in the UK are waiting for organ transplants. If you register to be an organ donor, it can make it easier for your family to decide whether to donate your organs when you die. You can register to be an organ donor at www.organdonation.nhs.uk. Living people can also donate a kidney.
+
+### Other ways to volunteer
+
+- Volunteering is working for good causes without payment. There are many benefits to volunteering, such as meeting new people and helping make your community a better place. Some volunteer activities will give you a chance to practise your English or develop work skills that will help you find a job or improve your curriculum vitae (CV). Many people volunteer simply because they want to help other people.
+- Activities you can do as a volunteer include:
+  - working with animals – for example, caring for animals at a local rescue shelter
+  - youth work – for example, volunteering at a youth group
+  - helping improve the environment – for example, participating in a litter pick-up in the local area
+  - working with the homeless in, for example, a homelessness shelter
+  - mentoring – for example, supporting someone who has just come out of prison
+  - work in health and hospitals – for example, working on an information desk in a hospital
+  - helping older people at, for example, a residential care home.
+- Voluntary organisations work to improve the lives of people, animals and the environment in many different ways.
+- There are thousands of active charities and voluntary organisations in the UK. They work to improve the lives of people, animals and the environment in many different ways. They range from the British Red Cross, to small local charities working in particular areas. They include charities working with older people (such as Age UK), with children (for example, the National Society for the Prevention of Cruelty to Children (NSPCC)), and with the homeless (for example, Crisis and Shelter). There are also medical research charities (for example, Cancer Research UK), environmental charities (including the National Trust and Friends of the Earth) and charities working with animals (such as the People’s Dispensary for Sick Animals (PDSA)).
+- Volunteers are needed to help with their activities and to raise money. The charities often advertise in local newspapers, and most have websites that include information about their opportunities. You can also get information about volunteering for different organisations from https://do-it.org.
+- There are many opportunities for younger people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project. You can find out more about these opportunities as follows:
+  - National Citizen Service: at wearencs.com
+  - England: at www.vinspired.com
+  - Wales: at volunteering-wales.net/vk/volunteers/index.htm
+  - Scotland: at www.volunteerscotland.net
+  - Northern Ireland: at www.volunteernow.co.uk
+
+## Looking after the environment
+
+- It is important to recycle as much of your waste as you can. Using recycled materials to make new products uses less energy and means that we do not need to extract more raw materials from the earth. It also means that less rubbish is created, so the amount being put into landfill is reduced.
+- You can learn more about recycling and its benefits at www.recyclenow.com. At this website you can also find out what you can recycle at home and in the local area if you live in England. This information is available for Wales at www.wasteawarenesswales.org.uk, for Scotland at www.recycleforscotland.com and for Northern Ireland from your local authority.
+- A good way to support your local community is to shop for products locally where you can. This will help businesses and farmers in your area and in Britain. It will also reduce your carbon footprint, because the products you buy will not have had to travel as far.
+- Walking and using public transport to get around when you can is also a good way to protect the environment. It means that you create less pollution than when you use a car.

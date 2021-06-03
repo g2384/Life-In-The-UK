@@ -113,7 +113,7 @@
 |Sir Arthur Conan Doyle (1859–1930)|a Scottish doctor and writer. He was best known for his stories about Sherlock Holmes, who was one of the first fictional detectives.|
 |Evelyn Waugh (1903–66)|wrote satirical novels, including Decline and Fall and Scoop. He is perhaps best known for **Brideshead Revisited**.|
 |Roald Dahl (1916–90)|He was born in Wales to Norwegian parents. He served in the Royal Air Force during the Second World War. In the 1940s, he began to publish books and short stories. He is most well known for his children’s books, although he also wrote for adults. His best-known works include *Charlie and the Chocolate Factory* and *George’s Marvellous Medicine*. Several of his books have been made into films.|
-|Sir Kingsley Amis (1922–95)|an English novelist and poet. He wrote more than 20 novels. The most well-known is **Lucky Jim**.|
+|Sir Kingsley Amis (1922–95)|an English novelist and poet. He wrote more than 20 novels. The most well known is **Lucky Jim**.|
 |Graham Greene (1904–91)|wrote novels often influenced by his religious beliefs, including The Heart of the Matter, The Honorary Consul, Brighton Rock and Our Man in Havana.|
 |J K Rowling (1965–)|wrote the Harry Potter series of children’s books, which have enjoyed huge international success. She now writes fiction for adults as well.|
 |JRR Tolkien|In 2003, his work **The Lord of the Rings** was voted the country’s best-loved novel.|
