@@ -502,7 +502,7 @@ Mary’).
 - **The Bill of Rights**, 1689, confirmed the rights of Parliament and the limits of the king’s power. Parliament took control of who could be monarch and declared that the king or queen must be a **Protestant**. A new Parliament had to be elected at least every **three** years (later this became **seven** years and now it is **five** years). Every year the monarch had to ask Parliament to renew funding for the army and the navy.
 - These changes meant that, to be able to govern effectively, the monarch needed to have advisers, or ministers, who would be able to ensure a majority of votes in the House of Commons and the House of Lords.
 - There were two main groups in Parliament, known as the **Whigs** and the **Tories**. (The modern Conservative Party is still sometimes referred to as the Tories.)
-- This was the beginning of party politics.
+- This was the **beginning** of party politics.
 - This was also an important time for the development of a **free press** (newspapers and other publications which are not controlled by the government). From 1695, newspapers were allowed to operate without a government licence. Increasing numbers of newspapers began to be published.
 - The laws passed after the Glorious Revolution are the beginning of what is called **‘constitutional monarchy’**. The monarch remained very important but was no longer able to insist on particular policies or actions if Parliament did not agree.
 - After William III, the ministers gradually became more important than the monarch but this was not a democracy in the modern sense.
@@ -568,7 +568,7 @@ Mary’).
 - Slaves came primarily from West Africa. Travelling on British ships in horrible conditions, they were taken to **America and the Caribbean**, where they were made to work on **tobacco and sugar plantations**.
 - The living and working conditions for slaves were very bad. Many slaves tried to escape and others revolted against their owners in protest at their terrible treatment.
 - Quakers: They set up the first formal anti-slavery groups in the late 1700s, and they petitioned Parliament to ban the practice. 
-- William Wilberforce, an evangelical Christian and a member of Parliament, also played an important part in changing the law. Along with other abolitionists (people who supported the abolition of slavery), he succeeded in turning public opinion against the slave trade.
+- **William Wilberforce**, an evangelical Christian and a member of Parliament, also played an important part in changing the law. Along with other abolitionists (people who supported the abolition of slavery), he succeeded in turning public opinion against the slave trade.
 - In 1807, it became illegal to trade slaves in British ships or from British ports
 - In 1833 the Emancipation Act abolished slavery throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders.
 - After 1833, 2 million Indian and Chinese workers were employed to replace the freed slaves. They worked:
@@ -646,7 +646,7 @@ development of British industry, because raw materials could now be imported mor
 
 - Although the British Empire continued to grow until the 1920s, there was already discussion in the late 19th century about its future direction. Supporters of expansion believed that the Empire benefited Britain through increased trade and commerce. Others thought the Empire had become over-expanded and that the frequent conflicts in many parts of the Empire, such as India’s north-west frontier or southern Africa, were a drain on resources. Yet the great majority of British people believed in the Empire as a force for good in the world.
 - The Boer War of 1899 to 1902 made the discussions about the future of the Empire more urgent. The British went to war in **South Africa** with settlers from the **Netherlands** called the Boers. The Boers fought fiercely and the war went on for over three years. Many died in the fighting and many more from disease. There was some public sympathy for the Boers and people began to question whether the Empire could continue. As different parts of the Empire developed, they won greater freedom and autonomy from Britain.
-- Eventually, by the second half of the 20th century, there was, for the most part, an orderly transition from Empire to Commonwealth, with countries being granted their independence. 
+- Eventually, by the second half of the 20th century, there was, for the most part, an **orderly transition** from Empire to Commonwealth, with countries being granted their independence. 
 
 ## The 20th century
 
@@ -1083,6 +1083,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Rugby originated in England in the **early 19th** century and is very popular in the UK today.
 - There are two different types of rugby, which have different rules: **union** and **league**.
 - Both have separate leagues and national teams in England, Wales, Scotland and Northern Ireland (who play with the Irish Republic).
+- In rugby union, the Republic of Ireland and Northern Ireland form one team.
 - Teams from all countries compete in a range of competitions.
 - The most famous rugby union competition is the Six Nations Championship between:
   - England,
