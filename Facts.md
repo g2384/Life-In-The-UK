@@ -514,7 +514,7 @@ Mary’).
 ### Elizabeth (half-sister)
 
 - Elizabeth I was the younger daughter of Henry VIII and Anne Boleyn.
-- Queen Elizabeth I was a Protestant. She re-established the Church of England as the official Church in England. Everyone had to attend their local church and there were laws about the type of religious services and the prayers which could be said, but Elizabeth did not ask about people’s real beliefs. She succeeded in finding a balance between the views of the Catholics and the more extreme Protestants. In this way, she avoided any serious religious conflict within England.
+- Queen Elizabeth I was a Protestant. She re-established the Church of England as the official Church in England. Everyone had to attend their local church and there were laws about the type of religious services and the prayers which could be said, but Elizabeth did not ask about people’s real beliefs. She succeeded in finding a balance between the views of Catholics and the more extreme Protestants. In this way, she avoided any serious religious conflict within England.
 - She never married.
 
 ### The Reformation in Scotland and Mary, Queen of Scots
@@ -522,7 +522,7 @@ Mary’).
 - The queen of Scotland, Mary Stuart (often now called ‘Mary, Queen of Scots’) was a Catholic.
 - She was only a week old when her father died and she became queen. Much of her childhood was spent in **France**.
 - When she returned to Scotland, she was the centre of a power struggle between different groups. When her husband was murdered, Mary was suspected of involvement and fled to England. She gave her throne to her Protestant son, James VI of Scotland.
-- Mary was Elizabeth I’s cousin and hoped that Elizabeth might help her, but Elizabeth suspected Mary of wanting to take over the English throne, and kept her prisoner for **20** years. Mary was eventually executed, accused of plotting against Elizabeth I.
+- Mary was Elizabeth I’s cousin and hoped that Elizabeth might help her, but Elizabeth suspected Mary of wanting to take over the English throne, and kept her a prisoner for **20** years. Mary was eventually executed, accused of plotting against Elizabeth I.
 
 ### James I (cousin)
 
@@ -533,27 +533,27 @@ Mary’).
 - During this period, Ireland was an almost completely Catholic country. Henry VII and Henry VIII had extended English control outside the Pale and had established English authority over the whole country.
 - Henry VIII took the title ‘King of Ireland’. English laws were introduced and local leaders were expected to follow the instructions of the Lord **Lieutenants** in Dublin.
 - During the reigns of Elizabeth I and James I, many people in Ireland opposed rule by the Protestant government in England. There were a number of rebellions. The English government encouraged Scottish and English Protestants to settle in **Ulster**, the northern province of Ireland, taking over the land from Catholic landholders. These settlements were known as **plantations**. Many of the new settlers came from south-west Scotland and other land was given to companies based in London.
-- James later organised similar plantations in several other parts of Ireland. This had serious longterm consequence for the history of England, Scotland and Ireland.
+- James later organised similar plantations in several other parts of Ireland. This had serious longterm consequences for the history of England, Scotland and Ireland.
 
 ### The rise of Parliament
 
 - Elizabeth I was very skilled at managing Parliament. During her reign, she was successful in balancing her wishes and views against those of the House of Lords and those of the House of Commons, which was increasingly Protestant in its views.
-- James I and his son **Charles I** were less skilled politically. Both believed in the **‘Divine Right of Kings’**: the idea that the king was directly appointed by God to rule. They thought that the king should be able to act without having to seek approval from Parliament. When Charles I inherited the thrones of England, Wales, Ireland and Scotland, he tried to rule in line with this principle. When he could not get Parliament to agree with his religious and foreign policies, he tried to rule without the Parliament at all. For 11 years, he found ways in which to raise money without Parliament’s approval but eventually trouble in Scotland meant that he had to recall Parliament.
+- James I and his son **Charles I** were less skilled politically. Both believed in the **‘Divine Right of Kings’**: the idea that the king was directly appointed by God to rule. They thought that the king should be able to act without having to seek approval from Parliament. When Charles I inherited the thrones of England, Wales, Ireland and Scotland, he tried to rule in line with this principle. When he could not get Parliament to agree with his religious and foreign policies, he tried to rule without Parliament at all. For 11 years, he found ways in which to raise money without Parliament’s approval but eventually trouble in Scotland meant that he had to recall Parliament.
 
 ### The beginning of the English Civil War
 
-- Charles I wanted the worship of the Church of England to include more ceremony and introduced a revise **Prayer Book**. He tried to impose this Prayer Book on the Presbyterian Church in Scotland and this led to serious unrest.
+- Charles I wanted the worship of the Church of England to include more ceremony and introduced a revised **Prayer Book**. He tried to impose this Prayer Book on the Presbyterian Church in Scotland and this led to serious unrest.
 - A Scottish army was formed and Charles could not find the money he needed for his own army without the help of Parliament.
 - In 1640, he recalled Parliament to ask it for funds. Many in Parliament were **Puritans**, a group of Protestants who advocated strict and simple religious doctrine and worship. They did not agree with the king’s religious views and disliked his reforms of the Church of England. Parliament refused to give the king the money he asked for, even after the Scottish army invaded England. 
 - Another rebellion began in Ireland because the Roman Catholics in Ireland were afraid of the growing power of the Puritans. Parliament took this opportunity to demand control of the English army – a change that would have transferred substantial power from the king to Parliament. In response, Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. (No monarch has set foot in the Commons since.)
-- Civil war between the king and Parliament began in 1642. The country spilt into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads). 
+- Civil war between the king and Parliament began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads). 
 
 ### Oliver Cromwell and the English republic
 
 - Oliver Cromwell was the leader of the English republic
 - The king’s army was defeated at the Battles of **Marston Moor** and **Naseby**.
-- By 1646, it was clear that the Parliament had won the war.
-- Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with the Parliament and in 1649 he was executed.
+- By 1646, it was clear that Parliament had won the war.
+- Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed.
 - England declared itself a republic, called the Commonwealth. It no longer had a monarch. For a time, it was not totally clear how the country would be governed. For now, the army was in control. 
 - One of its generals, Oliver Cromwell, was sent to Ireland, where the revolt which had begun in 1641 still continued and where there was still a Royalist army. Cromwell was successful in establishing the authority of the English Parliament but did this with such violence that even today Cromwell remains a controversial figure in Ireland.
 - The Scots had not agreed to the execution of Charles I and declared his son **Charles II** to be king. He was crowned king of Scotland and led a Scottish army into England. Cromwell defeated this army in the Battles of **Dunbar** and **Worcester**. Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe.
@@ -564,25 +564,25 @@ Mary’).
 ### Charles II
 
 - In May 1660, Parliament invited Charles II to come back from exile in The Netherlands. He was crowned King Charles II of England, Wales, Scotland and Ireland. Charles II made it clear that he had ‘no wish to go on his travels again’.
-- He understood that he could not always do as he wished but would sometimes need to reach agreement with the Parliament. Generally, Parliament supported his policies. The Church of England again became the established official Church. Both Roman Catholics and Puritans were kept out of power.
-- Charles II was interested in science. During his reign, the **Royal Society** was formed to promote ‘natural knowledge’. This is the oldest surviving scientific society in the world. Among its early members were **Sir Edmund Halley** who successfully predicted the return of the comet now called Halley’s Comet, and Sir Isaac Newton.
+- He understood that he could not always do as he wished but would sometimes need to reach agreement with Parliament. Generally, Parliament supported his policies. The Church of England again became the established official Church. Both Roman Catholics and Puritans were kept out of power.
+- Charles II was interested in science. During his reign, the **Royal Society** was formed to promote ‘natural knowledge’. This is the oldest surviving scientific society in the world. Among its early members were **Sir Edmund Halley**, who successfully predicted the return of the comet now called Halley’s Comet, and Sir Isaac Newton.
 - Charles II had no legitimate children. He died in 1685.
 
 ### James II, A Catholic king
 
 - Charles II's brother, James, who was a Roman Catholic, became King James II in England, Wales and Ireland and King James VII of Scotland.
 - James favoured Roman Catholics and allowed them to be army officers, which an Act of Parliament had forbidden. He did not seek to reach agreements with Parliament and arrested some of the bishops of the Church of England. People in England worried that James wanted to make England a Catholic country once more.
-- However, his heirs were his two daughters, who were both firmly Protestant, and people thought that this meant there would soon be a Protestant monarch again. Then James’s wife had a son. Suddenly, it seemed likely that the next monarch would not be a Protestant after all.
+- However, his heirs were his two daughters, who were both firmly Protestant, and people thought that this meant there would soon be a Protestant monarch again. Then, James’s wife had a son. Suddenly, it seemed likely that the next monarch would not be a Protestant after all.
 
 ### William III, The Glorious Revolution
 
 - James II’s elder daughter, Mary, was married to her cousin William of Orange, the Protestant ruler of the Netherlands.
-- In 1688, important Protestants in England asked William to invade England and proclaim himself king. When William reached England, there was no resistance. James fled to France and William took over the throne, becoming William III in England, Wales and Ireland, and William II of Scotland. William ruled jointly with Mary. This event was later called the **‘Glorious Revolution’** because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of monarch ruling on his or her own as he or she wished.
+- In 1688, important Protestants in England asked William to invade England and proclaim himself king. When William reached England, there was no resistance. James fled to France and William took over the throne, becoming William III in England, Wales and Ireland, and William II of Scotland. William ruled jointly with Mary. This event was later called the **‘Glorious Revolution’** because there was no fighting in England and because it guaranteed the power of Parliament, ending the threat of a monarch ruling on his or her own as he or she wished.
 - James II wanted to regain the throne and invaded Ireland with the help of a French army. William defeated James II at the Battle of the **Boyne** in **Ireland** in 1690, an event which is still celebrated by some in Northern Ireland today.
 - William re-conquered Ireland and James fled back to France.
 - Many restrictions were placed on the Roman Catholic Church in Ireland and Irish Catholics were unable to take part in the government.
 - There was also support for James in Scotland. An attempt at an armed rebellion in support of James was quickly defeated at **Killiecrankie**. All Scottish clans were required formally to accept William as king by taking an oath.
-- The **MacDonalds of Glencoe** were late in taking an oath and were killed. The memory of this massacre meant some Scots distrusted the new government.
+- The **MacDonalds of Glencoe** were late in taking an oath and were all killed. The memory of this massacre meant some Scots distrusted the new government.
 - Some continued to believe that James was the rightful king, particularly in Scotland. Some joined him in exile in France; others were secret supporters. James’ supporters became known as **Jacobites**. 
 
 |England, Wales and Ireland|Scotland
@@ -604,7 +604,7 @@ Mary’).
 - The laws passed after the Glorious Revolution are the beginning of what is called **‘constitutional monarchy’**. The monarch remained very important but was no longer able to insist on particular policies or actions if Parliament did not agree.
 - After William III, the ministers gradually became more important than the monarch but this was not a democracy in the modern sense.
 - The number of people who had the right to vote for members of Parliament was still very small. Only men who owned property of a certain value were able to vote. No women at all had the vote.
-- Some constituencies were controlled by a single wealthy family. They were called the **‘pocket boroughs’**. Other constituencies had hardly any voters and were called **‘rotten boroughs’**.
+- Some constituencies were controlled by a single wealthy family. These were called the **‘pocket boroughs’**. Other constituencies had hardly any voters and were called **‘rotten boroughs’**.
 
 ### A growing population
 
@@ -715,7 +715,7 @@ Mary’).
   - between 1870 and 1914, around **120, 000** Russian and Polish Jews came to Britain to escape persecution. Many settled in **London’s East End** and in **Manchester** and **Leeds**.
   - People from the Empire, including India and Africa, also came to Britain to live, work and study.
 - Britain continued to be a great **trading** nation. The government began to promote policies of free trade, abolishing a number of taxes on imported goods. One example of this was the repealing of the **Corn Laws** in 1846. These had prevented the import of cheap grain. The reforms helped the
-development of the British industry, because raw materials could now be imported cheaply.
+development of British industry, because raw materials could now be imported more cheaply.
 - In 1847, the number of hours that women and children could work was limited by law to **10** hours per day. Better housing began to be built for workers. Working conditions in factories gradually became better. 
 - Transport links also improved, enabling goods and people to move more easily around the country.
 - British industry led the world in the 19th century. The UK produced more than half of the world’s **iron**, **coal** and **cotton cloth**.
@@ -729,7 +729,7 @@ development of the British industry, because raw materials could now be imported
   - Some, such as **the Fenians**, favoured complete independence.
   - Others, such as **Charles Stuart Parnell**, advocated ‘Home Rule’, in which Ireland would remain in the UK but have its own parliament.
 - The Reform Act of 1832: As the middle classes in the wealthy industrial towns and cities grew in influence, they began to demand more political power. The act had greatly increased the number of people with the right to vote. The act also abolished the old **pocket and rotten boroughs** and more parliamentary seats were given to the towns and cities.
-- There was a permanent shift of political power from the countryside to the towns but voting was still based on ownership of the property. This meant that members of the **working class** were still unable to vote.
+- There was a permanent shift of political power from the countryside to the towns but voting was still based on ownership of property. This meant that members of the **working class** were still unable to vote.
 - the Chartists: The Chartists (campaigners) presented petitions to Parliament to demand the vote for the working classes and other people without property. At first they seemed to be unsuccessful, but in 1867 there was another **Reform Act**. This created many more urban seats in Parliament and reduced the amount of property that people needed to have before they could vote. However, the majority of men still did not have the right to vote and no women could vote.
 - Politicians realised that the increased number of voters meant that they needed to persuade people to vote for them if they were to be sure of being elected to Parliament. The political parties began to create organisations to reach out to ordinary voters. **Universal suffrage** (the right of every adult, male or female, to vote) followed in the next century.
 
@@ -737,7 +737,7 @@ development of the British industry, because raw materials could now be imported
 |---|---|
 |Until 1870|when a woman got married, her earnings, property and money automatically belonged to her husband.|
 |1870 and 1882|**Acts of Parliament** gave wives the right to keep their own earnings and property.|
-|In the late 19th and early 20th centuries|an increasing number of women campaigned and demonstrated for greater rights and, in particular, the right to vote. They formed the women’s suffrage movement and became known as the **‘suffragettes’**.|
+|In the late 19th and early 20th centuries|an increasing number of women campaigned and demonstrated for greater rights and, in particular, the right to vote. They formed the women’s suffrage movement and became known as **‘suffragettes’**.|
 
 ### The future of the Empire
 
@@ -760,27 +760,17 @@ development of the British industry, because raw materials could now be imported
   - Local government became more democratic and a salary for members of Parliament (MPs) was introduced for the first time, making it easier for more people to take part in public life.
 - On 28 June 1914, Archduke Franz Ferdinand of Austria was assassinated. This set off a chain of events leading to the First World War (1914-18). But while the assassination provided the trigger for war, other factors – such as a growing sense of nationalism in many European states; increasing militarism; imperialism; and the division of the major European powers into two camps – all set the conditions for war.
 - The conflict was centred in Europe, but it was a global war involving nations from around the world. The Allies fought against the Central Powers.
-- Allied Powers:
-  - Britain
-  - France,
-  - Russia,
-  - Japan,
-  - Belgium,
-  - Serbia
-  - and later...
-  - Greece,
-  - Italy,
-  - Romania
-  - United States.
-- Central Powers:
-  - Germany
-  - Austro-Hungarian Empire
-  - Ottoman Empire
-  - (and later...) Bulgaria
+
+|Allied Powers|Central Powers|
+|---|---|
+|Britain<br>France<br>Russia<br>Japan<br>Belgium<br>Serbia|Germany<br>Austro-Hungarian Empire<br>Ottoman Empire|
+|and later|...|
+|Greece<br>Italy<br>Romania<br>United States|Bulgaria|
+
 - The whole of the British Empire was involved in the conflict – for example, more than a million Indians fought on behalf of Britain in lots of different countries, and around **40, 000** were killed.
 - Men from the West Indies, Africa, Australia, New Zealand and Canada also fought with the British. 
 - Millions of people were killed or wounded, with more than 2 million British casualties.
-- One battle, the British attack of the **Somme** in July 1916, resulted in about **60,000** British casualties on the first day alone.
+- One battle, the British attack on the **Somme** in July 1916, resulted in about **60,000** British casualties on the first day alone.
 - The First World War ended at 11.00 am on 11th November 1918 with victory for Britain and its allies.
 
 ### The partition of Ireland
@@ -790,10 +780,10 @@ development of the British industry, because raw materials could now be imported
 |1913|the British government promised **‘Home Rule’** for Ireland. The proposal was to have a self-governing Ireland with its own parliament but still part of the UK. A Home Rule Bill was introduced in Parliament. It was opposed by the Protestants in the north of Ireland, who threatened to resist Home Rule by force.|
 |1916|there was an uprising (the **Easter Rising**) against the British in Dublin. The leaders of the uprising were executed under military law. A guerrilla war against the British army and the police in Ireland followed.|
 |1921|a peace treaty was signed|
-|1922|Ireland became two countries. The six countries in the north which were mainly Protestant remained part of the UK under the name Northern Ireland. The rest of Ireland became the Irish Free State.|
+|1922|Ireland became two countries. The six counties in the north which were mainly Protestant remained part of the UK under the name Northern Ireland. The rest of Ireland became the Irish Free State.|
 |1949|Ireland had its own government and became a republic in 1949.|
 
-- There were people in both parts of Ireland who disagree with the split between the North and the South. They still wanted Ireland to be one independent country. Years of disagreement led to a terror campaign in Northern Ireland and elsewhere.
+- There were people in both parts of Ireland who disagreed with the split between the North and the South. They still wanted Ireland to be one independent country. Years of disagreement led to a terror campaign in Northern Ireland and elsewhere.
 - **‘the Troubles’**: The conflict between those wishing for full Irish independence and those wishing to remain loyal to the British government.
 
 ### The inter-war period
@@ -813,25 +803,24 @@ industries – including the automobile and aviation industries – developed.
 - Adolf Hitler came to power in Germany in 1933. He believed that the conditions imposed on Germany by the Allies after the First World War were unfair; he also wanted to conquer more land for the German people. He set about renegotiating treaties, building up arms, and testing Germany’s military strength in nearby countries. The British government tried to avoid another war.
 - When Hitler invaded Poland in 1939, Britain and France declared war in order to stop his aggression.
 - The war was initially fought between the Axis powers (fascist Germany and Italy and the Empire of Japan) and the Allies.
-- Axis powers:
-  - fascist Germany
-  - Italy
-  - the Empire of Japan
-- Allies:
-  - the UK
-  - France
-  - Poland
-  - Australia
-  - New Zealand
-  - Canada
-  - the Union of South Africa
+
+|Axis powers|Allies|
+|---|---|
+|fascist Germany|the UK|
+|Italy|France|
+|the Empire of Japan|Poland|
+||Australia|
+||New Zealand|
+||Canada|
+||the Union of South Africa|
+
 - Having occupied Austria and invaded Czechoslovakia, Hitler followed his invasion of Poland by taking control of Belgium and the Netherlands. Then, in 1940, German forces defeated allied troops and advanced through France. At this time of national crisis, Winston Churchill became Prime Minister and Britain’s war leader. 
-- As France fell, the British decided to evacuate British and French solders from France in a huge naval operation. Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than **300,000** men from the beaches around **Dunkirk**. Although many lives and a lot of equipment were lost, the evacuation was a success and meant that Britain was better able to continue the fight against the Germans. The evacuation gave rise to the phrase **‘the Dunkirk spirit’**.
+- As France fell, the British decided to evacuate British and French soldiers from France in a huge naval operation. Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than **300,000** men from the beaches around **Dunkirk**. Although many lives and a lot of equipment were lost, the evacuation was a success and meant that Britain was better able to continue the fight against the Germans. The evacuation gave rise to the phrase **‘the Dunkirk spirit’**.
 - From the end of June 1940 until the German invasion of the Soviet Union in June 1941, Britain and the Empire stood almost alone against Nazi Germany.
-- the Battle of Britain: Hitler wanted to invade Britain, but before sending in troops, Germany needed to control the air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, in the summer of 1940. The most important planes used by the Royal Air Force in the Battle of Britain were the **Spitfire** and the **Hurricane** – which were designed and built in Britain.
+- the Battle of Britain: Hitler wanted to invade Britain, but before sending in troops, Germany needed to control the air. The Germans waged an air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, in the summer of 1940. The most important planes used by the Royal Air Force in the Battle of Britain were the **Spitfire** and the **Hurricane** – which were designed and built in Britain.
 - Blitz: Despite this crucial victory, the German air force was able to continue bombing London and other British cities at night-time. **Coventry** was almost totally destroyed and a great deal of damage was done in other cities, especially in the **East End of London**.
 - the Blitz spirit: Despite the destruction, there was a strong national spirit of resistance in the UK. It is still used today to describe Britons pulling together in the face of adversity.
-- At the same time as defending Britain, the British military was fighting the Axis on many other fronts. In Singapore, the Japanese defeated the British and then occupied Burma, threatening India. - The United States entered the war when the Japanese bombed its naval base at Pearl Harbor in December **1941**.
+- At the same time as defending Britain, the British military was fighting the Axis on many other fronts. In Singapore, the Japanese defeated the British and then occupied Burma, threatening India. - The United States entered the war when the Japanese bombed its naval base at Pearl Harbour in December **1941**.
 - That same year, Hitler attempted the largest invasion in history by attacking the Soviet Union. It was a fierce conflict, with huge losses on **both** sides. German forces were ultimately repelled by the Soviets, and the damage they sustained proved to be a pivotal point in the war.
 - The allied forces gradually gained the upper hand, winning significant victories in North Africa and Italy. German losses in the Soviet Union, combined with the support of the Americans, meant that the Allies were eventually strong enough to attack Hitler’s forces in Western Europe.
 - On 6 June 1944, allied forces landed in **Normandy** (this event is often referred to as **‘D-Day’**). Following victory on the beaches of Normandy, the allied forces pressed on through France and eventually into Germany.
@@ -858,7 +847,7 @@ atomic bomb.
   - Pakistan
   - Ceylon (now Sri Lanka)
 - Other colonies in Africa, the Caribbean and the Pacific achieved independence over the next 20 years.
-- The UK developed its own atomic bomb and joined the new North Atlantic Treaty Organization (**NATO**), an alliance of nations set up to resist the perceived threat of **invasion** by the Soviet Union and it allies.
+- The UK developed its own atomic bomb and joined the new North Atlantic Treaty Organization (**NATO**), an alliance of nations set up to resist the perceived threat of **invasion** by the Soviet Union and its allies.
 - Britain had a **Conservative** government from 1951 to 1964. The 1950s were a period of **economic recovery** after the war and increasing prosperity for working people. The Prime Minister of the day, **Harold Macmillan**, was famous for his **‘wind of change’** speech about **decolonisation** and **independence** for the countries of the Empire.
 
 ### Migration in Post-war Britain
@@ -871,7 +860,7 @@ atomic bomb.
 
 ### Social change in the 1960s
 
-- Swinging sixties: The decade of the 1960s was a period of significant social change. There was growth in:
+- The Swinging sixties: The decade of the 1960s was a period of significant social change. There was growth in:
   - fashion
   - cinema
   - popular music.
@@ -890,7 +879,7 @@ atomic bomb.
 |Sir Robert Watson-Watt (1892-1973)|Scotsman|He developed **Radar**. He proposed that enemy aircraft could be detected by radio waves. The first successful radar test took place in 1935.|
 |Sir Bernard Lovell (1913-2012)||Working with radar led him to make new discoveries in astronomy. The radio telescope he built at **Jodrell Bank** in Cheshire was for many years the biggest in the world and continues to operate today.|
 |Alan Turing (1912-54)|British mathematician|He invented the **Turing machine**, a theoretical mathematical device, in the 1930s. The theory was influential in the development of computer science and the modern-day computer.|
-|John Macleod (1876-1935)|Scottish physician and researcher|He was the codiscoverer of **insulin**, used to treat diabetes.|
+|John Macleod (1876-1935)|Scottish physician and researcher|He was the co-discoverer of **insulin**, used to treat diabetes.|
 |Francis Crick (1916-2004)|British|The **structure of the DNA molecule** was discovered in 1953 through work at British universities in London and Cambridge. This discovery contributed to many scientific advances, particularly in medicine and fighting crime. He is one of those awarded the Nobel Prize for this discovery.|
 |Sir Frank Whittle (1907-96)|British Royal Air Force engineer officer|He developed the jet engine in Britain in the 1930s|
 |Sir Christopher Cockrell (1910-99)|British inventor|He invented the hovercraft in the 1950s.|
@@ -902,7 +891,7 @@ atomic bomb.
 |Sir Peter Mansfield (1933-2017)|British scientist|He is the co-inventor of the **MRI (magnetic resonance imaging) scanner**. This enables doctors and researchers to obtain exact and non-invasive images of human internal organs and has revolutionised diagnostic medicine.|
 |Sir Tim Berners-Lee (1955-)|British|The inventor of the **World Wide Web**. Information was successfully transferred via the web for the first time on 25 December 1990.|
 
-### Problem in the economy in the 1970s
+### Problems in the economy in the 1970s
 
 - In the late 1970s, the post-war economic boom came to an **end**.
 - Prices of goods and raw materials began to rise sharply and the exchange rate between the pound and other currencies was unstable.
@@ -930,7 +919,7 @@ increase in the role of the City of London as an international centre for invest
 - In 1982, Argentina invaded the Falkland Islands, a British overseas territory in the South Atlantic. A naval taskforce was sent from the UK and military action led to the recovery of the islands.
 - John Major was Prime Minister after Mrs Thatcher, and helped establish the Northern Ireland peace process. 
 
-### Labour Government From 1997-2010
+### Labour Government from 1997 to 2010
 
 - In 1997 the Labour Party led by **Tony Blair** was elected. The Blair government introduced a **Scottish Parliament** and a **Welsh Assembly**.
 - The Scottish Parliament has substantial powers to legislate. The Welsh Assembly was given fewer legislative powers but considerable control over public services.
@@ -945,10 +934,12 @@ increase in the role of the City of London as an international centre for invest
 - The UK now operates in **Afghanistan** as part of the United Nations (UN) mandated 50-nation **International Security Assistance Force (ISAF)** coalition and at the invitation of the Afghan government.
 - ISAF is working to ensure that Afghan territory can never again be used as a safe haven for international terrorism, where groups such as Al Qa’ida could plan attacks on the international community. As part of this, ISAF is building up the Afghan National Security Forces and is helping to create a secure environment in which governance and development can be extended. International forces are gradually handing over responsibility for security to the Afghans, who will have full security responsibility in all provinces by the end of 2014.
 
-### Coalition government 2010 onwards
+### 2010 onwards and Brexit
 
 - In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a **coalition** and the leader of the Conservative Party, David Cameron, became Prime Minister.
-- The **Conservative** Party won a majority at the general election of 7 May 2015 and David Cameron remained Prime Minister. The Conservative government called a referendum on the UK’s membership of the European Union. This was held on 23 June 2016. The UK voted by a margin of 51.9% to 48.1% to leave the European Union. David Cameron was succeeded as Prime Minister after the referendum by Theresa May on 13 July 2016. She in turn was succeeded by Boris Johnson on 24 July 2019. The UK formally left the European Union on 31 January 2020.
+- The **Conservative** Party won a majority at the general election of 7 May 2015 and David Cameron remained Prime Minister. The Conservative government called a referendum on the UK’s membership of the European Union. This was held on 23 June 2016. The UK voted by a margin of 51.9% to 48.1% to leave the European Union.
+- On 13 July 2016, Theresa May succeeded David Cameron as Prime Minister after the referendum.
+- On 24 July 2019, Boris Johnson succeeded Theresa May. The UK formally left the European Union on 31 January 2020.
 
 # A modern, thriving society
 
