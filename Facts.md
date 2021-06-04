@@ -1,11 +1,18 @@
 # Minimum Age
 
 ## 16
+
 - to participate in the National Lottery.
 - people can drink wine or beer with a meal in a hotel or restaurant (including eating areas in pubs) as long as they are with someone over 18.
 - to ride a moped, and there are other age requirements and special tests for driving large vehicles.
+- have a National Insurance number.
+
+## 17
+
+-  to drive a car or motor cycle
 
 ## 18
+
 - to buy alcohol in a pub or night club. But people under this age may be allowed in some pubs with an adult. (It is a criminal offence to sell alcohol to anyone who is under 18 or to buy alcohol for people who are under the age of 18.)
 - It is illegal and a criminal offence to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18.
 - to go into betting shops or gambling clubs. 
@@ -15,51 +22,17 @@
   - people found guilty of certain criminal offences.
 - can stand for election as an MP.
 
+# website
+
+|URL|Services|
+|---|---|
+|www.gov.uk|the small claims procedure<br>advice about taxes and completing tax forms from<br>National Insurance<br>vehicle tax and MOT requirements<br>drive in the UK with a non-GB licence<br>Helping with local services<br>set up free school|
+
 # Geography
-
-Great Britain refers only to England, Scotland and Wales, not to Northern Ireland.
-
-There are several islands which are closely linked with the UK but are not part of it: **the Channel Islands** and **the Isle of Man**. These have their own governments and are called **‘Crown dependencies’**.
-
-The capital city of the UK is London.
-
-The London Eye is situated on the **southern bank** of the River Thames and is a Ferris wheel that is **443 feet (135 metres)** tall. (not a World Heritage Site).
 
 The Millennium Stadium is located in **Cardiff**.
 
-**The National Trust** and **Friends of the Earth** are environmental charities.
-
-**Skara Brae on Orkney**, off the **north coast of Scotland**, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the **Stone Age**.
-
-British overseas territories:
-- Anguilla
-- Bermuda
-- British Antarctic Territory
-- British Indian Ocean Territory
-- British Virgin Islands
-- Cayman Islands
-- Falkland Islands
-- Gibraltar
-- Montserrat
-- Pitcairn Islands
-- Saint Helena, Ascension and Tristan da Cunha
-- South Georgia and the South Sandwich Islands
-- Turks and Caicos Islands
-
 # Law
-
-The Human Rights Act 1998 incorporated the European Convention of Human Rights into UK law.
-
-British values and principles are based on **history** and **traditions** and are protected by law, customs and expectations.
-
-The UK offers to its residents or citizens:
-- freedom of belief and religion,
-- freedom of speech,
-- freedom from unfair discrimination,
-- a right to a fair trial
-- and a right to join in the election of a government.
-
-The electoral register is updated every year in **September or October**.
 
 To drive a car in the UK you need a driving licence, a valid motor insurance, a MOT certificate (for cars over three years old) and the road tax.
 
@@ -77,8 +50,6 @@ In the UK, if the jury finds a defendant guilty, the judge decides the penalty.
 
 All of the elected **MPs** form the **House of Commons**.
 
-**Arranged marriages**, where both parties agree to the marriage, are acceptable in the UK.
-
 The Life in the UK test is usually taken is **English**, although special arrangements can be made if you wish to take it in **Welsh** or **Scottish Gaelic**.
 
 A non-UK national living in the UK and looking for work, starting work or setting up as self-employed will need a **National Insurance number**. However, you **can** start work without one.
@@ -89,30 +60,13 @@ UK laws ensure that people are not treated unfairly in any area of life or work 
 
 As part of the citizenship ceremony, new citizens pledge their **loyalty to the United Kingdom** and to **respect its rights and freedoms**.
 
-**Democracy** is a system of government where the whole adult population gets a say. This might be by **direct voting** or by **choosing representatives** to make decisions on their behalf.
-
 The **cabinet** is a committee which usually meets **weekly** and makes important decisions about government policy.
 
 The police force is a public service that helps and protects everyone, no matter what their background or where they live.
 
 The UK is part of the United Nations (UN), an international organization with **more than 190** countries as members.
 
-The UK is governed by the parliament sitting in **Westminster**.
-
-The fundamental principles of British life include:
-- democracy,
-- the rule of law,
-- individual liberty,
-- tolerance of those with different faiths and beliefs and
-- participation in community life.
-
 If you are facing domestic violence you can get help from the **24-hour National Domestic Violence Freephone Helpline** at any time, or the **police** can help you find a safe place to stay.
-
-The Chancellor of the **Exchequer** is responsible for the economy.
-
-If your driving licence if from a country in the **European Union (EU), Iceland, Liechtenstein or Norway**, you can drive in the UK for as long as your licence is valid.
-
-In Northern Ireland, a newly qualified driver must display an **‘R’** plate (for restricted driver) for **one** year after passing the test.
 
 If you are resident in the UK, your car or motor cycle must be registered at the Driver and Vehicle Licensing Agency (DVLA).
 
@@ -153,12 +107,6 @@ Many local authorities appoint a **mayor**, who is the ceremonial leader of the 
 
 # History
 
-During the Middle Ages many knights took part in the Crusades, in which European Christians fought for control of the **Holy Land**.
-
-During the First World War millions of people were killed or wounded, with more than **2 million** British casualties.
-
-The **Normans** used a system of land ownership known as **feudalism**.
-
 During the **Bronze** Age people lived in **roundhouses** and buried their dead in tombs called **round barrows**.
 
 **Catherine Howard** was a **cousin** of **Anne Boleyn**.
@@ -168,17 +116,6 @@ During the **Bronze** Age people lived in **roundhouses** and buried their dead 
 Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the former Republic of Yugoslavia.
 
 In the Middle Ages, **Knights**, who were usually **smaller landowners**, and **wealthy people** from towns and cities were elected to sit in the **House of Commons**.
-
-During the Middle Ages, England was an important trading nation and people came to England from abroad to trade and also to work. Many had special skills:
-- weavers from France,
-- engineers from Germany,
-- glass manufacturers from Italy
-- and canal builders from Holland.
-
-The Parliament developed in Scotland in the Middle Ages had three Houses, called **Estates**:
-- the lords,
-- the commons
-- and the clergy.
 
 The Middle Ages (or the medieval period) was a time of almost **constant war**.
 
@@ -218,15 +155,9 @@ During the Victorian period, the British Empire grew to cover all of India, Aust
 
 Although the UK had won the war, the country was exhausted economically after WWII.
 
-For most people, the right amount of income tax is automatically taken from their income from employment by their employer and paid directly to HM Revenue & Customs (HMRC), the government department that collects taxes. This system is called **“Pay As You Earn” (PAYE)**.
-
 Money raised from income tax pays for government services such as roads, education, police and the armed forces.
 
 # Culture
-
-Words such as Grimsby and Scunthorpe come from the Viking languages.
-
-‘PDSA’ stands for People’s Dispensary for Sick Animals.
 
 The public can listen to debates in the Palace of Westminster from **public galleries** in both the **House of Commons** and the **House of Lords**.
 
@@ -238,17 +169,9 @@ People in the UK are living longer than ever before. This is due to improved liv
 
 Some words in modern English – for example, ‘park’ and ‘beauty’ – are based on Norman French words.
 
-Giving blood only takes about **an hour** to do.
-
 Donated blood is used by hospitals to help people with a wide range of **injuries** and **illnesses**.
 
-Living people can donate **blood** and **a kidney**.
-
 The Life in the UK test is usually taken is English, although special arrangements can be made if you wish to take it in **Welsh** or **Scottish Gaelic**.
-
-To apply to become a permanent resident or citizen of the UK, you will need to **speak and read English** and have **a good understanding of life** in the UK.
-
-A Formula 1 **Grand Prix** event is held in the UK **each** year and a number of British Grand Prix drivers have won the Formula 1 World Championship.
 
 ---
 
@@ -309,10 +232,9 @@ faithfully and fulfil my duties and obligations as a British citizen.’</blockq
 Northern Ireland.
 - Great Britain: England, Scotland and Wales.
 - The words ‘Britain’, ‘British Isles’ or ‘British’, however, are used here to refer to everyone in the UK.
-- Islands which are closely linked with the UK but are not part of it:
+- Islands which are closely linked with the UK but are not part of it. These have their own governments and are called **‘Crown dependencies’**:
   - the Channel Islands
   - the Isle of Man.
-- These have their own governments and are called **‘Crown dependencies’**.
 - British overseas territories (They are linked to the UK but are not part of it):
   - St Helena
   - the Falkland Islands
@@ -1472,15 +1394,17 @@ The population is very **unequally distributed** over the four parts of the UK.
 
 ### UK landmarks
 
-- **Big Ben** is the nickname for the **great bell** of the clock at the Houses of Parliament in London. Many people call the clock Big Ben as well. The clock is over **150** years old and is a popular tourist attraction. The clock tower is named **‘Elizabeth Tower’** in honour of Queen Elizabeth II’s Diamond Jubilee in 2012.
-- The **Eden Project** is located in **Cornwall**, in the south west of England. Its biomes, which are like giant greenhouses, house plants from all over the world. The Eden Project is also a **charity** which runs environmental and social projects internationally.
-- The **Castle** is a dominant feature of the skyline in **Edinburgh**, Scotland. It has a long history, dating back to the early **Middle Ages**. It is looked after by **Historic Scotland**, a Scottish government agency.
-- The **Giant’s Causeway**, located on the north-east coast of **Northern Ireland**, is a land formation of columns made from volcanic lava. It was formed about **50 million** years ago. There are many legends about the Causeway and how it was formed.
-- **Loch Lomond and the Trossachs National Park** covers 720 square miles (1,865 square kilometres) in the west of **Scotland**. Loch Lomond is the **largest expanse of fresh water** in mainland Britain and probably the best-known part of the park.
-- The **London Eye** is situated on the **southern** bank of the River Thames and is a Ferris wheel that is **443 feet (135 metres)** tall. It was originally built as part of the UK’s celebration of the new **millennium** and continues to be an important part of **New Year celebrations**.
-- **Snowdonia** is a national park in **North Wales**. It covers an area of 838 square miles (2,170 square kilometres). Its most well-known landmark is **Snowdon**, which is the **highest mountain** in Wales.
-- The **Tower of London** was first built by **William the Conqueror** after he became king in **1066**. Tours are given by the **Yeoman Warders**, also known as **Beefeaters**, who tell visitors about the building’s history. People can also see the **Crown Jewels** there.
-- The **Lake District** is England’s **largest** national park. It covers 885 square miles (2,292 square kilometres). It is famous for its lakes and mountains and is very popular with climbers, walkers and sailors. The biggest stretch of water is **Windermere**. In **2007**, television viewers voted **Wastwater** as Britain’s favourite view.
+|Name|Type|Location|Famous for|
+|---|---|---|---|
+|Big Ben|clock|Houses of Parliament in London|Big benis the nickname for the **great bell** of the clock. Many people call the clock Big Ben as well. The clock is over **150** years old and is a popular tourist attraction. The clock tower is named **‘Elizabeth Tower’** in honour of Queen Elizabeth II’s Diamond Jubilee in 2012.|
+|The Eden Project|charity, biomes|Cornwall, in the south west of England|Its biomes, which are like giant greenhouses, house plants from all over the world. The Eden Project is also a **charity** which runs environmental and social projects internationally.|
+|The Castle||Edinburgh, Scotland|A dominant feature of the skyline. It has a long history, dating back to the early **Middle Ages**. It is looked after by **Historic Scotland**, a Scottish government agency.|
+|The Giant’s Causeway|a land formation of columns made from volcanic lava|on the north-east coast of **Northern Ireland**|It was formed about **50 million** years ago. There are many legends about the Causeway and how it was formed.|
+|Loch Lomond and the Trossachs National Park||in the west of Scotland|covers 720 square miles (1,865 square kilometres). Loch Lomond is the **largest expanse of fresh water** in mainland Britain and probably the best-known part of the park.|
+|The London Eye|Ferris wheel|on the **southern** bank of the River Thames|**443 feet (135 metres)** tall. It was originally built as part of the UK’s celebration of the new **millennium** and continues to be an important part of **New Year celebrations**.|
+|Snowdonia|national park|North Wales|It covers an area of 838 square miles (2,170 square kilometres). Its most well-known landmark is **Snowdon**, which is the **highest mountain** in Wales.|
+|The Tower of London||London|It was first built by **William the Conqueror** after he became king in **1066**. Tours are given by the **Yeoman Warders**, also known as **Beefeaters**, who tell visitors about the building’s history. People can also see the **Crown Jewels** there.|
+|The Lake District|England’s **largest** national park||It covers 885 square miles (2,292 square kilometres). It is famous for its lakes and mountains and is very popular with climbers, walkers and sailors. The biggest stretch of water is **Windermere**. In **2007**, television viewers voted **Wastwater** as Britain’s favourite view.|
 
 # The UK government, the law and your role
 
@@ -1963,10 +1887,12 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 ### Forced marriage
 
-- A marriage should be entered into with the full and free consent of both people involved. Arranged marriages, where both parties agree to the marriage, are acceptable in the UK.
+- A marriage should be entered into with the full and free consent of both people involved.
+- Arranged marriages, where both parties agree to the marriage, are acceptable in the UK.
 - Forced marriage is where one or both parties do not or cannot give their consent to enter into the partnership. Forcing another person to marry is a criminal offence.
-- Forced Marriage Protection Orders were introduced in 2008 for England, Wales and Northern Ireland under the Forced Marriage (Civil Protection) Act 2007. Court orders can be obtained to protect a person from being forced into a marriage, or to protect a person in a forced marriage. Similar Protection Orders were introduced in Scotland in November 2011.
-- A potential victim, or someone acting for them, can apply for an order. Anyone found to have breached an order can be jailed for up to two years for contempt of court.
+- Court orders can be obtained to protect a person from being forced into a marriage, or to protect a person in a forced marriage.
+- A potential victim, or someone acting for them, can apply for an order.
+- Anyone found to have breached an order can be jailed for up to **two** years for contempt of court.
 
 ## Taxation
 
@@ -1977,37 +1903,47 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
   - Profits from self-employment
   - Taxable benefits
   - Pensions
-  - Income from property, savings and dividends.
+  - Income from property, savings and dividends
 - Money raised from income tax pays for government services such as roads, education, police and the armed forces.
-- For most people, the right amount of income tax is automatically taken from their income from employment by their employer and paid directly to HM Revenue & Customs (HMRC), the government department that collects taxes. This system is called “Pay As You Earn” (PAYE). If you are self-employed, you need to pay your own tax through a system called ‘self-assessment’, which includes completing a tax return. Other people may also need to complete a tax return. If HMRC sends you a tax return, it is important to complete and return the form as soon as you have all the necessary information.
-- You can find out more about income tax at www.gov.uk/income-tax. You can get help and advice about taxes and completing tax forms from the HMRC  self-assessment helpline, on 0300 200 3310, and by visiting https://www.gov.uk/government/organisations/hm-revenue-customs.
+- For most people, the right amount of income tax is automatically taken from their income from employment by their **employer** and paid directly to HM Revenue & Customs (HMRC), the government department that collects taxes. This system is called **'Pay As You Earn' (PAYE)**. If you are self-employed, you need to pay your own tax through a system called ‘self-assessment’, which includes completing a tax return. Other people may also need to complete a tax return. If HMRC sends you a tax return, it is important to complete and return the form as soon as you have all the necessary information.
+- You can find out more about income tax at www.gov.uk/income-tax. You can get help and advice about taxes and completing tax forms from the HMRC self-assessment helpline, on 0300 200 3310, and by visiting https://www.gov.uk/government/organisations/hm-revenue-customs.
 
 ### National Insurance
 
-- Almost everybody in the UK who is in paid work, including self-employed people, must pay National Insurance Contributions. The money raised from National Insurance Contributions is used to pay for state benefits and services such as the state retirement pension and the National Health Service (NHS).
-- Employees have their National Insurance Contributions deducted from their pay by their employer. People who are self-employed need to pay National Insurance Contributions themselves.
-- Anyone who does not pay enough National Insurance Contributions will not be able to receive certain contributory benefits such as Jobseeker’s Allowance or a full state retirement pension. Some workers, such as part-time workers, may not qualify for statutory payments such as maternity pay if they do not earn enough.
+- Almost everybody in the UK who is in paid work, including **self-employed** people, must pay National Insurance Contributions. The money raised from National Insurance Contributions is used to pay for state benefits and services such as:
+  - the state retirement pension
+  - the National Health Service (NHS)
+- Employees have their National Insurance Contributions deducted from their pay by their **employer**.
+- People who are self-employed need to pay National Insurance Contributions themselves.
+- Anyone who does not pay enough National Insurance Contributions will not be able to receive certain contributory benefits such as:
+  - Jobseeker’s Allowance
+  - a full state retirement pension
+- Some workers, such as part-time workers, may not qualify for statutory payments such as maternity pay if they do not earn enough.
 - Further guidance about National Insurance Contributions is available on https://www.gov.uk/national-insurance.
 
 #### Getting a National Insurance number
 
 - A National Insurance number is a unique personal account number. It makes sure that the National Insurance Contributions and tax you pay are properly recorded against your name. All young people in the UK are sent a National Insurance number just before their 16th birthday.
-
-- A non-UK national living in the UK and looking for work, starting work or setting up as self-employed will need a National Insurance number. However, you can start work without one. If you have permission to work in the UK, you will need to telephone the National Insurance number applications line. After you’ve applied, you’ll get a letter from the Department for Work and Pensions (DWP) asking you to come to a National Insurance number interview at Jobcentre Plus. The letter will also tell you which documents to bring to prove your identity. You can find out more information about how to apply for a National Insurance number at https://www.gov.uk/apply-national-insurancenumber. You may be required to attend an interview. The DWP will advise you of the appropriate application process and tell you which documents you will need to bring to an interview if one is necessary. You will usually need documents that prove your identity and that you have permission to work in the UK. A National Insurance number does not on its own prove to an employer that you have
-the right to work in the UK.
+- A non-UK national living in the UK and looking for work, starting work or setting up as self-employed will need a National Insurance number. However, you can start work without one. If you have permission to work in the UK, you will need to telephone the National Insurance number applications line. After you’ve applied, you’ll get a letter from the **Department for Work and Pensions (DWP)** asking you to come to a National Insurance number interview at Jobcentre Plus. The letter will also tell you which documents to bring to prove your identity. You can find out more information about how to apply for a National Insurance number at https://www.gov.uk/apply-national-insurancenumber. You may be required to attend an interview. The DWP will advise you of the appropriate application process and tell you which documents you will need to bring to an interview if one is necessary. You will usually need documents that prove your identity and that you have permission to work in the UK.
+- A National Insurance number does not on its own prove to an employer that you have the right to work in the UK.
 - You can find out more information about how to apply for a National Insurance number at www.gov.uk.
 
 ## Driving
 
-- In the UK, you must be at least 17 years old to drive a car or motor cycle and you must have a driving licence to drive on public roads. To get a UK driving licence you must pass a driving test, which tests both your knowledge and your practical skills. You need to be at least 16 years old to ride a moped, and there are other age requirements and special tests for driving large vehicles.
-- Drivers can use their driving licence until they are 70 years old. After that, the licence is valid for three years at a time.
-- In Northern Ireland, a newly qualified driver must display an ‘R’ plate (for restricted driver) for one year after passing the test.
-- If you have a licence from another country, you may use it in the UK for up to 12 months. To continue driving after that, you must get a UK full driving licence. To check that you can drive in the UK with a non-GB licence, visit www.gov.uk/driving-nongb-licence.
-- If you are resident in the UK, your car or motor cycle must be registered at the Driver and Vehicle Licensing Agency (DVLA). You must pay an annual road tax, which cannot be passed on when a vehicle changes hands. If the vehicle is parked off the road and not being used, you must tell DVLA by making a Statutory Off Road Notification (SORN). SORN cannot be transferred if the vehicle is sold or given to a new owner. You must also have valid motor insurance. It is a serious criminal offence to drive without insurance. If your vehicle is over three years old, you must take it for a Ministry of Transport (MOT) test every year. It is an offence not to have an MOT certificate if your vehicle is more than three years old. You can find out more about vehicle tax and MOT requirements from www.gov.uk.
+- In the UK, you must be at least 17 years old to drive a car or motor cycle and you must have a **driving licence** to drive on **public** roads.
+- To get a UK driving licence you must pass a driving test, which tests both your **knowledge** and your **practical skills**.
+- You need to be at least 16 years old to ride a **moped**, and there are other age requirements and special tests for driving large vehicles.
+- Drivers can use their driving licence until they are 70 years old. After that, the licence is valid for **three** years at a time.
+- In Northern Ireland, a newly qualified driver must display an **‘R’ plate** (for restricted driver) for **one** year after passing the test.
+- If you have a licence from another country, you may use it in the UK for up to **12 months**. To continue driving after that, you must get a UK full driving licence. To check that you can drive in the UK with a non-GB licence, visit www.gov.uk/driving-nongb-licence.
+- If you are resident in the UK:
+  - your car or motor cycle must be registered at the **Driver and Vehicle Licensing Agency (DVLA)**. If the vehicle is parked off the road and not being used, you must tell DVLA by making a **Statutory Off Road Notification (SORN)**. SORN cannot be transferred if the vehicle is sold or given to a new owner.
+  - You must pay an **annual road tax**, which cannot be passed on when a vehicle changes hands.
+  - You must also have valid **motor insurance**. It is a **serious criminal offence** to drive without insurance.
+  - If your vehicle is over **three** years old, you must take it for a Ministry of Transport (MOT) test **every** year. It is an offence not to have an MOT certificate if your vehicle is more than three years old.
+- You can find out more about vehicle tax and MOT requirements from www.gov.uk.
 
 ## Your role in the community
-
-- Becoming a British citizen or settling in the UK brings responsibilities but also opportunities. Everyone has the opportunity to participate in their community. This section looks at some of the responsibilities of being a citizen and gives information about how you can help to make your community a better place to live and work.
 
 ### Values and responsibilities
 
@@ -2037,13 +1973,12 @@ the right to work in the UK.
 
 ### Jury service
 
-- As well as getting the right to vote, people on the electoral register are randomly selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 (18-75 in England and Wales) can be asked to do this.
+- As well as getting the right to vote, people on the electoral register are **randomly** selected to serve on a jury. Anyone who is on the electoral register and is aged 18 to 70 (18-75 in England and Wales) can be asked to do this.
 
 ### Helping in schools
 
-- Parents often help in classrooms, by supporting activities or listening to children read.
-- If you have children, there are many ways in which you can help at their schools. Parents can often help in classrooms, by supporting activities or listening to children read.
-- Many schools organise events to raise money for extra equipment or out-of-school  ctivities. Activities might include book sales, toy sales or bringing food to sell. You might have good ideas of your own for raising money. Sometimes events are organised by parent-teacher associations (PTAs). Volunteering to help with their events or joining the association is a way of doing something good for the school and also making new friends in your local community. You can find out about these opportunities from notices in the school or notes your children bring home.
+- Parents can often help in classrooms, by supporting activities or listening to children read.
+- Many schools organise events to raise money for **extra equipment** or **out-of-school ctivities**. Activities might include book sales, toy sales or bringing food to sell. You might have good ideas of your own for raising money. Sometimes events are organised by **parent-teacher associations (PTAs)**. Volunteering to help with their events or joining the association is a way of doing something good for the school and also making new friends in your local community. You can find out about these opportunities from notices in the school or notes your children bring home.
 
 #### School governors and school boards
 
@@ -2052,33 +1987,42 @@ the right to work in the UK.
   - Setting the strategic direction of the school
   - Ensuring accountability
   - Monitoring and evaluating school performance.
-- You can contact your local school to ask if they need a new governor or school board member. In England, you can also apply online at the Governors for Schools website at www.governorsforschools.org.uk.
+- You can contact your local school to ask if they need a new governor or school board member.
+- In England, you can also apply online at the Governors for Schools website at www.governorsforschools.org.uk.
 - In England, parents and other community groups can apply to open a free school in their local area. More information about this can be found at https://www.gov.uk/set-up-free-school.
 
 ### Supporting political parties
 
 - Political parties welcome new members. Joining one is a way to demonstrate your support for certain views and to get involved in the democratic process.
-- Political parties are particularly busy at election times. Members work hard to persuade people to vote for their candidates – for instance, by handing out leaflets in the street or by knocking on people’s doors and asking for their support. This is called ‘canvassing’. You don’t have to tell a canvasser how you intend to vote if you don’t want to.
-- British citizens can stand for office as a local councillor or a member of Parliament (or the devolved equivalents). This is an opportunity to become even more involved in the political life of the UK. You may also be able to stand for office if you are an Irish citizen or an eligible Commonwealth citizen.
+- Political parties are particularly busy at election times. Members work hard to persuade people to vote for their candidates.
+- Canvassing: by handing out leaflets in the street or by knocking on people’s doors and asking for their support. You don’t have to tell a canvasser how you intend to vote if you don’t want to.
+- British citizens can stand for office as a local councillor or a member of Parliament (or the devolved equivalents). This is an opportunity to become even more involved in the political life of the UK. You may also be able to stand for office if you are an **Irish** citizen or an eligible **Commonwealth citizen**.
 - You can find out more about joining a political party from the individual party websites.
 
 ### Helping with local services
 
-- There are opportunities to volunteer with a wide range of local service providers, including local hospitals and youth projects. Services often want to involve local people in decisions about the way in which they work. Universities, housing associations, museums and arts councils may advertise for people to serve as volunteers in their governing bodies.
-- You can volunteer with the police, and become a special constable or a lay (non-police) representative. You can also apply to become a magistrate. You will often find advertisements for vacancies in your local newspaper or on local radio. You can also find out more about these sorts of roles at www.gov.uk.
+- There are opportunities to volunteer with a wide range of local service providers, including **local hospitals** and **youth projects**. Services often want to involve local people in decisions about the way in which they work. Universities, housing associations, museums and arts councils may advertise for people to serve as volunteers in their governing bodies.
+- You can volunteer with the police, and become a **special constable** or a **lay (non-police) representative**. You can also apply to become a **magistrate**. You will often find advertisements for vacancies in your local newspaper or on local radio. You can also find out more about these sorts of roles at www.gov.uk.
 
 ### Blood and organ donation
 
-- Donated blood is used by hospitals to help people with a wide range of injuries and illnesses. Giving blood only takes about an hour to do. You can register to give blood at:
+- Donated blood is used by hospitals to help people with a wide range of **injuries** and **illnesses**. Giving blood only takes about **an hour** to do.
+- You can register to give blood at:
   - England and North Wales: www.blood.co.uk
   - Rest of Wales: www.welsh-blood.org.uk
   - Scotland: www.scotblood.co.uk
   - Northern Ireland: https://nibts.hscni.net.
-- Many people in the UK are waiting for organ transplants. If you register to be an organ donor, it can make it easier for your family to decide whether to donate your organs when you die. You can register to be an organ donor at www.organdonation.nhs.uk. Living people can also donate a kidney.
+- Many people in the UK are waiting for organ transplants. If you register to be an organ donor, it can make it easier for your family to decide whether to donate your organs when you die. You can register to be an organ donor at www.organdonation.nhs.uk.
+- Living people can donate **blood** and **a kidney**.
 
 ### Other ways to volunteer
 
-- Volunteering is working for good causes without payment. There are many benefits to volunteering, such as meeting new people and helping make your community a better place. Some volunteer activities will give you a chance to practise your English or develop work skills that will help you find a job or improve your curriculum vitae (CV). Many people volunteer simply because they want to help other people.
+- Volunteering is working for good causes without payment. There are many benefits to volunteering, such as:
+  - meeting new people
+  - helping make your community a better place
+  - give you a chance to practise your English
+  - develop work skills that will help you find a job or improve your curriculum vitae (CV).
+- Many people volunteer simply because they want to help other people.
 - Activities you can do as a volunteer include:
   - working with animals – for example, caring for animals at a local rescue shelter
   - youth work – for example, volunteering at a youth group
@@ -2088,7 +2032,17 @@ the right to work in the UK.
   - work in health and hospitals – for example, working on an information desk in a hospital
   - helping older people at, for example, a residential care home.
 - Voluntary organisations work to improve the lives of people, animals and the environment in many different ways.
-- There are thousands of active charities and voluntary organisations in the UK. They work to improve the lives of people, animals and the environment in many different ways. They range from the British Red Cross, to small local charities working in particular areas. They include charities working with older people (such as Age UK), with children (for example, the National Society for the Prevention of Cruelty to Children (NSPCC)), and with the homeless (for example, Crisis and Shelter). There are also medical research charities (for example, Cancer Research UK), environmental charities (including the National Trust and Friends of the Earth) and charities working with animals (such as the People’s Dispensary for Sick Animals (PDSA)).
+- There are **thousands** of active charities and voluntary organisations in the UK. They work to improve the lives of people, animals and the environment in many different ways. They range from the British Red Cross, to small local charities working in particular areas.
+
+|Type|Examples|
+|---|---|
+|working with older people|Age UK|
+|working with children|the National Society for the Prevention of Cruelty to Children (NSPCC)|
+|working with the homeless|Crisis and Shelter|
+|medical research charities|Cancer Research UK|
+|environmental charities|National Trust<br>Friends of the Earth|
+|working with animals|the People’s Dispensary for Sick Animals (PDSA)|
+
 - Volunteers are needed to help with their activities and to raise money. The charities often advertise in local newspapers, and most have websites that include information about their opportunities. You can also get information about volunteering for different organisations from https://do-it.org.
 - There are many opportunities for younger people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project. You can find out more about these opportunities as follows:
   - National Citizen Service: at wearencs.com
@@ -2100,6 +2054,10 @@ the right to work in the UK.
 ## Looking after the environment
 
 - It is important to recycle as much of your waste as you can. Using recycled materials to make new products uses less energy and means that we do not need to extract more raw materials from the earth. It also means that less rubbish is created, so the amount being put into landfill is reduced.
-- You can learn more about recycling and its benefits at www.recyclenow.com. At this website you can also find out what you can recycle at home and in the local area if you live in England. This information is available for Wales at www.wasteawarenesswales.org.uk, for Scotland at www.recycleforscotland.com and for Northern Ireland from your local authority.
-- A good way to support your local community is to shop for products locally where you can. This will help businesses and farmers in your area and in Britain. It will also reduce your carbon footprint, because the products you buy will not have had to travel as far.
+- You can learn more about recycling and its benefits:
+  - at www.recyclenow.com. At this website you can also find out what you can recycle at home and in the local area if you live in England.
+  - This information is available for Wales at www.wasteawarenesswales.org.uk.
+  - for Scotland at www.recycleforscotland.com
+  - for Northern Ireland from your local authority.
+- A good way to support your local community is to **shop for products locally** where you can. This will help businesses and farmers in your area and in Britain. It will also reduce your carbon footprint, because the products you buy will not have had to travel as far.
 - Walking and using public transport to get around when you can is also a good way to protect the environment. It means that you create less pollution than when you use a car.
