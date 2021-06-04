@@ -466,7 +466,7 @@ Mary’).
 
 ### Charles II
 
-- In May 1660, Parliament invited Charles II to come back from exile in The Netherlands. He was crowned King Charles II of England, Wales, Scotland and Ireland. Charles II made it clear that he had ‘no wish to go on his travels again’.
+- In May 1660, Parliament invited Charles II to come back from exile in The **Netherlands**. He was crowned King Charles II of England, Wales, Scotland and Ireland. Charles II made it clear that he had ‘no wish to go on his travels again’.
 - He understood that he could not always do as he wished but would sometimes need to reach agreement with Parliament. Generally, Parliament supported his policies. The Church of England again became the established official Church. Both Roman Catholics and Puritans were kept out of power.
 - Charles II was interested in science. During his reign, the **Royal Society** was formed to promote ‘natural knowledge’. This is the oldest surviving scientific society in the world. Among its early members were **Sir Edmund Halley**, who successfully predicted the return of the comet now called Halley’s Comet, and Sir Isaac Newton.
 - Charles II had no legitimate children. He died in 1685.
@@ -607,7 +607,7 @@ Mary’).
 
 - In 1837, Queen Victoria became queen of the UK at the age of 18. She reigned until 1901, almost 64 years. 
 - Her reign is known as the Victorian Age.
-- It was a time when Britain increased in power and influence abroad. Within the UK, the middle classes became increasingly significant and a number of reformers led moves to improve conditions of life for the poor.
+- It was a time when Britain increased in power and influence abroad. Within the UK, the middle classes became increasingly significant and a number of reformers led moves to improve conditions of life for **the poor**.
 - During the Victorian period, **the British Empire** grew to cover:
   - all of India
   - Australia
@@ -719,7 +719,7 @@ industries – including the automobile and aviation industries – developed.
 
 - Having occupied Austria and invaded Czechoslovakia, Hitler followed his invasion of Poland by taking control of Belgium and the Netherlands. Then, in 1940, German forces defeated allied troops and advanced through France. At this time of national crisis, Winston Churchill became Prime Minister and Britain’s war leader. 
 - As France fell, the British decided to evacuate British and French soldiers from France in a huge naval operation. Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than **300,000** men from the beaches around **Dunkirk**. Although many lives and a lot of equipment were lost, the evacuation was a success and meant that Britain was better able to continue the fight against the Germans. The evacuation gave rise to the phrase **‘the Dunkirk spirit’**.
-- From the end of June 1940 until the German invasion of the Soviet Union in June 1941, Britain and the Empire stood almost alone against Nazi Germany.
+- From the end of June 1940 until the German invasion of the Soviet Union in June 1941, Britain and the Empire stood almost **alone** against Nazi Germany.
 - the Battle of Britain: Hitler wanted to invade Britain, but before sending in troops, Germany needed to control the air. The Germans waged an air campaign against Britain, but the British resisted with their fighter planes and eventually won the crucial aerial battle against the Germans, in the summer of 1940. The most important planes used by the Royal Air Force in the Battle of Britain were the **Spitfire** and the **Hurricane** – which were designed and built in Britain.
 - Blitz: Despite this crucial victory, the German air force was able to continue bombing London and other British cities at night-time. **Coventry** was almost totally destroyed and a great deal of damage was done in other cities, especially in the **East End of London**.
 - the Blitz spirit: Despite the destruction, there was a strong national spirit of resistance in the UK. It is still used today to describe Britons pulling together in the face of adversity.
@@ -987,7 +987,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 |Christmas Eve|24th of December|Very young children believe that **Father Christmas** (also known as **Santa Claus**) brings them presents during the **night before** Christmas Day. Christmas is a special time for children.|
 |Christmas Day|25 December|celebrates the birth of Jesus Christ. It is a public holiday. Many Christians go to church on Christmas Eve (24 December) or on Christmas Day itself.|
 |Boxing Day|26th of December|public holiday.|
-|Shrove Tuesday|The day before Lent starts|a.k.a. Pancake Day. People eat pancakes, which were traditionally made to use up foods such as eggs, fat and milk before fasting.|
+|Shrove Tuesday|The day before Lent starts|a.k.a. Pancake Day. People eat **pancakes**, which were traditionally made to use up foods such as eggs, fat and milk before fasting.|
 |Lent|40 days before **Easter**|The 40 days before Easter are known as Lent. It is a time when Christians take time to reflect and prepare for Easter. It begins on **Ash Wednesday**. There are church services where Christians are marked with an **ash cross** on their forehead as a symbol of **death** and sorrow for sin.|
 |Easter|March or April|It marks the death of Jesus Christ on **Good Friday** and his rising from the dead on **Easter Sunday**. Easter is also celebrated by people who are not religious. ‘Easter eggs’ are chocolate eggs often given as presents at Easter as a symbol of **new life**.|
 |Good Friday||public holiday.|
@@ -1017,7 +1017,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 |Mothering Sunday|the Sunday three weeks before Easter|(or Mother’s Day). Children send cards or buy gifts for their mothers.|
 |Father’s Day|the third Sunday in June|Children send cards or buy gifts for their fathers.|
 |Halloween|31 October|an ancient festival and has roots in the **pagan** festival to mark the beginning of **winter**. Young people will often dress up in frightening costumes to play ‘trick or treat’. People give them treats to stop them playing tricks on them. A lot of people carve lanterns out of pumpkins and put a candle inside.|
-|Bonfire Night|5 November|an occasion when people in Great Britain set off fireworks at home or in special displays. The origin of this celebration was an event in **1605**, when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.|
+|Bonfire Night|5 November|an occasion when people in Great Britain set off fireworks at home or in special displays. The origin of this celebration was an event in **1605**, when a group of Catholics led by **Guy Fawkes** failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.|
 |Remembrance Day|11 November|commemorates those who died fighting for the UK and its allies. Originally it commemorated the dead of the First World War, which ended on 11 November 1918. People wear poppies (the red flower found on the battlefields of the First World War). At 11.00 am there is a two-minute silence and wreaths are laid at the **Cenotaph** in **Whitehall**, London.|
 
 ### Bank holidays
@@ -1205,7 +1205,6 @@ The population is very **unequally distributed** over the four parts of the UK.
 - In the 18th century, **Lancelot ‘Capability’ Brown** designed the grounds around country houses so that the landscape appeared to be natural, with grass, trees and lakes. He often said that a place had ‘capabilities’. 
 - Later, **Gertrude Jekyll** often worked with **Edwin Lutyens** to design colourful gardens around the houses he designed.
 - The annual **Chelsea Flower Show** showcases garden design from Britain and around the world.
-- Britain has produced many great designers, from **Thomas Chippendale** (who designed furniture in the 18th century) to **Clarice Cliff** (who designed Art Deco ceramics) to **Sir Terence Conran** (a 20th-century interior designer). Leading fashion designers of recent years include **Mary Quant**, **Alexander McQueen** and **Vivienne Westwood**.
 
 ### Literature
 
@@ -1508,7 +1507,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - Since **1999**, hereditary peers have lost the automatic right to attend the House of Lords. They now elect a few of their number to represent them in the House of Lords.
 - The House of Lords is normally **more independent** of the government than the House of Commons. It can **suggest amendments** or **propose new laws**, which are then discussed by MPs.
 - The House of Lords checks laws that have been passed by the House of Commons to ensure they are fit for purpose.
-- It also holds the government to account to make sure that it is working in the best interests of the people.
+- It also **holds the government to account** to make sure that it is working in the best interests of the people.
 - There are peers who are specialists in particular areas, and their knowledge is useful in making and checking laws.
 - The House of Commons has powers to overrule the House of Lords, but these are not used often.
 
@@ -1617,7 +1616,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - If you are eligible to vote, you can register by contacting your local council electoral registration Office. This is usually based at your local council (in Scotland it may be based elsewhere).
 - If you don’t know which local authority you come under, you can find out by visiting www.aboutmyvote.co.uk and entering your postcode. You can also download voter registration forms in English, Welsh and some other languages.
 - The electoral register is updated **every year** in **September or October**. An **electoral registration form** is sent to every household and this has to be completed and returned with the names of everyone who is resident in the household and eligible to vote.
-- In Northern Ireland a different system operates. This is called **‘individual registration’** and all those entitled to vote must complete their own registration form. Once registered, people stay on the register provided their personal details do not change. For more information see the Electoral Office for Northern Ireland website at www.eoni.org.uk
+- In **Northern Ireland** a different system operates. This is called **‘individual registration’** and all those entitled to vote must complete their own registration form. Once registered, people stay on the register provided their personal details do not change. For more information see the Electoral Office for Northern Ireland website at www.eoni.org.uk
 - By law, each local authority has to make its electoral register available for anyone to look at, although this has to be supervised. The register is kept at each local electoral registration Office (or council Office in England and Wales). It is also possible to see the register at some public buildings such as libraries.
 
 ### Where to vote
