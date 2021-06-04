@@ -1647,7 +1647,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 ### The Commonwealth
 
-- The Commonwealth is an association of countries that support each other and work together towards shared goals in **democracy and development**.
+- The Commonwealth is an association of countries that support each other and work together towards shared goals in **democracy** and **development**.
 - Most member states were once part of the British Empire, although a few countries which were not have also joined.
 - The Queen is the **ceremonial head** of the Commonwealth.
 - It currently has **54** member states. Membership is voluntary. The Commonwealth has no power over its members, although it can **suspend** membership.
@@ -1655,61 +1655,31 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
   - the core values of democracy,
   - good government
   - and the rule of law.
+
 - Commonwealth members
-  - Antigua and Barbuda
-  - Australia
-  - The Bahamas
-  - Bangladesh
-  - Barbados
-  - Belize
-  - Botswana
-  - Brunei Darussalam
-  - Cameroon
-  - Canada
-  - Cyprus
-  - Dominica
-  - Fiji
-  - The Gambia
-  - Ghana
-  - Grenada
-  - Guyana
-  - India
-  - Jamaica
-  - Kenya
-  - Kiribati
-  - Lesotho
-  - Malawi
-  - Malaysia
-  - Maldives
-  - Malta
-  - Mauritius
-  - Mozambique
-  - Namibia
-  - Nauru
-  - New Zealand
-  - Nigeria
-  - Pakistan
-  - Papua New Guinea
-  - Rwanda
-  - Samoa
-  - Seychelles
-  - Sierra Leone
-  - Singapore
-  - Solomon Islands
-  - South Africa
-  - Sri Lanka
-  - St Kitts and Nevis
-  - St Lucia
-  - St Vincent and the Grenadines
-  - Swaziland
-  - Tanzania
-  - Tonga
-  - Trinidad and Tobago
-  - Tuvalu
-  - Uganda
-  - UK
-  - Vanuatu
-  - Zambia
+
+| Africa | Asia | Caribbean and Americas | Europe | Pacific |
+|-|-|-|-|-|
+| Botswana | Bangladesh | Antigua and Barbuda | Cyprus | Australia |
+| Cameroon | Brunei Darussalam | The Bahamas | Malta | Fiji |
+| The Gambia | India | Barbados | United   Kingdom | Kiribati |
+| Ghana | Malaysia | Belize |  | Nauru |
+| Kenya | Maldives | Canada |  | New Zealand |
+| Kingdom of Eswatini (Swaziland) | Pakistan | Dominica |  | Papua New Guinea |
+| Lesotho | Singapore | Grenada |  | Samoa |
+| Malawi | Sri Lanka | Guyana |  | Solomon Islands |
+| Mauritius |  | Jamaica |  | Tonga |
+| Mozambique |  | Saint Lucia |  | Tuvalu |
+| Namibia |  | St Kitts and Nevis |  | Vanuatu |
+| Nigeria |  | St Vincent and The Grenadines |  |  |
+| Rwanda |  | Trinidad and Tobago |  |  |
+| Seychelles |  |  |  |  |
+| Sierra Leone |  |  |  |  |
+| South Africa |  |  |  |  |
+| Uganda |  |  |  |  |
+| United Republic of Tanzania |  |  |  |  |
+| Zambia |  |  |  |  |
+
 - Zimbabwe, Costa Rica are not members of the Commonwealth.
 
 ### The Council of Europe
@@ -1734,7 +1704,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 ### The law in the UK
 
 - Every person in the UK receives equal treatment under the law. This means that the law applies in the same way to everyone, no matter who they are or where they are from.
-- Laws can be divided into criminal law and civil law.
+- Laws can be divided into **criminal** law and **civil** law.
 
 #### Criminal law
 
@@ -1745,7 +1715,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 |Carrying a weapon|it is a criminal offence to carry a weapon of any kind, even if it is for self-defence. This includes a gun, a knife or anything that is made or adapted to cause injury.|
 |Drugs|selling or buying drugs such as heroin, cocaine, ecstasy and cannabis is illegal in the UK.|
 |Racial crime|it is a criminal offence to cause harassment, alarm or distress to someone because of their religion or ethnic origin.|
-|Selling tobacco: it is illegal to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18.|
+|Selling tobacco|it is illegal to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18.|
 |Smoking in public places|it is against the law to smoke tobacco products in nearly every enclosed public place in the UK. There are signs displayed to tell you where you cannot smoke.|
 |Buying alcohol|it is a criminal offence to sell alcohol to anyone who is under 18 or to buy alcohol for people who are under the age of 18. (There is one exception: people aged 16 or over can drink alcohol with a meal in a hotel or restaurant.)|
 |Drinking in public|some places have alcohol-free zones where you cannot drink in public. The police can also confiscate alcohol or move young people on from public places. You can be fined or arrested.|
@@ -1782,8 +1752,11 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 ### Terrorism and extremism
 
-- The UK faces a range of terrorist threats. The most serious of these is from Al Qa’ida, its affiliates and like-minded organisations. The UK also faces threats from other kind of terrorism, such as Northern Ireland-related terrorism.
-- All terrorist groups try to radicalise and recruit people to their cause. How, where and to what extent they try to do so will vary. Evidence shows that these groups attract very low levels of public support, but people who want to make their home in the UK should be aware of this threat.
+- The UK faces a range of terrorist threats:
+  - the most serious: from Al Qa’ida, its affiliates and like-minded organisations.
+  - other kind of terrorism: Northern Ireland-related terrorism.
+- All terrorist groups try to radicalise and recruit people to their cause. How, where and to what extent they try to do so will vary.
+- Evidence shows that these groups attract **very low** levels of public support, but people who want to make their home in the UK should be aware of this threat.
 - It is important that all citizens feel safe. This includes feeling safe from all kinds of extremism (vocal or active opposition to fundamental British values), including religious extremism and far-right extremism.
 - If you think someone is trying to persuade you to join an extremist or terrorist cause, you should notify your local **police force**.
 
