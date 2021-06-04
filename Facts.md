@@ -46,8 +46,6 @@ There are 100 pence in a pound.
 
 For most local authorities, local elections for councillors are held in **May** **every year**.
 
-In the UK, if the jury finds a defendant guilty, the judge decides the penalty.
-
 All of the elected **MPs** form the **House of Commons**.
 
 The Life in the UK test is usually taken is **English**, although special arrangements can be made if you wish to take it in **Welsh** or **Scottish Gaelic**.
@@ -90,11 +88,6 @@ The Prime Minister (PM) is the **leader of the political party** in power. He or
 
 The Prime Minister appoints about **20 senior MPs** to become ministers in charge of departments.
 
-The small claims procedure is an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer. This procedure is used for claims of less than £10,000 in England and Wales and £3,000 in Scotland and Northern Ireland. 
-<span style="color: #ff0000;">**PLEASE be aware**</span> that in some handbooks (10th impression 2016 and previous ones) it says £5,000. However according to the Official Handbook 3rd edition (11th impression 2016) it is £10,000. Due to this difference in data, it is very unlikely that this question will come up in the official exam.
-
-Forcing another person to marry is a criminal offence.
-
 Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted.
 
 Many MPs, Assembly members, MSPs and MEPs hold regular local **‘surgeries’**, where constituents can go in person to talk about issues that are of concern to them. These surgeries are often advertised in the **local newspaper**.
@@ -106,12 +99,6 @@ Many local authorities appoint a **mayor**, who is the ceremonial leader of the 
 **MPs** are elected through a system called **‘first past the post’**. In each constituency, the candidate who gets the most votes is elected.
 
 # History
-
-During the **Bronze** Age people lived in **roundhouses** and buried their dead in tombs called **round barrows**.
-
-**Catherine Howard** was a **cousin** of **Anne Boleyn**.
-
-**Stone Age**: The first people to live in Britain were **hunter-gatherers**.
 
 Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the former Republic of Yugoslavia.
 
@@ -150,12 +137,6 @@ The symbol of the House of **Tudor** was a red rose with a white rose inside it 
 The Battle of **Hastings** is commemorated in a great piece of embroidery, known as the **Bayeux tapestry**, which can still be seen in **France** today. The Bayeux Tapestry is nearly **70 metres (230 feet)** long and is embroidered with coloured wool.
 
 During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than **400 million** people.
-
-# Economy
-
-Although the UK had won the war, the country was exhausted economically after WWII.
-
-Money raised from income tax pays for government services such as roads, education, police and the armed forces.
 
 # Culture
 
@@ -1816,34 +1797,52 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 ### Criminal courts
 
-- There are some differences between the court systems in England and Wales, Scotland and Northern Ireland.
-
 #### Magistrates’ and Justice of the Peace Courts
-- In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court.
-- Magistrates and Justices of the Peace (JPs) are members of the local community. In England, Wales and Scotland they usually work unpaid and do not need legal qualifications. They receive training to do the job and are supported by a legal adviser. Magistrates decide the verdict in each case that comes before them and, if the person is found guilty, the sentence that they are given. In Northern Ireland, cases are heard by a District Judge or Deputy District Judge, who is legally qualified and paid.
+
+- Magistrates and Justices of the Peace (JPs) are members of the local community.
 - The Old Bailey is probably the most famous criminal court in the world
+
+||England, Wales and Northern Ireland|Scotland|
+|---|---|---|
+|minor criminal cases|(most) a Magistrates’ Court|a Justice of the Peace Court|
+
+|England, Wales and Scotland|Northern Ireland|
+|---|---|
+|Magistrates and Justices of the Peace (JPs) usually work **unpaid** and do **not need** legal qualifications. They receive training to do the job and are supported by a legal adviser. Magistrates decide the verdict in each case that comes before them and, if the person is found guilty, the sentence that they are given.|cases are heard by a District Judge or Deputy District Judge, who is legally qualified and paid.|
 
 #### Crown Courts and Sheriff Courts
 
-- In England, Wales and Northern Ireland, serious offences are tried in front of a judge and a jury in a Crown Court. In Scotland, serious cases are heard in a Sheriff Court with either a sheriff or a sheriff with a jury. The most serious cases in Scotland, such as murder, are heard at a High Court with a judge and jury. A jury is made up of members of the public chosen at random from the local electoral register. In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members. Everyone who is summoned to do jury service must do it unless they are not eligible (for example, because they have a criminal conviction) or they provide a good reason to be excused, such as ill health.
-- The jury has to listen to the evidence presented at the trial and then decide a verdict of ‘guilty’ or ‘not guilty’ based on what they have heard. In Scotland, a third verdict of ‘not proven’ is also possible. If the jury finds a defendant guilty, the judge decides on the penalty.
+- A jury is made up of members of the public chosen at random from the local electoral register. Everyone who is summoned to do jury service must do it unless they are not eligible (for example, because they have a criminal conviction) or they provide a good reason to be excused, such as ill health.
+- The jury has to listen to the evidence presented at the trial and then decide a verdict of **‘guilty’** or **‘not guilty’** based on what they have heard. In Scotland, a third verdict of **‘not proven’** is also possible.
+- If the jury finds a defendant guilty, the **judge** decides on the penalty.
+
+||England, Wales and Northern Ireland|Scotland|
+|---|---|---|
+|serious offences|are tried in front of a judge and a jury in a Crown Court.|are heard in a Sheriff Court with either a sheriff or a sheriff with a jury.|
+|most serious cases| - |(murder) are heard at a High Court with a judge and jury.|
+|jury|12 members|15 members|
 
 #### Youth Courts
 
-- In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a Youth Court in front of up to three specially trained magistrates or a District Judge. The most serious cases will go to the Crown Court. The parents or carers of the young person are expected to attend the hearing. Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.
-- In Scotland a system called the Children’s Hearings System is used to deal with children and young people who have committed an offence.
-- Northern Ireland has a system of youth conferencing to consider how a child should be dealt with when they have committed an offence.
+- In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a **Youth Court** in front of up to **three** specially trained magistrates or a District Judge. The parents or carers of the young person are expected to attend the hearing. Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.
+- The most serious cases will go to the **Crown Court**.
+- In Scotland a system called the **Children’s Hearings System** is used to deal with children and young people who have committed an offence.
+- Northern Ireland has a system of **youth conferencing** to consider how a child should be dealt with when they have committed an offence.
 
 ### Civil courts
 
 #### County Courts
 
-- County Courts deal with a wide range of civil disputes. These include people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce. In Scotland, most of these matters are dealt with in the Sheriff Court. More serious civil cases – for example, when a large amount of compensation is being claimed – are dealt with in the High Court in England, Wales and Northern Ireland. In Scotland, they are dealt with in the Court of Session in Edinburgh.
+|England, Wales and Northern Ireland|Scotland|Deals with|
+|---|---|---|
+|County Courts|the Sheriff Court (most)|a wide range of civil disputes. These include people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce.|
+|the High Court|the Court of Session in Edinburgh|More serious civil cases, for example, when a large amount of compensation is being claimed.|
 
 #### The small claims procedure
 
 - The small claims procedure is an informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer. This procedure is used for claims of less than £10,000 in England and Wales and £3,000 in Scotland and Northern Ireland. The hearing is held in front of a judge in an ordinary room, and people from both sides of the dispute sit around a table. Small claims can also be issued online through Money Claims Online (www.moneyclaim.gov.uk).
-- You can get details about the small claims procedure from your local County Court or Sheriff Court. Details of your local court can be found as follows:
+- You can get details about the small claims procedure from your **local County Court** or **Sheriff Court**.
+- Details of your local court can be found as follows:
   - England and Wales: at www.gov.uk
   - Scotland: at www.scotcourts.gov.uk
   - Northern Ireland: at www.courtsni.gov.uk
@@ -1853,11 +1852,17 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 #### Solicitors
 
 - Solicitors are trained lawyers who give advice on legal matters, take action for their clients and represent their clients in court.
-- There are solicitors’ offices throughout the UK. It is important to find out which aspects of law a solicitor specialises in and to check that they have the right experience to help you with your case. Many advertise in local newspapers. Citizens Advice Bureau (www.citizensadvice.org.uk) can give you names of local solicitors and which areas of law they specialise in. You can also get this information from the Law Society (www.lawsociety.org.uk) in England and Wales, the Law Society of Scotland (www.lawscot.org.uk) or the Law Society of Northern Ireland (www.lawsoc-ni.org). Solicitors’ charges are usually based on how much time they spend on a case. It is very important to find out at the start how much a case is likely to cost.
+- There are solicitors’ offices throughout the UK. It is important to find out which aspects of law a solicitor specialises in and to check that they have the right experience to help you with your case. Many advertise in local newspapers.
+- Citizens Advice Bureau (www.citizensadvice.org.uk) can give you names of local solicitors and which areas of law they specialise in. You can also get this information from:
+  - England and Wales: the Law Society (www.lawsociety.org.uk)
+  - the Law Society of Scotland (www.lawscot.org.uk)
+  - the Law Society of Northern Ireland (www.lawsoc-ni.org).
+- Solicitors’ charges are usually based on how much **time** they spend on a case. It is very important to find out at the start how much a case is likely to cost.
 
 ## Fundamental principles
 
-- Britain has a long history of respecting an individual’s rights and ensuring essential freedoms. These rights have their roots in Magna Carta, the Habeas Corpus Act and the Bill of Rights of 1689, and they have developed over a period of time. British diplomats and lawyers had an important role in drafting the European Convention on Human Rights and Fundamental Freedoms. The UK was one of the first countries to sign the Convention in 1950.
+- Britain has a long history of respecting an individual’s rights and ensuring essential freedoms. These rights have their roots in **Magna Carta**, the **Habeas Corpus Act** and the **Bill of Rights of 1689**, and they have developed over a period of time.
+- British diplomats and lawyers had an important role in drafting the European Convention on Human Rights and Fundamental Freedoms. The UK was one of the first countries to sign the Convention in 1950.
 - Some of the principles included in the European Convention on Human Rights are:
   - right to life
   - prohibition of torture
@@ -1870,16 +1875,25 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 ### Equal opportunities
 
-- UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status. If you face problems with discrimination, you can get more information from Citizens Advice or from one of the following organisations:
-• England and Wales: Equality and Human Rights Commission (www.equalityhumanrights.com)
-• Scotland: Equality and Human Rights Commission in Scotland (www.equalityhumanrights.com/en/commission-scotland) and Scottish Human Rights Commission (www.scottishhumanrights.com)
-• Northern Ireland: Equality Commission for Northern Ireland (www.equalityni.org)
-• Northern Ireland Human Rights Commission (www.nihrc.org).
+- UK laws ensure that people are not treated unfairly in any area of life or work because of their:
+  - age
+  - disability
+  - sex
+  - pregnancy and maternity
+  - race
+  - religion or belief
+  - sexuality or marital status.
+- If you face problems with discrimination, you can get more information from Citizens Advice or from one of the following organisations:
+  - England and Wales: Equality and Human Rights Commission (www.equalityhumanrights.com)
+  - Scotland: Equality and Human Rights Commission in Scotland (www.equalityhumanrights.com/en/commission-scotland) and Scottish Human Rights Commission (www.scottishhumanrights.com)
+  - Northern Ireland: Equality Commission for Northern Ireland (www.equalityni.org)
+  - Northern Ireland Human Rights Commission (www.nihrc.org).
 
 ### Domestic violence
 
-- In the UK, brutality and violence in the home is a serious crime. Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted. Any man who forces a woman to have sex, including a woman’s husband, can be charged with rape.
-- It is important for anyone facing domestic violence to get help as soon as possible. A solicitor or Citizens Advice can explain the available options. In some areas there are safe places to go and stay in, called refuges or shelters. The 24-hour National Domestic Violence Freephone Helpline on 0808 2000 247 at any time, and its voicemail service allows callers to leave a message to be called back. You can find out more by visiting its website on www.nationaldahelpline.org.uk. Alternatively, you can try the Women’s Aid website on https://www.womensaid.org.uk. In an emergency, you should always call the police, who can also help you to find a safe place to stay.
+- In the UK, brutality and violence in the home is a **serious crime**. Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted.
+- Any man who forces a woman to have sex, including a woman’s husband, can be charged with **rape**.
+- It is important for anyone facing domestic violence to get help as soon as possible. A solicitor or Citizens Advice can explain the available options. In some areas there are safe places to go and stay in, called **refuges** or **shelters**. The 24-hour National Domestic Violence Freephone Helpline on 0808 2000 247 at any time, and its voicemail service allows callers to leave a message to be called back. You can find out more by visiting its website on www.nationaldahelpline.org.uk. Alternatively, you can try the Women’s Aid website on https://www.womensaid.org.uk. In an emergency, you should always call the police, who can also help you to find a safe place to stay.
 
 ### Female genital mutilation
 
@@ -1904,7 +1918,11 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
   - Taxable benefits
   - Pensions
   - Income from property, savings and dividends
-- Money raised from income tax pays for government services such as roads, education, police and the armed forces.
+- Money raised from income tax pays for government services such as:
+  - roads
+  - education
+  - police
+  - the armed forces
 - For most people, the right amount of income tax is automatically taken from their income from employment by their **employer** and paid directly to HM Revenue & Customs (HMRC), the government department that collects taxes. This system is called **'Pay As You Earn' (PAYE)**. If you are self-employed, you need to pay your own tax through a system called ‘self-assessment’, which includes completing a tax return. Other people may also need to complete a tax return. If HMRC sends you a tax return, it is important to complete and return the form as soon as you have all the necessary information.
 - You can find out more about income tax at www.gov.uk/income-tax. You can get help and advice about taxes and completing tax forms from the HMRC self-assessment helpline, on 0300 200 3310, and by visiting https://www.gov.uk/government/organisations/hm-revenue-customs.
 

@@ -42,29 +42,3 @@
 |Visit|book guided tours or seats in the public galleries for the Welsh Assembly contacting the **Assembly Booking Service**, sending an email, or using online booking form.|you can get information, book tickets or arrange tours through **visitor services**. You can also **write to** them, **telephone** or **email**.|contact the Northern Ireland Assembly **Education Service**, assembly **website** or contact an **MLA**.|
 |Power|has the power to make laws for Wales in 21 areas, including:<br>- education and training<br>- health and social services<br>- economic development<br>- housing.|legislate include:<br>- civil and criminal law<br>- health<br>- education<br>- planning<br>- additional tax-raising powers.|- education<br>- agriculture<br>- the environment<br>- health<br>- social services|
 |Other Facts|Since 2011, the National Assembly for Wales has been able to pass laws on these topics without the agreement of the UK Parliament. The Welsh Assembly building opened in March 2006.|The Scottish Parliament building opened in October 2004.|There is a power-sharing agreement which distributes ministerial Offices amongst the main parties.|
-
----
-
-In England, Wales and Northern Ireland, if an accused person is aged **10 to 17**, the case is normally heard in a **Youth Court** in front of up to three specially trained **magistrates** or a **District Judge**. The most serious cases will go the **Crown Court**. In **Scotland** a system called the **Children’s Hearings System** is used to deal with children and young people who have committed an offence.
-
-**Members of the public** are not allowed in Youth Courts, and the **name or photographs** of the accused young person cannot be published in newspapers or used by the media.
-
----
-
-In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a **Magistrates’ Court**. In Scotland, minor criminal offences go to a **Justice of the Peace Court**.
-
----
-
-**County Courts** deal with a wide range of **civil disputes**. These include people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce. In **Scotland**, most of these matters are dealt with in the **Sheriff Court**.
-
-You can get details about the small claims procedure from **your local County Court or Sheriff Court**.
-
----
-
-More serious civil cases – for example, when a large amount of compensation is being claimed – are dealt with in the **High Court** of England, Wales and Northern Ireland. In Scotland, they are dealt with in the **Court of Session in Edinburgh**.
-
----
-
-In England, Wales and Northern Ireland, serious criminal offences are tried in front of a **judge** and a **jury** in a **Crown Court**.
-
-In Scotland, serious cases are heard in a **Sheriff Court** with either a **sheriff** or a **sheriff with a jury**. The most serious cases in Scotland, such as murder, are heard at a **High Court** with a judge and jury.
