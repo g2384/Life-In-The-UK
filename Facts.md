@@ -139,12 +139,9 @@ The Life in the UK test is usually taken is English, although special arrangemen
   - Individual liberty
   - Tolerance of those with different faiths and beliefs
   - Participation in community life.
-- As part of the citizenship ceremony, new citizens pledge to uphold these
-values. The pledge is:
+- As part of the citizenship ceremony, new citizens pledge to uphold these values. The pledge is:
 
-<blockquote>‘I will give my loyalty to the United Kingdom and respect its rights and
-freedoms. I will uphold its democratic values. I will observe its laws
-faithfully and fulfil my duties and obligations as a British citizen.’</blockquote>
+<blockquote>‘I will give my loyalty to the United Kingdom and respect its rights and freedoms. I will uphold its democratic values. I will observe its laws faithfully and fulfil my duties and obligations as a British citizen.’</blockquote>
 
 - Flowing from the fundamental principles are **responsibilities and freedoms** which are shared by all those living in the UK and which we expect all residents to respect.
 - If you wish to be a permanent resident or citizen of the UK, you should:
@@ -181,8 +178,7 @@ faithfully and fulfil my duties and obligations as a British citizen.’</blockq
 
 - The UK is made up of England, Scotland, Wales and Northern Ireland.
 - The rest of Ireland is an independent country.
-- The official name: the United Kingdom of Great Britain and
-Northern Ireland.
+- The official name: the United Kingdom of Great Britain and Northern Ireland.
 - Great Britain: England, Scotland and Wales.
 - The words ‘Britain’, ‘British Isles’ or ‘British’, however, are used here to refer to everyone in the UK.
 - Islands which are closely linked with the UK but are not part of it. These have their own governments and are called **‘Crown dependencies’**:
@@ -192,8 +188,7 @@ Northern Ireland.
   - St Helena
   - the Falkland Islands
 - The UK is governed by the parliament sitting in **Westminster**.
-- Scotland, Wales and Northern Ireland also have parliaments or assemblies of their
-own, with devolved powers in defined areas. 
+- Scotland, Wales and Northern Ireland also have parliaments or assemblies of their own, with devolved powers in defined areas. 
 
 ---
 
@@ -254,9 +249,7 @@ deer and horses which they hunted.
 - The Anglo-Saxon kingdoms in England united under **King Alfred the Great**, who defeated the Vikings.
 - Many of the Viking invaders stayed in Britain – especially in the east and north of England, in an area known as the **Danelaw** (many place names there, such as Grimsby and Scunthorpe, come from the Viking languages).
 - The Viking settlers mixed with local communities and some converted to Christianity.
-- Anglo-Saxon kings continued to rule what is now England, except for a short
-period when there were Danish kings. The first of these was **Cnut**, also
-called **Canute**.
+- Anglo-Saxon kings continued to rule what is now England, except for a short period when there were Danish kings. The first of these was **Cnut**, also called **Canute**.
 - In the north, the threat of attack by Vikings had encouraged the people to unite under one king, **Kenneth MacAlpin**. The term Scotland began to be used to describe that country.
 
 ## The Norman Conquest
@@ -276,8 +269,7 @@ called **Canute**.
   - end of the Roman Empire in AD 476 - 1485 (Broadly speaking).
   - the Norman Conquest (1066) - 1485 (the focus here).
 - It was a time of almost constant war.
-- The English kings fought with the Welsh, Scottish and Irish noblemen for
-control of their lands.
+- The English kings fought with the Welsh, Scottish and Irish noblemen for control of their lands.
 - In Wales, the English were able to establish their rule.
   - By the middle of the 15th century the last Welsh rebellions had been defeated.
   - English laws and the English language were introduced.
@@ -589,8 +581,7 @@ Mary’).
 - People continued to come to Britain from other parts of the world. For example:
   - between 1870 and 1914, around **120, 000** Russian and Polish Jews came to Britain to escape persecution. Many settled in **London’s East End** and in **Manchester** and **Leeds**.
   - People from the Empire, including India and Africa, also came to Britain to live, work and study.
-- Britain continued to be a great **trading** nation. The government began to promote policies of free trade, abolishing a number of taxes on imported goods. One example of this was the repealing of the **Corn Laws** in 1846. These had prevented the import of cheap grain. The reforms helped the
-development of British industry, because raw materials could now be imported more cheaply.
+- Britain continued to be a great **trading** nation. The government began to promote policies of free trade, abolishing a number of taxes on imported goods. One example of this was the repealing of the **Corn Laws** in 1846. These had prevented the import of cheap grain. The reforms helped the development of British industry, because raw materials could now be imported more cheaply.
 - In 1847, the number of hours that women and children could work was limited by law to **10** hours per day. Better housing began to be built for workers. Working conditions in factories gradually became better. 
 - Transport links also improved, enabling goods and people to move more easily around the country.
 - British industry led the world in the 19th century. The UK produced more than half of the world’s **iron**, **coal** and **cotton cloth**.
@@ -759,7 +750,7 @@ atomic bomb.
 |Sir Christopher Cockrell (1910-99)|British inventor|He invented the hovercraft in the 1950s.|
 |||Britain and France developed **Concorde**, the world’s only supersonic passenger aircraft. It first flew in 1969 and began carrying passengers in 1976. Concorde was retired from service in 2003.|
 |||The **Harrier jump jet**, an aircraft capable of taking off **vertically**, was also designed and developed in the UK.|
-|James Goodfellow (1937-)|In the 1960s, he invented the **cash-dispensing ATM** (automatic teller machine) or ‘cashpoint’. The first of these was put into use by Barclays Bank in Enfield, north London in 1967.|
+|James Goodfellow (1937-)||In the 1960s, he invented the **cash-dispensing ATM** (automatic teller machine) or ‘cashpoint’. The first of these was put into use by Barclays Bank in Enfield, north London in 1967.|
 |Sir Robert Edwards (1925-2013)<br>Patrick Steptoe (1913-88)|physiologist<br>gynaecologist|**IVF (in-vitro fertilisation)** therapy for the treatment of infertility was pioneered in Britain by them. The world’s first ‘test-tube baby’ was born in **Oldham, Lancashire** in 1978.|
 |Sir Ian Wilmot (1944-)<br>Keith Campbell (1954-2012)|British scientists|In 1996, they led a team which was the first to succeed in **cloning** a mammal, **Dolly** the **sheep**. This has led to further research into the possible use of cloning to preserve endangered species and for medical purposes.|
 |Sir Peter Mansfield (1933-2017)|British scientist|He is the co-inventor of the **MRI (magnetic resonance imaging) scanner**. This enables doctors and researchers to obtain exact and non-invasive images of human internal organs and has revolutionised diagnostic medicine.|
@@ -788,17 +779,23 @@ atomic bomb.
 
 ### Conservative government from 1979 to 1997
 
-- Margaret Thatcher, Britain’s first woman Prime Minister, led the Conservative government from 1979 to 1990. The government made structural changes to the economy through the privatisation of nationalised industries and imposed legal controls on trade union powers. Deregulation saw a great
-increase in the role of the City of London as an international centre for investments, insurance and other financial services. Traditional industries, such as shipbuilding and coal mining, declined.
-- In 1982, Argentina invaded the Falkland Islands, a British overseas territory in the South Atlantic. A naval taskforce was sent from the UK and military action led to the recovery of the islands.
-- John Major was Prime Minister after Mrs Thatcher, and helped establish the Northern Ireland peace process. 
+|Name|Start Year|Events|
+|---|---|---|
+|Margaret Thatcher|1979|Britain’s first woman Prime Minister, led the Conservative government from 1979 to 1990.|
+|||The government made structural changes to the economy through the **privatisation** of nationalised industries and imposed legal controls on trade union powers.|
+|||**Deregulation** saw a great increase in the role of the City of London as an international centre for investments, insurance and other financial services. Traditional industries, such as shipbuilding and coal mining, declined.|
+|||In 1982, Argentina invaded the Falkland Islands, a British overseas territory in the South Atlantic. A naval taskforce was sent from the UK and military action led to the recovery of the islands.|
+|John Major|1990|He helped establish the Northern Ireland peace process.|
 
 ### Labour Government from 1997 to 2010
 
-- In 1997 the Labour Party led by **Tony Blair** was elected. The Blair government introduced a **Scottish Parliament** and a **Welsh Assembly**.
-- The Scottish Parliament has substantial powers to legislate. The Welsh Assembly was given fewer legislative powers but considerable control over public services.
-- In Northern Ireland, the Blair government was able to build on the peace process, resulting in the **Good Friday Agreement** signed in 1998.
-- The Northern Ireland Assembly was elected in 1999 but suspended in 2002. It was not reinstated until 2007. Most paramilitary groups in Northern Ireland have decommissioned their arms and are inactive. Gordon Brown took over as Prime Minister in 2007.
+|Name|Start Year|Events|
+|---|---|---|
+|Tony Blair|1997|the Labour Party led by **Tony Blair** was elected. The Blair government introduced a **Scottish Parliament** and a **Welsh Assembly**.|
+|||The Scottish Parliament has substantial powers to legislate. The Welsh Assembly was given fewer legislative powers but considerable control over public services.|
+|||In Northern Ireland, the Blair government was able to build on the peace process, resulting in the **Good Friday Agreement** signed in 1998.|
+|||The Northern Ireland Assembly was elected in 1999 but suspended in 2002. It was not reinstated until 2007. Most paramilitary groups in Northern Ireland have decommissioned their arms and are inactive.|
+|Gordon Brown|2007|He took over as Prime Minister.|
 
 ### Conflicts in Afghanistan and Iraq
 
@@ -814,13 +811,14 @@ increase in the role of the City of London as an international centre for invest
 
 ### 2010 onwards and Brexit
 
-|Name|Year|Events|
+|Name|Start Year|Events|
 |---|---|---|
 |David Cameron|May 2010|In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a **coalition** and the leader of the Conservative Party, David Cameron, became Prime Minister.|
 |David Cameron|7 May 2015|The **Conservative** Party won a majority at the general election of 7 May 2015 and David Cameron remained Prime Minister. The Conservative government called a referendum on the UK’s membership of the European Union. This was held on 23 June 2016. The UK voted by a margin of 51.9% to 48.1% to leave the European Union.|
 |Theresa May|13 July 2016|She succeeded David Cameron as Prime Minister after the referendum|
 |Boris Johnson|24 July 2019|The UK formally left the European Union on 31 January 2020.|
 
+---
 
 # A modern, thriving society
 
@@ -1367,6 +1365,8 @@ The population is very **unequally distributed** over the four parts of the UK.
 |Snowdonia|national park|North Wales|It covers an area of 838 square miles (2,170 square kilometres). Its most well-known landmark is **Snowdon**, which is the **highest mountain** in Wales.|
 |The Tower of London||London|It was first built by **William the Conqueror** after he became king in **1066**. Tours are given by the **Yeoman Warders**, also known as **Beefeaters**, who tell visitors about the building’s history. People can also see the **Crown Jewels** there.|
 |The Lake District|England’s **largest** national park||It covers 885 square miles (2,292 square kilometres). It is famous for its lakes and mountains and is very popular with climbers, walkers and sailors. The biggest stretch of water is **Windermere**. In **2007**, television viewers voted **Wastwater** as Britain’s favourite view.|
+
+---
 
 # The UK government, the law and your role
 
