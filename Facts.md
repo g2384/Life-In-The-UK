@@ -381,7 +381,7 @@ control of their lands.
 - After Wars of the Roses, Henry VII wanted to make sure that England remained peaceful and that his position as king was secure. He deliberately strengthened the central administration of England and reduced the power of the nobles.
 - He was thrifty and built up the monarchy’s financial reserves.
 
-### Henry VIII (son)
+### Henry VIII (Henry VII's son)
 
 - Henry VIII continued the policy of centralising power.
 - Henry VIII was most famous for breaking away from the Church of Rome and marrying six times:
@@ -404,17 +404,17 @@ control of their lands.
   - and they believed that a person’s own relationship with God was more important than submitting to the authority of the Church.
 - During the reign of Henry VIII, Wales became formally united with England by the **Act for the Government of Wales**. The Welsh sent representatives to the House of Commons and the Welsh legal system was reformed.
 
-### Edward VI (son)
+### Edward VI (Henry VIII's son)
 
 - Edward VI was strongly Protestant. During his reign, the **Book of Common Prayer** was written to be used in the Church of England. A version of this book is still used in some churches today.
 - Edward died at the age of 15 after ruling for just over six years.
 
-### Mary (half-sister)
+### Mary (Edward VI's half-sister)
 - Mary was a devout Catholic and persecuted Protestants (for this reason, she became known as ‘Bloody
 Mary’).
 - Mary also died after a short reign.
 
-### Elizabeth (half-sister)
+### Elizabeth (Mary's half-sister)
 
 - Elizabeth I was the younger daughter of Henry VIII and Anne Boleyn.
 - Queen Elizabeth I was a Protestant. She re-established the Church of England as the official Church in England. Everyone had to attend their local church and there were laws about the type of religious services and the prayers which could be said, but Elizabeth did not ask about people’s real beliefs. She succeeded in finding a balance between the views of Catholics and the more extreme Protestants. In this way, she avoided any serious religious conflict within England.
@@ -422,12 +422,12 @@ Mary’).
 
 ### The Reformation in Scotland and Mary, Queen of Scots
 
-- The queen of Scotland, Mary Stuart (often now called ‘Mary, Queen of Scots’) was a Catholic.
+- The queen of Scotland, Mary Stuart (often now called ‘Mary, Queen of Scots’) was a **Catholic**.
 - She was only a week old when her father died and she became queen. Much of her childhood was spent in **France**.
-- When she returned to Scotland, she was the centre of a power struggle between different groups. When her husband was murdered, Mary was suspected of involvement and fled to England. She gave her throne to her Protestant son, James VI of Scotland.
+- When she returned to Scotland, she was the centre of a power struggle between different groups. When her husband was murdered, Mary was suspected of involvement and fled to England. She gave her throne to her **Protestant** son, James VI of Scotland.
 - Mary was Elizabeth I’s cousin and hoped that Elizabeth might help her, but Elizabeth suspected Mary of wanting to take over the English throne, and kept her a prisoner for **20** years. Mary was eventually executed, accused of plotting against Elizabeth I.
 
-### James I (cousin)
+### James I (Elizabeth's cousin)
 
 - James VI Scotland, Elizabeth's cousin, became King James I of England, Wales and Ireland. Scotland remained a separate country.
 - The King James Bible: One achievement of King James’ reign was a new translation of the Bible into English. This translation is known as the **‘King James Version’** or the **‘Authorised Version’**. It was not the first English Bible but is a version which continues to be used in many Protestant churches today.
@@ -1299,7 +1299,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 ### British comedy
 
 - The traditions of comedy and satire, and the ability to laugh at ourselves, are an important part of the UK character.
-- Medieval kings and rich nobles had jesters who told jokes and made fun of people in the Court.
+- Medieval kings and rich nobles had **jesters** who told jokes and made fun of people in the Court.
 - Later, Shakespeare included comic characters in his plays.
 - In the 18th century, political cartoons attacking prominent politicians – and, sometimes, the monarch or other members of the Royal Family – became increasingly popular.
 - In the 19th century, satirical magazines began to be published.
@@ -1618,7 +1618,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - If you don’t know which local authority you come under, you can find out by visiting www.aboutmyvote.co.uk and entering your postcode. You can also download voter registration forms in English, Welsh and some other languages.
 - The electoral register is updated **every year** in **September or October**. An **electoral registration form** is sent to every household and this has to be completed and returned with the names of everyone who is resident in the household and eligible to vote.
 - In **Northern Ireland** a different system operates. This is called **‘individual registration’** and all those entitled to vote must complete their own registration form. Once registered, people stay on the register provided their personal details do not change. For more information see the Electoral Office for Northern Ireland website at www.eoni.org.uk
-- By law, each local authority has to make its electoral register available for anyone to look at, although this has to be supervised. The register is kept at each local electoral registration Office (or council Office in England and Wales). It is also possible to see the register at some public buildings such as libraries.
+- By law, each local authority has to make its electoral register available for anyone to look at, although **this has to be supervised**. The register is kept at each local electoral registration Office (or council Office in England and Wales). It is also possible to see the register at some public buildings such as libraries.
 
 ### Where to vote
 
@@ -1742,9 +1742,15 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - The police are organised into a number of separate police forces headed by
 **Chief Constables**. They are **independent** of the government.
 - In November 2012, the public elected **Police and Crime Commissioners** (PCCs) in **England and Wales**. These are directly elected individuals who are responsible for the delivery of an efficient and effective police force that reflects the needs of their local communities.
-- PCCs set local police priorities and the local policing budget. They also appoint the local Chief Constable.
+- PCCs:
+  - set local police priorities
+  - set the local policing budget
+  - appoint the local **Chief Constable**
 - The police force is a public service that helps and protects everyone, no matter what their background or where they live. Police officers must themselves obey the law. They must not misuse their authority, make a false statement, be rude or abusive, or commit racial discrimination. If police officers corrupt or misuse their authority they are severely punished.
-- Police officers are supported by the police community support officers (PCSOs). PCSOs have different roles according to the area but usually patrol the streets, work with the public, and support police officers at crime scenes and major events.
+- Police officers are supported by the police community support officers (PCSOs). PCSOs have different roles according to the area but usually:
+  - patrol the streets,
+  - work with the public,
+  - support police officers at crime scenes and major events
 - All people in the UK are expected to help the police prevent and detect crimes whenever they can. If you are arrested and taken to a police station, a police officer will tell you the reason for your arrest and you will be able to seek legal advice.
 - If something goes wrong, the police complaints system tries to put it right. Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved.
 - Complaints can also be made to an independent body in England and Wales (www.policeconduct.gov.uk).
