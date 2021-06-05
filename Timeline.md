@@ -24,7 +24,7 @@
 |1314|The **Scottish**, led by **Robert the Bruce**, defeated the English at the battle of **Bannockburn**. Scotland remained unconquered by the English|
 |1334|Start of "100 years war"|
 |1348|Black Death (a form of plague) comes to Britain.|
-|By 1400|- In England, official documents were being written in **English**, and English had become the preferred language of the royal court and Parliament.<br> - **Geoffrey Chaucer** wrote Canterbury Tales. A series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the **travellers** and some of the stories they told.|
+|By 1400|- In England, official documents were being written in **English**, and English had become the preferred language of the royal court and Parliament.<br> - **Geoffrey Chaucer** wrote Canterbury Tales. A series of **poems** in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the **travellers** and some of the stories they told.|
 |1415|Battle of **Agincourt**: one of the most famous battles of the Hundred Years War. King Henry V’s vastly outnumbered English army defeated the French.|
 |By 1450|The last Welsh rebellion had been defeated|
 |1450s|The English largely left France (end of "100 years war")|
@@ -36,7 +36,7 @@
 |1547, 28 January|Henry VIII died. He was succeeded by his son **Edward VI**.|
 |1560|- The predominantly Protestant Scottish Parliament abolished the authority of the Pope in Scotland and Roman Catholic religious services became illegal. A Protestant Church of Scotland with an elected leadership was established but, unlike in England, this was not a state Church.  <br> - Mary Queen of Scots (Catholic) flees to England → imprisoned for 20 years then executed|
 |1564|Williams Shakespeare born|
-|1588|- English Sir **Francis Drake** defeat **Spanish Armada** (a large fleet of invading ships), which had been sent by Spain to conquer England and restore Catholicism. <br> - Elizabeth I became one of the most popular monarchs in English history after this.|
+|1588|- English Sir **Francis Drake** defeat **Spanish Armada** (a large fleet of invading ships), which had been sent by Spain to conquer England and **restore Catholicism**. <br> - Elizabeth I became one of the most popular monarchs in English history after this.|
 |16th century|Protestant ideas gradually gained strength in England, Wales and Scotland. In Ireland, however, attempts by the English to impose Protestantism (alongside efforts to introduce the English system of laws about the inheritance of land) led to **rebellion** from the Irish chieftains, and much brutal fighting followed.|
 |1603|Elizabeth I dies childless, James VI of Scotland becomes James I of England, also became King of England, Wales and Ireland|
 |Elizabethan period| (Elizabeth I’s time)<br> - It is remembered for the richness of its poetry and drama, especially the plays and poems of **William Shakespeare**.<br> - English settlers first began to colonise the eastern coast of America. This colonisation, particularly by people who disagreed with the religious views of the next two kings, greatly increased in the next century.<br> - Queen Elizabeth I was a **Protestant**.<br> - A time of growing **patriotism**: a feeling of pride in being English. English explorers sought new trade routes and tried to expand British trade into the Spanish colonies in the Americas.|

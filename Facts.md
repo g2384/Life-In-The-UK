@@ -459,7 +459,7 @@ Mary’).
 - Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed.
 - England declared itself a republic, called the Commonwealth. It no longer had a monarch. For a time, it was not totally clear how the country would be governed. For now, the army was in control. 
 - One of its generals, Oliver Cromwell, was sent to Ireland, where the revolt which had begun in 1641 still continued and where there was still a Royalist army. Cromwell was successful in establishing the authority of the English Parliament but did this with such violence that even today Cromwell remains a controversial figure in Ireland.
-- The Scots had not agreed to the execution of Charles I and declared his son **Charles II** to be king. He was crowned king of Scotland and led a Scottish army into England. Cromwell defeated this army in the Battles of **Dunbar** and **Worcester**. Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe.
+- The Scots had not agreed to the execution of Charles I and declared his son **Charles II** to be king. He was crowned king of Scotland and led a Scottish army into England. Cromwell defeated this army in the Battles of **Dunbar** and **Worcester**. Charles II escaped from Worcester, famously hiding in an **oak tree** on one occasion, and eventually fled to Europe.
 - Parliament now controlled Scotland as well as England and Wales.
 - After his campaign in Ireland and victory over Charles II at Worcester, Cromwell was recognised as the leader of the new republic. He was given the title of **Lord Protector** and ruled until his death in 1658.
 - When Cromwell died, his son, Richard, became Lord Protector in his place but was not able to control the army or the government. Although Britain had been a republic for **11** years, without Oliver Cromwell there was no clear leader or system of government. Many people in the country wanted stability. People began to talk about the need for a king.
@@ -528,7 +528,7 @@ Mary’).
 
 ### The rebellion of the clans
 
-- In 1745 there was another attempt to put a **Stuart** king back on the throne in place of George I’s son, George II. Charles Edward Stuart (Bonnie Prince Charlie), the grandson of James II, landed in Scotland. He was supported by clansmen from the Scottish highlands and raised an army.
+- In 1745 there was another attempt to put a **Stuart** king back on the throne in place of George I’s son, George II. **Charles Edward Stuart (Bonnie Prince Charlie)**, the grandson of James II, landed in Scotland. He was supported by clansmen from the Scottish **highlands** and raised an army.
 - Charles initially had some successes but was defeated by George II’s army at the Battle of **Culloden** in 1746. Charles escaped back to Europe.
 - The clans lost a lot of their power and influence after Culloden.
 - Chieftains became landlords if they had the favour of the English king, and clansmen became tenants who had to pay for the land they used.
@@ -590,7 +590,7 @@ Mary’).
 
 - In 1789, there was a revolution in France and the new French government soon declared war on Britain. Napoleon, who became Emperor of France, continued the war.
 - In 1805, Britain’s navy fought against combined French and Spanish fleets, winning the Battle of **Trafalgar** . **Admiral Nelson** was in charge of the British fleet at Trafalgar and was killed in the battle. Nelson’s Column in Trafalgar Square, London, is a monument to him. His ship, **HMS Victory**, can be visited in Portsmouth.
-- In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of **Wellington** at the Battle of Waterloo (by British army). Wellington was known as the Iron Duke and later became Prime Minister.
+- In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of **Wellington** at the Battle of Waterloo (by British army) (the last battle between Britain and France). Wellington was known as the Iron Duke and later became Prime Minister.
 
 ### The Union Flag
 
@@ -692,8 +692,7 @@ development of British industry, because raw materials could now be imported mor
 ### The inter-war period
 
 - In the 1920s, many people’s living conditions got better. There were improvements in public housing and new homes were built in many towns and cities.
-- In 1929, the world entered the ‘Great Depression’ and some parts of the UK suffered mass unemployment. The effects of the depression of the 1930s were felt differently in different parts of the UK. The traditional heavy industries such as shipbuilding were badly affected but new
-industries – including the automobile and aviation industries – developed.
+- In 1929, the world entered the ‘Great Depression’ and some parts of the UK suffered mass unemployment. The effects of the depression of the 1930s were felt differently in different parts of the UK. The traditional heavy industries such as **shipbuilding** were badly affected but new industries – including the **automobile** and **aviation** industries – developed.
 - As prices generally fell, those in work had more money to spend. Car ownership doubled from 1 million to 2 million between 1930 and 1939.
 - Many new houses were built.
 - Cultural blossoming:
@@ -1193,18 +1192,22 @@ The population is very **unequally distributed** over the four parts of the UK.
 ### Architecture
 
 - The architectural heritage of the UK is rich and varied.
-- In the Middle Ages, great cathedrals and churches were built, many of which still stand today. Examples are
-  - the cathedrals in Durham,
-  - Lincoln,
-  - Canterbury
-  - Salisbury
-- The **White Tower** in the Tower of London is an example of a **Norman** castle keep, built on the orders of **William the Conqueror**.
-- Gradually, as the countryside became more peaceful and landowners became richer, the houses of the wealthy became more elaborate and great country houses such as **Hardwick Hall** in **Derbyshire** were built. British styles of architecture began to evolve.
-- In the 19th century, the medieval **‘gothic’** style became popular again. As cities expanded, many great public buildings were built in this style. **The Houses of Parliament** (a world heritage site) and **St Pancras Station** were built at this time, as were the town halls in cities such as **Manchester** and **Sheffield**.
-- The firms of modern British architects continue to work on major projects throughout the world as well as within the UK. These include those of **Sir Norman Foster** (1935-), **Lord (Richard) Rogers** (1933-) and **Dame Zaha Hadid** (1950-2016). 
+
+|<div style="min-width:13em;">Building</div>|Notes|
+|---|---|
+|The **White Tower** in the Tower of London|an example of a **Norman** castle keep, built on the orders of **William the Conqueror**.|
+|- the cathedrals in Durham<br>- Lincoln<br>- Canterbury<br>- Salisbury|In the Middle Ages, great cathedrals and churches were built, many of which still stand today.|
+|Hardwick Hall in Derbyshire|Gradually, as the countryside became more peaceful and landowners became richer, the houses of the wealthy became more elaborate and great **country houses** were built. British styles of architecture began to evolve.|
+|- The Houses of Parliament (a world heritage site)<br>- St Pancras Station<br>- town halls in cities such as **Manchester** and **Sheffield**|In the 19th century, the medieval **‘gothic’** style became popular again. As cities expanded, many great public buildings were built in this style.|
+
 - Alongside the development of architecture, garden design and landscaping have played an important role in the UK.
-- In the 18th century, **Lancelot ‘Capability’ Brown** designed the grounds around country houses so that the landscape appeared to be natural, with grass, trees and lakes. He often said that a place had ‘capabilities’. 
-- Later, **Gertrude Jekyll** often worked with **Edwin Lutyens** to design colourful gardens around the houses he designed.
+
+|Name|Area|Work|
+|---|---|---|
+|Sir Norman Foster (1935-)<br>Lord (Richard) Rogers (1933-)<br>Dame Zaha Hadid (1950-2016)|architecture|The firms of modern British architects continue to work on major projects throughout the world as well as within the UK.|
+|Lancelot ‘Capability’ Brown|garden|In 18th century, he designed the grounds around country houses so that the landscape appeared to be natural, with grass, trees and lakes. He often said that a place had ‘capabilities’.|
+|**Gertrude Jekyll** (often worked with **Edwin Lutyens**)|garden|Later, they designed colourful gardens around the houses Gertrude Jekyll designed.|
+
 - The annual **Chelsea Flower Show** showcases garden design from Britain and around the world.
 
 ### Literature
@@ -1280,7 +1283,7 @@ The population is very **unequally distributed** over the four parts of the UK.
   - The Ladykillers
   - the Carry On films.
 - Many of the films now produced in the UK are made by foreign companies, using British expertise.
-- Some of the most commercially successful films of all time, including the two highest-grossing film franchises (Harry Potter and James Bond), have been produced in the UK.
+- Some of the most commercially successful films of all time, including the two highest-grossing film franchises (**Harry Potter** and **James Bond**), have been produced in the UK.
 - **Ealing Studios** has a claim to being the oldest continuously working film studio facility in the world. 
 - Britain continues to be particularly strong in **special effects** and **animation**. One example is the work of **Nick Park**, who has won **four** Oscars for his animated films, including three for films featuring **Wallace and Gromit**.
 - Actors starred in a wide variety of popular films, such as:
@@ -1430,7 +1433,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - The UK has a **constitutional monarchy**. This means that the king or queen does not rule the country but **appoints the government**, which the people have chosen in a democratic election. The monarch invites the leader of the party with the largest number of MPs, or the leader of a coalition between more than one party, to become the Prime Minister.
 - The monarch has **regular** meetings with the Prime Minister and can **advise, warn and encourage**, but the decisions on government policies are made by the **Prime Minister and cabinet**.
 - The Queen has reigned since her father’s death in **1952**, and in 2012 she celebrated her **Diamond Jubilee** (**60** years as queen). She is married to Prince Philip, the Duke of **Edinburgh**. Her eldest son, Prince **Charles** (the Prince of **Wales**), is the heir to the throne.
-- The Queen has important ceremonial roles, such as the **opening of the new parliamentary session** each year. On this occasion the Queen makes a speech which summarises the government’s policies for the year ahead. **All Acts of Parliament** are made in her name.
+- The Queen has important ceremonial roles, such as the **opening of the new parliamentary session** each year. On this occasion the Queen makes a speech which **summarises the government’s policies for the year ahead**. **All Acts of Parliament** are made in her name.
 - The Queen represents the UK to the rest of the world. She:
   - receives foreign ambassadors and high commissioners,
   - entertains visiting heads of state,
@@ -2041,7 +2044,12 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 |working with animals|the People’s Dispensary for Sick Animals (PDSA)|
 
 - Volunteers are needed to help with their activities and to raise money. The charities often advertise in local newspapers, and most have websites that include information about their opportunities. You can also get information about volunteering for different organisations from https://do-it.org.
-- There are many opportunities for younger people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project. You can find out more about these opportunities as follows:
+- There are many opportunities for younger people to volunteer and receive accreditation which will help them to develop their skills.
+- National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to:
+  - enjoy outdoor activities
+  - develop their skills
+  - take part in a community project
+- You can find out more about these opportunities as follows:
   - National Citizen Service: at wearencs.com
   - England: at www.vinspired.com
   - Wales: at volunteering-wales.net/vk/volunteers/index.htm
