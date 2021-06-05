@@ -75,22 +75,21 @@
 |Sir Andy Murray (1987–)|Scottish tennis player|in 2012 won the men’s singles in the US Open. He is the first British man to win a singles title in a Grand Slam tournament since 1936. In the same year, he won Olympic gold and silver medals. In 2013 and 2016 he won the men's singles at Wimbledon. He also went on to win Gold at the 2016 Olympics.|
 |Ellie Simmonds (1994–)|Paralympian|won gold medals for swimming at the 2008, 2012 and 2016 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games.|
 
-|Name|Notes|
-|---|---|
-|**Composers**||
-|Henry Purcell (1659–1695)|an organist at Westminster Abbey. He wrote church music, operas and other pieces, and developed a British style distinct from that elsewhere in Europe. He continues to be influential on British composers.|
-|George Frederick Handel (1695–1759)|The German-born composer. Spent many years in the UK and became a British citizen in 1727. He wrote the **Water Music** for King George I and Music for the **Royal Fireworks** for his son, George II. Both these pieces continue to be very popular. Handel also wrote an oratorio, **Messiah**, which is sung regularly by choirs, often at Easter time.|
-|Gustav Holst (1874–1934)|His work includes **The Planets**, a suite of pieces themed around the planets of the solar system. He adapted **Jupiter**, part of the Planets suite, as the tune for *I vow to thee my country*, a popular hymn in British churches. |
-|Sir Edward Elgar (1857–1934)|born in Worcester, England. His best-known work is probably the **Pomp and Circumstance Marches**. **March No 1 (Land of Hope and Glory)** is usually played at the **Last Night of the Proms** at the Royal Albert Hall.|
-|Ralph Vaughan Williams (1872–1958)|wrote music for orchestras and choirs. He was strongly influenced by traditional **English folk** music.|
-|Sir William Walton (1902–83)|wrote a wide range of music, from film scores to opera. He wrote marches for the coronations of King George VI and Queen Elizabeth II but his best-known works are probably **Façade**, which became a ballet, and **Balthazar’s Feast**, which is intended to be sung by a large choir.|
-|Benjamin Britten (1913–76)|is best known for his operas, which include **Peter Grimes** and **Billy Budd**. He also wrote **A Young Person’s Guide to the Orchestra**, which is based on a piece of music by Purcell and introduces the listener to the various different sections of an orchestra. He founded the Aldeburgh festival in Suffolk, which continues to be a popular music event of international importance.|
-|**Theatres**||
-|Dame Agatha Christie|His work **The Mousetrap**, a **murder-mystery** play, has been running in the West End since **1952** and has had the longest initial run of any show in history.|
-|Gilbert and Sullivan (1830s-1900s)|In the **19th** century, they wrote comic operas, often making fun of popular culture and politics. These operas include **HMS Pinafore**, **The Pirates of Penzance** and **The Mikado**. Their work is still often staged by professional and amateur groups.|
-|Andrew Lloyd Webber|has written the music for shows which have been popular throughout the world, including, in collaboration with Tim Rice, **Jesus Christ Superstar** and **Evita**, and also **Cats** and **The Phantom of the Opera**.|
+# Composers
+|Name|Job|Works|Famous for|
+|---|---|---|---|
+|Henry Purcell (1659–1695)|organist at Westminster Abbey|church music, operas and other pieces|developed a British style distinct from that elsewhere in Europe. He continues to be influential on British composers.|
+|George Frederick Handel (1695–1759)|German-born composer|- *Water Music* for King George I<br>- Music for the *Royal Fireworks* for his son, George II<br>- *Messiah* (oratorio), which is sung regularly by choirs, often at Easter time|Spent many years in the UK and became a British citizen in 1727.|
+|Gustav Holst (1874–1934)||*The Planets*|It is a suite of pieces themed around the planets of the solar system. He adapted **Jupiter**, part of the Planets suite, as the tune for *I vow to thee my country*, a popular hymn in British churches. |
+|Sir Edward Elgar (1857–1934)||- *Pomp and Circumstance Marches* (best-known)<br>- *March No 1 (Land of Hope and Glory)* (is usually played at the **Last Night of the Proms** at the Royal Albert Hall)|born in Worcester, England.|
+|Ralph Vaughan Williams (1872–1958)||wrote music for orchestras and choirs|He was strongly influenced by traditional **English folk** music.|
+|Sir William Walton (1902–83)||- marches for the coronations of King George VI and Queen Elizabeth II<br>- *Façade* (became a ballet)<br>- *Balthazar’s Feast* (sung by a large choir)|wrote a wide range of music, from film scores to opera.|
+|Benjamin Britten (1913–76)|operas|- *Peter Grimes*<br>- *Billy Budd*<br>- *A Young Person’s Guide to the Orchestra* (based on a piece of music by Purcell and introduces the listener to the various different sections of an orchestra.)|He founded the **Aldeburgh festival** in Suffolk, which continues to be a popular music event of international importance.|
+|Dame Agatha Christie|theatre play|*The Mousetrap*|It is a murder-mystery play which has been running in the West End since **1952** and has had the longest initial run of any show in history.|
+|Gilbert and Sullivan (1830s-1900s)|comic operas|- *HMS Pinafore*<br>- *The Pirates of Penzance*<br>- *The Mikado*|In the **19th** century, they wrote comic operas, often making fun of popular culture and politics. Their work is still often staged by professional and amateur groups.|
+|Andrew Lloyd Webber|theatre play|- *Jesus Christ Superstar*<br>- *Evita*<br>- *Cats*<br>- *The Phantom of the Opera*|has written the music for shows which have been popular throughout the world, in collaboration with Tim Rice.|
 
-|Artists|Good at||
+|Artists|Good at|Notes|
 |---|---|---|
 |Thomas Gainsborough (1727–88)|portrait painter|often painted people in **country** or **garden** scenery.|
 |David Allan (1744–96)|Scottish portrait painter|One of his most famous works is called **The Origin of Painting**.|
@@ -109,25 +108,35 @@
 |Sir Christopher Wren|In late 17th century, he helped develop a British version of the ornate styles popular in Europe in buildings such as the new St Paul’s Cathedral|
 |Robert Adam|In the 18th century, simpler designs became popular. The Scottish architect Robert Adam influenced the development of architecture in the UK, Europe and America. He designed the inside decoration as well as the building itself in great houses such as **Dumfries House** in Scotland. His ideas influenced architects in cities such as **Bath**, where the **Royal Crescent** was built.|
 |Sir Edwin Lutyens|In the 20th century, he had an influence throughout the British Empire. He designed **New Delhi** to be the seat of government in India. After the First World War, he was responsible for many war memorials throughout the world, including the **Cenotaph** in **Whitehall**. The Cenotaph is the site of the **annual Remembrance Day** service attended by the Queen, politicians and foreign ambassadors.|
-|**Designers**||
-|Thomas Chippendale|designed furniture in the 18th century|
-|Clarice Cliff|designed Art Deco ceramics|
-|Sir Terence Conran|a 20th-century interior designer|
-|Mary Quant|Leading fashion designers of recent years|
-|Alexander McQueen|Leading fashion designers of recent years|
-|Vivienne Westwood|Leading fashion designers of recent years|
-|**Authors & Writers**||
-|Jane Austen (1775–1817)|an English novelist. Her books include Pride and Prejudice and Sense and Sensibility. Her novels are concerned with marriage and family relationships. Many have been made into television programmes or films.|
-|Charles Dickens (1812–70)|wrote a number of very famous novels, including **Oliver Twist** and **Great Expectations**. You will hear references in everyday talk to some of the characters in his books, such as **Scrooge** (a mean person) or **Mr Micawber** (always hopeful).|
-|Robert Louis Stevenson (1850–94)|wrote books which are still read by adults and children today. His most famous books include **Treasure Island**, **Kidnapped** and **Dr Jekyll and Mr Hyde**.|
-|Thomas Hardy (1840–1928)|an author and poet. His best-known novels focus on rural society and include **Far from the Madding Crowd** and **Jude the Obscure**.|
-|Sir Arthur Conan Doyle (1859–1930)|a Scottish doctor and writer. He was best known for his stories about Sherlock Holmes, who was one of the first fictional detectives.|
-|Evelyn Waugh (1903–66)|wrote satirical novels, including Decline and Fall and Scoop. He is perhaps best known for **Brideshead Revisited**.|
-|Roald Dahl (1916–90)|He was born in Wales to Norwegian parents. He served in the Royal Air Force during the Second World War. In the 1940s, he began to publish books and short stories. He is most well known for his children’s books, although he also wrote for adults. His best-known works include *Charlie and the Chocolate Factory* and *George’s Marvellous Medicine*. Several of his books have been made into films.|
-|Sir Kingsley Amis (1922–95)|an English novelist and poet. He wrote more than 20 novels. The most well known is **Lucky Jim**.|
-|Graham Greene (1904–91)|wrote novels often influenced by his religious beliefs, including The Heart of the Matter, The Honorary Consul, Brighton Rock and Our Man in Havana.|
-|J K Rowling (1965–)|wrote the Harry Potter series of children’s books, which have enjoyed huge international success. She now writes fiction for adults as well.|
-|JRR Tolkien|In 2003, his work **The Lord of the Rings** was voted the country’s best-loved novel.|
+
+# Designers
+
+|Name|Year|Designed|
+|---|---|---|
+|Thomas Chippendale|18th century|furniture|
+|Clarice Cliff||Art Deco ceramics|
+|Sir Terence Conran|20th century|interior designer|
+|Mary Quant|recent years|fashion designer|
+|Alexander McQueen|recent years|fashion designer|
+|Vivienne Westwood|recent years|fashion designer|
+
+# Authors & Writers
+|Name|Works|Notes|
+|---|---|---|
+|Jane Austen (1775–1817)|- Pride and Prejudice<br>- Sense and Sensibility|an English novelist. Her novels are concerned with marriage and family relationships. Many have been made into television programmes or films.|
+|Charles Dickens (1812–70)|- Oliver Twist<br>- Great Expectations|You will hear references in everyday talk to some of the characters in his books, such as **Scrooge** (a mean person) or **Mr Micawber** (always hopeful).|
+|Robert Louis Stevenson (1850–94)|- Treasure Island<br>- Kidnapped<br>- Dr Jekyll and Mr Hyde|wrote books which are still read by adults and children today.|
+|Thomas Hardy (1840–1928)|(focus on **rural society**)<br>- Far from the Madding Crowd<br>- Jude the Obscure|an author and poet.|
+|Sir Arthur Conan Doyle (1859–1930)|Sherlock Holmes (who was one of the first fictional detectives)|a Scottish doctor and writer.|
+|Evelyn Waugh (1903–66)|- Decline and Fall<br>- Scoop<br>- Brideshead Revisited (most famous)|wrote satirical novels.|
+|Roald Dahl (1916–90)|- Charlie and the Chocolate Factory<br>- George’s Marvellous Medicine|He was born in Wales to Norwegian parents. He served in the Royal Air Force during the Second World War. In the 1940s, he began to publish books and short stories. He is most well known for his children’s books, although he also wrote for adults. Several of his books have been made into films.|
+|Sir Kingsley Amis (1922–95)|Lucky Jim|an English novelist and poet. He wrote more than 20 novels.|
+|Graham Greene (1904–91)|- The Heart of the Matter<br>- The Honorary Consul<br>- Brighton Rock<br>- Our Man in Havana|wrote novels often influenced by his religious beliefs.|
+|J K Rowling (1965–)|Harry Potter series (children’s books)|They have enjoyed huge international success. She now writes fiction for adults as well.|
+|JRR Tolkien|The Lord of the Rings|In 2003, this work was voted the country’s best-loved novel.|
+
+|Name|Notes|
+|---|---|
 |**Poets**||
 |Robert Browning (1812–89)|*Home Thoughts from Abroad*<br><blockquote>‘Oh, to be in England now that April’s there<br>And whoever wakes in England sees, some morning, unaware,<br>That the lowest boughs and the brushwood sheaf<br>Round the elm-tree bole are in tiny leaf<br>While the Chaffinch sings on the orchard bough<br>In England – Now!’</blockquote>|
 |Lord Byron (1788–1824)|*She Walks in Beauty*<br><blockquote>‘She walks in beauty, like the night<br>Of cloudless climes and starry skies,<br>All that’s best of dark and bright<br>Meet in her aspect and her eyes’</blockquote>|
@@ -136,7 +145,7 @@
 |Wilfred Owen (1893–1918)|*Anthem for Doomed Youth*<br><blockquote>‘What passing-bells for these who die as cattle?<br>Only the monstrous anger of the guns.<br>Only the stuttering rifles’ rapid rattle<br>Can patter out their hasty orisons.’</blockquote>|
 |**Directors**|Films|
 |Alfred Hitchcock|*The 39 Steps* (1935)|
-|David Lean|*Brief Encounter* (1945) and *Lawrence of Arabia* (1962)|
+|David Lean|*Brief Encounter* (1945)<br>*Lawrence of Arabia* (1962)|
 |Carol Reed|*The Third Man* (1949)|
 |Frank Launder|*The Belles of St Trinian’s* (1954)|
 |Ken Russell|*Women in Love* (1969)|

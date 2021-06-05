@@ -448,7 +448,7 @@ Mary’).
 - Charles I wanted the worship of the Church of England to include more ceremony and introduced a revised **Prayer Book**. He tried to impose this Prayer Book on the Presbyterian Church in Scotland and this led to serious unrest.
 - A Scottish army was formed and Charles could not find the money he needed for his own army without the help of Parliament.
 - In 1640, he recalled Parliament to ask it for funds. Many in Parliament were **Puritans**, a group of Protestants who advocated strict and simple religious doctrine and worship. They did not agree with the king’s religious views and disliked his reforms of the Church of England. Parliament refused to give the king the money he asked for, even after the Scottish army invaded England. 
-- Another rebellion began in Ireland because the Roman Catholics in Ireland were afraid of the growing power of the Puritans. Parliament took this opportunity to demand control of the English army – a change that would have transferred substantial power from the king to Parliament. In response, Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. (No monarch has set foot in the Commons since.)
+- Another rebellion began in Ireland because the **Roman Catholics** in Ireland were afraid of the growing power of the **Puritans**. Parliament took this opportunity to demand control of the English army – a change that would have transferred substantial power from the king to Parliament. In response, Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. (No monarch has set foot in the Commons since.)
 - Civil war between the king and Parliament began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads). 
 
 ### Oliver Cromwell and the English republic
@@ -1241,7 +1241,7 @@ The population is very **unequally distributed** over the four parts of the UK.
   - John Masefield
   - Sir John Betjeman
   - Ted Hughes
-- Some of the best-known poets are buried or commemorated in Poet’s Corner in Westminster Abbey.
+- Some of the best-known poets are buried or commemorated in Poet’s Corner in **Westminster Abbey**.
 
 ## Leisure
 
