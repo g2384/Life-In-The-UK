@@ -89,18 +89,22 @@
 |Gilbert and Sullivan (1830s-1900s)|comic operas|- *HMS Pinafore*<br>- *The Pirates of Penzance*<br>- *The Mikado*|In the **19th** century, they wrote comic operas, often making fun of popular culture and politics. Their work is still often staged by professional and amateur groups.|
 |Andrew Lloyd Webber|theatre play|- *Jesus Christ Superstar*<br>- *Evita*<br>- *Cats*<br>- *The Phantom of the Opera*|has written the music for shows which have been popular throughout the world, in collaboration with Tim Rice.|
 
-|Artists|Good at|Notes|
+# Artists
+
+|Name|Good at|Notes|
 |---|---|---|
+|- Hans Holbein<br>- Sir Anthony Van Dyck||Many of the painters working in Britain in the 16th and 17th centuries were from **abroad**.|
 |Thomas Gainsborough (1727–88)|portrait painter|often painted people in **country** or **garden** scenery.|
-|David Allan (1744–96)|Scottish portrait painter|One of his most famous works is called **The Origin of Painting**.|
+|David Allan (1744–96)|portrait painter|Scottish. One of his most famous works is called **The Origin of Painting**.|
 |Joseph Turner (1775–1851)|landscape painter in a modern style|He is considered the artist who raised the profile of landscape painting.|
 |John Constable (1776–1837)|landscape painter|most famous for his works of Dedham Vale on the Suffolk–Essex border in the east of England.|
 |The Pre-Raphaelites||an important group of artists in the **second half of the 19th** century. They painted detailed pictures on religious or literary themes in bright colours. The group included **Holman Hunt**, **Dante Gabriel Rossetti** and **Sir John Millais**.|
-|Sir John Lavery (1856–1941)|Northern Irish portrait painter|His work included painting the Royal Family.|
-|Henry Moore (1898–1986)|English sculptor and artist|He is best known for his large bronze abstract sculptures.|
+|Sir John Lavery (1856–1941)|portrait painter|Northern Irish. His work included painting the Royal Family.|
+|Henry Moore (1898–1986)|sculptor and artist|English. He is best known for his large bronze abstract sculptures.|
 |John Petts (1914–91)|Welsh artist|best known for his engravings and stained glass.|
 |Lucian Freud (1922–2011)|portrait artist|He is German-born British.|
 |David Hockney (1937–)|pop art|an important contributor to the ‘pop art’ movement of the 1960s and continues to be influential today.|
+|- Damien Hirst<br>- Richard Wright||Previous Turner Prize winners.|
 
 |**Architect**||
 |---|---|

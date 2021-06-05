@@ -58,35 +58,19 @@ UK laws ensure that people are not treated unfairly in any area of life or work 
 
 As part of the citizenship ceremony, new citizens pledge their **loyalty to the United Kingdom** and to **respect its rights and freedoms**.
 
-The **cabinet** is a committee which usually meets **weekly** and makes important decisions about government policy.
-
-The police force is a public service that helps and protects everyone, no matter what their background or where they live.
-
-The UK is part of the United Nations (UN), an international organization with **more than 190** countries as members.
-
 If you are facing domestic violence you can get help from the **24-hour National Domestic Violence Freephone Helpline** at any time, or the **police** can help you find a safe place to stay.
 
 If you are resident in the UK, your car or motor cycle must be registered at the Driver and Vehicle Licensing Agency (DVLA).
 
 You can contact MPs by **letter** or **telephone** at their **constituency office**, or at their office in the **House of Commons**.
 
-Each MP represents a **parliamentary constituency**, which is a **small area of the country**.
-
 The House of Lords is normally more independent of the government than the House of Commons.
-
-The second-largest party in the House of Commons is called the **opposition**.
-
-Debates in the House of Commons are chaired by the **Speaker**. This person is the **chief officer** of the **House of Commons**.
-
-**Members of the House of Lords** may not stand for election to the **House of Commons** but are eligible for all other public offices.
 
 The **House of Lords** can suggest amendments or propose new laws, which are then discussed by MPs. The House of Lords checks laws that have been passed by the **House of Commons** to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the **people**.
 
 The UK has a **constitutional monarchy**.
 
 The Prime Minister (PM) is the **leader of the political party** in power. He or she appoints the **members of the cabinet** and has control over many important public appointments.
-
-The Prime Minister appoints about **20 senior MPs** to become ministers in charge of departments.
 
 Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted.
 
@@ -108,10 +92,6 @@ The Middle Ages (or the medieval period) was a time of almost **constant war**.
 
 In the Middle Ages, the numbers attending Parliament increased and two separate parts, known as **Houses** were established. These were the House of the **Commons** and the House of the **Lords**.
 
-During the Middle Ages, **great landowners** and **bishops** sat in the House of **Lords**.
-
-**Lincoln Cathedral** was built in the middle ages.
-
 At the beginning of the Middle Ages, Ireland was an independent country.
 
 During the middle ages, several cathedrals had windows of stained glass, telling stories about the **Bible** and **Christian saints**. The glass in **York Minster** is a famous example.
@@ -123,8 +103,6 @@ Catherine of Aragon was a Spanish princess.
 Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were **labour shortages** and peasants began to demand **higher wages**. New social classes appeared, including **owners of large areas of land** (later called the **gentry**), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a **strong middle class**.
 
 Queen Mary was a devout **Catholic** and persecuted **Protestants** (for this reason, she became known as ‘Bloody Mary’).
-
-In the **late 1970s**, the post-war economic boom came to an end.
 
 The **Great Western Railway** was the first major railway built in Britain.
 
@@ -142,15 +120,9 @@ During the Victorian period, the British Empire grew to cover all of India, Aust
 
 The public can listen to debates in the Palace of Westminster from **public galleries** in both the **House of Commons** and the **House of Lords**.
 
-Proceedings in Parliament are broadcast on television and published in official reports called **Hansard**.
-
 Vaccinations and medical treatment for animals are available from veterinary surgeons (vets).
 
 People in the UK are living longer than ever before. This is due to improved living standards and better health care. There are now a record number of people aged 85 and over. This has an impact on the cost of **pensions** and **health care**.
-
-Some words in modern English – for example, ‘park’ and ‘beauty’ – are based on Norman French words.
-
-Donated blood is used by hospitals to help people with a wide range of **injuries** and **illnesses**.
 
 The Life in the UK test is usually taken is English, although special arrangements can be made if you wish to take it in **Welsh** or **Scottish Gaelic**.
 
@@ -830,18 +802,25 @@ increase in the role of the City of London as an international centre for invest
 
 ### Conflicts in Afghanistan and Iraq
 
-- Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of **Kuwait**, following the **Iraqi invasion** in 1990, and the conflict in the former Republic of Yugoslavia.
-- Since 2000, British armed forces have been engaged in the global fight against international terrorism and against the proliferation of weapons of mass destruction, including operations in Afghanistan and Iraq.
-- British combat troops left Iraq in 2009.
+|Date|Event|
+|---|---|
+|1990|Iraqi invasion|
+|Throughout the 1990s|Britain played a leading role in coalition forces involved in the liberation of **Kuwait** and the conflict in the former Republic of Yugoslavia.|
+|Since 2000|British armed forces have been engaged in the global fight against international terrorism and against the proliferation of weapons of mass destruction, including operations in Afghanistan and Iraq.|
+|2009|British combat troops left Iraq.|
+
 - The UK now operates in **Afghanistan** as part of the United Nations (UN) mandated 50-nation **International Security Assistance Force (ISAF)** coalition and at the invitation of the Afghan government.
-- ISAF is working to ensure that Afghan territory can never again be used as a safe haven for international terrorism, where groups such as Al Qa’ida could plan attacks on the international community. As part of this, ISAF is building up the Afghan National Security Forces and is helping to create a secure environment in which governance and development can be extended. International forces are gradually handing over responsibility for security to the Afghans, who will have full security responsibility in all provinces by the end of 2014.
+- ISAF is working to ensure that Afghan territory can never again be used as a safe haven for international terrorism, where groups such as **Al Qa’ida** could plan attacks on the international community. As part of this, ISAF is building up the Afghan National Security Forces and is helping to create a secure environment in which governance and development can be extended. International forces are gradually handing over responsibility for security to the Afghans, who will have full security responsibility in all provinces by the end of 2014.
 
 ### 2010 onwards and Brexit
 
-- In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a **coalition** and the leader of the Conservative Party, David Cameron, became Prime Minister.
-- The **Conservative** Party won a majority at the general election of 7 May 2015 and David Cameron remained Prime Minister. The Conservative government called a referendum on the UK’s membership of the European Union. This was held on 23 June 2016. The UK voted by a margin of 51.9% to 48.1% to leave the European Union.
-- On 13 July 2016, Theresa May succeeded David Cameron as Prime Minister after the referendum.
-- On 24 July 2019, Boris Johnson succeeded Theresa May. The UK formally left the European Union on 31 January 2020.
+|Name|Year|Events|
+|---|---|---|
+|David Cameron|May 2010|In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a **coalition** and the leader of the Conservative Party, David Cameron, became Prime Minister.|
+|David Cameron|7 May 2015|The **Conservative** Party won a majority at the general election of 7 May 2015 and David Cameron remained Prime Minister. The Conservative government called a referendum on the UK’s membership of the European Union. This was held on 23 June 2016. The UK voted by a margin of 51.9% to 48.1% to leave the European Union.|
+|Theresa May|13 July 2016|She succeeded David Cameron as Prime Minister after the referendum|
+|Boris Johnson|24 July 2019|The UK formally left the European Union on 31 January 2020.|
+
 
 # A modern, thriving society
 
@@ -1184,10 +1163,9 @@ The population is very **unequally distributed** over the four parts of the UK.
 ### Art
 
 - During the Middle Ages, most art had a religious theme, particularly wall paintings in churches and illustrations in religious books. Much of this was lost after the **Protestant Reformation** but wealthy families began to collect other paintings and sculptures.
-- Many of the painters working in Britain in the 16th and 17th centuries were from **abroad** – for example, **Hans Holbein** and **Sir Anthony Van Dyck**. 
 - British artists, particularly those painting portraits and landscapes, became well known from the 18th century onwards.
 - Works by British and international artists are displayed in galleries across the UK.
-- The **Turner** Prize was established in 1984 and celebrates **contemporary** art. It was named after **Joseph Turner**. Four works are shortlisted every year and shown at **Tate Britain** before the winner is announced. The Turner Prize is recognised as one of the most prestigious visual art awards in Europe. Previous winners include **Damien Hirst** and **Richard Wright**.
+- The **Turner** Prize was established in 1984 and celebrates **contemporary** art. It was named after **Joseph Turner**. Four works are shortlisted every year and shown at **Tate Britain** before the winner is announced. The Turner Prize is recognised as one of the most prestigious visual art awards in Europe.
 
 ### Architecture
 
@@ -1562,7 +1540,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 ### The opposition
 
-- The second-largest party in the House of Commons is called the opposition. The leader of the opposition usually becomes Prime Minister if his or her party wins the next General Election.
+- The second-largest party in the House of Commons is called the **opposition**. The leader of the opposition usually becomes Prime Minister if his or her party wins the next General Election.
 - The leader of the opposition leads his or her party in pointing out what they see as the government’s failures and weaknesses. One important opportunity to do this is at **Prime Minister’s Questions**, which takes place **every week** while Parliament is sitting.
 - The leader of the opposition also appoints senior opposition MPs to be **‘shadow ministers’**. They form the **shadow cabinet** and their role is to challenge the government and put forward alternative policies.
 
