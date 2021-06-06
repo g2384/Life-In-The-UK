@@ -1,21 +1,21 @@
 |Name|Events|
 |---|---|
-|Elizabeth I Period||
+|**Elizabeth I Period**||
 |Sir Francis Drake|one of the commanders in the defeat of the **Spanish Armada**, was one of the founders of **England’s naval tradition**. His ship, the **Golden Hind**, was one of the first to sail right around (‘circumnavigate’) the world.|
 |William Shakespeare (1564–1616)|Shakespeare was born in **Stratford-upon-Avon**, England. He was a playwright and actor and wrote many poems and plays. His most famous plays include:<br>- A Midsummer Night’s Dream,<br>- Hamlet,<br>- Macbeth<br>- and Romeo and Juliet.<br>He also dramatised significant events from the past, but he did not focus solely on kings and queens. He was one of the first to portray ordinary Englishmen and women. Shakespeare had a great influence on the English language and invented many words that are still common today.<br>Lines from his plays and poems which are often still quoted include:<br>-Once more unto the breach (Henry V)<br>-To be or not to be (Hamlet)<br>-A rose by any other name (Romeo and Juliet)<br>-All the world’s a stage (As You Like It)<br>-The darling buds of May (Sonnet 18 – Shall I Compare Thee To a Summer’s Day).<br>Many people regard Shakespeare as the greatest playwright of all time. His plays and poems are still performed and studied in Britain and other countries today. The **Globe Theatre** in London is a modern copy of the theatres in which his plays were first performed.|
-|Charles II Period||
+|**Charles II Period**||
 |Isaac Newton (1643-1727)|Born in Lincolnshire, eastern England, Isaac Newton first became interested in science when he studied at Cambridge University. He became an important figure in the field. His most famous published work was **Philosophiae Naturalis Principia Mathematica (‘Mathematical Principles of Natural Philosophy’)**, which showed how gravity applied to the whole universe. Newton also discovered that white light is made up of the colours of the rainbow. Many of his discoveries are still important for modern science.|
 |Robert Burns (1759-1796)| a Scottish poet, was Known in Scotland as ‘The Bard’. He wrote in the Scots language, English with some Scottish words, and standard English. He also revised a lot of traditional folk songs by changing or adding lyrics. The best-known work is probably the song **Auld Lang Syne**, which is sung by people in the UK and other countries when they are celebrating the **New Year** (or **Hogmanay** as it is called in Scotland).|
-|Industrial Revolution||
+|**Industrial Revolution**||
 |Richard Arkwright (1732-1792)|He originally trained and worked as a **barber**. He was able to dye hair and make wigs. When wigs became less popular, he started to work in **textiles**. He improved the original **carding machine**. Carding is the process of preparing fibres for spinning into yarn and fabric. He also developed horse-driven spinning mills that used only one machine. This increased the efficiency of production. Later, he used the steam engine to power machinery. Arkwright is particularly remembered for the **efficient and profitable way** that he ran his factories.|
 |Sake Dean Mahomet (1759-1851)|He grew up in the **Bengal** region of India. He served in the Bengal army and came to Britain in 1782. He then moved to Ireland and eloped with an Irish girl called Jane Daly in 1786, returning to England at the turn of the century. In 1810 he opened the **Hindoostane Coffee House** in George Street, London. It was the first curry house to open in Britain. Mahomet and his wife also introduced **‘shampooing’**, the Indian art of head massage, to Britain.|
-|Victorian Period||
+|**Victorian Period**||
 |George and Robert Stephenson|Just before Victoria came to the throne, the father and son George and Robert Stephenson pioneered the railway engine and a major expansion of the **railways** took place in the Victorian period. Railways were built throughout the Empire.|
 |Isambard Kingdom Brunel (1806–59)|Born in Portsmouth, England. He was an engineer who built tunnels, bridges, railway lines and ships. He was responsible for constructing the **Great Western Railway**, which was the first major railway built in Britain. It runs from **Paddington Station** in London to the south west of **England**, the **West Midlands** and **Wales**. Many of Brunel’s bridges are still in use today. The Clifton Suspension Bridge, designed by Isambard Kingdom Brunel, spanning the **Avon Gorge**.|
 |Florence Nightingale (1820-1910)|born in Italy to English parents. At the age of 31, she trained as a nurse in Germany. In 1854, she went to Turkey and worked in military hospitals, treating soldiers who were fighting in the **Crimean War**. She and her fellow nurses improved the conditions in the hospital and reduced the mortality rate. In 1860 she established the Nightingale Training School for nurses at **St Thomas’ Hospital** in London. The school was the first of its kind and still exists today, as do many of the practices that Florence used. She is often regarded as the founder of modern **nursing**.|
 |Emmeline Pankhurst (1858–1928)|born in Manchester.<br>- In 1889, she set up the Women’s Franchise League, which fought to get the vote in local elections for married women.<br>- In 1903, she helped found the Women’s Social and Political Union (WSPU). This was the first group whose members were called ‘suffragettes’. The group used civil disobedience as part of their protest to gain the vote for women. They chained themselves to railings, smashed windows and committed arson. Many of the women, including Emmeline, went on hunger strike.<br>- In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War.<br>- In 1928, shortly before Emmeline’s death, women were given the right to vote at the age of 21, the same as men.|
 |Rudyard Kipling (1865-1936)|born in India in 1865 and later lived in India, the UK and the USA. He wrote books and poems set in both India and the UK. His poems and novels reflected the idea that the British Empire was **a force for good**. Kipling was awarded the **Nobel Prize** in Literature in **1907**. His books include the Just So Stories and The Jungle Book, which continue to be popular today. His poem *If* has often been voted among the UK’s favourite poems. It begins with these words: <blockquote>‘If you can keep your head when all about you<br>Are losing theirs and blaming it on you;<br>If you can trust yourself when all men doubt you,<br>But make allowance for their doubting too;<br>If you can wait and not be tired by waiting,<br>Or being lied about, don’t deal in lies,<br>Or being hated, don’t give way to hating,<br>And yet don’t look too good, nor talk too wise’</blockquote>|
-|World War II||
+|**World War II**||
 |Winston Churchill|- the son of a politician.<br> - was a soldier and journalist.<br> - In 1900, became a **Conservative** MP.<br> - In May 1940, he became Prime Minister.<br> - He refused to surrender to the Nazis and was an inspirational leader to the British people in a time of great hardship. He lost the General Election in 1945 but returned as Prime Minister in 1951.<br> - He was an MP until he stood down at the 1964 General Election. Following his death in 1965, he was given a **state funeral**. He remains a much-admired figure to this day, and in 2002 was voted **the greatest Briton of all time** by the public. During the War, he made many famous speeches including lines which you may still hear:Churchill’s first speech to the House of Commons after he became Prime Minister, 1940:<br><blockquote>‘I have nothing to offer but blood, toil, tears and sweat’</blockquote>Speech to the House of Commons after Dunkirk (see above), 1940:<br><blockquote>‘We shall fight on the beaches,<br>we shall fight on the landing grounds,<br>we shall fight in the fields and in the streets,<br>we shall fight in the hills;<br>we shall never surrender’</blockquote>Speech to the House of Commons during the Battle of Britain (see above), 1940:<br><blockquote>‘Never in the field of human conflict was so much owed by so many to so few’</blockquote>|
 |Clement Attlee (1883-1967)|Was born in London in 1883. His father was a solicitor and, after studying at **Oxford** University, Attlee became a barrister. He gave this up to do social work in East London and eventually became a Labour MP. He was Winston Churchill’s Deputy Prime Minister in the wartime coalition government and became **Prime Minister** after the Labour Party won the 1945 election. He was Prime Minister from 1945 to 1951 and led the Labour Party for 20 years. Attlee’s government undertook the **nationalisation** of major industries (like coal and steel), created the **National Health Service** and implemented many of **Beveridge’s** plans for a stronger welfare state. Attlee also introduced measures to improve the conditions of workers.|
 |William Beveridge (1879-1963)|He (later **Lord Beveridge**) was a British economist and social reformer. He served briefly as a **Liberal** MP and was subsequently the leader of the Liberals in the House of Lords but is best known for the 1942 report **Social Insurance and Allied Services** (known as the **Beveridge Report**). The report was commissioned by the wartime government in 1941. It recommended that the government should find ways of fighting the five ‘Giant Evils’ of Want, Disease, Ignorance, Squalor and Idleness and provided the basis of the modern welfare state.|
@@ -38,13 +38,22 @@
 |Emperor Hadrien|Areas of what is now Scotland were never conquered by the Romans, and he built a wall in the north of England to keep out the **Picts (ancestors of the Scottish people)**. Parts of Hadrien’s Wall, including the forts of **Housesteads** and **Vindolanda** is a popular area for walkers and is a UNESCO (United Nations Educational Scientific and Cultural Organization) World Heritage Site.|
 |**Kings & Queens**||
 |Boudicca|- One of the tribal leaders who fought against the Romans.<br>- The queen of the **Iceni** in what is now eastern England.<br>- There is a statue of Boudicca on **Westminster Bridge** in London, near the Houses of Parliament.|
+|Harold|Saxon King of England, Harold was killed in the Battle of Hastings.|
+|William|the Duke of Normandy, William became king of England. Killed Harold. Westminster Abbey first used as coronation church. The Tower of London was first built by William the Conqueror after he became king.|
+|King John|signed Magna Carta in 1215.|
+|King Edward I|introduced the Statute of **Rhuddlan**, which annexed **Wales** to the Crown of England. Huge castles, including **Conwy** and **Caenarvon**, were built to maintain this power.|
+|Robert the Bruce|Rober I, King of Scots, led the Scottish and defeated the English at the battle of **Bannockburn**.|
+|King Henry V|In 1415, King Henry V’s vastly outnumbered English army defeated the French at Battle of Agincourt.|
+|King Richard III|House of York, was killed in the Battle of Bosworth Field.|
+|King Henry VII (Henry Tudor)|the leader of the House of Lancaster, became king after defeating King Richard III (was killed in the battle) of the House of York at the Battle of Bosworth Field.|
+|Mary Queen of Scots|(Catholic) flees to England → imprisoned for 20 years then executed.|
 |**Prime Ministers**||
 |Sir Robert Walpole|the first Prime Minister in British history (1721-1742)|
 |Clement Attlee|The **Labour** Party won the **1945** election. He was Prime Minister from 1945 to 1951 and led the Labour Party for 20 years.|
 |Margaret Thatcher (1925-2013)|- the daughter of a grocer from **Grantham** in **Lincolnshire**.<br> - She trained as a chemist and lawyer. She was elected as a Conservative MP in 1959 and became a cabinet minister in 1970 as the Secretary of State for Education and Science.<br> - In 1975 she was elected as Leader of the Conservative Party and so became Leader of the Opposition.<br> - Britain’s first woman Prime Minister, led the **Conservative** government from 1979 to 1990. She was the longest-serving Prime Minister of the 20th century.<br> - worked closely with the United States President, **Ronald Reagan**, and was one of the first Western leaders to recognise and welcome the changes in the leadership of the Soviet Union which eventually led to the end of the Cold War.<br> - made **structural changes** to the economy through the **privatisation** of nationalised industries and imposed legal controls on trade union powers.|
 |John Major|Prime Minister after Mrs Thatcher. Helped establish the Northern Ireland peace process.|
 |Gordon Brown|took over as Prime Minister from Tony Blair in 2007.|
-|**Scientists & Inventors**|---|
+|**Scientists & Inventors**||
 |James Watt|His work on steam power, helped the progress of the Industrial Revolution.|
 |Scotsman John Logie Baird|In **1932**, he made the first television broadcast between London and Glasgow.|
 |Sir Christopher Cockrell (1910-99)|a British inventor, invented the **hovercraft** in the **1950s**.|
@@ -118,7 +127,7 @@
 |Name|Year|Designed|
 |---|---|---|
 |Thomas Chippendale|18th century|furniture|
-|Clarice Cliff||Art Deco ceramics|
+|**Clarice Cliff**||Art Deco ceramics|
 |Sir Terence Conran|20th century|interior designer|
 |Mary Quant|recent years|fashion designer|
 |Alexander McQueen|recent years|fashion designer|
@@ -139,15 +148,21 @@
 |J K Rowling (1965–)|Harry Potter series (children’s books)|They have enjoyed huge international success. She now writes fiction for adults as well.|
 |JRR Tolkien|The Lord of the Rings|In 2003, this work was voted the country’s best-loved novel.|
 
+# Poets
+
 |Name|Notes|
 |---|---|
-|**Poets**||
+|Geoffrey Chaucer|By 1400, he wrote Canterbury Tales.|
 |Robert Browning (1812–89)|*Home Thoughts from Abroad*<br><blockquote>‘Oh, to be in England now that April’s there<br>And whoever wakes in England sees, some morning, unaware,<br>That the lowest boughs and the brushwood sheaf<br>Round the elm-tree bole are in tiny leaf<br>While the Chaffinch sings on the orchard bough<br>In England – Now!’</blockquote>|
 |Lord Byron (1788–1824)|*She Walks in Beauty*<br><blockquote>‘She walks in beauty, like the night<br>Of cloudless climes and starry skies,<br>All that’s best of dark and bright<br>Meet in her aspect and her eyes’</blockquote>|
 |William Wordsworth (1770-1850)|Poet, was inspired by nature.<br>*The Daffodils*<br><blockquote>‘I wander’d lonely as a cloud<br>That floats on high o’er vales and hills<br>When all at once I saw a crowd,<br>A host of golden daffodils’</blockquote>|
 |William Blake (1757–1827)|*The Tyger*<br><blockquote>‘Tyger! Tyger! Burning bright<br>In the forests of the night,<br>What immortal hand or eye<br>Could frame thy fearful symmetry?’</blockquote>|
 |Wilfred Owen (1893–1918)|*Anthem for Doomed Youth*<br><blockquote>‘What passing-bells for these who die as cattle?<br>Only the monstrous anger of the guns.<br>Only the stuttering rifles’ rapid rattle<br>Can patter out their hasty orisons.’</blockquote>|
-|**Directors**|Films|
+
+# Directors
+
+|Name|Films|
+|---|---|
 |Alfred Hitchcock|*The 39 Steps* (1935)|
 |David Lean|*Brief Encounter* (1945)<br>*Lawrence of Arabia* (1962)|
 |Carol Reed|*The Third Man* (1949)|

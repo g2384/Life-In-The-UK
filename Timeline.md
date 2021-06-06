@@ -3,32 +3,30 @@
 |Time|Events|
 |---|---|
 |50 million years ago|The Giant’s Causeway was formed. Located on the **north-east** coast of **Northern Ireland**, the Giant’s Causeway is a land formation of columns made from **volcanic lava**.|
-|Stone Age||
+|**Stone Age**||
 |8,000 BC|(**10,000 years ago**): Britain became permanently separated from the continent by the Channel|
 |4,000 BC|(about **6,000 years ago**): The first farmers arrived in Britain. The ancestors of these first farmers probably came from **south-east Europe**.|
-|Bronze Age||
+|**Bronze Age**||
 |2,000 BC|(**4,000 years ago**): Bronze age (people learned to make bronze)|
-|The Romans||
+|**The Romans**||
 |55 BC|Roman **Julius Caesar** tried (failed) to invade Britain|
 |43|Roman **Emperor Claudius** successfully invaded (most of) Britain|
 |3rd and 4th centuries|The first Christian communities began to appear in Britain|
 |410|The Roman army left Britain to defend other parts of the Roman Empire and never returned.|
-|The Anglo-Saxons||
-|by 600|Anglo-Saxon kingdoms were established in Britain (mainly in what is now England)|
-|The Vikings||
-|789|The Vikings came from **Denmark and Norway**. They first visited Britain in to raid **coastal towns** and take away **goods** and **slaves**. Then, they began to stay and form their own communities in the east of England and Scotland.|
-|Middle Ages|(or the medieval period) 1066 - 1485|
+|**The Anglo-Saxons**||
+|by 600|Anglo-Saxon kingdoms were established in Britain (mainly in England)|
+|**The Vikings**||
+|789|The Vikings came from **Denmark and Norway**. They first visited Britain in to raid **coastal towns** and take away **goods** and **slaves**. Then, they began to stay and form their own communities in the east of **England** and **Scotland**.|
+|**Middle Ages**|(or the medieval period) 1066 - 1485|
 |1066|An invasion led by William, the Duke of Normandy, defeated **Harold**, the Saxon King of England, at the Battle of Hastings (last time England was successfully invaded). Harold was killed in the battle.|
 ||William became king of England|
 ||Start of the Westminster Abbey as the coronation church|
-||The **Tower of London** was first built by by **William the Conqueror** after he became king|
+||The **Tower of London** was first built by **William the Conqueror** after he became king|
 ||Start of the “middle ages”|
 |By 1200|The English ruled an area of Ireland known as the **Pale**, around **Dublin**. Some of the important lords in other parts of Ireland accepted the authority of the English king.|
-|1215|Magna Carta (which means **the Great Charter**)|
-||signed by King John (forced by noblemen)|
-||the King is subject to the law. It protected the rights of the nobility and restricted the king’s power to collect taxes or to make or change laws. In future, the king would need to involve his noblemen in decisions.|
+|1215|Magna Carta (which means **the Great Charter**) signed by King John (forced by noblemen)|
 |1284|King **Edward I** introduced the Statute of **Rhuddlan**, which annexed **Wales** to the Crown of England. Huge castles, including **Conwy** and **Caenarvon**, were built to maintain this power.|
-|1314|The **Scottish**, led by **Robert the Bruce**, defeated the English at the battle of **Bannockburn**. Scotland remained unconquered by the English|
+|1314|The **Scottish**, led by **Robert the Bruce**, defeated the English at the battle of **Bannockburn**. Scotland remained unconquered by the English.|
 |1334|Start of "100 years war"|
 |1348|Black Death (a form of plague) comes to Britain.|
 |By 1400|In England, official documents were being written in **English**, and English had become the preferred language of the royal court and Parliament.|
@@ -90,25 +88,18 @@
 |1745|Bonnie Prince Charlie attempts to invade & become king, supported by Scottish clans|
 |1745|There was another attempt to put a Stuart king back on the throne in place of George I’s son, George II|
 |1746|Charles Edward Stuart was defeated by George II’s army at the battle of Culloden, and escaped back to Europe. Clans lose a lot of power|
-|1759|Sake Dean Mahomet born in Bengal region in India|
 |By the 1760s|Substantial colonies in North America|
 |1776|13 American states declare their independence|
-|1782|Sake Dean Mahomet came to Britain|
 |1783|Britain recognised the American colonies’ independence|
-|1786|Sake Dean Mahomet moved to Ireland and eloped with an Irish girl called Jane Daly|
 |1789|France (Napoleon) declares war on Britain|
 |1789|There was a revolution in France|
 |1792|Richard Arkwright dies|
 |Late 1700s|The Quakers set up the first formal anti-slavery group|
 |Before the 18th century|agriculture was the biggest source of employment in Britain.|
 |18th century|New ideas about politics, philosophy and science were developed, called the “Enlightenment”. |
-||Many of the great thinkers of the Enlightenment were **Scottish**. **Adam Smith** developed ideas about economics which are still referred to today.|
-||**David Hume**’s ideas about human nature continue to influence **philosophers**.|
 |1801|Ireland became unified with England, Scotland and Wales after the **Act of Union of 1800**. This created the United Kingdom of Great Britain and Ireland. One symbol of this union between England, Scotland, Wales and Ireland was a new version of the official flag, the Union Flag.|
 |1805|Britain wins Battle of Trafalgar against combined French and Spanish fleets (Nelson dies)|
 |1807|It became illegal to trade slaves in British ships or from British ports|
-|1810|Sake Dean Mahomet opened the Hindoostane Coffee House in George Street,London, the first curry house to open in Britain.|
-||Introduced “shampooing” head massage|
 |1815|The French Wars ended with the defeat of the Emperor **Napoleon** by the Duke of **Wellington** at the Battle of **Waterloo**. Wellington was known as the **Iron Duke** and later became Prime Minister.|
 |1832|The **Reform Act** of 1832 had greatly increased the number of people with the **right to vote**. The act also abolished the **old pocket and rotten boroughs** and more parliamentary seats were given to the towns and cities.|
 |1833|the **Emancipation Act** abolished **slavery** throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders.|

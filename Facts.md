@@ -32,6 +32,8 @@
 
 The Millennium Stadium is located in **Cardiff**.
 
+Westminster Abbey has been the coronation church since 1066 and is the final resting place of **17** monarchs
+
 # Law
 
 To drive a car in the UK you need a driving licence, a valid motor insurance, a MOT certificate (for cars over three years old) and the road tax.
@@ -296,6 +298,7 @@ deer and horses which they hunted.
 ### Legal and political changes
 
 - In the Middle Ages, Parliament began to develop into the institution it is today. Its origins can be traced to the king’s council of advisers, which included important **noblemen** and the **leaders of the Church**.
+- Magna Carta (which means **the Great Charter**) signed by King John (forced by noblemen) in 1215. It established the idea that even the King is subject to the law. It protected the rights of the nobility and restricted the king’s power to collect taxes or to make or change laws. In future, the king would need to involve his noblemen in decisions.
 - In England, parliaments were called for the king to consult his nobles, particularly when the king needed to raise money. The numbers attending Parliament increased and two separate parts, known as Houses, were established.
 - House of Lords:
   - nobility
@@ -374,8 +377,7 @@ deer and horses which they hunted.
 - Edward died at the age of 15 after ruling for just over six years.
 
 ### Mary (Edward VI's half-sister)
-- Mary was a devout Catholic and persecuted Protestants (for this reason, she became known as ‘Bloody
-Mary’).
+- Mary was a devout Catholic and persecuted Protestants (for this reason, she became known as ‘Bloody Mary’).
 - Mary also died after a short reign.
 
 ### Elizabeth (Mary's half-sister)
