@@ -83,7 +83,6 @@
 |1714|Queen Anne died. Parliament chose a German, **George I**, to be the next king, because he was Anne’s nearest Protestant relative.|
 |1721|**Sir Robert Walpole** became the first Prime Minister in British history, until 1742|
 |1727|Isaac Newton dies|
-|1732|Richard Arkwright born. Efficiently ran factories|
 |1742|End of Sir Robert Walpole position as a Prime Minister|
 |1745|Bonnie Prince Charlie attempts to invade & become king, supported by Scottish clans|
 |1745|There was another attempt to put a Stuart king back on the throne in place of George I’s son, George II|
@@ -93,11 +92,10 @@
 |1783|Britain recognised the American colonies’ independence|
 |1789|France (Napoleon) declares war on Britain|
 |1789|There was a revolution in France|
-|1792|Richard Arkwright dies|
 |Late 1700s|The Quakers set up the first formal anti-slavery group|
 |Before the 18th century|agriculture was the biggest source of employment in Britain.|
 |18th century|New ideas about politics, philosophy and science were developed, called the “Enlightenment”. |
-|1801|Ireland became unified with England, Scotland and Wales after the **Act of Union of 1800**. This created the United Kingdom of Great Britain and Ireland. One symbol of this union between England, Scotland, Wales and Ireland was a new version of the official flag, the Union Flag.|
+|1801|Ireland became unified with England, Scotland and Wales after the **Act of Union of 1800**.|
 |1805|Britain wins Battle of Trafalgar against combined French and Spanish fleets (Nelson dies)|
 |1807|It became illegal to trade slaves in British ships or from British ports|
 |1815|The French Wars ended with the defeat of the Emperor **Napoleon** by the Duke of **Wellington** at the Battle of **Waterloo**. Wellington was known as the **Iron Duke** and later became Prime Minister.|
@@ -105,12 +103,9 @@
 |1833|the **Emancipation Act** abolished **slavery** throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders.|
 |1837|Queen Victoria became queen of the UK at the age of **18**|
 |1846|Repealing of the Corn Laws.|
-|1847|The number of hours that women and children could work was limited bylaw to 10 hour per day|
-|1851|Mahomet dies. |
-||The Great Exhibition opened in Hyde Park|
+|1847|The number of hours that women and children could work was limited by law to 10 hour per day|
+|1851|The Great Exhibition opened in Hyde Park|
 |1853 - 1913|As many as 13 million British citizen left the country to settle overseas|
-|1854|Florence Nightingale went to Turkey and worked in military hospitals|
-|1860|Florence Nightingale established the Nightingale Training School for nurses at St Thomas’ Hospital in London|
 |1867|Another Reform Act was enacted|
 |1870 - 1914|Around 120,000 Russian and Polish Jews came to Britain to escape persecution.|
 |1872|The first tennis club was founded in **Leamington Spa**|
@@ -144,7 +139,7 @@
 |1930s|British film studios flourished.|
 |1940|German forces defeated allied troops and advanced through France.|
 ||Winston Churchill became Prime Minister.|
-||The British won the crucial aerial battle against the Germans,called “the Battle of Britain”|
+||The British won the crucial aerial battle against the Germans, called “the Battle of Britain”|
 |1940s|Roald Dahl began to publish books and short stories|
 |1941|German invasion of the Soviet Union|
 ||The United States entered the war when the Japanese bombed its naval base at Pearl Harbour|
@@ -156,7 +151,6 @@
 |1945|The Allies comprehensively defeated Germany|
 ||The war against Japan ended|
 ||Winston Churchill lost the General Election|
-||Alexander Fleming won the Nobel prize in Medicine|
 ||The British people elected a labour government|
 ||Clement Attlee became Prime Minister|
 |1947|Independence was granted to nine countries, including **India**, **Pakistan** and **Ceylon (now Sri Lanka)**|
@@ -168,12 +162,10 @@
 |1950s|Period of economic recovery and increasing prosperity for working people|
 |1951 - 1964|Britain had a Conservative government|
 |1951|Winston Churchill returned as Prime Minister|
-|1952|Dylan Thomas wrote Do Not Go Gentle into That Good Night|
-||The Mousetrap, a murder-mystery play by Dame Agatha Christie, has been running in the West End since 1952|
+|1952||The Mousetrap, a murder-mystery play by Dame Agatha Christie, has been running in the West End since 1952|
 ||Start of Queen Elizabeth II’s reign|
 |1953|The structure of the DNA molecule was discovered through work at British universities in London and Cambridge|
-|1954|First performance of Dylan Thomas’s radio play Under Milk Wood|
-||Sir Roger Bannister became the first man in the world to run a mile under four minutes|
+|1954|Sir Roger Bannister became the first man in the world to run a mile under four minutes|
 |1957|The European Economic Community (EEC) was formed by six western European countries (West Germany, France, Belgium, Italy, Luxembourg and the Netherlands).|
 |1959|Margaret Thatcher was elected as a Conservative MP|
 |1960s|James Goodfellow invented the cash-dispensing ATM|
@@ -222,7 +214,6 @@
 |2011|The National Assembly for Wales has been able to pass laws in 20areas without the agreement of the UK Parliament.|
 ||Protection Orders for forced marriages were introduced in **Scotland**.|
 |2012|Bradley Wiggins became the first Briton to win the Tour de France.|
-||Mo Farah became the first Briton to win the Olympic gold medals in the 10,000 metres.|
 ||Queen Elizabeth II’s Diamond Jubilee (60 years as Queen).|
 ||The public elected Police and Crime Commissioners (PCCs) in England and Wales|
 |2020, 31 January|The UK formally left the European Union.|

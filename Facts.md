@@ -50,8 +50,6 @@ For most local authorities, local elections for councillors are held in **May** 
 
 All of the elected **MPs** form the **House of Commons**.
 
-The Life in the UK test is usually taken is **English**, although special arrangements can be made if you wish to take it in **Welsh** or **Scottish Gaelic**.
-
 A non-UK national living in the UK and looking for work, starting work or setting up as self-employed will need a **National Insurance number**. However, you **can** start work without one.
 
 It is a criminal offence to carry a weapon of any kind, **even if it is for self-defence**. This includes a gun, a knife or anything that is made or adapted to cause injury.
@@ -100,8 +98,6 @@ During the middle ages, several cathedrals had windows of stained glass, telling
 
 Anne Boleyn was executed at the tower of London.
 
-Catherine of Aragon was a Spanish princess.
-
 Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were **labour shortages** and peasants began to demand **higher wages**. New social classes appeared, including **owners of large areas of land** (later called the **gentry**), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a **strong middle class**.
 
 Queen Mary was a devout **Catholic** and persecuted **Protestants** (for this reason, she became known as ‘Bloody Mary’).
@@ -113,20 +109,6 @@ English kings fought a long war with France, called the Hundred Years War (even 
 To divorce his first wife, Henry VIII needed the approval of the **Pope**. When the Pope refused, Henry established the **Church of England**. In this new church, the **king**, not the Pope, would have the power to appoint bishops and order how people should worship.
 
 The symbol of the House of **Tudor** was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.
-
-The Battle of **Hastings** is commemorated in a great piece of embroidery, known as the **Bayeux tapestry**, which can still be seen in **France** today. The Bayeux Tapestry is nearly **70 metres (230 feet)** long and is embroidered with coloured wool.
-
-During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than **400 million** people.
-
-# Culture
-
-The public can listen to debates in the Palace of Westminster from **public galleries** in both the **House of Commons** and the **House of Lords**.
-
-Vaccinations and medical treatment for animals are available from veterinary surgeons (vets).
-
-People in the UK are living longer than ever before. This is due to improved living standards and better health care. There are now a record number of people aged 85 and over. This has an impact on the cost of **pensions** and **health care**.
-
-The Life in the UK test is usually taken is English, although special arrangements can be made if you wish to take it in **Welsh** or **Scottish Gaelic**.
 
 ---
 
@@ -256,7 +238,7 @@ deer and horses which they hunted.
 
 ## The Norman Conquest
 
-- The Battle of Hastings in 1066 is commemorated in a great piece of embroidery, known as the **Bayeux Tapestry** (70 metres (230 feet) long, colored wool), which can still be seen in France today. 
+- The Battle of **Hastings** in 1066 is commemorated in a great piece of embroidery, known as the **Bayeux Tapestry** (70 metres (230 feet) long, colored wool), which can still be seen in **France** today. 
 - The Norman Conquest was the last successful foreign invasion of England and led to many changes in government and social structures in England.
 - Norman French, the language of the new ruling class, influenced the development of the English language as we know it today.
 - Initially the Normans also conquered Wales, but the Welsh gradually won territory back.
@@ -355,12 +337,12 @@ deer and horses which they hunted.
 
 |Name|From|Children|Notes|
 |---|---|---|---|
-|Catherine of Aragon|a Spanish princess|several children but only **Mary** survived|When Catherine was **too old** to give him another child, Henry decided to divorce her|
+|Catherine of Aragon|Spanish princess|several children but only **Mary** survived|When Catherine was **too old** to give him another child, Henry decided to divorce her|
 |Anne Boleyn|English|**Elizabeth**|She was unpopular in the country and was accused of **taking lovers**. She was executed at the tower of London|
 |Jane Seymour||**Edward**|she died shortly after the birth|
-|Anne of Cleves|a German princess||Henry married her for political reasons but divorced her soon after|
-|Catherine Howard|a cousin of Anne Boleyn||She was also accused of **taking lovers** and executed.
-|Catherine Parr|||a widow who married Henry late in his life. She survived him and married again but died soon after.|
+|Anne of Cleves|German princess||Henry married her for political reasons but divorced her soon after|
+|Catherine Howard|cousin of Anne Boleyn||She was also accused of **taking lovers** and executed.
+|Catherine Parr|||widow who married Henry late in his life. She survived him and married again but died soon after.|
 
 - To divorce his first wife, Henry needed the approval of the Pope. When the Pope refused, Henry established the **Church of England**.
 - In this new church, the **king**, not the Pope, would have the power to appoint bishops and order how people should worship.
