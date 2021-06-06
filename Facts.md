@@ -1173,38 +1173,50 @@ The population is very **unequally distributed** over the four parts of the UK.
 ### Literature
 
 - The UK has a prestigious literary history and tradition.
-- Several British writers have won the Nobel Prize in Literature, for example:
-  - novelist Sir William Golding
-  - the poet Seamus Heaney
-  - the playwright Harold Pinter
-- **Agatha Christie**’s detective stories are read all over the world.
-- **Ian Fleming**’s books introduced James Bond.
-- In 2003, The Lord of the Rings by JRR Tolkien was voted the country’s best-loved novel.
-- The **Man Booker** Prize for Fiction is awarded **annually** for the best fiction novel written by an author from the **Commonwealth, Ireland or Zimbabwe**. It has been awarded since **1968**. Past winners include **Ian McEwan**, **Hilary Mantel** and **Julian Barnes**.
+- The **Man Booker** Prize for Fiction is awarded **annually** for the best fiction novel written by an author from the **Commonwealth, Ireland or Zimbabwe**. It has been awarded since **1968**.
+
+|Name|Occupation|Notes|
+|---|---|---|
+|Sir William Golding|novelist|won the Nobel Prize in Literature|
+|Seamus Heaney|poet|``|
+|Harold Pinter|playwright|``|
+|Agatha Christie|novelist|his detective stories are read all over the world.|
+|Ian Fleming|``|his books introduced James Bond.|
+|JRR Tolkien|``|In 2003, *The Lord of the Rings* was voted the country’s best-loved novel.|
+|Ian McEwan|``|Man Booker Prize winner|
+|Hilary Mantel|``|``|
+|Julian Barnes|``|``|
 
 ### British poets
 
 - British poetry is among the richest in the world.
 - The Anglo-Saxon poem **Beowulf** tells of its hero’s battles against monsters and is still translated into modern English.
-- Poems which survive from the Middle Ages include **Chaucer’s Canterbury Tales** and a poem called **Sir Gawain** and the **Green Knight**, about one of the knights at the court of King Arthur.
-- As well as plays, Shakespeare wrote many **sonnets** (poems which must be 14 lines long) and some longer poems.
-- As Protestant ideas spread, a number of poets wrote poems inspired by their religious views. One of these was **John Milton**, who wrote **Paradise Lost**.
-- Other poets, including **William Wordsworth**, were inspired by nature. 
-- **Sir Walter Scott** wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England. He also wrote novels, many of which were set in Scotland.
-- Poetry was very popular in the 19th century, with poets such as:
-  - William Blake
-  - John Keats
-  - Lord Byron
-  - Percy Shelley
-  - Alfred Lord Tennyson
-  - Robert and Elizabeth Browning.
-- Later, many poets – for example, Wilfred Owen and Siegfried Sassoon – were inspired to write about their experiences in the First World War.
-- More recently, popular poets have included:
-  - Sir Walter de la Mare
-  - John Masefield
-  - Sir John Betjeman
-  - Ted Hughes
+- Poems which survive from the Middle Ages include:
+  - **Chaucer’s Canterbury Tales**
+  - **Sir Gawain and the Green Knight**, about one of the knights at the court of King Arthur.
 - Some of the best-known poets are buried or commemorated in Poet’s Corner in **Westminster Abbey**.
+
+|Name|Notes|
+|---|---|
+|Shakespeare|As well as plays, he wrote many **sonnets** (poems which must be 14 lines long) and some longer poems.|
+|John Milton|As Protestant ideas spread, a number of poets wrote poems inspired by their religious views. He wrote **Paradise Lost**.|
+|William Wordsworth|was inspired by nature.|
+|Sir Walter Scott|wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England. He also wrote novels, many of which were set in Scotland.|
+
+|Description|Name|
+|---|---|
+|Poetry was very popular in the 19th century|William Blake|
+||John Keats|
+||Lord Byron|
+||Percy Shelley|
+||Alfred Lord Tennyson|
+||Robert and Elizabeth Browning.|
+|Later, many poets were inspired to write about their experiences in the First World War.|Wilfred Owen|
+||Siegfried Sassoon|
+|More recently|Sir Walter de la Mare|
+||John Masefield|
+||Sir John Betjeman|
+||Ted Hughes|
 
 ## Leisure
 
