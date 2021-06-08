@@ -34,17 +34,9 @@
 ||Helping with local services|
 ||set up free school|
 
-# History
-
-Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were **labour shortages** and peasants began to demand **higher wages**. New social classes appeared, including **owners of large areas of land** (later called the **gentry**), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a **strong middle class**.
-
-Queen Mary was a devout **Catholic** and persecuted **Protestants** (for this reason, she became known as ‘Bloody Mary’).
+# First
 
 The **Great Western Railway** was the first major railway built in Britain.
-
-English kings fought a long war with France, called the Hundred Years War (even though it actually lasted **116** years).
-
-The symbol of the House of **Tudor** was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.
 
 ---
 
@@ -197,7 +189,7 @@ deer and horses which they hunted.
 - At the beginning of the Middle Ages, Ireland was an independent country. The English first went to Ireland as troops to **help** the Irish king and remained to build their own settlements.
 - During the Middle Ages, the English kings also fought a number of wars abroad:
   - Many knights took part in the Crusades, in which European Christians fought for control of the **Holy Land**.
-  - English kings also fought a long war with France, called the Hundred Years War (even though it actually lasted 116 years).
+  - English kings also fought a long war with France, called the **Hundred Years War** (even though it actually lasted **116** years).
 
 ### Feudalism
 
@@ -209,8 +201,8 @@ deer and horses which they hunted.
 - In 1348, **1/3** of the population of England died and a similar proportion in Scotland and Wales.
 - This was one of the worst disasters ever to strike Britain.
 - Following the Black Death, the smaller population meant there was less need to grow **cereal crops**.
-- There were **labour shortages** and peasants began to demand higher wages.
-- New social classes appeared, including owners of large areas of land (later called the **gentry**), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong **middle class**.
+- There were **labour shortages** and peasants began to demand **higher wages**.
+- New social classes appeared, including **owners of large areas of land** (later called the **gentry**), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a strong **middle class**.
 - In Ireland, the Black Death killed many in the **Pale** and, for a time, the area controlled by the English became **smaller**.
 
 ### Legal and political changes
@@ -256,6 +248,7 @@ deer and horses which they hunted.
 
 - 1455 - 1485.
 - House of Lancaster - House of York
+- The symbol of the House of Tudor was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.
 
 ![The roses of The Wars of the Roses](./images/4-6.jpg)
 
@@ -295,7 +288,7 @@ deer and horses which they hunted.
 - Edward died at the age of 15 after ruling for just over six years.
 
 ### Mary (Edward VI's half-sister)
-- Mary was a devout Catholic and persecuted Protestants (for this reason, she became known as ‘Bloody Mary’).
+- Mary was a devout **Catholic** and persecuted **Protestants** (for this reason, she became known as ‘Bloody Mary’).
 - Mary also died after a short reign.
 
 ### Elizabeth (Mary's half-sister)
