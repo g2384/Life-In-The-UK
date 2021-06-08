@@ -26,37 +26,21 @@
 
 |URL|Services|
 |---|---|
-|www.gov.uk|the small claims procedure<br>advice about taxes and completing tax forms from<br>National Insurance<br>vehicle tax and MOT requirements<br>drive in the UK with a non-GB licence<br>Helping with local services<br>set up free school|
-
-# Geography
-
-The Millennium Stadium is located in **Cardiff**.
-
-Westminster Abbey has been the coronation church since 1066 and is the final resting place of **17** monarchs
+|www.gov.uk|the small claims procedure|
+||advice about taxes and completing tax forms from|
+||National Insurance|
+||vehicle tax and MOT requirements|
+||drive in the UK with a non-GB licence|
+||Helping with local services|
+||set up free school|
 
 # Law
 
-To drive a car in the UK you need a driving licence, a valid motor insurance, a MOT certificate (for cars over three years old) and the road tax.
-
-Drivers can use their driving licence until they are **70** years old. After that, the licence is valid for **three** years at a time.
-
-Decisions on government policies are made by the **Prime Minister** and **cabinet**.
-
-In the UK, bank holidays of **no religious** significance are celebrated **at the beginning of May** in **late May** or **early June**, and in **August**.
-
-There are 100 pence in a pound.
-
-For most local authorities, local elections for councillors are held in **May** **every year**.
-
-All of the elected **MPs** form the **House of Commons**.
-
-A non-UK national living in the UK and looking for work, starting work or setting up as self-employed will need a **National Insurance number**. However, you **can** start work without one.
-
-It is a criminal offence to carry a weapon of any kind, **even if it is for self-defence**. This includes a gun, a knife or anything that is made or adapted to cause injury.
-
-UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status.
-
-As part of the citizenship ceremony, new citizens pledge their **loyalty to the United Kingdom** and to **respect its rights and freedoms**.
+To drive a car in the UK you need
+- a driving licence,
+- a valid motor insurance,
+- a MOT certificate (for cars over three years old)
+- and the road tax.
 
 If you are facing domestic violence you can get help from the **24-hour National Domestic Violence Freephone Helpline** at any time, or the **police** can help you find a safe place to stay.
 
@@ -125,7 +109,7 @@ The symbol of the House of **Tudor** was a red rose with a white rose inside it 
   - Participation in community life.
 - As part of the citizenship ceremony, new citizens pledge to uphold these values. The pledge is:
 
-<blockquote>‘I will give my loyalty to the United Kingdom and respect its rights and freedoms. I will uphold its democratic values. I will observe its laws faithfully and fulfil my duties and obligations as a British citizen.’</blockquote>
+<blockquote>‘I will give my <strong>loyalty to the United Kingdom</strong> and <strong>respect its rights and freedoms</strong>. I will uphold its democratic values. I will observe its laws faithfully and fulfil my duties and obligations as a British citizen.’</blockquote>
 
 - Flowing from the fundamental principles are **responsibilities and freedoms** which are shared by all those living in the UK and which we expect all residents to respect.
 - If you wish to be a permanent resident or citizen of the UK, you should:
@@ -834,7 +818,9 @@ atomic bomb.
 
 ### UK currency
 
-- The currency in the UK is the **pound sterling** (symbol £). There are **100 pence** in a pound. The denominations (values) of currency are:
+- The currency in the UK is the **pound sterling** (symbol £).
+- There are **100 pence** in a pound.
+- The denominations (values) of currency are:
   - coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2
   - notes: £5, £10, £20, £50.
 - Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK. However, shops and businesses **do not have to accept** them.
@@ -926,7 +912,8 @@ The population is very **unequally distributed** over the four parts of the UK.
   - Quakers
 - There are also other denominations of Christianity, the biggest of which is **Roman Catholic**.
 - Only Scotland and Northern Ireland have their patron saint’s day as an official holiday (although in Scotland not all businesses and offices will close). Events are held across Scotland, Northern Ireland and the rest of the country, especially where there are a lot of people of Scottish, Northern Irish and Irish heritage.
-- While the patron saints’ days are no longer public holidays in England and Wales, they are still celebrated. Parades and small festivals are held all over the two countries. 
+- While the patron saints’ days are no longer public holidays in England and Wales, they are still celebrated. **Parades** and **small festivals** are held all over the two countries.
+- Westminster Abbey has been the coronation church since 1066 and is the final resting place of **17** monarchs.
 
 ## Customs and traditions
 
@@ -991,6 +978,10 @@ The population is very **unequally distributed** over the four parts of the UK.
 
 ## Sport
 
+- Sports of all kinds play an important part in many people’s lives. There are several sports that are particularly popular in the UK. 
+- Many sporting events take place at major stadiums such as:
+  - **Wembley Stadium** in London
+  - the **Principality Stadium** in Cardiff (before 2016, known as *Millennium Stadium*).
 - Local governments and private companies provide sports facilities such as:
   - swimming pools
   - tennis courts
@@ -1460,7 +1451,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - The system of government in the UK is a **parliamentary democracy**.
 - The UK is divided into parliamentary constituencies.
 - Voters in each constituency elect their **member of Parliament (MP)** in a **General Election**.
-- All of the elected MPs form the **House of Commons**.
+- All of the elected **MPs** form the **House of Commons**.
 - Most MPs belong to a political party, and the party with the majority of MPs forms the government.
 - If one party does not get a majority, two parties can join together to form a **coalition**.
 
@@ -1689,7 +1680,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 |Name|Description|
 |---|---|
-|Carrying a weapon|it is a criminal offence to carry a weapon of any kind, even if it is for self-defence. This includes a gun, a knife or anything that is made or adapted to cause injury.|
+|Carrying a weapon|it is a criminal offence to carry a weapon of any kind, **even if it is for self-defence**. This includes a gun, a knife or anything that is made or adapted to cause injury.|
 |Drugs|selling or buying drugs such as heroin, cocaine, ecstasy and cannabis is illegal in the UK.|
 |Racial crime|it is a criminal offence to cause harassment, alarm or distress to someone because of their religion or ethnic origin.|
 |Selling tobacco|it is illegal to sell tobacco products (for example, cigarettes, cigars, roll-up tobacco) to anyone under the age of 18.|
@@ -1898,7 +1889,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 #### Getting a National Insurance number
 
 - A National Insurance number is a unique personal account number. It makes sure that the National Insurance Contributions and tax you pay are properly recorded against your name. All young people in the UK are sent a National Insurance number just before their 16th birthday.
-- A non-UK national living in the UK and looking for work, starting work or setting up as self-employed will need a National Insurance number. However, you can start work without one. If you have permission to work in the UK, you will need to telephone the National Insurance number applications line. After you’ve applied, you’ll get a letter from the **Department for Work and Pensions (DWP)** asking you to come to a National Insurance number interview at Jobcentre Plus. The letter will also tell you which documents to bring to prove your identity. You can find out more information about how to apply for a National Insurance number at https://www.gov.uk/apply-national-insurancenumber. You may be required to attend an interview. The DWP will advise you of the appropriate application process and tell you which documents you will need to bring to an interview if one is necessary. You will usually need documents that prove your identity and that you have permission to work in the UK.
+- A non-UK national living in the UK and looking for work, starting work or setting up as self-employed will need a National Insurance number. However, you **can** start work without one. If you have permission to work in the UK, you will need to telephone the National Insurance number applications line. After you’ve applied, you’ll get a letter from the **Department for Work and Pensions (DWP)** asking you to come to a National Insurance number interview at Jobcentre Plus. The letter will also tell you which documents to bring to prove your identity. You can find out more information about how to apply for a National Insurance number at https://www.gov.uk/apply-national-insurancenumber. You may be required to attend an interview. The DWP will advise you of the appropriate application process and tell you which documents you will need to bring to an interview if one is necessary. You will usually need documents that prove your identity and that you have permission to work in the UK.
 - A National Insurance number does not on its own prove to an employer that you have the right to work in the UK.
 - You can find out more information about how to apply for a National Insurance number at www.gov.uk.
 
