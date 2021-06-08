@@ -122,21 +122,24 @@ deer and horses which they hunted.
 ### Bronze Age
 
 - People lived in **roundhouses** and buried their dead in tombs called **round barrows**.
-- The people were accomplished metalworkers who made many beautiful objects in bronze and gold, including tools, ornaments and weapons.
+- The people were accomplished **metalworkers** who made many beautiful objects in bronze and gold, including tools, ornaments and weapons.
 
-### Iron
+### Iron Age
 
 - people learned how to make weapons and tools out of iron.
 - People still lived in **roundhouses** grouped together into **larger settlements**, and sometimes defended sites called **hill forts**.
 - A very impressive hill fort can still be seen today at **Maiden Castle**, in the English county of **Dorset**. 
-- Most people were **farmers, craft workers or warriors**.
+- Most people were:
+  - farmers
+  - craft workers
+  - warriors
 - The language they spoke was part of the **Celtic** language family. Similar languages were spoken across Europe in the Iron Age, and related languages are still spoken today in some parts of Wales, Scotland and Ireland.
 - The people of the Iron Age had a sophisticated culture and economy. They made the **first coins** to be minted in Britain, some inscribed with the **names of Iron Age kings**. This marks the beginnings of British history. 
 
 ### The Romans
 
 - In AD 43 the Emperor Claudius led the Roman army in a new invasion. The Romans were successful in occupying almost all of Britain.
-- Boudicca (a tribal leader, the queen of the Iceni in what is now eastern England) fought against the Romans. She is still remembered today and there is a statue of her on **Westminster Bridge in London**, near the Houses of Parliament.
+- Boudicca (a tribal leader, the queen of the Iceni in what is now eastern England) fought against the Romans. She is still remembered today and there is a statue of her on **Westminster Bridge** in London, near the Houses of Parliament.
 - **Scotland** were never conquered by the Romans.
 - The Emperor **Hadrian** built a wall in the north of England to keep out the **Picts** (ancestors of the Scottish people). Included in the wall were a number of forts. Parts of Hadrian’s Wall, including the forts of **Housesteads** and **Vindolanda**, can still be seen. It is a popular area for walkers and is a UNESCO (United Nations Educational, Scientific and Cultural Organization) World Heritage Site.
 - The Romans remained in Britain for 400 years. They built roads and public buildings, created a structure of law, and introduced new plants and animals.
@@ -151,18 +154,18 @@ deer and horses which they hunted.
 - Sutton Hoo's (an Anglo-Saxon king) burial place is in modern Suffolk. This king was buried with treasure and armour, all placed in a **ship** which was then covered by a mound of earth.
 - Parts of the west of Britain, including much of what is now Wales, and Scotland, remained free of Anglo-Saxon rule.
 - The Anglo-Saxons were not Christians when they first came to Britain but, during this period, **missionaries** came to Britain to preach about Christianity.
-- Missionaries from Ireland spread the religion in the north:
+- Missionaries from **Ireland** spread the religion in the north:
   - **St Patrick**, who would become the patron saint of Ireland,
   - **St Columba**, who founded a monastery on the island of Iona, off the coast of what is now Scotland.
-  - **St Augustine** led missionaries from Rome, who spread Christianity in the south. St Augustine became the **first Archbishop of Canterbury**.
+- **St Augustine** led missionaries from Rome, who spread Christianity in the south. St Augustine became the **first Archbishop of Canterbury**.
 
 ### The Vikings
 
 - The Anglo-Saxon kingdoms in England united under **King Alfred the Great**, who defeated the Vikings.
 - Many of the Viking invaders stayed in Britain – especially in the east and north of England, in an area known as the **Danelaw** (many place names there, such as Grimsby and Scunthorpe, come from the Viking languages).
 - The Viking settlers mixed with local communities and some converted to Christianity.
-- Anglo-Saxon kings continued to rule what is now England, except for a short period when there were Danish kings. The first of these was **Cnut**, also called **Canute**.
-- In the north, the threat of attack by Vikings had encouraged the people to unite under one king, **Kenneth MacAlpin**. The term Scotland began to be used to describe that country.
+- Anglo-Saxon kings continued to rule what is now England, except for a short period when there were **Danish** kings. The first of these was **Cnut**, also called **Canute**.
+- In the north, the threat of attack by Vikings had encouraged the people to unite under one king, **Kenneth MacAlpin**. The term **Scotland** began to be used to describe that country.
 
 ## The Norman Conquest
 
@@ -188,8 +191,8 @@ deer and horses which they hunted.
 - Scotland remained unconquered by the English.
 - At the beginning of the Middle Ages, Ireland was an independent country. The English first went to Ireland as troops to **help** the Irish king and remained to build their own settlements.
 - During the Middle Ages, the English kings also fought a number of wars abroad:
-  - Many knights took part in the Crusades, in which European Christians fought for control of the **Holy Land**.
-  - English kings also fought a long war with France, called the **Hundred Years War** (even though it actually lasted **116** years).
+  - Many knights took part in the **Crusades**, in which European Christians fought for control of the **Holy Land**.
+  - English kings also fought a long war with **France**, called the **Hundred Years War** (even though it actually lasted **116** years).
 
 ### Feudalism
 

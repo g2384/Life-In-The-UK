@@ -44,7 +44,7 @@
 |William|the Duke of Normandy, William became king of England. Killed Harold. Westminster Abbey first used as coronation church. The Tower of London was first built by William the Conqueror after he became king.|
 |King John|signed Magna Carta in 1215.|
 |King Edward I|introduced the Statute of **Rhuddlan**, which annexed **Wales** to the Crown of England. Huge castles, including **Conwy** and **Caenarvon**, were built to maintain this power.|
-|Robert the Bruce|Rober I, King of Scots, led the Scottish and defeated the English at the battle of **Bannockburn**.|
+|Robert the Bruce|Robert I, King of Scots, led the Scottish and defeated the English at the battle of **Bannockburn**.|
 |King Henry V|In 1415, King Henry V’s vastly outnumbered English army defeated the French at Battle of Agincourt.|
 |King Richard III|House of York, was killed in the Battle of Bosworth Field.|
 |King Henry VII (Henry Tudor)|the leader of the House of Lancaster, became king after defeating King Richard III (was killed in the battle) of the House of York at the Battle of Bosworth Field.|
