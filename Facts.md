@@ -34,38 +34,6 @@
 ||Helping with local services|
 ||set up free school|
 
-# Law
-
-To drive a car in the UK you need
-- a driving licence,
-- a valid motor insurance,
-- a MOT certificate (for cars over three years old)
-- and the road tax.
-
-If you are facing domestic violence you can get help from the **24-hour National Domestic Violence Freephone Helpline** at any time, or the **police** can help you find a safe place to stay.
-
-If you are resident in the UK, your car or motor cycle must be registered at the Driver and Vehicle Licensing Agency (DVLA).
-
-You can contact MPs by **letter** or **telephone** at their **constituency office**, or at their office in the **House of Commons**.
-
-The House of Lords is normally more independent of the government than the House of Commons.
-
-The **House of Lords** can suggest amendments or propose new laws, which are then discussed by MPs. The House of Lords checks laws that have been passed by the **House of Commons** to ensure they are fit for purpose. It also holds the government to account to make sure that it is working in the best interests of the **people**.
-
-The UK has a **constitutional monarchy**.
-
-The Prime Minister (PM) is the **leader of the political party** in power. He or she appoints the **members of the cabinet** and has control over many important public appointments.
-
-Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted.
-
-Many MPs, Assembly members, MSPs and MEPs hold regular local **‘surgeries’**, where constituents can go in person to talk about issues that are of concern to them. These surgeries are often advertised in the **local newspaper**.
-
-The job of the police in the UK is to protect life and property, prevent disturbances (also known as keeping the peace) and prevent and detect crime.
-
-Many local authorities appoint a **mayor**, who is the ceremonial leader of the council. In some towns, a mayor is elected to be the effective leader of the administration.
-
-**MPs** are elected through a system called **‘first past the post’**. In each constituency, the candidate who gets the most votes is elected.
-
 # History
 
 Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the former Republic of Yugoslavia.
@@ -1493,21 +1461,22 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 - MPs are elected at a **General Election**, which is held at least every **five** years.
 - If an MP dies or resigns, there will be a fresh election, called a **by-election**, in his or her constituency.
-- MPs are elected through a system called **‘first past the post’**. In each constituency, the candidate who gets the **most votes** is elected. The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a **coalition**.
+- MPs are elected through a system called **‘first past the post’**. In each constituency, the candidate who gets the **most votes** is elected.
+- The government is usually formed by the party that wins the majority of constituencies. If no party wins a majority, two parties may join together to form a **coalition**.
 
 ### Contacting elected members
 
 - All elected members have a duty to serve and represent their constituents.
 - You can get contact details for all your representatives and their parties from your **local library** and from **www.parliament.uk**.
 - MPs, Assembly members, members of the Scottish Parliament (MSPs) and MEPs are also listed in **The Phone Book**, published by **BT**.
-- You can contact MPs by **letter** or **telephone** at their constituency Office, or at their Office in the House of Commons: The House of Commons, Westminster, London SW1A 0AA, telephone 020 7729 3000.
-- In addition, many MPs, Assembly members, MSPs and MEPs hold regular local **‘surgeries’**, where constituents can go in person to talk about issues that are of concern to them. These surgeries are often advertised in the **local newspaper**.
+- You can contact MPs by **letter** or **telephone** at their constituency Office, or **at their Office in the House of Commons**: The House of Commons, Westminster, London SW1A 0AA, telephone 020 7729 3000.
+- Many MPs, Assembly members, MSPs and MEPs hold regular local **‘surgeries’**, where constituents can go in person to talk about issues that are of concern to them. These surgeries are often advertised in the **local newspaper**.
 
 ## The government
 
 ### The Prime Minister
 
-- The Prime Minister (PM) is the leader of the political party in power. He or she appoints the members of the cabinet and has control over many important public appointments.
+- The Prime Minister (PM) is the **leader of the political party** in power. He or she **appoints the members of the cabinet** and has control over many important public appointments.
 - The **official home** of the Prime Minister is **10 Downing Street**, in central London, near the Houses of Parliament. He or she also has a country house outside London called **Chequers**.
 - The Prime Minister can be changed if the MPs in the governing party decide to do so, or if he or she wishes to resign. The Prime Minister usually resigns if his or her party loses a **General Election**.
 
@@ -1560,8 +1529,8 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - Local authorities provide a range of services in their areas. They are funded
   - by money from central government
   - by local taxes.
-- Many local authorities appoint a mayor, who is the **ceremonial leader** of the council.
-- In some towns, a mayor is elected to be the effective leader of the administration.
+- Many local authorities appoint a **mayor**, who is the **ceremonial leader** of the council.
+- In some towns, a mayor is elected to be the **effective** leader of the administration.
 - London has **33** local authorities, with the **Greater London Authority** and the **Mayor of London** coordinating policies across the capital.
 - For most local authorities, local elections for councillors are held in **May** **every year**. Many candidates stand for council election as members of a political party.
 
@@ -1838,9 +1807,11 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 ### Domestic violence
 
-- In the UK, brutality and violence in the home is a **serious crime**. Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted.
+- In the UK, brutality and violence in the home is a **serious crime**.
+- Anyone who is violent towards their partner – whether they are a man or a woman, married or living together – can be prosecuted.
 - Any man who forces a woman to have sex, including a woman’s husband, can be charged with **rape**.
-- It is important for anyone facing domestic violence to get help as soon as possible. A solicitor or Citizens Advice can explain the available options. In some areas there are safe places to go and stay in, called **refuges** or **shelters**. The 24-hour National Domestic Violence Freephone Helpline on 0808 2000 247 at any time, and its voicemail service allows callers to leave a message to be called back. You can find out more by visiting its website on www.nationaldahelpline.org.uk. Alternatively, you can try the Women’s Aid website on https://www.womensaid.org.uk. In an emergency, you should always call the police, who can also help you to find a safe place to stay.
+- It is important for anyone facing domestic violence to get help as soon as possible. A solicitor or Citizens Advice can explain the available options. In some areas there are safe places to go and stay in, called **refuges** or **shelters**.
+- The **24-hour National Domestic Violence Freephone Helpline** on 0808 2000 247 at any time, and its voicemail service allows callers to leave a message to be called back. You can find out more by visiting its website on www.nationaldahelpline.org.uk. Alternatively, you can try the **Women’s Aid** website on https://www.womensaid.org.uk. In an emergency, you should always call the **police**, who can also help you to find a safe place to stay.
 
 ### Female genital mutilation
 
@@ -1907,6 +1878,12 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
   - You must also have valid **motor insurance**. It is a **serious criminal offence** to drive without insurance.
   - If your vehicle is over **three** years old, you must take it for a Ministry of Transport (MOT) test **every** year. It is an offence not to have an MOT certificate if your vehicle is more than three years old.
 - You can find out more about vehicle tax and MOT requirements from www.gov.uk.
+- In summary, to drive a car in the UK you need:
+  - a driving licence,
+  - a valid motor insurance,
+  - a MOT certificate (for cars over three years old)
+  - and the road tax.
+
 
 ## Your role in the community
 
