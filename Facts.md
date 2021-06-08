@@ -36,20 +36,6 @@
 
 # History
 
-Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait, following the Iraqi invasion in 1990, and the conflict in the former Republic of Yugoslavia.
-
-In the Middle Ages, **Knights**, who were usually **smaller landowners**, and **wealthy people** from towns and cities were elected to sit in the **House of Commons**.
-
-The Middle Ages (or the medieval period) was a time of almost **constant war**.
-
-In the Middle Ages, the numbers attending Parliament increased and two separate parts, known as **Houses** were established. These were the House of the **Commons** and the House of the **Lords**.
-
-At the beginning of the Middle Ages, Ireland was an independent country.
-
-During the middle ages, several cathedrals had windows of stained glass, telling stories about the **Bible** and **Christian saints**. The glass in **York Minster** is a famous example.
-
-Anne Boleyn was executed at the tower of London.
-
 Following the Black Death, the smaller population meant there was less need to grow cereal crops. There were **labour shortages** and peasants began to demand **higher wages**. New social classes appeared, including **owners of large areas of land** (later called the **gentry**), and people left the countryside to live in the towns. In the towns, growing wealth led to the development of a **strong middle class**.
 
 Queen Mary was a devout **Catholic** and persecuted **Protestants** (for this reason, she became known as ‘Bloody Mary’).
@@ -57,8 +43,6 @@ Queen Mary was a devout **Catholic** and persecuted **Protestants** (for this re
 The **Great Western Railway** was the first major railway built in Britain.
 
 English kings fought a long war with France, called the Hundred Years War (even though it actually lasted **116** years).
-
-To divorce his first wife, Henry VIII needed the approval of the **Pope**. When the Pope refused, Henry established the **Church of England**. In this new church, the **king**, not the Pope, would have the power to appoint bishops and order how people should worship.
 
 The symbol of the House of **Tudor** was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.
 
@@ -204,7 +188,7 @@ deer and horses which they hunted.
 - Middle Ages (or the medieval period):
   - end of the Roman Empire in AD 476 - 1485 (Broadly speaking).
   - the Norman Conquest (1066) - 1485 (the focus here).
-- It was a time of almost constant war.
+- It was a time of almost **constant war**.
 - The English kings fought with the Welsh, Scottish and Irish noblemen for control of their lands.
 - In Wales, the English were able to establish their rule.
   - By the middle of the 15th century the last Welsh rebellions had been defeated.
@@ -231,16 +215,16 @@ deer and horses which they hunted.
 
 ### Legal and political changes
 
-- In the Middle Ages, Parliament began to develop into the institution it is today. Its origins can be traced to the king’s council of advisers, which included important **noblemen** and the **leaders of the Church**.
+- In the **Middle Ages**, Parliament began to develop into the institution it is today. Its origins can be traced to the king’s council of advisers, which included important **noblemen** and the **leaders of the Church**.
 - Magna Carta (which means **the Great Charter**) signed by King John (forced by noblemen) in 1215. It established the idea that even the King is subject to the law. It protected the rights of the nobility and restricted the king’s power to collect taxes or to make or change laws. In future, the king would need to involve his noblemen in decisions.
-- In England, parliaments were called for the king to consult his nobles, particularly when the king needed to raise money. The numbers attending Parliament increased and two separate parts, known as Houses, were established.
-- House of Lords:
-  - nobility
-  - great landowners
-  - bishops
-- House of Commons (elected)
-  - Knights, who were usually smaller landowners
-  - wealthy people from towns and cities
+- In England, parliaments were called for the king to consult his nobles, particularly when the king needed to raise money. The numbers attending Parliament increased and two separate parts, known as **Houses**, were established:
+  - House of Lords:
+    - nobility
+    - great landowners
+    - bishops
+  - House of Commons (elected)
+    - Knights, who were usually **smaller landowners**
+    - wealthy people from towns and cities
 - Only a small part of the population was able to join in electing the members of the Commons.
 - A similar Parliament developed in Scotland. It had three Houses, called **Estates**:
   - the lords
@@ -296,7 +280,7 @@ deer and horses which they hunted.
 |Catherine Howard|cousin of Anne Boleyn||She was also accused of **taking lovers** and executed.
 |Catherine Parr|||widow who married Henry late in his life. She survived him and married again but died soon after.|
 
-- To divorce his first wife, Henry needed the approval of the Pope. When the Pope refused, Henry established the **Church of England**.
+- To divorce his first wife, Henry needed the approval of the **Pope**. When the Pope refused, Henry established the **Church of England**.
 - In this new church, the **king**, not the Pope, would have the power to appoint bishops and order how people should worship.
 - At the same time the **Reformation** was happening across Europe. This was a movement against the authority of the Pope and the ideas and practices of the Roman Catholic Church.
 - The **Protestants** formed their own churches.
