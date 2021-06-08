@@ -93,11 +93,11 @@
 |Dame Ellen MacArthur (1976–)|yachtswoman|in **2004** became the **fastest** person to sail around the world single-handed.|
 |Sir Chris Hoy (1976–)|Scottish cyclist|won six gold and one silver Olympic medals. He has also won 11 world championship titles.
 |David Weir (1979–)|Paralympian|uses a wheelchair and has won six gold medals over two Paralympic Games. He has also won the London Marathon six times.|
-|Sir Bradley Wiggins (1980–)|cyclist|In 2012, he became the first Briton to win the Tour de France. He has won eight Olympic medals, including gold medals in the 2004, 2008, 2012 and 2016 Olympic Games.|
+|Sir Bradley Wiggins (1980–)|cyclist|In 2012, he became the first Briton to win the **Tour de France**. He has won eight Olympic medals, including gold medals in the 2004, 2008, 2012 and 2016 Olympic Games.|
 |Sir Mo Farah (1983–)|distance runner|born in Somalia. He won gold medals in the 2012 and 2016 Olympics for the 5,000 and 10,000 metres and is the first Briton to win the Olympic gold medal in the 10,000 metres.|
 |Dame Jessica Ennis-Hill (1986–)|athlete|She won the 2012 Olympic gold medal in the heptathlon and the silver medal in the 2016 Olympic Games, which includes **seven** different track and field events. She also holds a number of British athletics records.|
 |Sir Andy Murray (1987–)|Scottish tennis player|in 2012 won the men’s singles in the US Open. He is the first British man to win a singles title in a Grand Slam tournament since 1936. In the same year, he won Olympic gold and silver medals. In 2013 and 2016 he won the men's singles at Wimbledon. He also went on to win Gold at the 2016 Olympics.|
-|Ellie Simmonds (1994–)|Paralympian|won gold medals for swimming at the 2008, 2012 and 2016 Paralympic Games and holds a number of world records. She was the youngest member of the British team at the 2008 Games.|
+|Ellie Simmonds (1994–)|Paralympian|won gold medals for **swimming** at the 2008, 2012 and 2016 Paralympic Games and holds a number of world records. She was the **youngest member** of the British team at the 2008 Games.|
 
 # Composers
 |Name|Job|Works|Famous for|
@@ -121,7 +121,7 @@
 |Thomas Gainsborough (1727–88)|portrait painter|often painted people in **country** or **garden** scenery.|
 |David Allan (1744–96)|portrait painter|Scottish. One of his most famous works is called **The Origin of Painting**.|
 |Joseph Turner (1775–1851)|landscape painter in a modern style|He is considered the artist who raised the profile of landscape painting.|
-|John Constable (1776–1837)|landscape painter|most famous for his works of Dedham Vale on the Suffolk–Essex border in the east of England.|
+|John Constable (1776–1837)|landscape painter|most famous for his works of **Dedham Vale** on the Suffolk–Essex border in the east of England.|
 |The Pre-Raphaelites||an important group of artists in the **second half of the 19th** century. They painted detailed pictures on religious or literary themes in bright colours. The group included **Holman Hunt**, **Dante Gabriel Rossetti** and **Sir John Millais**.|
 |Sir John Lavery (1856–1941)|portrait painter|Northern Irish. His work included painting the Royal Family.|
 |Henry Moore (1898–1986)|sculptor and artist|English. He is best known for his large bronze abstract sculptures.|
@@ -142,7 +142,7 @@
 |Name|Year|Designed|
 |---|---|---|
 |Thomas Chippendale|18th century|furniture|
-|**Clarice Cliff**||Art Deco ceramics|
+|Clarice Cliff||Art Deco ceramics|
 |Sir Terence Conran|20th century|interior designer|
 |Mary Quant|recent years|fashion designer|
 |Alexander McQueen|recent years|fashion designer|
