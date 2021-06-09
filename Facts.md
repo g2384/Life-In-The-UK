@@ -702,7 +702,7 @@ atomic bomb.
 
 |Name|Start Year|Events|
 |---|---|---|
-|Margaret Thatcher|1979|Britain’s first woman Prime Minister, led the Conservative government from 1979 to 1990.|
+|Margaret Thatcher|1979|Britain’s first woman Prime Minister, led the **Conservative** government from 1979 to 1990.|
 |||The government made structural changes to the economy through the **privatisation** of nationalised industries and imposed legal controls on trade union powers.|
 |||**Deregulation** saw a great increase in the role of the City of London as an international centre for investments, insurance and other financial services. Traditional industries, such as shipbuilding and coal mining, declined.|
 |||In 1982, Argentina invaded the Falkland Islands, a British overseas territory in the South Atlantic. A naval taskforce was sent from the UK and military action led to the recovery of the islands.|
@@ -804,11 +804,11 @@ atomic bomb.
 
 - Population growth has been faster in more recent years. **Migration** into the UK and **longer life expectancy** have played a part in population growth.
 
-The population is very **unequally distributed** over the four parts of the UK.
-- 84%: England
-- just over 8%: Scotland
-- 5%: Wales
-- less than 3%: Northern Ireland
+- The population is very **unequally distributed** over the four parts of the UK.
+  - 84%: England
+  - just over 8%: Scotland
+  - 5%: Wales
+  - less than 3%: Northern Ireland
 
 - People in the UK are living longer than ever before. This is due to **improved living standards** and **better health care**.
 - There are now a record number of people aged 85 and over.
@@ -899,8 +899,8 @@ The population is very **unequally distributed** over the four parts of the UK.
 |---|---|---|
 |Diwali|October or November|lasts for **five days**. It is celebrated by **Hindus and Sikhs**. It is often called the Festival of **Lights**. It celebrates the victory of **good over evil** and the **gaining of knowledge**. There are different stories about how the festival came about. There is a famous celebration of Diwali in **Leicester**.|
 |Hanukkah|November or December|lasts for **eight days**. It is to remember the Jews’ struggle for religious freedom. On each day of the festival a **candle** is lit on a stand of eight candles (called a **menorah**) to remember the story of the festival, where oil that should have lasted only a day did so for eight.|
-|Eid al-Fitr|date changes every year|It celebrates the end of Ramadan. Muslims thank Allah for giving them the strength to complete the fast. Muslims attend special services and meals.|
 |Ramadan||Muslims have fasted for **a month**.|
+|Eid al-Fitr|date changes every year|It celebrates the end of Ramadan. Muslims thank Allah for giving them the strength to complete the fast. Muslims attend special services and meals.|
 |Eid ul Adha||remembers that the prophet **Ibrahim** was willing to sacrifice his son when God ordered him to. It reminds Muslims of their own commitment to God. Many Muslims **sacrifice an animal** to eat during this festival. In Britain this has to be done in a **slaughterhouse**.|
 |Vaisakhi|14th of April|(also spelled Baisakhi) a Sikh festival which celebrates the founding of the Sikh community known as the **Khalsa**. It is celebrated each year with parades, dancing and singing.|
 
@@ -989,7 +989,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Both have separate leagues and national teams in England, Wales, Scotland and Northern Ireland (who play with the Irish Republic).
 - In rugby union, the Republic of Ireland and Northern Ireland form one team.
 - Teams from all countries compete in a range of competitions.
-- The most famous rugby union competition is the Six Nations Championship between:
+- The most famous rugby union competition is the **Six Nations Championship** between:
   - England,
   - Ireland,
   - Scotland,
@@ -1122,14 +1122,14 @@ The population is very **unequally distributed** over the four parts of the UK.
 |Name|Occupation|Notes|
 |---|---|---|
 |Sir William Golding|novelist|won the Nobel Prize in Literature|
-|Seamus Heaney|poet|``|
-|Harold Pinter|playwright|``|
+|Seamus Heaney|poet|''|
+|Harold Pinter|playwright|''|
 |Agatha Christie|novelist|his detective stories are read all over the world.|
-|Ian Fleming|``|his books introduced James Bond.|
-|JRR Tolkien|``|In 2003, *The Lord of the Rings* was voted the country’s best-loved novel.|
-|Ian McEwan|``|Man Booker Prize winner|
-|Hilary Mantel|``|``|
-|Julian Barnes|``|``|
+|Ian Fleming|''|his books introduced James Bond.|
+|JRR Tolkien|''|In 2003, *The Lord of the Rings* was voted the country’s best-loved novel.|
+|Ian McEwan|''|Man Booker Prize winner|
+|Hilary Mantel|''|''|
+|Julian Barnes|''|''|
 
 ### British poets
 
@@ -1190,7 +1190,7 @@ The population is very **unequally distributed** over the four parts of the UK.
 - Films were first shown publicly in the UK in **1896** and film screenings very quickly became popular.
 - From the beginning, film makers became famous for clever special effects and this continues to be an area of British expertise.
 - From the early days of the cinema, British actors have worked in both the UK and USA.
-- **Sir Charles (Charlie) Chaplin** became famous in **silent movies** for his tramp character and was one of many British actors to make a career in **Hollywood**.
+- **Sir Charles (Charlie) Chaplin** became famous in **silent movies** for his **tramp** character and was one of many British actors to make a career in **Hollywood**.
 - British studios flourished in the **1930s**. Eminent directors included Sir Alexander Korda and Sir Alfred Hitchcock, who later left for Hollywood and remained an important film director until his death in 1980.
 - During the Second World War, British movies (for example, In Which We Serve) played an important part in boosting morale.
 - Later, British directors including Sir David Lean and Ridley Scott found great success both in the UK and internationally.
