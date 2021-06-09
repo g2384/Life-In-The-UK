@@ -99,7 +99,7 @@ The **Great Western Railway** was the first major railway built in Britain.
 - British overseas territories (They are linked to the UK but are not part of it):
   - St Helena
   - the Falkland Islands
-- The UK is governed by the parliament sitting in **Westminster**.
+- The UK is governed by the **parliament** sitting in **Westminster**.
 - Scotland, Wales and Northern Ireland also have parliaments or assemblies of their own, with devolved powers in defined areas. 
 
 ---
@@ -226,7 +226,7 @@ deer and horses which they hunted.
   - the commons
   - the clergy
 - This was also a time of development in the legal system. The principle that judges are independent of the government began to be established.
-- In England, judges developed ‘common law’ by a process of **precedence** (that is, following previous decisions) and tradition.
+- In England, judges developed ‘common law’ by a process of **precedence** (that is, following previous decisions) and **tradition**.
 - In Scotland, the legal system developed slightly differently and laws were ‘codified’ (that is, written down).
 
 ### A distinct identity
@@ -307,9 +307,9 @@ deer and horses which they hunted.
 - When she returned to Scotland, she was the centre of a power struggle between different groups. When her husband was murdered, Mary was suspected of involvement and fled to England. She gave her throne to her **Protestant** son, James VI of Scotland.
 - Mary was Elizabeth I’s cousin and hoped that Elizabeth might help her, but Elizabeth suspected Mary of wanting to take over the English throne, and kept her a prisoner for **20** years. Mary was eventually executed, accused of plotting against Elizabeth I.
 
-### James I (Elizabeth's cousin)
+### James I (Mary, Queen of Scots' son)
 
-- James VI Scotland, Elizabeth's cousin, became King James I of England, Wales and Ireland. Scotland remained a separate country.
+- James VI Scotland became King James I of England, Wales and Ireland. Scotland remained a separate country.
 - The King James Bible: One achievement of King James’ reign was a new translation of the Bible into English. This translation is known as the **‘King James Version’** or the **‘Authorised Version’**. It was not the first English Bible but is a version which continues to be used in many Protestant churches today.
 
 ### Ireland
@@ -329,7 +329,9 @@ deer and horses which they hunted.
 - A Scottish army was formed and Charles could not find the money he needed for his own army without the help of Parliament.
 - In 1640, he recalled Parliament to ask it for funds. Many in Parliament were **Puritans**, a group of Protestants who advocated strict and simple religious doctrine and worship. They did not agree with the king’s religious views and disliked his reforms of the Church of England. Parliament refused to give the king the money he asked for, even after the Scottish army invaded England. 
 - Another rebellion began in Ireland because the **Roman Catholics** in Ireland were afraid of the growing power of the **Puritans**. Parliament took this opportunity to demand control of the English army – a change that would have transferred substantial power from the king to Parliament. In response, Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. (No monarch has set foot in the Commons since.)
-- Civil war between the king and Parliament began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads). 
+- Civil war between the king and Parliament began in 1642. The country split into:
+  - the Cavaliers: those who supported the king
+  - the Roundheads: those who supported Parliament
 
 ### Oliver Cromwell and the English republic
 
@@ -337,7 +339,7 @@ deer and horses which they hunted.
 - The king’s army was defeated at the Battles of **Marston Moor** and **Naseby**.
 - By 1646, it was clear that Parliament had won the war.
 - Charles was held prisoner by the parliamentary army. He was still unwilling to reach any agreement with Parliament and in 1649 he was executed.
-- England declared itself a republic, called the Commonwealth. It no longer had a monarch. For a time, it was not totally clear how the country would be governed. For now, the army was in control. 
+- England declared itself a republic, called the **Commonwealth**. It no longer had a monarch. For a time, it was not totally clear how the country would be governed. For now, the army was in control. 
 - One of its generals, Oliver Cromwell, was sent to Ireland, where the revolt which had begun in 1641 still continued and where there was still a Royalist army. Cromwell was successful in establishing the authority of the English Parliament but did this with such violence that even today Cromwell remains a controversial figure in Ireland.
 - The Scots had not agreed to the execution of Charles I and declared his son **Charles II** to be king. He was crowned king of Scotland and led a Scottish army into England. Cromwell defeated this army in the Battles of **Dunbar** and **Worcester**. Charles II escaped from Worcester, famously hiding in an **oak tree** on one occasion, and eventually fled to Europe.
 - Parliament now controlled Scotland as well as England and Wales.
@@ -354,7 +356,7 @@ deer and horses which they hunted.
 ### James II, A Catholic king
 
 - Charles II's brother, James, who was a Roman Catholic, became King James II in England, Wales and Ireland and King James VII of Scotland.
-- James favoured Roman Catholics and allowed them to be army officers, which an Act of Parliament had forbidden. He did not seek to reach agreements with Parliament and arrested some of the bishops of the Church of England. People in England worried that James wanted to make England a Catholic country once more.
+- James favoured Roman Catholics and allowed them to be army officers, which an **Act of Parliament** had forbidden. He did not seek to reach agreements with Parliament and arrested some of the bishops of the Church of England. People in England worried that James wanted to make England a Catholic country once more.
 - However, his heirs were his two daughters, who were both firmly Protestant, and people thought that this meant there would soon be a Protestant monarch again. Then, James’s wife had a son. Suddenly, it seemed likely that the next monarch would not be a Protestant after all.
 
 ### William III, The Glorious Revolution
@@ -393,12 +395,15 @@ deer and horses which they hunted.
 
 - This was a time when many people left Britain and Ireland to settle in new colonies in America and elsewhere, but others came to live in Britain.
 - The first Jews to come to Britain since the Middle Ages settled in London in 1656.
-- Between 1680 and 1720 many refugees called **Huguenots** came from France. They were Protestants and had been persecuted for their religion. Many were educated and skilled and worked as scientists, in banking, or in weaving or other crafts.
+- Between 1680 and 1720 many refugees called **Huguenots** came from France. They were Protestants and had been persecuted for their religion. Many were educated and skilled and worked:
+  - as scientists
+  - in banking
+  - in weaving or other crafts
 
 ### The Act or Treaty of Union in Scotland
 
 - William and Mary’s successor, Queen Anne, had no surviving children. This created uncertainty over the succession in England, Wales and Ireland and in Scotland.
-- The Act of Union, known as the Treaty of Union in Scotland, was therefore agreed in 1707, creating the Kingdom of Great Britain. Although Scotland was no longer an independent country, it kept its own legal and education systems and Presbyterian Church.
+- The Act of Union, known as the Treaty of Union in Scotland, was therefore agreed in 1707, creating the Kingdom of Great Britain. Although Scotland was no longer an independent country, it kept its own legal and education systems and **Presbyterian** Church.
 
 ### George I & The Prime Minister
 
@@ -450,7 +455,7 @@ deer and horses which they hunted.
 - Quakers: They set up the first formal anti-slavery groups in the late 1700s, and they petitioned Parliament to ban the practice. 
 - **William Wilberforce**, an evangelical Christian and a member of Parliament, also played an important part in changing the law. Along with other abolitionists (people who supported the abolition of slavery), he succeeded in turning public opinion against the slave trade.
 - In 1807, it became illegal to trade slaves in British ships or from British ports
-- In 1833 the Emancipation Act abolished slavery throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders.
+- In 1833 the **Emancipation Act** abolished slavery throughout the British Empire. The Royal Navy stopped slave ships from other countries, freed the slaves and punished the slave traders.
 - After 1833, 2 million Indian and Chinese workers were employed to replace the freed slaves. They worked:
   - on sugar plantations in the Caribbean
   - in mines in South Africa
@@ -469,7 +474,7 @@ deer and horses which they hunted.
 ### War with France
 
 - In 1789, there was a revolution in France and the new French government soon declared war on Britain. Napoleon, who became Emperor of France, continued the war.
-- In 1805, Britain’s navy fought against combined French and Spanish fleets, winning the Battle of **Trafalgar** . **Admiral Nelson** was in charge of the British fleet at Trafalgar and was killed in the battle. Nelson’s Column in Trafalgar Square, London, is a monument to him. His ship, **HMS Victory**, can be visited in Portsmouth.
+- In 1805, Britain’s navy fought against combined French and Spanish fleets, winning the Battle of **Trafalgar**. **Admiral Nelson** was in charge of the British fleet at Trafalgar and was killed in the battle. Nelson’s Column in Trafalgar Square, London, is a monument to him. His ship, **HMS Victory**, can be visited in Portsmouth.
 - In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of **Wellington** at the Battle of Waterloo (by British army) (the last battle between Britain and France). Wellington was known as the Iron Duke and later became Prime Minister.
 
 ### The Union Flag
@@ -1980,11 +1985,16 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 ## Looking after the environment
 
-- It is important to recycle as much of your waste as you can. Using recycled materials to make new products uses less energy and means that we do not need to extract more raw materials from the earth. It also means that less rubbish is created, so the amount being put into landfill is reduced.
+- It is important to recycle as much of your waste as you can. Using recycled materials to make new products:
+  - uses less energy
+  - means that we do not need to extract more raw materials from the earth
+  - less rubbish is created, so the amount being put into landfill is reduced.
 - You can learn more about recycling and its benefits:
   - at www.recyclenow.com. At this website you can also find out what you can recycle at home and in the local area if you live in England.
   - This information is available for Wales at www.wasteawarenesswales.org.uk.
   - for Scotland at www.recycleforscotland.com
   - for Northern Ireland from your local authority.
-- A good way to support your local community is to **shop for products locally** where you can. This will help businesses and farmers in your area and in Britain. It will also reduce your carbon footprint, because the products you buy will not have had to travel as far.
+- A good way to support your local community is to **shop for products locally** where you can. This will:
+  - help businesses and farmers in your area and in Britain
+  - reduce your carbon footprint, because the products you buy will not have had to travel as far.
 - Walking and using public transport to get around when you can is also a good way to protect the environment. It means that you create less pollution than when you use a car.
