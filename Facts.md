@@ -22,7 +22,7 @@
   - people found guilty of certain criminal offences.
 - can stand for election as an MP.
 
-# website
+# Website
 
 |URL|Services|
 |---|---|
@@ -33,6 +33,18 @@
 ||drive in the UK with a non-GB licence|
 ||Helping with local services|
 ||set up free school|
+
+# Election
+
+|Title|System|How often|
+|---|---|---|
+|Speaker|secret ballot||
+|MPs|first past the post|5|
+
+|Name|Elect|How often|
+|---|---|---|
+|General Election|MPs, Prime Minister|5|
+|local elections for councillors||in May every year|
 
 # First
 
@@ -327,7 +339,8 @@ deer and horses which they hunted.
 
 - Charles I wanted the worship of the Church of England to include more ceremony and introduced a revised **Prayer Book**. He tried to impose this Prayer Book on the Presbyterian Church in Scotland and this led to serious unrest.
 - A Scottish army was formed and Charles could not find the money he needed for his own army without the help of Parliament.
-- In 1640, he recalled Parliament to ask it for funds. Many in Parliament were **Puritans**, a group of Protestants who advocated strict and simple religious doctrine and worship. They did not agree with the king’s religious views and disliked his reforms of the Church of England. Parliament refused to give the king the money he asked for, even after the Scottish army invaded England. 
+- Puritans: a group of **Protestants** who advocated strict and simple religious doctrine and worship.
+- In 1640, he recalled Parliament to ask it for funds. Many in Parliament were **Puritans**. They did not agree with the king’s religious views and disliked his reforms of the Church of England. Parliament refused to give the king the money he asked for, even after the Scottish army invaded England. 
 - Another rebellion began in Ireland because the **Roman Catholics** in Ireland were afraid of the growing power of the **Puritans**. Parliament took this opportunity to demand control of the English army – a change that would have transferred substantial power from the king to Parliament. In response, Charles I entered the House of Commons and tried to arrest five parliamentary leaders, but they had been warned and were not there. (No monarch has set foot in the Commons since.)
 - Civil war between the king and Parliament began in 1642. The country split into:
   - the Cavaliers: those who supported the king
@@ -1676,7 +1689,8 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 - All people in the UK are expected to help the police prevent and detect crimes whenever they can. If you are arrested and taken to a police station, a police officer will tell you the reason for your arrest and you will be able to seek legal advice.
 - If something goes wrong, the police complaints system tries to put it right. Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved.
 - Complaints can also be made to an independent body in England and Wales (www.policeconduct.gov.uk).
-- In Scotland, if you are unhappy with the way your complaint has been handled, you can contact the Police Investigations and Review Commissioner at https://pirc.scot/. - In Northern Ireland, you should contact the Police Ombudsman’s Office (www.policeombudsman.org).
+- In Scotland, if you are unhappy with the way your complaint has been handled, you can contact the Police Investigations and Review Commissioner at https://pirc.scot/.
+- In Northern Ireland, you should contact the Police Ombudsman’s Office (www.policeombudsman.org).
 
 ### Terrorism and extremism
 
@@ -1713,7 +1727,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 #### Crown Courts and Sheriff Courts
 
-- A jury is made up of members of the public chosen at random from the local electoral register. Everyone who is summoned to do jury service must do it unless they are not eligible (for example, because they have a criminal conviction) or they provide a good reason to be excused, such as ill health.
+- A jury is made up of members of the public chosen at random from the local **electoral register**. Everyone who is summoned to do jury service **must** do it unless they are not eligible (for example, because they have a criminal conviction) or they provide a good reason to be excused, such as ill health.
 - The jury has to listen to the evidence presented at the trial and then decide a verdict of **‘guilty’** or **‘not guilty’** based on what they have heard. In Scotland, a third verdict of **‘not proven’** is also possible.
 - If the jury finds a defendant guilty, the **judge** decides on the penalty.
 
@@ -1725,7 +1739,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 #### Youth Courts
 
-- In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a **Youth Court** in front of up to **three** specially trained magistrates or a District Judge. The parents or carers of the young person are expected to attend the hearing. Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.
+- In England, Wales and Northern Ireland, if an accused person is aged 10 to 17, the case is normally heard in a **Youth Court** in front of up to **three** specially **trained magistrates** or a **District Judge**. The parents or carers of the young person are expected to attend the hearing. Members of the public are not allowed in Youth Courts, and the name or photographs of the accused young person cannot be published in newspapers or used by the media.
 - The most serious cases will go to the **Crown Court**.
 - In Scotland a system called the **Children’s Hearings System** is used to deal with children and young people who have committed an offence.
 - Northern Ireland has a system of **youth conferencing** to consider how a child should be dealt with when they have committed an offence.
@@ -1826,7 +1840,8 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
   - education
   - police
   - the armed forces
-- For most people, the right amount of income tax is automatically taken from their income from employment by their **employer** and paid directly to HM Revenue & Customs (HMRC), the government department that collects taxes. This system is called **'Pay As You Earn' (PAYE)**. If you are self-employed, you need to pay your own tax through a system called ‘self-assessment’, which includes completing a tax return. Other people may also need to complete a tax return. If HMRC sends you a tax return, it is important to complete and return the form as soon as you have all the necessary information.
+- For most people, the right amount of income tax is automatically taken from their income from employment by their **employer** and paid directly to HM Revenue & Customs (HMRC), the government department that collects taxes. This system is called **'Pay As You Earn' (PAYE)**.
+- If you are self-employed, you need to pay your own tax through a system called **‘self-assessment’**, which includes completing a tax return. Other people may also need to complete a tax return. If HMRC sends you a tax return, it is important to complete and return the form as soon as you have all the necessary information.
 - You can find out more about income tax at www.gov.uk/income-tax. You can get help and advice about taxes and completing tax forms from the HMRC self-assessment helpline, on 0300 200 3310, and by visiting https://www.gov.uk/government/organisations/hm-revenue-customs.
 
 ### National Insurance
@@ -1987,7 +2002,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 - It is important to recycle as much of your waste as you can. Using recycled materials to make new products:
   - uses less energy
-  - means that we do not need to extract more raw materials from the earth
+  - do not need to extract more raw materials from the earth
   - less rubbish is created, so the amount being put into landfill is reduced.
 - You can learn more about recycling and its benefits:
   - at www.recyclenow.com. At this website you can also find out what you can recycle at home and in the local area if you live in England.
