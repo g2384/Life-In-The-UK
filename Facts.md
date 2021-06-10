@@ -322,6 +322,7 @@ deer and horses which they hunted.
 ### James I (Mary, Queen of Scots' son)
 
 - James VI Scotland became King James I of England, Wales and Ireland. Scotland remained a separate country.
+- Protestant.
 - The King James Bible: One achievement of King James’ reign was a new translation of the Bible into English. This translation is known as the **‘King James Version’** or the **‘Authorised Version’**. It was not the first English Bible but is a version which continues to be used in many Protestant churches today.
 
 ### Ireland
@@ -1513,7 +1514,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 ### The civil service
 
-- Civil servants support the government in developing and implementing its policies. They also deliver public services. Civil servants are accountable to ministers. They are chosen on merit and are **politically neutral** – they are not political appointees.
+- Civil servants support the government in developing and implementing its policies. They also deliver public services. Civil servants are accountable to ministers. They are **chosen on merit** and are **politically neutral** – they are not political appointees.
 - People can apply to join the civil service through an application process, like other jobs in the UK.
 - Civil servants are expected to carry out their role with dedication and a commitment to the civil service and its core values. These are:
   - integrity
@@ -1523,7 +1524,7 @@ I (name) do solemnly, sincerely and truly declare and affirm that on becoming a 
 
 ### Local government
 
-- Towns, cities and rural areas in the UK are governed by democratically elected councils, often called ‘local authorities’. Some areas have both **district and county councils**, which have different functions. Most large towns and cities have a **single local authority**.
+- Towns, cities and rural areas in the UK are governed by **democratically elected councils**, often called ‘local authorities’. Some areas have both **district and county councils**, which have different functions. Most large towns and cities have a **single local authority**.
 - Local authorities provide a range of services in their areas. They are funded
   - by money from central government
   - by local taxes.
