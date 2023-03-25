@@ -1,0 +1,231 @@
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<style>
+    body {
+        margin: 0 auto;
+        font-size: 1.5em;
+        max-width: 800px;
+    }
+
+    #question {
+        margin-top:20px;
+        margin-bottom: 20px;
+    }
+
+    input[type=button] {
+        background-color: white;
+        border: 1px solid #555;
+        border-radius: 5px;
+        text-decoration: none;
+        color: black;
+        padding: 10px 20px;
+        margin: 10px 20px;
+        cursor: pointer;
+    }
+
+    .buttons{
+        margin-top:20px;
+    }
+</style>
+
+<body>
+    <div id="question"></div>
+    <div id="options"></div>
+
+    <div class="buttons">
+    <input id="Previous" type="button" value="Previous" onclick="previous();" />
+    <input id="check" type="button" value="Check" onclick="check();" />
+    <input id="next" type="button" value="Next" onclick="next();" />
+</div>
+    <div id="resultArea"></div>
+</body>
+<script>
+    const json = [
+        "{William Caxton{p}} is the first person in England to {print books using a printing press{to do}}.",
+        "{Canterbury Tales{b}} was one of the first books to be printed by {William Caxton{p}}.",
+        "{James Watt{p}}'s work on {steam power{object}}, helped the progress of the {Industrial Revolution{period-name}}."
+    ];
+    var choices = {
+        "{p}": [
+            "Alexander Fleming",
+            "Scotsman John Logie Baird"
+        ],
+        "{b}":[
+            "Bible",
+            "Prayer book"
+        ],
+        "{period-name}": [
+            "Enlightment",
+            "Swing Sixties"
+        ],
+        "{object}": [
+            "WWW",
+            "DNA"
+        ],
+        "{to do}": [
+            "ride a bike",
+            "say hello"
+        ]
+    }
+
+    var jsonQustionCount = [];
+    var currentJsonQustionCount = [];
+    var quesitonLibCopy = [];
+    window.onload = function () {
+        expandChoices();
+        setQuestionCount();
+        copyQustionLib();
+        next();
+        
+    };
+
+    function copyQustionLib() {
+        quesitonLibCopy = [...json];
+    }
+
+    function setQuestionCount() {
+        for (var i = 0; i < json.length; i++) {
+            var matches = [...json[i].matchAll(questionRegex)];
+            jsonQustionCount.push(matches.length);
+            currentJsonQustionCount.push(0);
+        }
+    }
+
+    function expandChoices() {
+        for (var i = 0; i < json.length; i++) {
+            var matches = [...json[i].matchAll(questionRegex)];
+            for (var j = 0; j < matches.length; j++) {
+                console.log(matches);
+                var type = matches[j][2];
+                if (!(type in choices)) {
+                    console.log(type + " is not found");
+                }
+                choices[type].push(matches[j][1]);
+            }
+        }
+    }
+
+    function next() {
+        document.getElementById("resultArea").innerHTML = "";
+        if (quesitonLibCopy.length == 0) {
+            document.getElementById("resultArea").innerHTML = "Finished!"
+            return;
+        }
+        loadQuestion();
+
+        while (historyContains(originalQustionString, questionString)) {
+            loadQuestion();
+        }
+
+        questionHistory.push([originalQustionString, questionString, options]);
+        var jsonIndex = json.indexOf(originalQustionString);
+        currentJsonQustionCount[jsonIndex]++;
+        if (currentJsonQustionCount[jsonIndex] == jsonQustionCount[jsonIndex]) {
+            quesitonLibCopy.removeVal(originalQustionString);
+            console.log(quesitonLibCopy.length);
+        }
+    }
+
+    function historyContains(q, qs) {
+        for (var i = 0; i < questionHistory; i++) {
+            if (questionHistory[i][0] == q
+                && questionHistory[i][1] == qs) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    var options = [];
+    var correctOption = null;
+    const questionRegex = /\{([^\{]+)(\{[^\}]+\})\}/g;
+    var questionString = "";
+    var originalQustionString = "";
+
+    var questionHistory = [];
+
+    function loadQuestion() {
+        var question = document.getElementById("question");
+        var rand = Math.floor(Math.random() * quesitonLibCopy.length);
+        var qStr = quesitonLibCopy[rand];
+        originalQustionString = qStr;
+
+        var matches = [...qStr.matchAll(questionRegex)];
+        console.log(matches);
+        var randQuestionType = Math.floor(Math.random() * matches.length);
+        correctOption = matches[randQuestionType][1];
+        console.log(correctOption);
+        var questionType = matches[randQuestionType][2];
+        console.log(questionType);
+
+        var choice = [...choices[questionType]];
+        choice.removeVal(correctOption);
+        var r2 = Math.floor(Math.random() * choice.length);
+        var option2 = choice[r2];
+        choice.removeAt(r2);
+        r2 = Math.floor(Math.random() * choice.length);
+        var option3 = choice[r2];
+        options = [correctOption, option2, option3];
+        options = shuffleArray(options);
+
+        qStr = qStr.replace(matches[randQuestionType][0], "_______");
+        qStr = qStr.replace(/\{([^\{]+)(\{[^\}]+\})\}/g, "$1");
+        questionString = qStr;
+        question.innerHTML = qStr;
+        var optionDiv = document.getElementById("options");
+        optionDiv.innerHTML = generateRadio(options);
+
+    }
+
+    function check() {
+        var result = options[userSelectedAns];
+        if (result != correctOption) {
+            document.getElementById("resultArea").innerHTML = "wrong";
+        } else {
+            document.getElementById("resultArea").innerHTML = "correct";
+        }
+    }
+
+    function shuffleArray(array) {
+        let curId = array.length;
+        // There remain elements to shuffle
+        while (0 !== curId) {
+            // Pick a remaining element
+            let randId = Math.floor(Math.random() * curId);
+            curId -= 1;
+            // Swap it with the current element.
+            let tmp = array[curId];
+            array[curId] = array[randId];
+            array[randId] = tmp;
+        }
+        return array;
+    }
+
+    var userSelectedAns = 0;
+
+    function saveAns(i) {
+        userSelectedAns = i;
+    }
+
+    function generateRadio(arr) {
+        var result = ""
+        var template = '<input type="radio" id="radio-{{i}}" name="choice" value="{{value}}" onclick="saveAns({{i}});"><label for="radio-{{i}}" onclick="saveAns({{i}});">{{value}}</label><br>'
+        for (var i = 0; i < arr.length; i++) {
+            var id = i;
+            result += template.replace(/{{i}}/g, id).replace(/{{value}}/g, arr[i]);
+        }
+        return result;
+    }
+
+    // remove by value. return true if value found and removed, false otherwise
+    Array.prototype.removeAt = function (val) {
+        return this.splice(val, 1);
+    }
+    // remove by value. return true if value found and removed, false otherwise
+    Array.prototype.removeVal = function (val) {
+        return this.includes(val) && !!this.splice(this.indexOf(val), 1);
+    }
+</script>
+
+</html>
